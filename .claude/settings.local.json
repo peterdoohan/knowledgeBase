@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/vyp730/Zotero/storage -name \"*.pdf\" -exec basename {} \\\\;)",
+      "Bash(python3 -c \"import fitz; print\\('fitz ok'\\)\")",
+      "Bash(python3 -c ':*)",
+      "Bash(mv raw/mds/unknown_pdf_10.md raw/mds/akam2021_dopamine_model_based_rl.md)",
+      "Bash(mv raw/pdfs/unknown_pdf_10.pdf raw/pdfs/akam2021_dopamine_model_based_rl.pdf)",
+      "Bash(mv raw/mds/unknown_pdf_100.md raw/mds/bohm2020_pfc_spatial_working_memory.md)",
+      "Bash(mv raw/pdfs/unknown_pdf_100.pdf raw/pdfs/bohm2020_pfc_spatial_working_memory.pdf)",
+      "Bash(mv raw/mds/unknown_pdf_101.md raw/mds/haber2014_reward_circuit_incentive_learning.md)",
+      "Bash(python3:*)",
+      "Bash(mv raw/mds/unknown_pdf_203.md raw/mds/hasz2020_spatial_encoding_deliberation.md)",
+      "Bash(mv raw/pdfs/unknown_pdf_203.pdf raw/pdfs/hasz2020_spatial_encoding_deliberation.pdf)",
+      "Bash(mv raw/mds/unknown_pdf_204.md raw/mds/hauser2016_adhd_neural_gain.md)",
+      "Bash(mv raw/pdfs/unknown_pdf_204.pdf raw/pdfs/hauser2016_adhd_neural_gain.pdf)",
+      "Bash(mv raw/mds/unknown_pdf_205.md raw/mds/hayes2020_complex_systems_psychotherapy.md)",
+      "Bash(ls raw/mds/*.md)",
+      "Read(//tmp/**)",
+      "Bash(mkdir -p /Users/vyp730/Projects/knowledgeBase/.claude/skills/make_summary)",
+      "Bash(mv /Users/vyp730/Projects/knowledgeBase/.claude/commands/make_summary.md /Users/vyp730/Projects/knowledgeBase/.claude/skills/make_summary/SKILL.md)"
+    ]
+  }
+}
