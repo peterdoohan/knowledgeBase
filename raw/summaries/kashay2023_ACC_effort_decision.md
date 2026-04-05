@@ -10,132 +10,127 @@ contribution_type: empirical
 
 ### One-line summary
 
-Optogenetic silencing of ACC excitatory neurons during or immediately before action selection causally disrupts mice's preference to exert greater effort for larger reward in a barrier T-maze, without impairing general movement or effort outside a decision context.
+Optogenetic silencing of ACC excitatory neurons during action selection acutely and reversibly impairs mice's preference to exert greater effort for a larger reward in a barrier T-maze, without affecting general mobility or effortful behavior outside a goal-directed context.
 
 ---
 
 ### Background & motivation
 
-Effort-based decision making (EBD) — weighing predicted gains against effort costs — is disrupted in depression, schizophrenia, addiction, and Parkinson's disease, making its neural substrates clinically important. The ACC has been repeatedly implicated in spatial EBD using lesion and pharmacological approaches in rats, but these methods lack the temporal precision needed to determine when during a trial ACC is required, and cannot address cell-type specific contributions. A validated mouse T-maze EBD paradigm compatible with modern genetic tools was also lacking, limiting translational studies.
+Effort-based decision making (EBD) — weighing predicted gains against effort costs — is disrupted in depression, schizophrenia, addiction, and Parkinson's disease. The anterior cingulate cortex (ACC) has long been implicated in EBD via lesion and pharmacological studies in rats, but these approaches lack temporal precision and cell-type specificity, leaving open the question of when during a trial ACC activity is actually required. Furthermore, conflicting results across species (rat vs. mouse) and paradigms (barrier T-maze vs. operant lever-pressing) have not been resolved. This paper addresses those gaps by applying optogenetics with spatiotemporal precision in a newly validated mouse version of the barrier T-maze.
 
 ---
 
 ### Methods
 
-- **Subject population**: Adult C57BL/6J mice (both sexes, 12–18 weeks), food restricted to 80–85% ad libitum weight.
-- **Task design**: Custom-built scaled-down barrier T-maze; one arm high reward (3 pellets, 10 cm wire mesh barrier) vs. low reward (1 pellet, no barrier). Mice trained to >70% high-reward (HR) arm choice over ~5–10 days of barrier training. Reward differential and barrier presence were systematically varied for validation.
-- **Optogenetics**: Bilateral AAV1-CKIIa-stGtACR2-FusionRed (inhibitory opsin) injected into ACC (Cg1 region; AP +1.4, ML ±0.35, DV −1.3 mm). Blue laser (473 nm, 5 mW total) delivered via implanted fiber optic cannulae at spatiotemporally precise trial phases. mCherry-only mice served as controls. Silencing applied during: ITI, start box, choice approach zone (stem + choice point), or post-choice/non-decision contexts.
-- **Trajectory analysis**: DeepLabCut keypoint tracking combined with custom BehaviorDEPOT software for zone-based automated analysis of time in approach vs. choice zones; frame-by-frame manual analysis of micropauses.
-- **Control assays**: Open field (OF) locomotion and tail suspension test (TST) performed with identical optogenetic protocols to assess generalized motor or effort effects.
-- **Analysis**: Nonparametric tests and ANOVA; within-subject comparisons of pseudorandomly interleaved light-OFF vs. light-ON trials.
+- **Subject population**: C57BL/6J wildtype mice (12–18 weeks, both sexes); food-restricted to 80–85% ad libitum weight.
+- **Task**: Custom mouse-scaled barrier T-maze. High-reward (HR) arm contained 3 pellets behind a 10 cm wire-mesh barrier; low-reward (LR) arm contained 1 pellet with no barrier. Mice trained to >70% HR choices before optogenetic testing.
+- **Behavioral validation**: Reward differential (3:1, 2:1, 1:1) and effort cost (barrier present/absent in LR arm) were systematically manipulated to confirm sensitivity to effort-reward tradeoffs.
+- **Optogenetics**: Bilateral AAV1-CaMKII-stGtACR2 (inhibitory opsin) or mCherry control injected into dorsal ACC (Cg1; AP +1.4, ML +/-0.35, DV -1.3 mm). Blue light (473 nm, 5 mW total, 2.5 mW/side) delivered via implanted fiber-optic cannulae. Light ON and OFF trials pseudorandomly interleaved (8 each per day).
+- **Temporal manipulation windows**: ACC silenced during (a) ITI only, (b) start box + ITI, (c) trial (stem through choice point), or (d) start box through choice point. Across experiments, 3-day silencing blocks were also used.
+- **Behavior tracking**: DeepLabCut (DLC) for markerless pose tracking; BehaviorDEPOT software for zone-based trajectory analysis; manual frame-by-frame analysis of micropauses.
+- **Control tasks**: Open field (OF) for general locomotion; tail suspension test (TST) for non-goal-directed effortful behavior. Both conducted with ACC silencing.
 
 ---
 
 ### Key findings
 
-- Bilateral optogenetic silencing of ACC excitatory neurons during the choice phase (from start gate lift through choice point) robustly reduced HR choices (high effort, high reward) in favour of the low effort alternative on a trial-by-trial basis.
-- The largest effect was observed when silencing was restricted to the choice approach period alone; silencing during the start box (trial preparation) also disrupted EBD, but silencing only during the home-cage ITI did not.
-- When effort was equalised (second barrier added to LR arm), silencing-induced bias toward the LR arm resolved within one day, demonstrating that spatial memory, ability to climb, and reward preference were intact.
-- Silencing ACC in the no-barrier training condition had minimal effect, confirming the effect is specific to effort-cost contexts.
-- ACC silencing increased time in the approach zone specifically for HR trials (mice were slower approaching the choice point before high-effort choices) but not for LR trials.
-- Micropauses — brief interruptions in otherwise ballistic movement toward the choice point — were significantly more frequent in the approach zone during light-ON trials, exclusively on trials ending in HR choices.
-- Silencing ACC had no effect on overall velocity in the open field or on effortful struggling in the tail suspension test, confirming the effects are specific to goal-directed decision contexts.
+- Bilateral optogenetic silencing of ACC excitatory neurons during the choice period (stem to choice point) robustly and significantly reduced HR choices on light-ON vs. light-OFF trials across multiple experiments.
+- The largest effect was when silencing was restricted to the trial itself (choice period only); silencing during the ITI in the home cage had no effect.
+- Silencing during the start box (pre-trial preparation period) also significantly impaired HR choices, suggesting ACC is required during choice planning as well as action selection.
+- When effort was equalized (second barrier added to LR arm), silencing ACC no longer produced a persistent deficit — mice adjusted to choose the more rewarded arm on both light-ON and light-OFF trials (with a transient perseveration toward the formerly low-effort arm on light-ON trials on the first day).
+- Before barrier introduction (no effort cost condition), silencing ACC had minimal effect on choice, indicating the deficit is specific to effort-based cost-benefit evaluation.
+- ACC silencing increased time in the approach zone (pre-choice-point) on light-ON trials, particularly for HR choices; no significant effect was observed for LR choices.
+- Silencing introduced frequent micropauses in the approach zone trajectory (occurring almost exclusively on light-ON HR-choice trials), disrupting the normally continuous ballistic movement toward the choice point; pause duration was not affected.
+- ACC silencing had no effect on velocity in the open field, nor on effortful struggling in the tail suspension test — indicating effects are specific to goal-directed decision making.
+- mCherry control mice showed no effect of laser stimulation in any condition.
 
 ---
 
 ### Computational framework
 
-Not applicable as a formal computational framework. The paper is primarily causal-empirical. However, the discussion invokes computational models of ACC as a top-down controller that overrides effort-averse action selection in the striatum (citing models by Vassena and others). The implicit framing is that ACC computes action-value associations integrating effort cost and reward magnitude, and exerts online control over goal-directed action sequences. The results constrain reinforcement learning models of effort-based choice by establishing that ACC activity is necessary at the time of action selection (and preparation), not merely for outcome learning.
+Not applicable in the sense that the paper does not develop or fit a formal computational model. However, the authors interpret their findings within existing frameworks:
+
+- The results are consistent with action-value computation models in which ACC encodes the integrated value of actions (combining effort cost and reward magnitude), and this representation is necessary to override effort-averse default systems in the striatum (referencing Holroyd & McClure, 2015).
+- The microstructure findings (micropauses during approach) are interpreted through the lens of online action sequence monitoring and control — a role for ACC in tracking progress toward a goal and maintaining continuity of ballistic goal-directed movements.
+- The paper's framing is broadly compatible with top-down prefrontal control over subcortical systems, where ACC activity is required at specific temporal windows (trial preparation and action selection) to implement effort-based choices.
 
 ---
 
 ### Prevailing model of the system under study
 
-The introduction presents ACC as a prefrontal region consistently implicated in evaluating cognitive and physical effort costs, supported by lesion and pharmacology studies in rats using the barrier T-maze (Walton et al. 2003; Rudebeck et al. 2006; Schweimer & Hauber 2005). ACC neurons encode effort-related value in electrophysiology studies (Hillman & Bilkey 2010, 2012; Cowen et al. 2012), and the region is associated with computing reward value, tracking outcomes, and model-based action selection. The prevailing view was that ACC is necessary for EBD, but because prior interventions used lesions and pharmacology, it was unknown (1) when during a trial ACC is required, (2) whether excitatory neurons specifically mediate the effect, and (3) how ACC disruption affects the fine structure of action sequences — as opposed to gross choice preference.
+Prior to this paper, the field's working model — grounded primarily in rat lesion and pharmacology studies — held that ACC (but not prelimbic or orbitofrontal cortex) is necessary for spatial EBD in the barrier T-maze. Electrophysiology in rats had further shown that ACC neurons encode choice value integrating effort cost and reward magnitude, and that population activity is temporally aligned with decision-relevant task events. However, because causal manipulations had relied on permanent lesions or slow-acting pharmacology, the precise temporal window during which ACC activity is required was unknown. It also remained unclear whether ACC's role was specifically in evaluating/selecting effortful actions or more generally in motivation or motor execution. Conflicting results in mice (one null result with medial PFC lesions) left cross-species generalizability open. The introduction explicitly frames the paper as resolving these temporal precision and species-translation gaps.
 
 ---
 
 ### What this paper contributes
 
-The paper establishes, for the first time with temporal precision, that ACC excitatory neuron activity is causally required specifically during the action selection and preparation phase of EBD — not during effort execution or between-trial periods. This resolves ambiguity left by lesion/pharmacology work and defines a temporally specific window (approach to choice point; trial preparation in start box) during which ACC is necessary. The trajectory analyses further reveal that ACC supports the continuity of goal-directed movement (suppresses micropauses) specifically when mice are planning high-effort choices, suggesting a role in online control of goal-directed action sequences rather than purely choice preference. The finding that effort and movement are unimpaired outside a decision context places ACC's role squarely in the computation/selection of effortful actions when alternatives exist, not in general motor output or effort generation.
+- Establishes that ACC activity is causally and acutely required for effort-based action selection in mice, extending prior rat lesion work and resolving the cross-species conflict.
+- Defines the temporal window of necessity: ACC is required during active choice preparation (start box) and action selection (stem to choice point), but not during the inter-trial interval in the home cage. The effect during choice execution was the largest observed.
+- Demonstrates that the deficit is specific to effortful cost-benefit evaluation: silencing has no effect when there is no effort cost or when effort is equalized, ruling out impairment in spatial memory, reward preference, or capacity to exert effort.
+- Reveals that ACC silencing disrupts the microstructure of goal-directed movement — introducing micropauses in the approach trajectory specifically on HR-choice trials — suggesting ACC supports online control of action sequences in a decision-making context, not just value computation.
+- Shows that effects are context-specific: general mobility and non-goal-directed effortful behavior are unaffected, pointing to a role tied to goal-directed cognition rather than generalized motor or motivational function.
 
 ---
 
 ### Brain regions & systems
 
-- **Anterior cingulate cortex (ACC / Cg1)** — primary focus; dorsal, anterior subdivision. Required for evaluating and selecting effortful actions; mediates online control over goal-directed movement microstructure during decision making.
-- **Prelimbic cortex** — noted in introduction as not required for spatial EBD (contrasting with ACC; Walton et al. 2003).
-- **Orbitofrontal cortex** — noted as not required for spatial EBD.
-- **Dorsal striatum** — discussed as downstream target of ACC projections; proposed site of effort-averse action selection that ACC overrides.
-- **Mediodorsal thalamus** — noted as a dense ACC projection target; implicated in the circuit but not directly studied.
-- **Basolateral amygdala** — discussed as ACC target whose disconnection disrupts EBD (Floresco & Ghods-Sharifi 2007).
-- **Ventral striatum / nucleus accumbens** — dopaminergic inputs implicated in EBD; ACC projections relevant.
-- **Habenula and anterior insula** — mentioned as additional ACC targets implicated in spatial EBD.
+- **Anterior cingulate cortex (ACC / Cg1, dorsal subdivision)** — primary locus of investigation; excitatory neurons silenced optogenetically; proposed to encode action-value integrating effort cost and reward magnitude, and to exert online control over goal-directed action sequences during EBD.
+- **Striatum (dorsal and ventral / nucleus accumbens)** — cited as downstream target of ACC projections; dopaminergic input to ventral striatum is well established in EBD; invoked as the site of effort-averse default action selection that ACC top-down control must override.
+- **Basolateral amygdala** — cited from prior disconnection studies as part of the distributed circuit with ACC for EBD.
+- **Mediodorsal thalamus** — noted as a major projection target of ACC excitatory neurons.
+- **Anterior insula and lateral habenula** — cited as additional ACC-connected regions implicated in spatial EBD.
 
 ---
 
 ### Mechanistic insight
 
-The paper meets criterion 1 (it proposes an algorithm: ACC computes effort-related action values and exerts online control to initiate and maintain goal-directed action sequences) and partially meets criterion 2 (it provides optogenetic causal evidence linking ACC excitatory neuron activity to specific trial phases and movement microstructure). However, it does not record neural activity during the task, so it cannot directly map specific model variables (e.g., value signals, prediction errors) onto measured neural activity. There is no claim about specific cell types beyond the use of a CaMKII promoter (targeting excitatory neurons broadly) and no data on downstream circuit implementation.
+The paper meets criterion 1: it proposes an algorithm — that ACC excitatory neuron activity during action selection computes or retrieves effort-weighted action value representations necessary to override effort-averse default choices, and also supports online monitoring/control of goal-directed movement sequences.
 
-- **Computational**: The brain solves the problem of selecting an action with high effort cost when a lower-cost alternative is available; ACC represents action-value integrating effort cost and reward magnitude and must override default effort-averse tendencies.
-- **Algorithmic**: ACC activity during the preparation and approach phase organises ballistic movement sequences and supports continuous goal-directed action selection; silencing disrupts both the choice itself and the kinematic microstructure (introduces micropauses), suggesting ACC monitors progress toward the goal in real time.
-- **Implementational**: Excitatory neurons in dorsal ACC (Cg1) are required; projections to dorsal striatum and mediodorsal thalamus are proposed downstream effectors, but no recording or circuit-dissection data are provided in this study.
+However, it does not meet criterion 2: the paper records no neural activity from ACC or downstream targets during the task, so it cannot link specific algorithmic variables (e.g., value signals, sequence state representations) to measured neural activity. The silencing results establish necessity but cannot identify the specific computation being disrupted.
+
+The paper therefore does not meet the full bar for mechanistic insight. It establishes a causal behavioral role for ACC excitatory neurons in effort-based choice with temporal precision and identifies a movement microstructure phenotype consistent with disrupted action sequence control, but the specific algorithmic mechanism (action-value representation vs. sequence monitoring vs. online motor control) cannot be disambiguated from the behavioral data alone.
 
 ---
 
 ### Limitations & open questions
 
-- The study used an inhibitory opsin under a CaMKII promoter, which broadly silences excitatory neurons — it cannot distinguish contributions of distinct ACC projection neuron subtypes or excitatory-inhibitory circuit dynamics.
-- The effect of silencing during the start box (pre-trial period) raises the possibility of a delayed re-establishment of task-relevant ACC representations rather than purely a preparatory planning function; the study cannot disambiguate these accounts.
-- Only excitatory neurons were targeted; inhibitory interneuron contributions and the balance of excitation/inhibition in ACC during EBD are not addressed.
-- Downstream circuit targets (striatum, thalamus, amygdala) were not manipulated in this study, so the circuitry through which ACC effects on EBD are realised remains open.
-- The paper uses a preprint version and was not peer-reviewed at time of posting.
-- The mouse version of the barrier T-maze may differ behaviourally from the well-established rat paradigm in ways not fully characterised.
-- The study does not record neural activity during the task, so it cannot specify what computation is disrupted at the level of individual neurons or ensembles.
+- No neural recordings were made, so the computations disrupted by silencing (value encoding, sequence tracking, online motor control) cannot be distinguished.
+- The inhibitory opsin (stGtACR2) was driven by CaMKII, which has incomplete specificity for excitatory neurons; contributions of inhibitory neurons cannot be fully excluded.
+- Silencing is bilateral and affects a broad excitatory population; cell-type-specific projection circuits (e.g., ACC to dorsal striatum, BLA, or mediodorsal thalamus) are not dissected.
+- The start-box silencing effect is ambiguous: it could reflect importance of ACC during choice planning, or a delay in re-establishing task-relevant representations after extended silencing.
+- Effects of silencing during barrier climbing or outcome consumption were not systematically tested; whether ACC is required beyond the pre-choice period remains open.
+- The mechanism by which ACC silencing biases mice toward the LR arm (rather than random choice) — consistent with striatal default effort-avoidance — is not directly tested.
+- Cell-type-specific and projection-specific contributions are identified as a key future direction.
 
 ---
 
 ### Connections & keywords
 
 **Key citations**:
-- Walton et al. (2003) — ACC lesions and spatial EBD in rats (Journal of Neuroscience)
-- Rudebeck et al. (2006) — Separate neural pathways for decision costs (Nature Neuroscience)
-- Floresco & Ghods-Sharifi (2007) — Amygdala-PFC circuitry and EBD (Cerebral Cortex)
-- Hillman & Bilkey (2010, 2012) — ACC neurons encoding cost-benefit in rats
-- Cowen et al. (2012) — ACC neurons mapping anticipated effort to action sequences
-- Kolling et al. (2016) — Value, search, and persistence in ACC (Nature Neuroscience)
-- Gabriel et al. (2022) / BehaviorDEPOT — open-source behavior analysis software
-- Mathis et al. (DeepLabCut) — keypoint tracking neural network
+- Walton et al. (2002, 2003) — foundational rat lesion studies establishing ACC's role in barrier T-maze EBD
+- Rudebeck et al. (2006) — separate neural pathways for different decision costs
+- Salamone & Cousins (1994, 1996) — original barrier T-maze task development; nucleus accumbens dopamine and EBD
+- Hillman & Bilkey (2010, 2012) — electrophysiology showing ACC neurons encode cost-benefit and competitive effort in rats
+- Cowen et al. (2012) — ACC neurons map anticipated effort and reward to action sequences
+- Hart et al. (2020) — chemogenetics and calcium imaging in ACC for effort-based decisions in mice
+- Holroyd & McClure (2015) — computational model of hierarchical ACC control over effortful behavior
+- Gabriel et al. (2022) — BehaviorDEPOT software
+- Mathis et al. (2018) — DeepLabCut pose tracking
 
 **Named models or frameworks**:
-- Barrier T-maze EBD task (Salamone and colleagues, rat version)
-- Mouse barrier T-maze (developed and validated in this paper)
-- BehaviorDEPOT (behaviour analysis software)
-- stGtACR2 (soma-targeted inhibitory opsin)
-- Top-down ACC control model (overriding striatal effort-aversion)
+- Barrier T-maze EBD task (Salamone et al.)
+- BehaviorDEPOT (Gabriel et al., 2022)
+- DeepLabCut (Mathis et al., 2018)
+- stGtACR2 inhibitory opsin (soma-targeted GtACR2)
+- Hierarchical ACC control model (Holroyd & McClure, 2015)
 
 **Brain regions**:
 - Anterior cingulate cortex (ACC / Cg1)
 - Dorsal striatum
-- Mediodorsal thalamus
+- Nucleus accumbens (ventral striatum)
 - Basolateral amygdala
-- Ventral striatum / nucleus accumbens
-- Prelimbic cortex
-- Orbitofrontal cortex
-- Habenula
+- Mediodorsal thalamus
 - Anterior insula
+- Lateral habenula
 
-**Keywords**:
-- effort-based decision making
-- anterior cingulate cortex
-- optogenetics
-- barrier T-maze
-- action selection
-- cost-benefit tradeoff
-- goal-directed behaviour
-- movement microstructure
-- DeepLabCut behaviour tracking
-- neuropsychiatric disorders
-- excitatory neuron silencing
-- ballistic movement continuity
+**Keywords**: anterior cingulate cortex, effort-based decision making, optogenetics, barrier T-maze, action selection, cost-benefit tradeoff, action-value encoding, goal-directed behavior, movement microstructure, excitatory neuron silencing, mouse prefrontal cortex, neuropsychiatric disorders

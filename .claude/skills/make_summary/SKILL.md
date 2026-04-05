@@ -5,6 +5,7 @@ user-invocable: true
 disable-model-invocation: true
 argument-hint: [filename or path to .md paper]
 allowed-tools: Read Glob Grep Write Bash
+model: sonnet
 ---
 
 # make_summary

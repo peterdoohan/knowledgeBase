@@ -1,345 +1,681 @@
-Neuron 50, 631–641, May 18, 2006 ª2006 Elsevier Inc. DOI 10.1016/j.neuron.2006.03.045 
+## REVIEWS 
 
-## Activity in the Lateral Prefrontal Cortex Reflects Multiple Steps of Future Events in Action Plans 
+## Vicarious trial and error 
 
-## Hajime Mushiake,[1][,] * Naohiro Saito,[1] 
+## _A. David Redish_ 
 
-Kazuhiro Sakamoto,[2] Yasuto Itoyama,[3] and Jun Tanji[4] 1 Department of Physiology Tohoku University School of Medicine Sendai 980-8575 Japan 2 Research Institute of Electrical Communication Tohoku University Sendai 980-8577 Japan 3 Department of Neurology Tohoku University School of Medicine Sendai 980-8575 Japan 4 Brain Science Research Institute Tamagawa University Research Institute Tamagawa, Tokyo, 194-8610 Japan 
+Abstract | When rats come to a decision point, they sometimes pause and look back and forth as if deliberating over the choice; at other times, they proceed as if they have already made their decision. In the 1930s, this pause-and-look behaviour was termed ‘vicarious trial and error’ (VTE), with the implication that the rat was ‘thinking about the future’. The discovery in 2007 that the firing of hippocampal place cells gives rise to alternating representations of each of the potential path options in a serial manner during VTE suggested a possible neural mechanism that could underlie the representations of future outcomes. More-recent experiments examining VTE in rats suggest that there are direct parallels to human processes of deliberative decision making, working memory and mental time travel. 
 
-## Summary 
+In the 1930s, researchers such as Muenzinger, Gentry and Tolman noticed that, at the choice point of a maze, rats would occasionally pause and look back and forth as though confused about which way to go[1–3] . These researchers speculated that rats were imagining potential future options, and called this behaviour ‘vicarious trial and error’ (VTE)[1–3] . The researchers’ hypotheses that the rats were mentally searching future trajectories contrasted with simpler situation–action-chain hypotheses that maintained that an animal recognized a situation and ‘released’ a well-learned series of actions[4] (FIG. 1). 
 
-To achieve a behavioral goal in a complex environment, we must plan multiple steps of motor behavior. On planning a series of actions, we anticipate future events that will occur as a result of each action and mentally organize the temporal sequence of events. To investigate the involvement of the lateral prefrontal cortex (PFC) in such multistep planning, we examined neuronal activity in the PFC of monkeys performing a maze task that required the planning of stepwise cursor movements to reach a goal. During the preparatory period, PFC neurons reflected each of all forthcoming cursor movements, rather than arm movements. In contrast, in the primary motor cortex, most neuronal activity reflected arm movements but little of cursor movements during the preparatory period, as well as during movement execution. Our data suggest that the PFC is involved primarily in planning multiple future events that occur as a consequence of behavioral actions. 
+## Neural ensembles 
 
-## Introduction 
+A set of cells recorded separably, but simultaneously, generally from a single brain structure during behaviour. Information represented within ensembles can be decoded from a sufficiently large ensemble. 
 
-It has long been thought that the lateral prefrontal cortex (PFC) is involved in the executive control of behavior (Goldman-Rakic, 1987; Fuster, 1990; Passingham, 1993; Petrides, 1996; Wise et al., 1996; Watanabe, 1996; Kim and Shadlen, 1999; Miller, 1999; Hoshi and Tanji, 2004). Planning future actions to achieve a goal is an important aspect of executive control, and the PFC has been inferred to represent behavioral goals (Fuster, 1997; Leon and Shadlen, 1999; Saito et al., 2005). To achieve a behavioral goal in daily life, we often need to plan multiple steps of motor behavior that involve selection of a series of actions. The question arises: how are individual neurons within the PFC involved in the plan- 
+Mental time travel A process in which one imagines another time and place. Sometimes referred to as episodic future thinking. 
 
-ning of multistep behaviors? More specifically, does the activity of PFC neurons during the process of planning reflect the multiple movements required during future actions or the individual future events that occur as a result of the actions? To answer this question, we examined neuronal activity in the dorsolateral PFC of monkeys that performed a path-planning task that required multiple stepwise movements of a cursor within a maze to reach a goal. 
+In the 1940s, search hypotheses as an explanation for behaviour lost favour to situation–action-chain hypotheses, in part because the proponents of the former could not provide mechanistic explanations for how VTE behaviour related to decisions. Concepts of computation[5,6] , information[7] and representation[5] were only just being developed in the 1940s. Moreover, the computer revolution that found that the extraction of information from representations (for example, by searching through a tree of possibilities[8] ) takes time did not appear until the 1950s[9] . Furthermore, techniques to record the neural activity of behaving rats did not come into use until the 1970s[10] , and neural ensembles were not accessible until the 1990s[11] . The decoding of neural activity at fast timescales was not possible until the 2000s[12–16] . These decoding operations enable the identification of neural correlates of imagination[17,18] even in non-human animals[19] . Perhaps the pausing behaviour identified as VTE really does reflect a search-and-evaluate process through imagined worlds. 
 
-Figures 1A and 1C show the sequence and timing of events for each trial in our behavioral task. As the monkeys placed their wrists in neutral positions, a start display appeared, followed by a goal display. When the start display changed its color after delay periods, the monkeys initiated the first movement. Thereafter, they performed the second and third movements, each after a delay period, to capture the goal. Our previous behavioral study demonstrated that this task provides a behavioral model in which monkeys were able to plan multiple steps of actions in advance to avoid obstacles and achieve a goal (Mushiake et al., 2001). In the present study, we dissociated the actions (arm movements) from the events that occur as a result of the actions (motions of a cursor in a visual display) by incorporating several different assignments that defined the relationship between arm movements and cursor movements (Figure 1B). We used two sets of goals in the maze in which pathways were partially blocked in a variable manner (Figure 2A). We analyzed neuronal activity in the dorsolateral PFC (Figure 2B) during a preparatory period that preceded the GO signal for the first movement. 
+## Schema 
 
-Here we report that neuronal activity in the PFC predominantly reflected multiple future events that would ensue as a result of planned actions, rather than the arm movements required to perform these actions, in contrast to activity in the primary motor cortex that primarily reflected movements of the arm. 
+An expertise-dependent representation of the structure of the world, identifying the important parameters over which the world varies. 
 
-## Results 
+## Cognitive map 
 
-## Overall Proportion of Neurons with Identified Properties 
+A world representation on which one can plan. Currently, the term is generally used in a spatial context, but Tolman’s original use of the term was closer to the current use of the word ‘schema’. 
 
-We trained animals to be able to reach final goals at a success rate averaging more than 85%. It took about a year for the animals to perform at this level. During recording sessions, the success rates for the two animals were 93.1% and 89.4% (not significantly different). We found that 470 of 1020 neurons sampled in the PFC exhibited activity during the delay period that differed significantly from activity during the control period (p < 0.01, Wilcoxon’s signed-ranks test). For these 470 neurons, we performed linear regression analysis to elucidate the relationships among the four behavioral variables described in the Experimental Procedures. This analysis revealed that the activity of 176 PFC neurons that exhibited preparatory activity was related to the position of the final goal, while the activity of 88 neurons was related to the path block; the activity of 31 neurons was related to both the goal position and path block (Table 1). The properties of these neurons will be 
+> _Department of Neuroscience,_ search-and-evaluate process through imagined worlds. _University of Minnesota, Minneapolis, Minnesota_ In this Review, I present evidence that the neural pro- _55455, USA._ cesses that accompany VTE reflect a deliberation process 
 
-*Correspondence: hmushiak@mail.tains.tohoku.ac.jp 
+> _redish@umn.edu_ in non-human animals. This article first defines delibdoi:10.1038/nrn.2015.30 eration algorithmically and compares it with procedural 
 
-Neuron 632 
+> Published online 19 Feb 2016 processes and other algorithms known to drive decision 
 
-**==> picture [287 x 326] intentionally omitted <==**
+making in humans and other animals. I then review the behavioural and neurophysiological data and argue that these data support the description of VTE as reflecting deliberation. Finally, I address the multiple theories of VTE that have been proposed, concluding that the most likely explanation is that VTE is a behavioural manifestation of deliberative processes. 
 
-Figure 1. Behavioral Conditions and Task Sequence 
+## **Defining deliberation** 
 
-(A) Experimental setup. 
+Deliberation is a process wherein an agent searches through potential possibilities based on a hypothesized model of how the world works and evaluates those hypothesized outcomes as a means of making decisions[20–24] . Deliberation depends on three steps: determining what those possibilities are, evaluating the outcomes and then selecting which action to take. Importantly, in humans, the deliberative search-and-evaluate process is thought to be serial, with individual options constructed as imagined concrete potential futures (a process known as ‘episodic future thinking’ or ‘mental time travel’)[20,21,23,25,26] . How options are compared against each other remains complex and only partially understood[27–29] . 
 
-(B) Directions of cursor movements (arrows) assigned to supination (SUP) or pronation (PRO) of either arm. Arm movements were assigned to each cursor movement in three different ways. A1–3 represents arm-cursor assignments 1–3. 
+Search-and-evaluate processes depend on having a schema of how the world works that can be used to determine the consequences of actions[24,30–32] . In Tolman’s terms, this schema is the so-called cognitive map, which was originally more cognitive than map[3,10,33,34] . Although many rodent studies treat the cognitive map as spatial, most theories assume that similar processes can occur through non-spatial schemas in all mammals[35–37] . Because VTE is specifically a rodent behaviour that manifests in a spatial context, only spatial analyses are reviewed here. Nevertheless, the neural processes underlying VTE are likely to reflect a more generally applicable deliberative process beyond those seen in the spatial examples used here. 
 
-(C) Temporal sequence of events during the behavioral task. The behavioral sequence is depicted from the top left to the bottom right. Each panel represents a maze that was displayed on a computer monitor. Green and red squares denote the start position and the location of the final goal, respectively. Yellow squares represent a signal for the initiation of movement (GO signal). Green arrows indicate the directions of cursor movements. 
+NATURE REVIEWS[|] **NEUROSCIENCE** 
 
-described in detail in a separate paper (also see the Supplemental Data available online). The activity of 210 neurons was found to be related to the motion of the cursor. In contrast, the activity of only 27 PFC neurons was related to arm movements. 
+VOLUME 17[|] MARCH 2016[|] **147** 
 
-Among the remaining neurons that were not significantly modulated during the preparatory period, 267 neurons were active during the movement execution period. We found that 236 out of the 267 neurons were related to the cursor motion, whereas 31 neurons were related to arm movements. We also found that a group of PFC neurons responded to the goal display (n = 61). Others were active after reaching the final goal (n = 81) or after the reward delivery (n = 93). 
+REVIEWS 
 
-## Preparatory Activity that Reflected Cursor Movement 
+**==> picture [410 x 415] intentionally omitted <==**
 
-For the 210 PFC neurons for which activity during the preparatory period was related to cursor movement, we used linear regression analysis to further examine the relationship between the activity of these neurons and the first, second, and third cursor movements. We found that 111 PFC neurons were selective for the first of the three cursor movements. A representative example of such activity is presented in Figure 3A. In this example, neuronal activity during the delay period was significantly greater (p < 0.01) when the monkey was preparing to move the cursor to the goal using three steps, including R-R-U, R-U-R, R-R-D, and R-D-R (R, U, and D denote cursor movements directed toward the right, up, and down, respectively), but not with the 
+**----- Start of picture text -----**<br>
+a  b c Not VTE<br>VTE Not VTE VTE<br>b a<br>zIdPhi<br>d Deliberation (stage 1) Planning (stage 2) Automation (stage 3)<br>HC<br>Sequences alternate  Sequences go to the goal Sequences remain local<br>between options<br>vStr<br>Covert representations of goals Covert representations of goals Ramping activity<br>before turn-around point on approach<br>OFC<br>Covert representations of goals Covert representations of goals Ramping activity<br>after turn-around point on approach<br>dlStr<br>Local firing Local firing Task bracketing<br>**----- End of picture text -----**<br>
 
-other steps shown in the figure. The common factor among these steps was that the cursor movement during the first step was directed to the right. Of 111 neurons with first cursor movement-related activity, activity was selective for either rightward (n = 31), leftward (n = 24), upward (n = 26), or downward (n = 30) motion. An alternative explanation for the apparent selectivity of movement direction is that activity was related to the intended location of the cursor after the first cursor movement (to the right, left, top, or bottom of the start position). In this study, no attempts were made to differentiate between these two possibilities. 
 
-For 87 of the 210 PFC neurons with preparatory activity, we found that there was selectivity for the second of the three steps of the planned cursor movement. An example of such selectivity is presented in Figure 3B. In this example, neuronal activity was observed selectively when the planned three-step cursor movements were U-L-U and D-L-D (L denotes a cursor movement directed to the left). Thus, the neuron in Figure 3B exhibited selectivity for leftward motion of the intended second movement. In 95 of the 210 PFC neurons with preparatory activity, activity was selective for the third of the three steps of the planned cursor movements. An example of such selectivity is presented in Figure 3C, which illustrates that neuronal activity was selective for the steps U-U-L and D-D-L, i.e., this neuron exhibited selectivity for leftward motion of the intended third movement. These findings indicate that each of the three cursor movements (first, second, and third) that 
+Figure 1 | **Vicarious trial and error** . The rodent behaviour originally termed ‘vicarious trial and error’ (VTE) by Muenzinger and Gentry[1] and proposed as a prospective imagination of the future by Tolman[2][,3] is fundamentally a behavioural observation of pausing and reorienting. **a** | Example of pause-and-reorient VTE behaviour from T-choice experiments. **b** | Example of non-VTE behaviour: the animal orients towards only one trajectory at the choice point and continues along this trajectory. **c** | It is possible to quantitatively differentiate VTE laps from non-VTE laps using the zIdPhi measure. zIdPhi measures the integrated absolute angular velocity of the orientation of motion across the choice point; thus, it is high when the animals show reorientation behaviours and low when the animals simply pass through the choice point without a reorientation behaviour. zIdPhi shows a central peak (non-VTE) and a long right-skewed tail (VTE)[52][,66,68,89] . On the panel, the circled ‘a’ shows where the path shown in panel **a** would fall on the zIdPhi score and the circled ‘b’ shows where the path shown in panel **b** would fall. **d** | VTE has been proposed to reflect prospective imagination and evaluation of the future. Accordingly, the shift from a flexible, deliberative decision-making process that requires this imagination to a habitual, procedural decision-making process[53,54,56] can be divided into three stages (top row): deliberation (in which VTE is expressed), planning (during which VTE is diminished) and automation (when the animal expresses no VTE and instead releases an action chain). Neurophysiological data suggest information processing consistent with this hypothesis. In the hippocampus, sequences of firing of hippocampal place cells represent sweeps ahead of the animal, serially exploring the paths towards the potential goals. As behaviour automates, these sweeps transition from going in both directions to going only in one direction, and then vanish[14] . Although specific neural correlates of prefrontal cortex (PFC) firing remain unknown, PFC–hippocampus interactions are increased during VTE[101,][112][,][157] (not shown in the figure). Reward-related cells in the ventral striatum (vStr) transiently fire before the turn-around point in VTE. This early firing disappears as behaviours automate[129][,][132] . Reward-related cells in the orbitofrontal cortex (OFC) transiently fire after the animal commits to its decision. This firing appears earlier as behaviours automate[66,][129] . Cells in the dorsolateral striatum (dlStr) do not show extra activity during VTE[54] , but develop task bracketing (that is, they show increased activity at the start and end of the maze) as behaviour automates and VTE disappears[53,56] . 
 
-Representation of Multiple Future Events 633 
+**148**[|] MARCH 2016[|] VOLUME 17 
 
-**==> picture [288 x 360] intentionally omitted <==**
+**www.nature.com/nrn** 
 
-Figure 2. Goals and Path Blocks Used in a Recording Session and Cortical Surface Maps of Recording Sites 
+REVIEWS 
 
-(A) Two sets of behavioral conditions for the choice of goal positions (Goals 1–4) and path blocks (Blocks 1–4). Either set 1 or set 2 or both were used while recording the activity of individual prefrontal cortex (PFC) neurons. 
+## Deliberative decision making 
 
-(B) Recording sites corresponding to the locations of neurons that exhibited selectivity for cursor movement. The number of neurons selective for the first, second, or third cursor movement is plotted separately for each penetration site. The size of the circle is proportional to the number of neurons. PS, principal sulcus; ARC, arcuate sulcus. 
+A process in which one imagines potential future outcomes (serially and individually) and then selects an action to get to that specific future outcome. 
 
-were planned before initiation of the first cursor movement were represented amply by the activity of PFC neurons during the delay period that preceded movement. The recording sites at which the aforementioned neurons were located are presented in Figure 2B. The neurons were distributed widely throughout the banks of the principal sulcus and the dorsal and ventral surface of the periprincipal region. There did not appear to be any tendency for PFC neurons with selective activity to be located within specific regions. 
+Procedural decision making A process in which one learns an action chain and the ability to recognize the situations in which to release it. Performance is rapid, but is usually learned slowly, and is inflexible once learned. 
 
-## Correspondence between Preparatory Activity and Activity during the Motor Execution Period 
+_**Deliberative decision making in humans.**_ Much of the extensive literature on human decision making differentiates between processes of deliberation and those of judgement[20,38,39] , a distinction that parallels the difference between choosing-between-options and willingness-to-pay experimental paradigms in non-human animals[29] . Although these differences are beyond the scope of this Review, mounting evidence in the human literature indicates that processes underlying deliberative decision making depend on episodically imagined futures[21,25–27,40] , such that more-concrete options are easier to imagine and draw decisions towards them[27,41,42] . In humans, the search-and-evaluate process is hypothesized to involve interaction between the prefrontal cortex (PFC) and temporal lobe structures to create imagined episodic futures[26,41,43–46] . In humans and non-human primates, medial striatal structures (caudate) may be involved in deliberative processes, whereas the more-cached, automated processes depend on lateral striatal structures such as the putamen[47,48] . 
 
-A majority of the neurons for which activity was related to the preparatory period (described above) did not exhibit activity during the period in which the three movement steps were executed (motor execution period). Nevertheless, activity in 37% of the preparatory period-related neurons was also detectable during the motor execution period. We examined the relationship between the activity of these neurons and the three 
+_**Procedural versus deliberative decision making.**_ Current theories of decision making suggest that decisions arise from a complex interaction of multiple action-selection processes[22,24] . Although a full description of this interaction is beyond the scope of this article, studies of VTE have examined behaviour during processes underlying both deliberative and procedural decision making. In procedural action selection, animals automate their behaviour when repeated actions reliably achieve goals, by developing cached action chains that can be released at appropriate times[4] but that, once initiated, tend to run to conclusion[49] . Because these action chains are inflexible once learned, they tend to be learned slowly, particularly in comparison to the cognitive map that forms the basis for the mental search process (knowing the cognitive map does not force the selection of a specific action)[10,24,34,50] . 
 
-directions of cursor movement by analyzing neuronal activity during the first, second, and third movements with the same linear regression analysis used to analyze activity during the preparatory period (p < 0.01). Among the 111 neurons that exhibited selectivity for the first cursor movement during the preparatory period, 48 neurons (43%) also exhibited selectivity for the first cursor movement during the first movement. Activity of a representative example of such a neuron is presented as perievent spike density histograms in the left panel of Figure 4A. The four histograms show the time course of activity for each of the trials beginning with the first step of cursor movement directed to the right (R-x-x), left (L-x-x), up (U-x-x), or down (D-x-x). Only the histogram representing activity during the first cursor movement to the right (R-x-x) exhibited prominent peaks during the preparatory period and the first movement. To quantify the amount of information contained in timevarying neuronal activity, we calculated the predictive information (Is) carried by the occurrence of spikes by quantifying the decrease in entropy in the cursor 
+On the Tolman–Hull plus maze and similar T-choice mazes (BOX 1), VTE occurs when animals express deliberative strategies and vanishes as animals automate their response using procedural strategies[51,52] . However, VTE is also expressed on these tasks as procedural strategies are developing[14,51–53] , which may suggest the presence of different underlying neural processes during the development of procedural strategies (before automation)[53–56] . 
 
-Table 1. Classification of the Activity of Preparatory Prefrontal Cortex Neurons and Primary Cortex Neurons 
+_**VTE as a model of deliberation.**_ The hypothesis put forward in this Review is that VTE reflects the indecision underlying deliberation. Predictions can be derived from this hypothesis about the timing of VTE, the relation of VTE to learning and reward-delivery contingencies, and the neurophysiological processes that should co-occur with VTE behaviours. See BOX 2 for a list of the predictions that follow from this hypothesis and that are supported by the evidence discussed in the following two sections. 
 
-|Area|Total|Cursor-Movement Related|Arm-Movement Related|Goal-Location Related|Path-Block Related|Goal and Block Related|
-|---|---|---|---|---|---|---|
-|PF|470|210|27|176|88|31|
-|MI|72|5|60|3|4|0|
+## **Behavioural predictions** 
 
+The key hypothesis of deliberation as a search-andevaluate process is that animals are mentally searching through a schema of how the world works. In order to search through schema, a sufficiently complete model of 
 
+the world is required that can predict the consequences of one’s actions[24,57,58] . The hypothesis that VTE reflects deliberative but not procedural processes suggests that VTE should occur when rats depend on flexible decision-making strategies, which tend to occur early in learning[10,34] and after changes in the contingency of reward delivery[59,60] . Moreover, the hypothesis that VTE reflects the indecision underlying deliberation suggests that it should occur in particularly difficult choices and should be reduced when choices are easy[61] . 
 
-Neuron 634 
+_**VTE from deliberation to automation.**_ Behavioural testing on the Tolman–Hull plus maze starts with habituation of the animal to the maze itself for several days, after which animals are trained to turn left from the south arm to the west arm. VTE occurs during the early learning phase on this task[51] , while animals are showing deliberative behaviours[62,63] . Thus, VTE occurs when rats know the shape of the maze but not what to do in the maze. Animals that maintain the deliberative strategy late in learning continue to show VTE, whereas animals that switch to procedural strategies do not[51] . When variants of this task are constructed such that only the deliberative strategy will lead to a reward, animals continue to show VTE throughout the task[51,52] . On a plus-maze variant in which rats either had to go to a place from multiple starting points (requiring a flexible action) or had to take a specific action (for example, turn left) from any starting point (thus allowing automation), VTE occurred when the reward was delivered based on which place the animal went to (that is, depending on flexible, deliberative strategies), but vanished when animals automated the component where reward was delivered based only on the action taken (that is, following a procedural strategy)[52] . 
 
-**==> picture [359 x 214] intentionally omitted <==**
+_**VTE and changes in reward contingency.**_ On T-choice tasks[14,53,54,56,64–66] (BOX 1), VTE occurs at high-cost choice points. On these tasks, rats know the general parameters of the task (for example, run through a central path, turn left or right for food and return to the loop) but not the specific reward-delivery contingency (which could change daily). For example, rats that were trained to turn left or right at the end of the central track for food but that did not know which way was going to be rewarded on a given day expressed VTE on the early laps on each day[14,54] . VTE also increases when animals encounter a change in the relationships between actions and reward[56,65,66] . VTE disappears as the behaviour automates and then reappears with the change in rewarddelivery contingency. Similarly, VTE reappeared on the cued-T task when the reward was devalued[53] , and on the plus maze when the task switched between needing a place- and a response-based strategy for reward[52] . 
 
-Figure 3. Preparatory Activity of Three Examples of PFC Neurons 
+_**VTE and the difficulty of choice.**_ On the multiple-T task, VTE behaviours are only expressed at the final (difficult) choice point, but not at a topologically similar control point on one of the simpler Ts[54] , suggesting that simple choices do not produce VTE. On the restaurant row task (BOX 1), animals make sequential foraging decisions about whether to wait for a reward offered at a given 
 
-Each panel contains a perievent spike-density histogram sorted according to the sequence of the three cursor movements required to reach the final goal. The histograms are aligned to the appearance of the first GO signal (filled triangles). (A) First-cursor-selective neuron. This neuron was selectively active during the preparatory periods that preceded sequences of cursor movements that included a rightward movement in the first step, i.e., rightward (R)-R-upward (U), R-U-R, R-downward (D)-R, and R-R-D. The vertical bar at bottom right denotes 10 spikes/s. (B) Second-cursor-selective neuron. This neuron was active prior to the initiation of sequences of cursor movements that included a leftward cursor movement in the second step, i.e., U-leftward (L)-U and D-L-D. (C) Third-cursor-selective neuron. This neuron was active prior to the initiation of sequences of cursor movements that included a leftward cursor movement in the third step, i.e., U-U-L and D-D-L. 
+NATURE REVIEWS[|] **NEUROSCIENCE** 
 
-direction as described in the Experimental Procedures. The amount of information that predicted the first movement (blue trace in the right panel in Figure 4A) exceeded statistical significance (p < 0.01) during the preparatory period and also during the first movement. 
+VOLUME 17[|] MARCH 2016[|] **149** 
 
-Next, we analyzed the activity of 87 neurons that exhibited selectivity for the second cursor movement during the preparatory period. Among these neurons, 27 (31%) also exhibited selectivity for the second movement. Figure 4B illustrates an example of such secondcursor-movement-selective activity. In Figure 4B, the spike density histogram for trials that included leftward cursor movement during the second step (x-L-x) exhibited two prominent peaks that corresponded to the preparatory period and the second movement. Quantitative analysis of information predicted by time-varying neuronal activity (right panel of Figure 4B) revealed two prominent peaks that predicted the second cursor movement (green trace) during the preparatory period and during the second movement. A similar analysis of 95 neurons that exhibited selectivity for the third cursor movement during the preparatory period revealed that 34 neurons (36%) also exhibited selectivity for the third movement during the execution period. An example of neuronal activity that exhibited such selectivity is presented in Figure 4C. The spike density histogram illustrates that activity for those trials that included leftward cursor movement during the third step (x-x-L in the left panel) exhibited two prominent peaks during the preparatory period and third movement. Activity in this neuron strongly predicted the third movement during the preparatory period and the third movement (right panel in Figure 4C). 
+REVIEWS 
 
-To quantify the correlation between the magnitudes of information that predicted the first cursor movement during the preparatory period and during the execution of the first movement, a cross-correlation coefficient was calculated for the 111 neurons that exhibited selectivity for the first cursor movement during the preparatory period. As illustrated in the left panel of Figure 5B, in most of these neurons, direction selectivity during the preparatory period was correlated positively (p < 0.01) with selectivity during the first movement. Similarly, in most of the 87 second-movement-selective neurons, direction selectivity during the preparatory period correlated positively (p < 0.01) with selectivity during the second movement (Figure 5B, middle panel). In most of the 95 third-movement-selective neurons, direction selectivity during the preparatory period correlated positively (p < 0.01) with selectivity during the third movement (Figure 5B, right panel). 
+delay. VTE behaviours do not appear when the rat is faced with very short delays (which are definitely worth staying for) or really long delays (which are definitely worth skipping), but are preferentially expressed when the economic offer is at the animal’s decision threshold[67] , which is presumably the difficult choice. 
 
-## Population Analysis 
+Importantly, VTE does not simply occur only in situations in which there are two equal choices between which a decision must be made. One study trained rats on a spatial delay-discounting task[68] (BOX 1), in which rats decide between two differently delayed and differently rewarding options. The rats can change the delays to the options by preferentially selecting one side or the other and, once the two sides are equally valued, the animals alternate between the two sides, which holds the delays constant. In this task, VTE occurs as the delays are changing and vanishes when the options become equally valued and the rats respond with a stereotyped alternating behaviour. 
 
-To what extent does the entire population of preparatory period-related PFC neurons reflect cursor movement or arm movement? What is the time course of information that reflects cursor movement? To answer these questions, we used the perievent spike-density data for all of the 470 preparatory period-related neurons to calculate the bin-by-bin average of information (It) that predicted the first, second, and third cursor movements. The results of this analysis are presented in Figure 5, in which the time-varying magnitude of quantified information is plotted. As illustrated in Figure 5A (upper panel), each of the three cursor movements was represented during the delay period, while information that reflected 
+_**VTE and behaviour: conclusions.**_ These data suggest that VTE occurs when animals are faced with difficult, changing choices on tasks in which they understand the shape of the world. However, if it is possible to automate the behaviour (when the reward-delivery contingencies are stable), then VTE disappears as behaviour automates. 
 
-Representation of Multiple Future Events 635 
+## **The neurophysiology of VTE** 
 
-**==> picture [288 x 343] intentionally omitted <==**
+On the basis of the hypothesis that VTE reflects deliberation and disappears behaviourally as animals begin to use procedural decision-making systems, several predictions about the neurophysiology accompanying VTE can be made (BOX 2). 
 
-Figure 4. Three Examples of PFC Neurons Exhibiting Selectivity for Cursor Movement during Both the Preparatory and Execution Period 
+Deliberation entails a search-and-evaluate process, in which one imagines the consequences of an action and then evaluates that outcome in light of one’s goals. This is a form of mental time travel, or episodic future thinking: placing oneself into a future situation[25,69] . 
 
-In (A–C), the left column presents spike-density histograms, while the right column presents neuronal information predictive of cursor motions. The histograms, aligned to the appearance of the first GO signal (filled triangles), are sorted according to the direction of the first (A), second (B), or third (C) cursor movement. In the right column, magnitudes of information predictive of the first (blue), second (green), and third (red) cursor movement, carried by the activity of the neurons in (A)–(C), are plotted in 100 ms bins. (A) First-cursor-motion-selective neuron. This neuron exhibited an increase in activity when the first movement was in the rightward direction. 
+## Box 1 | **Tasks** 
 
-(B) Second-cursor-motion-selective neuron. This neuron exhibited an increase in activity when the second movement was in the leftward direction. 
+Vicarious trial and error has been explored in rodents using several spatial tasks (see the figure). 
 
-(C) Third-cursor-motion-selective neuron. This neuron exhibited an increase in activity when the third movement was in the leftward direction. Information was carried predominantly during the preparatory period and also during the first (A), second (B), or third (C) movement period. 
+an option, a sensory cue informs it of the delay it would have to wait before receiving the reward. At each offer, the animal is given the option to wait out the delay or to skip the option and try the next option, allowing the assessment of how much the animal values that option (that is, through measuring how long it is willing to wait for a given option)[67] . 
 
-the first, second, and third cursor movements also appeared during and immediately before the first, second, and third movements, in that order. In contrast, information that predicted the first, second, and third arm movement remained at low levels throughout the task and never reached statistical significance (p > 0.01) (Figure 5A, lower panel). We performed an additional analysis by aligning the population data on both the second and third GO signals, and presented the data with six panels in Figure S2A. As a result of this analysis, we confirmed our point that, for PFC neurons, information predicting cursor motion exceeded a statistically significant level (p < 0.01), whereas information predicting arm movement did not. 
+## **Tolman–Hull plus maze** 
 
-## Contrasting Neuronal Activity in the Primary Motor Cortex 
+Rats are trained to turn left from the south arm to the west arm of a plus maze. The animals then start a trial from the north arm, allowing them totake a different action (to reach the same location) or the same action (leading to a different location)[51][,][62][,][88] . 
 
-For the purpose of comparison, we also examined neuronal activity in the MI. In the arm area of MI, we obtained 72 neurons that were defined as preparatory related (Table 1) and 55 neurons that were defined as nonpreparatory related. All of the preparatory MI neurons were active during both preparatory and execution periods. Of these, 60 neurons were found to be arm-movement related. A typical example of such MI neurons is presented in Figure 6A. That neuron was active during the preparatory period when the first arm movement was left pronation (panel in the top left). In addition, the same neuron was active during the movement period for left 
+**==> picture [506 x 359] intentionally omitted <==**
 
-pronation, regardless of whether that movement appeared in the first, second, or third movement step. For this neuron, information predicting the cursor movement was negligible, in sharp contrast to the richness of information predicting arm movement (right panels in Figure 6A). Results of population analysis for the 72 MI neurons are presented in Figure 6B, where it is apparent that neuronal activity in the MI predicted each of the three arm movements, whereas information predicting the cursor movement did not reach a statistically significant level. We confirmed our findings by aligning the data to the second GO (left panels in Figure S2B) and to the third GO (right panels) signals. 
+**----- Start of picture text -----**<br>
+Plus maze Place–response plus maze<br>Place or response plus maze<br>Rats have to proceed to a place or follow a procedural<br>action to obtain a reward [52] . Same Same<br>place action<br>Multiple‑T task<br>Rats are trained to run through a central track and to<br>turn left or right for food. On each day, the central track  Training Testing Place task Response task<br>has a different shape and the side on which the final<br>reward is placed can change, but both variables  Multiple-T task Hebb–Williams maze<br>generally remain constant within a day [14][,][54] .<br>Left Right Alternate<br>Left, right or alternation choice tasks<br>Variants of the multiple‑T task in which the track or<br>reward‑delivery contingency changes part of the way<br>through a day’s experimental session [65][,][66][,][72] . In the Hebb– Changeable<br>central path<br>Williams maze version, the central path is constructed<br>of walls rather than additional T choices [56] .<br>Cued‑T task<br>Rats or mice are trained to turn left or right at a T<br>intersection where the correct choice depends on a  Cued-T task Elevated plus maze<br>sensory cue provided on the stem of the T [14][,][53][,][55][,][140] . Open arm<br>Elevated plus maze<br>Rats or mice explore a plus maze with two closed and  Closed<br>two open arms. The open arms are less protected  arm<br>and more-anxious animals tend to avoid them [153] (BOX 4).<br>Spatial delay‑discounting task Spatial delay-discounting task Restaurant row<br>Rats are trained to turn to one side of a T for a large<br>reward that is delivered after a delay or to the other side<br>for a smaller reward that is delivered quickly. The delay<br>Chocolate Plain<br>is adjusted based on the rat’s decisions, allowing the rat<br>to balance the delay against increased reward on the  Offered delay<br>larger–later side [68] . indicated by<br>Larger-later tones<br>Restaurant row task ( n  pellets Smaller-sooner<br>Rats or mice are trained to run past a repeating  after  D (1 pellet after  Banana Cherry<br>seconds) 1 second)<br>**----- End of picture text -----**<br>
 
-## Relationship between Neuronal Activity and Eye Positions and Movements 
 
-We examined whether any of the neuronal activity described above might be related to eye positions or eye movements during the preparatory and execution periods. We performed a multiple regression analysis using four sets of regressors, namely the vertical and horizontal eye positions and the vertical and horizontal components of saccades (see Experimental Procedures). Figures 7A–7C illustrate representative results of such an analysis of the activity of the three neurons, for which activity is presented in Figures 4A–4C. In Figure 7, we plotted the regression coefficients for the four regressors sequentially across time in 50 ms bins after normalizing these values to T values that corresponded 
+Rats or mice are trained to run past a repeating sequence of reward options. As the animal runs past 
 
-Neuron 636 
+**150**[|] MARCH 2016[|] VOLUME 17 
 
-**==> picture [287 x 464] intentionally omitted <==**
+**www.nature.com/nrn** 
 
-Figure 5. Correspondence between Preparatory Activity and Movement-Period Activity (A) Population analysis of PFC neurons. (Ai) Time course of information that predicted the first (plotted in blue), second (green), and third (red) cursor movements. The magnitude of information predictive of cursor movement carried by neuronal activity (spikes) was calculated as described in the Experimental Procedures and is plotted in consecutive 50 ms bins. Values obtained from all preparatory period-related PFC neurons are averaged. Data are aligned to the onset of the first GO signal. Information that predicted each of the three cursor movements was most prominent (peak) during the preparatory period, but there was an additional peak both prior to and during the execution of each movement. (Aii) Time course of information that predicted each of the three arm movements. The magnitude of information that predicted each arm movement did not reach a statistical significance level of 0.01. (B) Distribution of cross-correlation coefficients. Data are calculated for all cursormovement-selective PFC neurons, for comparison of direction selectivity during the preparatory and motor execution periods. The ordinate indicates the relative frequency distribution of the cross-correlations. 
+REVIEWS 
 
-to a significance level of 0.01. As illustrated in Figures 7A–7C, none of these three neurons exhibited activity that was significantly related to eye position or eye movement during the preparatory period or during the execution of movements. We subsequently extended our analysis to all 470 neurons that exhibited preparatory activity. Figure 7D illustrates sequential plots of time-varying mean values of the regression coefficients normalized to the T value. In Figure 7D, the regression coefficients remained well below statistical significance (1.0) during all of the periods that were analyzed, which indicated that neuronal activity was not significantly related to eye position or eye movements. Examination of data for individual neurons revealed that eight neurons exhibited activity that appeared to be related to eye movements during the goal display period, but no neurons exhibited activity that was related to eye position 
+## Box 2 | **Predictions** 
 
-or eye movements during the preparatory period or during the execution of movements. 
+The hypothesis that vicarious trial and error (VTE) behavioural events reflect an underlying deliberation process generates several testable predictions, which the data reviewed in this paper suggest are true. 
 
-## Discussion 
+## **Behavioural predictions** 
 
-We found that neurons in the lateral PFC exhibited substantial changes in activity during a preparatory period in which monkeys were required to plan multiple steps of motor behavior. Neuronal activity during the preparatory period predominantly reflected intended (future) movements of a cursor along a particular path within a maze to reach an intended goal. All cursor movements that had to be prepared (the first, second, and third of three movements) to reach the goal were reflected by the activity of the PFC neurons. In contrast, very few PFC neurons (9%) reflected the intended arm movements during the preparatory period. 
+- VTE should occur in situations in which the rat knows the shape of the world, because deliberation depends on being able to predict the consequences of one’s actions. 
 
-Representation of Multiple Future Events 637 
+- VTE should decrease as animals automate their behaviours when reward‑delivery contingencies are particularly stable. 
 
-**==> picture [288 x 350] intentionally omitted <==**
+- VTE should increase when reward‑delivery contingencies are variable or change. 
 
-Figure 6. Analysis of Neuronal Activity in the Primary Motor Cortex 
+## **Neurophysiological predictions** 
 
-(A) Analysis for a typical M1 neuron. In this example, neuronal activity increased preceding the execution of left pronation, regardless of whether that particular movement appeared in the first, second, or third step. In the spike-density histograms (left panel), neuronal activity is sorted by the first (top), second (middle), and third (bottom) arm movement. In the right panel, neuronal information predicting arm movement (Aii) or cursor motion (Aiii) is plotted in consecutive 100 ms bins. (B) Population analysis for MI neurons. Activity in this area clearly predicted the occurrence of the first, second, and third stepwise movements of the arm, and activity peaked at the onset of each of the three movements. However, neuronal activity that was predictive of cursor movements remained below the level of statistical significance. 
+- During VTE events, there should be neural representations of future outcomes and their evaluations. 
 
-## Properties of Neuronal Activity during the Preparatory Period 
+- Those neural representations should encode the multiple outcomes serially. 
 
-During the preparatory period, the monkeys were required to generate the information needed to move the cursor to a predetermined goal using three stepwise movements of the cursor. Among the numerous possible sources of information the monkeys may have used, the cursor motion appeared to be reflected in the activity of PFC neurons, i.e., the monkeys planned forthcoming behavior (at least in part) in terms of stepby-step movement of the cursor toward the goal. For the neuronal activity that reflected the first cursor movement, it is possible to interpret the activity as specifying either the direction of the first cursor movement or the position at which the cursor was to be located after the first movement. Moreover, for some neurons (n = 87), activity was selective for the direction of the second cursor movement. It is theoretically possible to plan the location of the cursor to be achieved with the second movement. However, not many neurons exhibited activity that reflected the location of the cursor in the second step (see the Supplemental Data). Remarkably, as many as 44% of neurons that exhibited preparatory activity were selective for the third cursor movement during the preparatory period that preceded the presentation of the first GO signal. For these neurons, selectivity was for the direction of the cursor movement that was 
+- Neural representations of future outcomes should involve the hippocampus and prefrontal cortex (PFC)–hippocampus interactions. 
 
-to occur during the third step. In contrast to the abundance of neuronal activity that reflected cursor movement, activity that reflected arm movements was not apparent among PFC neurons. This implies that the motion of the cursor itself, rather than arm movement, was primarily processed within the PFC for the purpose of planning motor behavior. We also analyzed 127 neurons in theprimarymotorcortex of thesamemonkeys. Wefound that the activity of these neurons primarily reflected arm movements. In sharp contrast to PFC neurons, activity of MI neurons primarily reflected arm movements. Population analysis also revealed that the representation of cursor motions remained nonsignificant. 
+- Neural representations of valuation should involve the ventral striatum and the orbitofrontal cortex. 
 
-It is of interest that, during the preparatory period, the neuronal responses that encode each cursor movement occurred simultaneously, not in the order of the first, second, and third motion of the cursor. This finding could imply that the animals were engaged in simultaneous planning of cursor movements, while planning the sequence of their occurrences separately. An alternative explanation may be that the monkeys were engaged in planning the sequence in a retrograde order (starting from the last motion to capture the goal, followed by the second and then the first motion) , in conjunction with a sequence planning with an anterograde order. Further works are necessary to reveal the nature of the sequential planning. 
+- Neural representations should shift from PFC–hippocampus interactions to dorsal striatal processes as behaviours automate. 
 
-Neuron 638 
+Studying mental time travel in non-human animals requires a methodology that can detect representations of that imagined future[19] , and just such a methodology has been developed that is based on the observation that imagining something activates similar representational systems to perceiving that thing[17,18] (BOX 3). This methodology can be used to explore how different neural circuits contribute to the search-and-evaluate process that underlies deliberation, and thus shows that mental time travel itself uses the hippocampus, in a process that is probably initiated by the PFC, and that the outcomes of each possible option are evaluated in the ventral striatum (also known as the nucleus accumbens) (see below). 
 
-**==> picture [287 x 388] intentionally omitted <==**
+## Local field potential 
 
-Figure 7. Regression Analysis of the Correlation between PFC Neuronal Activity and Oculomotor Parameters 
+(LFP). Low-frequency voltage signals reflecting neural processing. In the hippocampus, the LFP is marked by two contrasting states: theta and large-amplitude irregular activity. 
 
-(A–C) Examples of analysis of the three PFC neurons for which activity was presented in Figures 6A–6C. The four oculomotor parameters were vertical and horizontal eye positions and vertical and horizontal components of saccades. Each panel shows a sequential plot (50 ms bins) of regression coefficients for the four regressors that were normalized to T values that corresponded to a significance level of 0.01. Data are aligned to the onset of the first GO signal. 
+By contrast, procedural decision making entails the performance of an appropriate action chain in a single situation. Thus, structures involved in procedural decision making should slowly develop representations that relate specific actions to specific reward-delivery contingencies, and should directly reflect the ‘release’ of an action chain. The dorsolateral striatum has been shown to develop such representations as animals automate their behaviour (see below). 
 
-(D) Population analysis. Regression analysis of the correlation between the activity of 470 PFC neurons that exhibited preparatory period-related activity and the four oculomotor parameters plotted as in (A)–(C). 
+Hippocampal theta sequences Sequences of firing of hippocampal place cells within a single theta cycle, generally proceeding from the location of the rat forward towards potential goals. Also called a ‘hippocampal sweep’. 
 
-## Relationship between the Present Study and Previous Studies of the Lateral Prefrontal Cortex 
+_**Hippocampal sequences.**_ Normally, as a rat runs through a maze, each hippocampal place cell fires action potentials when the animal is in a specific location — in the place field of the cell[10,34] . During movement (for example, when running through a maze) and attentive pausing, place cell firing is organized within an oscillatory process that is reflected in the hippocampal local field potential (LFP) theta rhythm (6–10 Hz)[10] . Typically, theta is seen during movement, and other LFP patterns are seen during pauses; however, theta also occurs if the rat is attentive to the world during that pause, such as during freezing in fear after conditioning[70] or during VTE[10] . In each 140 ms theta cycle, hippocampal place cells fire in a sequence along the path of the rat, from somewhere 
 
-Although considerable interest has been directed at the behavioral aspects of the acquisition, retention, and modulation of sensory information, which is often referred to as ‘‘working memory’’ (Petrides, 1996; Niki and Watanabe, 1976; Goldman-Rakic, 1987; Romo et al., 1999; Constantinidis et al., 2001), the role of the lateral PFC in planning behavior has also been the focus of much research (Boussaoud and Wise, 1993; Fuster, 1997; Fuster et al., 2000; Hasegawa et al., 1998; Kim and Shadlen, 1999; Jenkins et al., 2000; Rowe et al., 2000; Tanji and Hoshi, 2001; Takeda and Funahashi, 2002; Fukushima et al., 2004). However, little is known about which elements of behavior are planned within the PFC, because few studies have examined the exact nature of planned behavioral factors. Previous studies have revealed that behavioral factors other than the parameters used to specify movement itself influence planning-related activity in the PFC (Hasegawa et al., 2000; Nieder et al., 2002; Fujii and Graybiel, 2003; Ninokura et al., 2003). Behavioral rules and task requirements profoundly affect neuronal activity (Hoshi et al., 1998, 2000; White and Wise, 1999; Asaad et al., 2000; Wallis and Miller, 2003), as do reward conditions (Watanabe, 
+## Hippocampal SWR sequences 
 
-1996; Leon and Shadlen, 1999). In our previous report, we took up the issue of goal planning in the PFC (Saito et al., 2005), clarifying the role of PFC neurons in representing behavioral goals. For the attainment of a behavioral goal, it is crucial to decide how to achieve the goaloriented behavior by planning multiple actions. The present study deals with this issue of action-selection planning; how do PFC neurons take part in planning a series of actions? Averbeck et al. (2002) used a behavioral task that required monkeys to draw geometric figures to demonstrate that the serial elements in a sequence of movements were represented by changes in the activity in the PFC that occurred prior to the execution of movements. The Averbeck et al. (2002) report suggested that there was parallel processing of planned serial movements. However, the planned serial elements could be either arm movements or the trajectories of the segments of the geometric figure that was to be drawn, because these two factors were not dissociated in the Averbeck et al. (2002) experiment. In the present study, we used the planning of multiple movements that were to be executed in discrete intervals rather than serial or continuous movements and employed an experimental paradigm in which planned cursor movements and executed movements were dissociated. Our findings 
+A sequence of firing of hippocampal cells within a sharp wave ripple complex (SWR). Originally referred to as ‘replay’ (because early observations identified sequences repeated in order), but now known to include other sequences including backwards along the path of the animal or along unexplored shortcuts and novel paths. 
 
-Representation of Multiple Future Events 639 
+slightly behind the rat to slightly ahead of it[15,71,72] . By examining these hippocampal theta sequences during VTE events at decision points on a T-maze task, it was found that these sequences proceeded far ahead of the rat, alternating serially between goal-related options[14] . 
 
-reveal that the motion of an object to be generated as a consequence of planned action is the behavioral factor that is reflected by PFC neuronal activity, and that information for multiple action consequences is processed simultaneously during planning. 
+Evidence from humans suggests that the hippocampus is both necessary for and active during episodic future thinking[25,26,45,73,74] . Together with the evidence described above that neural representations in the hippo campus project sequences forward along the path of the rat, this evidence suggests that the pause-andlook behaviour observed as VTE may indeed be a manifestation of deliberation, particularly on spatial tasks. Moreover, for the rat to be internally ‘trying out’ possible outcomes, the hippocampal place cell sequences should occur serially, alternately exploring the paths to each goal ahead of the animal (as opposed to representing a blend of all possible paths). This is exactly what occurs: when animals pause at the choice point, hippocampal sequences within any given theta cycle proceed along a single path towards a single goal, one at a time, first towards one goal and then towards the other[14,72,75] . Current experiments have only examined neural ensembles ranging over a small portion of the hippocampus (within a few millimetres). Recent work has suggested that the hippocampus and its associated structures may contain several potentially independent modules along the long septo-temporal axis[76,77] . Whether the hippocampal neural ensembles encode a unified representation of a ‘sweep’ in both the dorsal and the ventral hippocampus remains unknown. One can quantify how unified a representation is by measuring whether the activity of the neurons is consistent with the location decoded from the population, termed the ‘self-consistency’ of a representation[19] (BOX 3). During VTE, dorsal hippocampal neural ensembles encode self-consistent representations of each individual option, serially and transiently. 
 
-Based on the current analyses, it appears that PFC exhibits greater task-related information during the preparatory than movement periods and that PFC ‘‘reactivates’’ the representation of the remaining sequence at each step. There also appears to be greater information about the first and last steps than the middle step, consistent with the U-shaped serial position curve observed in previous behavioral (Kesner and Novak, 1982) and single-unit (Averbeck et al., 2002) studies of sequential tasks. 
+These hippocampal sweeps during VTE were locked to the hippocampal theta oscillation[14] , suggesting that they may be special cases of theta sequences. During each theta cycle during normal navigation, hippocampal place cells fire in sequence along the current path of the animal[15,78,79] . Hippocampal theta sequences have been found to reflect ‘cognitive chunks’ (that is, continuous sequences of navigational paths) about goals and subgoals[72] . Moreover, these sequences have been found to represent the path to the actual goal of the animal, sweeping past earlier options at which the animal was not going to stop[75] . 
 
-## Implications for the Role of the Prefrontal Cortex in Planning Multistep Behavior 
+_**Hippocampal LFPs: theta and LIA.**_ In contrast to the theta rhythm, the more broad-spectral LFP known as large-amplitude irregular activity (LIA) is punctuated by short 200 ms oscillatory events called sharp-wave ripple complexes (SWRs) that contain power in frequencies of approximately 200 Hz[10,80] . SWRs that occur just before an animal leaves a location where it has been resting often include hippocampal SWR sequences running forward towards the goal[16,81] , and thus it has been hypothesized that there may be SWRs at the choice point during VTE. However, the rodent hippocampal LFP shows theta, not 
 
-When we plan multiple steps of actions in daily life, we usually do so by consciously arranging future events that we expect to occur as the consequence of actions in a particular temporal order; we rarely consider the temporal sequence of motor actions themselves. The properties of PFC neurons that we observed in the present study are compatible with behavioral planning based on future events. If we assume that planning for multiple movements in monkeys is analogous to that in humans, it follows that PFC neurons in the monkey brain process information for future events in a prospective manner to generate action plans based on a series of events during the course of reaching a behavioral goal. Our findings on the MI indicate that neuronal activity reflects movements to be performed, fulfilling the requirement for the motor command. In future studies, it would be of great interest to investigate where in the brain the information for future events is transformed into information for the generation of motor commands. 
+NATURE REVIEWS[|] **NEUROSCIENCE** 
 
-## Experimental Procedures 
+VOLUME 17[|] MARCH 2016[|] **151** 
 
-## Subjects and Behavioral Task 
+REVIEWS 
 
-We trained two monkeys (Macaca fuscata) to perform a path-planning task that required the planning of multiple cursor movements to reach preinstructed goals. Animals were cared for in accordance with the Guiding Principles for the Care and Use of Laboratory Animals of the National Institutes of Health and the Guidelines for Institutional Animal Care and Use published by our institute. 
+LIA, during VTE[14,72,82] , and there is little to no power in the SWR band during VTE[14] . Although there are intra-hippocampal oscillatory events that occur shortly before the turn-around point in VTE, these events show power at frequencies in the high-gamma range (~100 Hz), well below the SWR range[82] . The relationship between SWRs that occur before the journey starts[16] and theta sequences that alternately explore goals during VTE[14] remains unknown. 
 
-During the experiment, an animal was seated in a primate chair that faced a computer monitor on which a checkerboard-like maze was displayed (Figure 1A). A single trial of the path-planning task comprised the following series of events (Figure 1C). A trial commenced when the animal grasped two manipulanda (one provided for each arm) and held them in a holding position. After 1 s, a green cursor appeared at the center of the maze. One second later, a red square indicated the position of an initial goal within the maze for 1 s. After a delay period (1 s), between two and six of the maze paths were blocked, as illustrated in Figure 2. After another delay period (1 s), the cursor color was changed from green to yellow; this was the first GO signal. Upon presentation of the GO signal, the monkey was required to move the cursor to the position of the goal in a step-by-step manner by operating the two manipulanda through supination or pronation of the wrists. The monkey was required to initiate the first movement within 500 ms. When the cursor was moved to the next position, the cursor color was changed from yellow to green. After a hold period (1 s), the cursor color was changed from green to yellow, which represented the next GO signal. The monkey was again required to move the cursor within 500 ms. The monkeys were allowed to move the cursor one step 
+_**Three stages of hippocampal sequences.**_ Johnson and Redish[14] first saw these VTE-related sequences on the simple multiple-T task, in which rats had already learned the general structure of the task (that is, run through the central track and turn left or right for food), but not the correct decision for that day (because rewarddelivery contingencies changed from day to day). Rats that were familiar with the general structure of the task learned the correct choices quickly[14,54,83] , which suggests that they were finding the daily parameters to fit a learned schema[84] . Because rats ran the same path repeatedly through the day, they could eventually automate their behaviour, leading to highly stereotyped paths with experience[54] . 
 
-in any direction, except when the path was blocked. If the cursor was moved successfully to the location of the goal, the monkey was rewarded with fruit juice. 
+By decoding the hippocampal representations while the rat paused at a choice point (while the rat expressed VTE[54] ), it was found that hippocampal representations serially explored both alternatives on early laps, sweeping first to one side and then the other[14] . With experience, 
 
-In this study, we used two sets of goal positions and path blocks (set 1 and 2), as illustrated in Figure 2. Each set comprised four goals and three combinations of path blocks. We recorded the activity of individual PFC neurons during sessions with either set 1 or 2, or during both sets. At least three movements of the cursor were required to reach the goals in both sets. We only analyzed neuronal activity during trials in which the animals were able to reach the goal in three steps. For example, leftward, leftward, and upward movement (LLU) of the cursor was required to reach goal 1 in set 1 if block 1 was presented (Figure 2); LUL was required for block 2, and ULL was required for block 3. The animals were allowed to move the cursor along any path within the maze to reach the goal. To dissociate arm movements from the direction in which the cursor moved, we trained the monkeys to perform the path-planning task with three different arm-cursor assignments (see Figure 1B). The arm-cursor assignment was changed between blocks of 24 or 48 trials. 
+VTE diminished but representations continued to sweep ahead of the animal; however, in these later laps, sweeps only went in one direction (the direction eventually chosen by the animal). With extended experience, VTE was no longer expressed, the path of the animal became very stereotyped, and hippocampal activity represented the local position of the animal, with little forward components at all. 
 
-## Surgical and Recording Methods 
+I suggest that these three components of hippocampal representation entail three stages of behavioural automation. The first stage is one of indecision, in which rats know the structure of the world but need to vicariously imagine the alternatives to determine what they want to do. The second stage is one of planning, in which rats know both the structure of the world and what they want to do but, using a deliberative process, continue to run the search through only one option (checking to ensure that option is the one they want). The third stage would then be automation, in which rats no longer search the future, but rather simply execute an action chain, with the hippocampus only tracking the immediate present (FIG. 1). 
 
-We used conventional electrophysiological techniques to obtain in vivo single-cell recordings (Mushiake et al., 1991). After completion of the initial behavioral training, an acrylic recording chamber was attached to the skull of the monkey under aseptic conditions using pentobarbital sodium anesthesia (30 mg/kg, i.m.) with atropine sulfate. Antibiotics and analgesia were used to prevent postsurgical infection and pain, respectively. Neuronal activity was recorded using glass-insulated Elgiloy microelectrodes (0.8–1.5 MOhm at 333 Hz). The electrodes were inserted through the dura mater using a hydraulic microdrive (Narishige MO-81; Tokyo, Japan) and a remotely controlled electrode-positioning system (Alpha Omega Engineering, Nazareth, Israel). Neuronal activity was discriminated using spikesorting software (Alpha Omega Engineering) based on template matching. We monitored eye positions and eye movements with an infrared corneal reflection monitoring system. Discriminated unit activities were stored with a record of behavioral events, eye positions, and electromyography data on a computer hard drive. The same computer was used to control the task parameters. Cortical sulci and recording locations were identified using a magnetic resonance imaging scanner (OPART 3D-System; Toshiba, Tokyo, Japan). Prior to recording neuronal activity in the PFC, we first determined the location of the frontal eye field using intracortical microstimulation (Bruce and Goldberg, 1985). The recording sites covered the expanse of the PFC that extended 11 mm rostrocaudally to where intracortical microstimulation with currents less than 80 mA did not evoke saccades. We sampled neuronal activity from the dorsolateral PFC rostral to the frontal eye field, including the banks of the principal sulcus and the adjacent cortical convexity (see Figure 2B). For the purpose of comparison, we also recorded from the arm area of the M1 in the anterior bank of the precentral surface and its anteriorly adjacent part of the precentral cortex, identified with intracortical microstimulation (Sato and Tanji, 1989). 
+_**Hippocampal manipulations and VTE.**_ Hippocampal lesions decrease the expression of VTE, particularly during learning, investigatory and exploratory stages, but these same lesions can increase the expression of VTE in later stages[85–87] . Ageing, which disrupts cognitive spatial strategies through effects on the hippocampus[88] , has a similar effect of increasing VTE during later stages 
 
-## Analysis of Single-Unit Activity 
+## Box 3 | **Measuring imagination** 
 
-Recordings of neuronal activity were sorted according to the task conditions and were displayed online as raster plots and perievent histograms. Our database included neurons from which activity was recorded during more than two blocks of trials for each armcursor assignment. We defined four task periods: the preparatory period (1 s prior to the first GO signal); the first movement (500 ms following the onset of the first cursor movement); the second movement (500 ms following the onset of the second cursor movement); and the third movement (500 ms following the onset of the third cursor movement). Neuronal activity (discharge rate) during the preparatory period that was significantly different (Wilcoxon’s signed-ranks test; a = 0.05) from that recorded during a control period (500 ms during the initial hold period, starting 300 ms after the onset) was defined as preparatory activity. In this report, we only describe cells that exhibited significant activity during the preparatory period. 
+In humans, imagination of a thing activates the same representational systems that are active during perception of that thing[17][,][18] , and decisions that depend on an explicit knowledge of how future situations transition to other future situations include prospective representations of those future cues[98] . This suggests that mental time travel in non‑human animals can be detected by decoding representations from patterns of neural activity and looking for times at which the neural activity decodes to information not immediately present — that is, when it decodes to other places or other times. 
 
-To assess how parameters such as goal position, path block, and individual cursor and arm movements were related to the activity of 
+**==> picture [299 x 217] intentionally omitted <==**
 
-Neuron 640 
+**----- Start of picture text -----**<br>
+Behavioural variables<br>Neural signals<br>Self-consistency<br>Encoding<br>Tuning curves<br>Tuning curves<br>Predicted<br>behavioural<br>variable<br>Decoding<br>Neural signals<br>**----- End of picture text -----**<br>
 
-PFC neurons, we performed multiple linear regression analysis using the following equation: 
 
-**==> picture [204 x 18] intentionally omitted <==**
+To measure representations of other places and other times, we follow a representational loop of encoding, decoding and re‑encoding[19] (see the figure). The encoding step ascertains the relationship between neural firing and a behavioural variable (such as the position on the maze). The decoding step reveals the information represented by a specific firing pattern (such as a firing pattern at a particular moment in time). The third, re-encoding step measures how well the decoded information predicts the observed spike train pattern. Self‑consistency is a quantitative measure of the encoding–decoding–re-encoding loop, taken as how consistent the activity patterns of cells is with the information hypothesized to be represented at a moment in time[154] . Hidden within the encoding step is an assumption about the variables that the cells are encoding (for example, that hippocampal cells encode spatial information). Incomplete assumptions about the variables that the cells are encoding will decrease the self‑consistency of the representation[19][,][154] . Sometimes, one needs to add a ‘covert’ variable (not shown on the figure), 
 
-In Equation (1), b0 is the intercept and b1, b2, b3, and b4 are the coefficients. The first categorical factor was the goal position with four levels (goal 1–4 in set 1 or 2; see Figure 2). The second categorical factor was the path block with three levels (path block 1–3 in set 1 or 2; see Figure 2). The third categorical factor was cursor direction with four levels (up, down, left, right, regardless of the order of appearance). The fourth categorical factor was arm movement with four levels (left supination, left pronation, right pronation, right supination, regardless of the order of appearance) . The categorical regressors indicated in the parentheses were entered into the analysis as dummy variables based on the statistical method, as appeared in Applied Regression Analysis by Draper and Smith (Draper and Smith, 1998). We calculated the probability (p) that each coefficient of dummy variables equaled zero. If any of the probability of each coefficient of dummy variables for each categorical factor is less than 0.01 , the neuronal activity was accepted as reflecting each factor. 
+such as the imagined location of the animal, in order to correctly explain neural firing. The cells fire action potentials outside their expected tuning curves (that is, in conditions besides those to which the cells normally respond); if those spikes contain structure (for example, sequences, consistency with other simultaneously recorded cells or information about future plans), then this extra structure can be interpreted as representing cognitive information about other places or other times[19] . 
 
-For neurons that exhibited activity that reflected the direction of cursor movement, we analyzed how preparatory activity reflected the first, second, or third movement of the cursor. To assess the extent to which each cursor movement was represented by the activity of the population of PFC neurons, we carried out a linear regression analysis of neuronal activity using the following equation: 
+**152**[|] MARCH 2016[|] VOLUME 17 
 
-**==> picture [184 x 29] intentionally omitted <==**
+**www.nature.com/nrn** 
 
-In Equation (2), b0 is the intercept and b1–3 are coefficients. The regressors in the parentheses were entered into the analysis as dummy variables. The categorical factors for cursor movement were upward, downward, leftward, and rightward. We calculated the probability (p) that each coefficient of dummy variables equaled zero. If any of the probability of each coefficient of dummy variables for each categorical factor is less than 0.01, the neuronal activity was accepted as reflecting each factor. 
+REVIEWS 
 
-For neurons that exhibited activity that reflected arm movement, we analyzed how preparatory activity reflected the first, second, or third arm movement. To assess the extent to which arm movement was represented by the activity of the population of PFC neurons, we performed a linear regression of neuronal activity using the following equation: 
+## Task bracketing 
 
-**==> picture [180 x 29] intentionally omitted <==**
+A phenomenon observed in dorsolateral striatal neural ensembles, in which the cells show increased activity at the beginning of an action chain sequence. 
 
-In Equation (3), b0 is the intercept and b4–6 are coefficients. The categorical factors for arm movement were left supination, left pronation, right pronation, and right supination. The regressors indicated in the parentheses were entered into the analysis as dummy variables. We calculated the probability (p) that each coefficient of dummy variables equaled zero. If any of the probability of each coefficient of dummy variables for each categorical factor is less than 0.01, the neuronal activity was accepted as reflecting each factor. Regression and probability analyses were performed using commercially available software (MATLAB 6.5; MathWorks, Natick, MA). The typical amount of single-unit response variance explained by their basic regression model is about 0.7. Furthermore, we calculated the variance inflation factors (VIF) to examine the possible existence of multicollinearity for multiple factors. We did this analysis to check the possibility that the behavioral strategies adopted by the monkeys led to a bias in the number of times the combinations of the factors occur together (Draper and Smith, 1998). We confirmed that the VIF was small enough (<2) to rule out the behavioral bias concerned. 
+of tasks[89] . In addition, in the elevated plus maze (a task used for measuring levels of anxiety; see BOX 4), hippocampal lesions disrupt the pausing behaviour that rats exhibit before venturing on to the open arms. It may be that hippocampal lesions reduce the expression of VTE, but also prevent animals from shifting to the planning and automation stages as easily. As noted above, on tasks in which rats show a shift from a flexible behaviour to an automated behaviour, such as the multiple-T task[54] , the Tolman–Hull plus maze[51,62,88] or the spatial delaydiscounting task[68] , VTE typically appears during early performance along with flexible behaviour and vanishes as the behaviour automates. On these tasks, hippocampal lesions decrease the VTE that occurs early (suggesting a problem with deliberative systems), but then these hippocampal lesions also disrupt this change in VTE with experience, leading to an increase in VTE, particularly on later laps (which should be more automated). Whether this disruption in the normal decrease in VTE also disrupts processes associated with automation (such as the development of task bracketing in the dorsolateral striatum; see below) remains unknown. 
 
-We also made correlation analyses to quantify the correlation between the magnitudes of information that predicted the first cursor movement during the preparatory period and during the execution of the movement. We calculated correlation be- 
+Intra-hippocampal pharmacological manipulations can also change the expression of VTE. The cannabinoid agonist CP55940 has three notable effects on behaviour and hippocampal representations, whether given systemically or intra-hippocampally. First, it disrupts the ability to hold information across temporal gaps between trials[90] . Second, it disrupts the phase-related firing of place cells[91] . Third, it markedly increases VTE[90,92] . Given that phase-related firing of place cells is a reflection of the underlying place-cell theta sequences[15,78] , the cannabinoid-induced disruption of phase-related firing is likely to be reflective of the disruption of the theta sequences and thus indicates a disruption of the forward sweeps. A plausible interpretation of these disruptions 
 
-tween the firing rates for four directions and for goals during the preparatory period and those during the movement period of each step of the cursor movement. We performed the test of significance for 
+is that CP55940 hinders the ability of the hippocampal sweeps to produce a self-consistent representation of the episodically imagined future, leaving an animal in the indecision stage, with continued expression of VTE. 
 
-## Quantification of Information Carried by Neuronal Activity 
+In contrast to CP55940, reduction of the tonic release of noradrenaline by clonidine decreases VTE[93] . It is not known what effect clonidine has on theta sequences, but new data suggest that it limits the search process to a single path, even during VTE events[94] . This mentally searched path is the one that gets chosen by the rat[94] . A plausible explanation for the reduction in VTE following clonidine exposure is that clonidine drives the animal into the planning stage, in which it mentally explores only a single option and thus does not spend as much time expressing VTE. 
 
-To evaluate the extent to which PFC neuronal activity predicted information associated with cursor movements, we calculated the predictive information (Is) carried by the occurrence of spikes by quantifying the decrease in entropy in the cursor directions as follows (cf. Kitazawa et al., 1998): 
+_**Beyond the hippocampus.**_ The neurophysiology of hippocampal representations during VTE[14] suggests that the hippocampus enables the representation of the imagined future outcome required by the search component during the VTE process. Given the known interactions between the hippocampus and cortical representation systems[34,84,95] , it is likely that a full representation of an episodic future would depend on both hippocampal representations of the cognitive map and cortical representations of the features in that episodic future[96,97] . This is consistent with observations that episodic future thinking in humans activates hippocampal and medial temporal lobe systems[26,73] , and prospective representations of specific options activate cortical areas that can be used to decode those future options[98] . 
 
-**==> picture [196 x 11] intentionally omitted <==**
+Because disrupting hippocampal representations increases VTE[87,90] , it is unlikely that the hippocampus initiates the VTE process. I suggest, instead, that some other structure polls the hippocampus for that episodic future. Given the known influence of the rodent 
 
-In Equation (4), N is the total number of trials, n is the number of trials for each direction of cursor movement (i = 1, 2, 3, and 4), and m is the number of trials for each direction during which a spike occurred within a given time window. We calculated the predictive information (Ins) carried by the absence of spikes by quantifying the decrease in entropy in the cursor directions as follows: 
+## Box 4 | **Anxiety** 
 
-**==> picture [188 x 21] intentionally omitted <==**
+A hallmark of anxiety is the inability to act owing to pausing to consider possibilities, and particularly the dangers inherent in those possibilities. A hallmark of rodent models of anxiety is an unwillingness to venture out into open spaces. For example, on the elevated plus maze (see the figure), anxious rats prefer to stay within the enclosed arms and do not like to venture out into the open arms[153] . This model seems to have construct validity in terms of involvement of similar brain structures as in human anxiety[155][,][156] and similar effects of anti‑anxiolytics[155] . The central intersection point between the closed and open arms of the elevated plus maze forms a choice point (see the figure), and rats often show micro-choices that look very much like VTE events at this choice point[153][,][157] . There is increased interaction between the hippocampus and the prefrontal cortex during these events[157][,][158] . This pausing at this central intersection point has been referred to as a ‘stretch–attend posture’, during which the rat leans out and then returns back[159] . The stretch–attend posture occurs at times of conflict between approach to a reward (such as getting a food pellet) and avoidance of a threat (such as a dangerous predator-like robot)[160][,][161] . The stretch–attend posture has been hypothesized to be critical for risk assessment[153][,][159] and probably represents a VTE event between staying and going. Predictions of this hypothesis are that there will be hippocampal theta sequences during these stretch–attend postures that will represent trajectories ahead of the rat[14] , that the hippocampus and the amygdala will show local field potential coupling[70] , Choice and that there will be point evaluation‑related representations in structures such as the ventral striatum and the amygdala[132][,][161] . 
 
-In Equation (5), M is the total number of trials during which a spike occurred within a given time window. 
+NATURE REVIEWS[|] **NEUROSCIENCE** 
 
-By solving Equations (4) and (5), we calculated the total predictive information (It) as follows: 
+VOLUME 17[|] MARCH 2016[|] **153** 
 
-**==> picture [148 x 8] intentionally omitted <==**
+REVIEWS 
 
-In Equation (6), p is the probability of spike occurrence during the time window under consideration. We used a time window of 100 ms to analyze the occurrence of spikes recorded from PFC neurons. If the total predictive information was significantly larger (Wilcoxon signed-ranks test, <0.05) than that during a control period (500 ms in Initial-Hold period, starting 300 ms after its onset), we defined the regression coefficients as significantly deviated from those of control period. 
+Covert reward signals Signals reflecting imagined representation of reward, as detected from the patterns of activity of reward-associated neuronal ensembles during non-rewarded events. 
 
-## Statistical Analysis of Eye Movements 
+prelimbic cortex on outcome-dependent decisions[99,100] and effects of its manipulations on goal-related activity in the hippocampus[101,102] , the prelimbic cortex is a good candidate for the structure that is likely to be initiating VTE. 
 
-Although the monkeys were not required to control their gaze while performing the task, we nevertheless analyzed eye positions and movements during the task. We used a multiple regression analysis to estimate how task-related neuronal activity was related to eye positions and saccades. We calculated the mean firing rate, mean eye position, and vertical and horizontal components of saccades in 50-ms bins for each trial. We used the following linear model to express neuronal activity: 
+_**The PFC.**_ Theories of the neurophysiology underlying human deliberative processes, particularly the initiation of imagination, suggest a role for the PFC in deliberation[26,45,73] . In the rat, the prelimbic and infralimbic cortices (together termed the medial PFC (mPFC)) are usually identified as homologous to the primate dorsolateral PFC[103,104] , although the homology remains controversial[105] . 
 
-**==> picture [184 x 40] intentionally omitted <==**
+Cells in the mPFC tend to represent task-related parameters and, on structured maze tasks, their activity tends to chunk the environment into task-related sections[106,107] , analogous to the trajectory-related sequences seen in the hippocampus[72,75] . It is not known whether these mPFC neural patterns are directly related to the hippo campal sequences, but, interestingly, mPFC cellfiring patterns lock to hippocampal rhythms during episodic memory and decision-making tasks[108,109] , and interfering with the prelimbic–hippocampal circuit (through optogenetic silencing or physical lesions of the nucleus reuniens) disrupts the processing of goal-related information in the hippocampus[102] . Disruption of the mPFC of rats impaired the ability of the animals to flexibly switch to novel strategies[110] , but not after those strategies had been well learned[111] , suggesting that the mPFC is necessary during those task aspects in which VTE tends to appear[52] . 
 
-In Equation (7), b0 is the intercept and b1–4 are coefficients. To evaluate the relationships between neuronal activity and each factor, we calculated the T value of the regression coefficient using the corresponding bin-by-bin data for neuronal activity and eye position/saccade metrics. The T value was normalized to the T value that corresponded to a significance level of 0.01. 
+There is a strong, transient increase in LFP interactions between the hippocampus and the mPFC at the choice point during times when rats typically express VTE[101,112,113] . Several researchers have suggested that coherent oscillations (measured by paired recordings of LFPs in two separate structures) can increase the transmission of information between structures, allowing for transient changes in functional connectivity as a function of different task demands[114] . The functional relationships between the hippocampus and the mPFC are critical for the goal-dependent firing of hippocampal cells[102] , and are disrupted by cannabinoids[115] . 
 
-## Supplemental Data 
+These studies suggest a model in which VTE reflects a deliberation process entailing an interaction between the mPFC and the hippocampus. I propose that the mPFC initiates the request, and the hippocampus responds by calculating the consequences of a potential sequence of actions (that is, identifying a potential future outcome). This interaction may explain why the hippocampal sequences are serial considerations of potential options — each request by the mPFC is searched through by a single theta sequence. If the hippocampus responds with poorly structured information (such as when under the influence of cannabinoids), the mPFC sends additional requests, leading to an increase in VTE. If the hippocampus responds assured of the consequences of the action (such as when under the influence of clonidine), the mPFC is satisfied and VTE is diminished. However, how the quality of the hippocampal representation is evaluated by the mPFC or other downstream structures remains unknown. 
 
-The Supplemental Data for this article can be found online at http:// www.neuron.org/cgi/content/full/50/4/631/DC1/. 
+_**The ventral striatum and the OFC.**_ It is not enough to know what will happen when exploring a potential path during deliberation — one also has to evaluate the consequences of that path, preferably in light of one’s goals[57] . Both the ventral striatum and the orbitofrontal cortex (OFC) have been identified as key to evaluation processes in rats[116–118] , monkeys[119–121] and humans[122–125] . Neurons in these structures respond to reward value[119,126–129] , and reward-related cells in both the ventral striatum and the OFC fire transiently just before an animal initiates a journey to a goal[127,130,131] . Cells in these structures that exhibit large firing responses to reward also fire action potentials during VTE[66,129,132] . This suggests the presence of an imagination of reward during VTE events, potentially providing an evaluation signal. 
 
-## Acknowledgments 
+On T-maze tasks, the pause-and-reorient behaviour of VTE has one (or more) very clear, sharp transition that can be identified quantitatively[54,66,68,82,129] , and can provide the potential to identify the timing of neural reward representations relative to decision-making processes. Covert reward signals in the ventral striatum preceded the moment of turning around, whereas the covert reward signal in the OFC appeared only as the animal oriented towards its goal, after turning around[54,66,129] . 
 
-This work was supported by grants from the Japan Science and Technology Agency[ERATO] and the Ministry of Education, Culture, Sports, Science and Technology of Japan. We thank T. Suenaga, H. Watanabe, and K. Shoji (RIEC) for technical support, and Y. Takahashi, M. Kurama, and N. Kanazawa (Physiology) for technical assistance. 
+These data suggest that the ventral striatum provides evaluative calculations during the decision-making process itself (before the animal stops and reorients towards its goal), whereas the OFC provides expectation information only after an animal commits to its decision. This hypothesis is consistent with recent work examining the timing of choice-related value representations in primates, comparing when evaluation signals in neurons recorded from the ventral striatum and ventral prefrontal cortical areas (which are probably homologous to the rat OFC) represent the value of the selected choice[121] . It is also consistent with work finding that the rat OFC exhibits outcome-specific representations of expected rewards after decisions[67,133] . 
 
-Representation of Multiple Future Events 641 
+_**The dorsolateral striatum.**_ As noted above, when repeated actions reliably achieve goals, animals can use procedural decision making, which depends on an algorithm of releasing action chains after recognizing the situation[49] . In a sense, the animal has learned to categorize the world (by developing a schema) and acts appropriately given those categories[24] . A key structure in the categorize-and-act process is the dorsolateral striatum. Lesions and other manipulations that compromise the function of the dorsolateral striatum drive behaviour away from procedural decision making and towards deliberative decision making[62,63] . Theoretically, the informationprocessing steps involved in procedural decision making are considerably different from those involved in the search-and-evaluate, deliberative system[22,50,54] . 
 
-Received: October 11, 2005 Revised: January 30, 2006 Accepted: March 28, 2006 Published: May 17, 2006 
+Structures involved in procedural decision making should slowly develop representations of situation–action pairs, but only for the cues that provide reliable information as to which actions should be taken to achieve a reward. In contrast to the ubiquitous spatial representations of hippocampal place cells[10,34,134,135] , structures involved in procedural learning should only develop 
 
-## References 
+**154**[|] MARCH 2016[|] VOLUME 17 
 
-Asaad, W.F., Rainer, G., and Miller, E.K. (2000). Task-specific neural activity in the primate prefrontal cortex. J. Neurophysiol. 84, 451– 459. 
+**www.nature.com/nrn** 
 
-Averbeck, B.B., Chafee, M.V., Crowe, D.A., and Georgopoulos, A.P. (2002). Parallel processing of serial movements in prefrontal cortex. Proc. Natl. Acad. Sci. USA 99, 13172–13177. 
+REVIEWS 
 
-Boussaoud, D., and Wise, S.P. (1993). Primate frontal cortex: neuronal activity following attentional versus intentional cues. Exp. Brain Res. 95, 15–27. 
+spatial representations when knowing where one is in space informs which actions one should take. Neural ensembles in the dorsolateral striatum only develop representations of those action–task pairs that reflect cues and task parameters that are informative about the action[55,136,137] . For example, dorsolateral striatal representations develop spatial correlates on the multiple-T task, but not on an analogous non-spatial task even when that non-spatial task occurs on a large track-based maze[83,137] . 
 
-Bruce, C.J., and Goldberg, M.E. (1985). Primate frontal eye fields. I. Single neurons discharging before saccades. J. Neurophysiol. 53, 603–635. 
+Moreover, dorsolateral striatal ensembles should not show activity that is representative of transient mental sweeps into future outcomes (as the hippocampus does). Indeed, they do not; even during VTE events, and even on tasks in which dorsolateral striatum cells do show spatial representations[54,56] . Nor should reward-related cells in the dorsolateral striatum show transient activity carrying covert information about reward (as the ventral striatum and the OFC do) — again, they do not; although a subset of dorsolateral striatum cells do show reward-related activity[53,56,83] , these reward cells do not show a transient upregulation of firing during VTE events[54] . Thus, neural activity in the dorsolateral striatum during decision-making tasks is more consistent with an involvement of this structure in procedural decision making than in deliberative decision making. 
 
-Constantinidis, C., Franowicz, M.N., and Goldman-Rakic, P.S. (2001). The sensory nature of mnemonic representation in the primate prefrontal cortex. Nat. Neurosci. 4, 311–316. 
+As behaviour becomes ‘ballistic’ and stereotyped, dorsolateral striatal neural ensembles transition their firing to the start and end of the journey, with decreased firing in the middle[53,56,138–141] . This phenomenon has been termed task bracketing, and it diminishes quickly if a change in the reward-delivery contingency forces animals back into using deliberative strategies[53,56] . Task bracketing is negatively correlated with the presence of VTE on a lap-by-lap basis[53,56] , supporting the hypothesis that VTE is indicative of decisions being made by the deliberative system, whereas task bracketing is indicative of the decisions being made by the procedural system. Interestingly, task bracketing remained after reward devaluation[53] and after switching the signalling cue to a 
 
-Draper, N.R., and Smith, H. (1998). Applied Regression Analysis, Third edition (New York: John Wiley & Sons). 
+## Box 5 | **Primates** 
 
-Fujii, N., and Graybiel, A.M. (2003). Representation of action sequence boundaries by macaque prefrontal cortical neurons. Science 301, 1246–1249. 
+This Review has concentrated on the rat because vicarious trial and error (VTE) behaviour has been both best defined and most extensively studied in this organism. However, in certain visuospatial tasks in which options are separated on a visual screen, humans and non-human primates do show a similar process termed ‘saccade–fixate–saccade’ (SFS), in which the subject looks from one option to another[61][,][162][,][163] (see the figure). Thus, just as VTE in the rat entails alternate orientation and reorientation towards goals, SFS may entail an alternate orientation and reorientation towards a target. This connects SFS to the extensive primate (both human and non‑human) literature on visual search[36][,][164] ; however, whereas visual search is usually used to refer to situations in which perception is difficult but the decision — once the correct 
 
-Fukushima, T., Hasegawa, I., and Miyashita, Y. (2004). Prefrontal neuronal activity encodes spatial target representations sequentially updated after nonspatial target-shift cues. J. Neurophysiol. 91, 1367–1380. 
+stimulus is perceived — is easy, SFS is usually observed in situations in which the perception is easy, but the decision is hard, such as when given a choice between two similarly valued candy bars[61] . As with the rats and VTE, amnesic patients with severe hippocampal dysfunction showed disruptions in these SFS revisitation processes[162] , which are believed to depend on prefrontal–hippocampal interactions[45] . 
 
-Fuster, J.M. (1990). Prefrontal cortex and the bridging of temporal gaps in the perception-action cycle. Ann. N Y Acad. Sci. 608, 318– 329. 
+Saccade Option 1 Option 2 
 
-Fuster, J.M. (1997). The Prefrontal Cortex: Anatomy, Physiology, and Neuropsychology of The Frontal Lobe (Philadelphia: LippincottRaven). 
+**==> picture [57 x 48] intentionally omitted <==**
 
-Fuster, J.M., Bodner, M., and Kroger, J.K. (2000). Cross-modal and cross-temporal association in neurons of frontal cortex. Nature 405, 347–351. 
+**==> picture [58 x 47] intentionally omitted <==**
 
-Goldman-Rakic, P.S. (1987). Circuitry of primate prefrontal cortex and regulation of behavior by representational memory. In Handbook of Physiology: The Nervous System, F. Plum and M.D. Bethesda, eds. (American Physiological Society), pp. 373–417. 
+novel modality[142] , but disappeared during extinction[140] and after a reward-delivery contingency reversal that required a change in action in response to the same set of cues[56] . These findings may suggest that the hypothesized relationship between reward evaluation or devaluation and deliberative search processes[35] may require a more complicated process model[42,143] that separates one-step and multistep processes. 
 
-Hasegawa, R., Sawaguchi, T., and Kubota, K. (1998). Monkey prefrontal neuronal activity acoding the forthcoming saccdade in an oculomotor delayed matching-to-sample task. J. Neurophysiol. 79, 322–333. 
+_**Neurophysiological conclusions.**_ The neurophysiology summarized above is consistent with the hypothesis that there are (at least) two decision-making systems based on different algorithms — a deliberative system based on search-and-evaluate processes and a procedural system based on the release of learned action chains in response to situation categorization. It is also consistent with the hypothesis that VTE is a behavioural reflection of the deliberative process. The search process arises from an interaction between the PFC and the hippocampus, with pre-decision evaluation in the ventral striatum, and post-decision evaluation in the OFC. In the rat, the infralimbic cortex may have contrasting roles to the prelimbic cortex, instead affecting learned, automated procedural strategies[53,99] . The data reviewed above suggest that the dorsolateral striatum is a critical component of the procedural system; it learns the associated action chains that should be taken in rewarded situations. There is evidence that the dorsomedial striatum may have roles in the deliberative component[55,56,63,144–146] , and that there may be differences between the functions of the anterior and posterior portions of the dorsomedial striatum[55,56,63] , but the specific roles of the dorsomedial striatum in decision making remain incompletely explored. 
 
-Hasegawa, R.P., Blitz, A.M., Geller, N.L., and Goldberg, M.E. (2000). Neurons in monkey prefrontal cortex that track past or predict future performance. Science 290, 1786–1789. 
+## **Theories of VTE** 
 
-Hoshi, E., and Tanji, J. (2004). Area-selective neuronal activity in the dorsolateral prefrontal cortex for information retrieval and action planning. J. Neurophysiol. 91, 2707–2722. 
+The term ‘vicarious trial and error’ as originally suggested by Muenzinger, Gentry and Tolman[1–3] is fraught with meaning, implying imagination, mental time travel and a cognitive search-and-evaluate process. In effect, they were proposing that rats were deliberating over choices. The neurophysiological data reviewed above suggest that this is actually an accurate description of the behaviour. Over the years, alternative accounts of VTE have been proposed, suggesting that perhaps VTE was simply a means of gathering sensory information or that it merely reflected indecision during learning. However, further examination of these two alternatives suggests that VTE really is an example of using working memory to explore mental possibilities — that is, to vicariously try out alternatives. 
 
-Hoshi, E., Shima, K., and Tanji, J. (1998). Task-dependent selectivity of movement-related neuronal activity in the primate prefrontal cortex. J. Neurophysiol. 80, 3392–3397. 
+_**Is VTE a means of gathering sensory information?**_ As a behavioural process, VTE entails orientation towards a path to a goal, or perhaps even orientation towards the goal itself. Because of this, early theories of VTE suggested that rats were merely focusing sensory attention on cues[1,147] . This simple hypothesis is, however, unten able, because the proportions of VTE change as behaviour changes, even when sensory cues are held constant[14,67,68,87] . Certainly, there are examples of pause-and-reorientation behaviour in both rats (looking like VTE) and primates (BOX 5) that have 
 
-Kitazawa, S., Kimura, T., and Yin, P.-B. (1998). Cerebellarcomplex spikes encode both destinations and errors in arm movements. Nature 392, 494–497. 
+NATURE REVIEWS[|] **NEUROSCIENCE** 
 
-Leon, M.I., and Shadlen, M.N. (1999). Effect of expected reward magnitude on the response of neurons in the dorsolateral prefrontal cortex of the macaque. Neuron 24, 415–425. 
+VOLUME 17[|] MARCH 2016[|] **155** 
 
-Miller, E.K. (1999). The prefrontal cortex: complex neural properties for complex behavior. Neuron 22, 15–17. 
+## REVIEWS 
 
-Mushiake, H., Inase, M., and Tanji, J. (1991). Neuronal activity in the primate premotor, supplementary, and precentral motor cortex during visually guided and internally determined sequential movements. J. Neurophysiol. 66, 705–718. 
+## Integration to threshold 
 
-Mushiake, H., Saito, N., Sakamoto, K., Sato, Y., and Tanji, J. (2001). Visually based path-planning by Japanese monkeys. Brain Res. Cogn. Brain Res. 11, 165–169. 
+A psychological theory of decision making whereby one accumulates evidence for one decision over another; when the evidence for one decision reaches a threshold, the decision is made. 
 
-Nieder, A., Freedman, D.J., and Miller, E.K. (2002). Representation of the quantity of visual items in the primate prefrontal cortex. Science 297, 1708–1711. 
+information-gathering components. However, hippocampal place-cell sweeps do not always reflect the orientation of the rat[14] , suggesting that the sweeps reflect an internal process of vicarious exploration rather than a means of gathering external sensory information. Although it is true that rats have a very wide field of view, VTE has been observed in walled-maze tasks in which the animal cannot see the goal[56,87] , so any sensory-information-gathering theory would have to depend on only the first part of a journey. Moreover, VTE-like reorientations observed in sensory-information-gathering situations do not depend on hippocampal integrity, unlike VTE-like reorientations in goal-directed behaviours[86] . VTE is more likely to be a reflection of an internal process[50,58] , perhaps as the halted initiation of an action. 
 
-Niki, H., and Watanabe, M. (1976). Prefrontal unit activity and delayed response: relation to cue location versus direction of response. Brain Res. 105, 79–88. 
+_**Is VTE exploration of novel environments?**_ On initial exploration, rats do show specific exploration-related behaviours — particularly pauses during which rats tend to show visual exploration of an environment by rearing up on their hind legs and swinging their head back and forth from side to side[10,148] . Although VTE often does include the head swinging from side to side, this behaviour reflects the orienting and reorienting towards paths and does not include rearing on the hind legs. Exploratory behaviours occur on novel mazes on which rats have very limited experience, whereas VTE occurs on tasks in which 
 
-Ninokura, Y., Mushiake, H., and Tanji, J. (2003). Representation of the temporal order of visual objects in the primate lateral prefrontal cortex. J. Neurophysiol. 89, 2868–2873. 
+the animal has lots of experience but requires specific parameters for a given day. Moreover, rearing behaviours occur throughout the space of the maze, whereas VTE occurs specifically at difficult choice points. On a circular track, animals expressed pause-and-rearing behaviours randomly throughout the track[149] , whereas on the multiple-T task, VTE behaviours were only expressed at the final (difficult) choice point[14,54] , and on the restaurant row task VTE behaviours were preferentially expressed at entries onto the reward spokes, particularly when the economic offer was at the animal’s decision threshold[67] . On the spatial delay-discounting task, more VTE occurred during the so-called titration phase (while rats adjusted the delay) than during the investigation or exploration phases[68,87] . Neurophysiologically, VTE is associated with hippocampal sweeps of representations of paths towards a goal and do not produce long-term changes in the place fields of the cell[14] ; by contrast, exploratory pause-andrear behaviours recruit hippocampal cells to develop new place fields[149] . Together, this evidence suggests that VTE is more likely to reflect a form of exploration within an internal, mental space of possibilities than exploration of the external environment. 
 
-Passingham, R.E. (1993). The Frontal Lobes and Voluntary Action (New York: Oxford). 
+_**A search through mental information space.**_ One of the discoveries of the computer revolution is that information can be hidden within complex data structures such 
 
-Petrides, M. (1996). Specialized systems for the processing of mnemonic information within the primate frontal cortex. Philos. Trans. R. Soc. Lond. B Biol. Sci. 351, 1455–1461. 
+## Box 6 | **Open questions** 
 
-Romo, R., Brody, C.D., Hernandez, A., and Lemus, L. (1999). Neuronal correlates of parametric working memory in the prefrontal cortex. Nature 399, 470–473. 
+Although we have made a lot of progress in identifying the neural mechanisms underlying vicarious trial and error (VTE) behaviours, confirming many of the original implications of the term ‘vicarious trial and error’ (an explicit search process representing future options), several key open questions remain. 
 
-Rowe, J.B., Toni, I., Josephs, O., Frackowiak, R.S., and Passingham, R.E. (2000). The prefrontal cortex: response selection or maintenance within working memory? Science 288, 1656–1660. 
+## **How does the process decide which potential futures to search?** 
 
-Saito, N., Mushiake, H., Sakamoto, K., Itoyama, Y., and Tanji, J. (2005). Representation of immediate and final behavioral goals in the monkey prefrontal cortex during an instructed delay period. Cereb. Cortex 15, 1535–1546. 
+Mental construction of potential future outcomes is a form of a search process[23][,][36] , and thus requires a recall process that must be modulated by one’s goals. Cueing expected outcomes can guide preferences towards that outcome, but it is not yet known whether those preferences also drive mental search representation to focus on paths to that outcome[35][,][41][,][44][,][165–168] . 
 
-Sato, K.C., and Tanji, J. (1989). Digit-muscle responses evoked from multiple intracortical foci in monkey precentral motor cortex. J. Neurophysiol. 62, 959–970. 
+The information represented within hippocampal sequences is correlated with the orientation of the rat during VTE, but does not track it on a one-to-one basis[14][,][72] . Similarly, hippocampal sequences during goal‑related navigation include increased representations of the chosen goal but are not uniformly targeted towards the chosen goal[16][,][75] . This suggests that VTE probably reflects the process of searching but is not necessarily oriented towards the goal itself. How these two processes (the neurophysiology of search and the orientation of the rat) are related remains incompletely explored. 
 
-Takeda, K., and Funahashi, S. (2002). Prefrontal task-related activity representing visual cue location or saccade direction in spatiaworking memory tasks. J. Neurophysiol. 87, 567–588. 
+## **How are the options evaluated?** 
 
-Tanji, J., and Hoshi, E. (2001). Behavioral planning in the prefrontal cortex. Curr. Opin. Neurobiol. 11, 164–170. 
+In humans, evaluation of episodically imagined futures during deliberation seems to be based on applying perceptual valuation processes to the imagined outcomes[21][,][27][,][28][,][169] . Perceptual and deliberative valuation processes in humans and other animals activate and depend on similar neural systems[28][,][122][,][124][,][165] . Evaluative steps during VTE in rodents activate the ventral striatum and the orbitofrontal cortex[66][,][129][,][132] . In humans, the evaluation step depends on current emotional processes[20][,][27][,][28] . In rats, devaluation of a reward reduces the performance of actions that lead to that reward during early learning and when flexible behaviours are required (because reward-delivery contingencies are variable); however, after automation, reward 
 
-Wallis, J.D., and Miller, E.K. (2003). From rule to response: neuronal processes in the premotor and prefrontal cortex. J. Neurophysiol. 90, 1790–1806. 
+devaluation has no such effect on the performance of these actions[99] . This discrepancy suggests that during deliberative processes there may be an evaluation step that is based on current needs and that is not used during procedural processes[57][,][165] . Whether this step works through a homologous process to human evaluative processes remains controversial[143][,][166][,][170] . 
 
-Watanabe, M. (1996). Reward expectancy in primate prefrontal neurons. Nature 382, 629–632. 
+## **How is the action selected?** 
 
-White, I.M., and Wise, S.P. (1999). Rule-dependent neuronal activity in the prefrontal cortex. Exp. Brain Res. 126, 315–335. 
+Deliberation is a decision‑making process[24] . Studies have so far failed to find any relationship between the directions being represented during VTE and the eventual choice of the animal in normal animals[14][,][129] . The saccade–fixate–saccade processes in primates (BOX 5) have been argued to reflect integration of value of a given choice[61] , which accesses the psychological decision theory of integration to threshold[171] . This model has extensive psychophysical and neurophysiological support in perceptual decisions in which one needs to determine how to perceive a complex stimulus[172][,][70] . For example, when a subject is faced with a set of dots on a screen that are moving mostly randomly and asked to determine the average non-random direction hidden within the random population, representations of the alternative possibilities develop slowly, integrating until they cross a threshold[172] . However, neural ensemble recordings in the ventral striatum and the orbitofrontal cortex of rats have failed to find integration‑to‑threshold signals during VTE in either structure[129] . Behavioural data on some tasks indicate that VTE is increased when decisions are difficult[67] , which is consistent with the integra‑ tion‑to‑threshold hypothesis (more difficult decisions require more integration time), but in other tasks VTE is increased only when the animal is using a deliberative strategy. On the spatial delay-discounting task, VTE occurs when values are very different from each other and disappears when the values become equal[68] (presumably because the rat can use a procedural strategy at that point on this task). Although the action‑ selection process that must end deliberation remains unknown at this time, the evidence strongly supports the idea that VTE is reflecting the search‑and‑evaluate process that underlies deliberation. 
 
-Wise, S.P., Murray, E.A., and Gerfen, C.R. (1996). The frontal cortexbasal ganglia system in primates. Crit. Rev. Neurobiol. 10, 317–356. 
+**156**[|] MARCH 2016[|] VOLUME 17 
 
-Hoshi, E., Shima, K., and Tanji, J. (2000). Neuronal activity in the primate prefrontal cortex in the process of motor selection based on two behavioral rules. J. Neurophysiol. 83, 2355–2373. 
+**www.nature.com/nrn** 
 
-Jenkins, I.H., Jahanshahi, M., Jueptner, M., Passingham, R.E., and Brooks, D.J. (2000). Self-initiated versus externally triggered movements. II. The effect of movement predictability on regional cerebral blood flow. Brain 123, 1216–1228. 
+REVIEWS 
 
-Kesner, R.P., and Novak, J.M. (1982). Serial position curve in rats: role of the dorsal hippocampus. Science 218, 173–175. 
+Visuospatial scratchpad A component hypothesized to underlie working memory processes, in which neural circuits normally used for perception are used to hold imagined information for processing. 
 
-Kim, J.N., and Shadlen, M.N. (1999). Neural correlates of a decision in the dorsolateral prefrontal cortex of the macaque. Nat. Neurosci. 2, 176–185. 
+that accessing that information can require computation and time[8] . Similarly, the information about which rewards are available, and where and how to get to them may be stored in an animal’s brain, but determining what the consequences of one’s actions are and whether those actions are the right choice at this time can require a search process through one’s knowledge about the world. 
+
+Interestingly, early theories of working memory suggested that working memory allowed information to be explored internally to determine previously unrecognized aspects hidden within one’s knowledge[150] . This exploration was hypothesized to arise from prefrontal areas[45,151] , using sensory and other representational systems as a visuospatial scratchpad[18,150] . The deliberative explanation for VTE derived in this article also suggests a very similar process, whereby the mPFC sends requests to the hippocampus to explore possible outcomes, the value of which can then be evaluated by the ventral striatum. 
+
+Exploration has been hypothesized to be a form of information foraging and, analogously, deliberation has been hypothesized to consist of a mental exploration of one’s internal schema[58] . The latter hypothesis requires that an animal has a model of the world (a mental schema) on which to search. Consistent with this hypothesis, VTE does not occur on initial exploration, but only after the rat has a schema about the task and environment. Similarly, VTE does not occur 
+
+during every decision, but only during difficult decisions (that is, where options are similarly valued[67] ) and before automation[14,53,54,56,65,68] . 
+
+## **Conclusion** 
+
+In his 1935 critique of Tolman’s VTE hypothesis, Guthrie[152] said that: “So far as the theory is concerned the rat is left buried in thought”. We now know that an internal search through a representation can derive information that is hidden within that representation, and thus that a search through a mental schema of the consequences of one’s actions can derive information that can change decisions. Importantly, computation takes time. The search-and-evaluate process that underlies deliberation therefore requires time to complete. Although several questions remain (BOX 6), the term ‘vicarious trial and error’ makes strong assumptions about cognitive and mental states; it implies that rats are actually searching through possibilities, evaluating those possibilities and making decisions that are based on those evaluations. In other words, it implies that rats really are deliberating. The data that have come in over the past decade are clear: Muenzinger, Gentry and Tolman were completely correct — VTE is a process of vicarious (mental) trial and error (search, evaluate and test). Guthrie was also right: when rats pause at choice points, they are indeed “buried in thought”. 
+
+|1.|Muenzinger, K. F. & Gentry, E. Tone discrimination in|15. Foster, D. J. & Wilson, M. A. Hippocampal theta|27. Gilbert, D. T. & Wilson, T. D. Why the brain talks to|
+|---|---|---|---|
+||white rats._J. Comp. Psychol._**12**, 195–206 (1931).|sequences._Hippocampus_**17**, 1093–1099 (2007).|itself: sources of error in emotional prediction.|
+|2.|Tolman, E. C. Prediction of vicarious trial and error by|16. Pfeiffer, B. E. & Foster, D. J. Hippocampal place-cell|_Phil. Trans. R Soc. B_ **364**, 1335–1341 (2009).|
+||means of the schematic sowbug._Psychol. Rev._**46**,|sequences depict future paths to remembered goals.|28. Phelps, E., Lempert, K. M. & Sokol-Hessner, P.|
+||318–336 (1939).|_Nature_**497**, 74–79 (2013).|Emotion and decision making: multiple modulatory|
+|3.|Tolman, E. C. Cognitive maps in rats and men.|17. O’Craven, K. M. & Kanwisher, N. Mental imagery of|circuits._Annu. Rev. Neurosci._**37**, 263–287 (2014).|
+||_Psychol. Rev._**55**, 189–208 (1948).|faces and places activates corresponding stimulus-|29. Redish, A. D., Schultheiss, N. W. & Carter, E. C.|
+|4.|Hull, C. L._Principles of Behavior_(Appleton-Century-|specific brain regions._J. Cogn. Neurosci._**12**, 1013–1023|The computational complexity of valuation and|
+||Crofts, 1943).|(2000).|motivational forces in decision-making processes.|
+|5.|Turing, A. On computable numbers, with an application|18. Pearson J., Naselaris, T., Holmes, E. A. & Kosslyn S. M.|_Curr. Top. Behav. Neurosci._ http://dx.doi.org/|
+||to the entscheidungs problem._Proc. Lond. Math. Soc._|Mental imagery: functional mechanisms clinical|10.1007/7854_2015_375(2015).|
+||**42**, 230–265 (1937).|application._Trends Cogn. Sci._ **19**, 590–602 (2015).|30. Redish, A. D., Jensen, S., Johnson, A. &|
+|6.|Wiener, N._Cybernetics, or Control and Communications_|**This is a clear review of the now established**|Kurth-Nelson, Z. Reconciling reinforcement learning|
+||_in the Animal and the Machine_(Hermann, 1948).|**fact that imagination activates the same circuits**|models with behavioral extinction and renewal:|
+|7.|Shannon, C. A mathematical theory of communication.|**as perception in humans, which can be used**|Implications for addiction, relapse, and problem|
+||_Bell System Techn. J._**27**, 379–423, 623–656 (1948).|**(in reference 19) to identify mental time travel in**|gambling._Psychol. Rev._**114**, 784–805 (2007).|
+|8.|Newell, A., Shaw, J. C. & Simon, H. A. in_Proc. Int. Conf._|**non-human animals.**|31. Gershman, S. J., Blei, D. & Niv, Y. Context,|
+||_Information Process_. [online], http://bitsavers.|19. Johnson, A., Fenton, A. A., Kentros, C. & Redish, A. D.|learning and extinction._Psychol. Rev._**117**, 197–209|
+||informatik.uni-stuttgart.de/pdf/rand/ipl/P-1584_|Looking for cognition in the structure within the noise.|(2010).|
+||Report_On_A_General_Problem-Solving_Program_|_Trends Cogn. Sci._ **13**, 55–64 (2009).|32. Niv, Y._et al._Reinforcement learning in|
+||Feb59.pdf (UNESCO,1959).|**This paper lays out the logic and mathematics**|multidimensional environments relies on|
+|9.|Simon, H. A behavioral model of rational choice._Q_.|**allowing for identification of neural representations**|attention mechanisms._J. Neurosci._**35**, 8145–8157|
+||_J. Econ_. **69**, 99–118 (1955).|**of cognitive events (such as mental time travel) from**|(2015).|
+|10.|O’Keefe, J. & Nadel, L. _The Hippocampus as a Cognitive_|**neural signals in non-human animals.**|33. Johnson, A. & Crowe, D. A. Revisiting Tolman, his|
+||_Map_(Clarendon Press, 1978).|20. Payne, J., Bettman, J. & Johnson, E._The Adaptive_|theories and cognitive maps._Cogn. Critique_**1**,|
+||**This is a comprehensive book laying out the**|_Decision Maker_(Cambridge Univ. Press, 1993).|43–72 (2009).|
+||**hypothesis that the hippocampus has a key role in**|21. Gilbert, D. T. & Wilson, T. D. Prospection: experiencing|34. Redish, A. D._Beyond the Cognitive Map: From Place_|
+||**Tolman’s cognitive map. Also, this book explains one**|the future._Science_**317**, 1351–1354 (2007).|_Cells to Episodic Memory_(MIT Press, 1999).|
+||**of the first proposed algorithmic differences**|22. Rangel, A., Camerer, C. & Montague, P. R. A|35. Daw, N. D., Niv, Y. & Dayan, P. Uncertainty-based|
+||**between what is now called deliberative and**|framework for studying the neurobiology of|competition between prefrontal and dorsolateral|
+||**procedural learning.**|value-based decision making._Nat. Rev. Neurosci._ **9**,|striatal systems for behavioral control._Nat. Neurosci._|
+|11.|Wilson, M. A. & McNaughton, B. L. Dynamics of the|545–556 (2008).|**8**, 1704–1711 (2005).|
+||hippocampal ensemble code for space._Science_**261**,|23. Kurth-Nelson, Z., Bickel, W. K. & Redish, A. D. A|36. Winstanley, C. A._et al._in_Cognitive Search: Evolution,_|
+||1055–1058 (1993).|theoretical account of cognitive effects in delay|_Algorithms, and the Brain_(eds Hills, T._et al._)|
+|12.|Zhang, K. Representation of spatial orientation by the|discounting._Eur. J. Neurosci._**35**, 1052–1064|125–156 (MIT Press, 2012).|
+||intrinsic dynamics of the head-direction cell ensemble:|(2012).|37. McKenzie, S._et al._Hippocampal representation of|
+||a theory._J. Neurosci._**16**, 2112–2126 (1996).|24. Redish, A. D._The Mind within the Brain: How we_|related and opposing memories develop within|
+|13.|Brown, E. N., Frank, L. M., Tang, D., Quirk, M. C.|_Make Decisions and How Those Decisions Go Wrong_|distinct, hierarchically organized neural schemas.|
+||& Wilson, M. A. A statistical paradigm for neural spike|(Oxford Univ. Press, 2013).|_Neuron_**83**, 202–215 (2014).|
+||train decoding applied to position prediction from|**This is a thorough review of the concepts and**|38. Lichtenstein, S. & Slovic, P. (eds)_The Construction_|
+||ensemble firing patterns of rat hippocampal place cells.|**theory underlying the multiple-decision systems**|_of Preference_(Cambridge Univ. Press, 2006).|
+||_J. Neurosci._**18**, 7411–7425 (1998).|**hypothesis.**|39. Kahneman, D._Thinking, Fast, and Slow_(Farrar,|
+|14.|Johnson, A. & Redish, A. D. Neural ensembles CA3|25. Buckner, R. L. & Carroll, D. C. Self-projection and the|2011).|
+||transiently encode paths forward animal decision point.|brain._Trends Cognitive Sci._**11**, 49–57 (2007).|40. Benoit, R. G., Gilbert, S. J. & Burgess, P. W. A neural|
+||_J. Neurosci._ **27**, 12176–12189 (2007).|26. Schacter, D. L. & Addis, D. R. in_Predictions in the_|mechanism mediating the impact of episodic|
+||**This paper shows for the first time that hippocampal**|_Brain: Using Our Past to Generate a Future_|prospection on farsighted decisions._J. Neurosci._**31**,|
+||**sequences encode future outcomes at choice points.**|(ed. Bar, M.) 58–69 (Oxford Univ. Press, 2011).|6771–6779 (2011).|
+
+
+
+NATURE REVIEWS[|] **NEUROSCIENCE** 
+
+VOLUME 17[|] MARCH 2016[|] **157** 
+
+## REVIEWS 
+
+41. Peters, J. & Büchel, C. Episodic future thinking reduces reward delay discounting through an enhancement of prefrontal–mediotemporal interactions. _Neuron_ **66** , 138–148 (2010). 
+
+61. Krajbich, I. & Rangel, A. Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions. 
+
+_Proc. Natl Acad. Sci. USA_ **108** , 13852–13857 (2011). **Investigating human saccade–fixate–saccade sequences, this paper suggests a decision model and shows that it is consistent with the behavioural selections made by subjects.** 
+
+42. Kwan, D. _et al._ Future decision-making without episodic mental time travel. _Hippocampus_ **22** , 1215–1219 (2012). 
+
+43. Hassabis, D., Kumaran, D., Vann, S. D. & Maguire, E. A _._ Patients with hippocampal amnesia cannot imagine experiences. _Proc. Natl Acad. Sci. USA_ **104** , 1726–1731 (2007). 
+
+   62. Packard, M. G. & McGaugh, J. L. Inactivation of hippocampus or caudate nucleus with lidocaine differentially affects expression of place and response learning. _Neurobiol. Learn. Mem._ **65** , 65–72 (1996). 
+
+- **This paper shows that the hippocampus is critical for the ability to create episodic futures in humans.** 
+
+63. Yin, H. H., Knowlton, B. & Balleine, B. W. Lesions of dorsolateral striatum preserve outcome expectancy but disrupt habit formation in instrumental learning. _Eur. J. Neurosci._ **19** , 181–189 (2004). 
+
+44. Lebreton, M. _et al._ A critical role for the hippocampus in the valuation of imagined outcomes. _PLoS Biol._ **11** , e1001684 (2013). 
+
+45. Wang, J. X., Cohen, N. J. & Voss, J. L. Covert rapid action-memory simulation (crams): a hypothesis of hippocampal–prefrontal interactions for adaptive behavior. _Neurobiol. Learn. Mem._ **117** , 22–33 (2015). 
+
+   64. Gupta, A. S., van der Meer, M. A. A., Touretzky, D. S. & Redish, A. D. Hippocampal replay is not a simple function of experience. _Neuron_ **65** , 695–705 (2010). 
+
+   65. Blumenthal, A., Steiner, A., Seeland, K. D. & Redish, A. D. Effects of pharmacological manipulations of NMDA-receptors on deliberation in the Multiple-T task. _Neurobiol. Learn. Mem._ **95** , 376–384 (2011). 
+
+46. Spiers, H. J. & Gilbert, S. J. Solving the detour problem in navigation: a model of prefrontal and hippocampal interactions. _Front. Hum. Neurosci._ **9** , 125 (2015). 
+
+47. Hikosaka, O. _et al._ Parallel neural networks for learning sequential procedures. _Trends Neurosci._ **22** , 464–471 (1999). 
+
+   66. Steiner, A. & Redish, A. D. The road not taken: neural correlates of decision making in orbitofrontal cortex. _Front. Decision Neurosci._ **6** , 131 (2012). 
+
+48. Lee, S. W., Shimoko, S. & O’Doherty, J. P. Neural computations underlying arbitration between modelbased and model-free learning. _Neuron_ **81** , 687–699 (2014). 
+
+   67. Steiner, A. & Redish, A. D. Behavioral and neurophysiological correlates of regret in rat decisionmaking on a neuroeconomic task. _Nat_ . _Neurosci._ **17** , 995–1002 (2014). 
+
+49. Dezfouli, A. & Balleine, B. Habits, action sequences and reinforcement learning. _Eur. J. Neurosci._ **35** , 1036–1051 (2012). 
+
+   68. Papale, A., Stott, J. J., Powell, N. J., Regier, P. S. & Redish, A. D. Interactions between deliberation and delay-discounting in rats. _Cogn. Affect. Behav. Neurosci._ **12** , 513–526 (2012). 
+
+50. Johnson, A., van der Meer, M. A. & Redish, A. D. Integrating hippocampus and striatum in decisionmaking. _Curr. Opin. Neurobiol._ **17** , 692–697 (2007). 
+
+**On the spatial delay-discounting task, VTE occurs during the titration phase, when the rat is making flexible choices, not during the exploitation phase, when the rat has automated its behaviour, even though the values of the two options are equal in the exploitation phase.** 
+
+51. Gardner, R. S. _et al._ A secondary working memory challenge preserves primary place strategies despite overtraining. _Learn. Mem._ **20** , 648–656 (2013). **On the classic Tolman–Hull plus maze, VTE arises with deliberative choices.** 
+
+52. Schmidt, B. J., Papale, A. E., Redish, A. D. & Markus, E. J. Conflict between place and response navigation strategies: effects on vicarious trial and error (VTE) behaviors. _Learn. Mem._ **20** , 130–138 (2013). 
+
+   69. Atance, C. M. & O’Neill, D. K. Episodic future thinking. _Trends Cogn. Sci._ **5** , 533–539 (2001). 
+
+   70. Seidenbecher, T., Laxmi, T. R., Stork, O. & Pape, H. C. Amygdalar and hippocampal theta rhythm synchronization during fear memory retrieval. _Science_ **301** , 846–850 (2003). 
+
+53. Smith, K. S. & Graybiel, A. M. A dual operator view of habitual behavior reflecting cortical striatal dynamics. _Neuron_ **79** , 361–374 (2013). **This paper shows that VTE is negatively related to dorsolateral striatal representations that reflect procedural strategies (task bracketing).** 
+
+   71. Schmidt, R. _et al._ Single-trial phase precession in the hippocampus. _J. Neurosci._ **29** , 13232–13241 (2009). 
+
+   72. Gupta, A. S., van der Meer, M. A. A., Touretzky, D. S. & Redish, A. D. Segmentation of spatial experience by hippocampal θ sequences. _Nat. Neurosci._ **15** , 1032–1039 (2012). 
+
+54. Meer, M. A. A., Johnson, A., Schmitzer-Torbert, N. C. & Redish, A. D. Triple dissociation of information processing in dorsal striatum, ventral striatum, and hippocampus on a learned spatial decision task. _Neuron_ **67** , 25–32 (2010). **This paper shows that hippocampal representations encode future options during VTE, ventral striatal representations encode potential rewards during VTE, and dorsolateral striatum does neither, instead slowly developing situation-action representations in line with the automation of behaviour.** 
+
+55. Thorn, C. A., Atallah, H., Howe, M. & Graybiel, A. M. Differential dynamics of activity changes in dorsolateral and dorsomedial striatal loops during learning. _Neuron_ **66** , 781–795 (2010). 
+
+73. Hassabis, D. & Maguire, E. A. in _Predictions in_ 
+
+_the Brain: Using our Past to Generate a Future_ 
+
+      - (ed. Bar, M.) 70–82 (Oxford Univ. Press, 2011). 
+
+   74. Howard, L. R. _et al._ The hippocampus and entorhinal cortex encode the path and Euclidean distances to goals during navigation. _Curr. Biol._ **24** , 1331–1340 (2014). 
+
+   75. Wikenheiser, A. M. & Redish, A. D. Hippocampal theta sequences reflect current goals. _Nat. Neurosci_ . **18** , 289–294 (2015). 
+
+   76. Royer, S., Sirota, A., Patel, J. & Buzsaki, G. Distinct representations and theta dynamics in dorsal and ventral hippocampus. _J. Neurosci._ **30** , 1777–1787 (2010). 
+
+   77. Stensola, H. . Stensola, H. _et al._ The entorhinal grid map is discretized. _Nature_ **492** , 72–78 (2012). 
+
+56. Regier, P. S., Amemiya, S. & Redish, A. D. 77. Stensola, H. . Stensola, H. _et al._ The entorhinal grid map is Hippocampus and subregions of the dorsal striatum discretized. _Nature_ **492** , 72–78 (2012). respond differently to a behavioral strategy change 78. Dragoi, G. & Buzsaki, G. Temporal encoding of place on a spatial navigation task. _J. Neurophysiol._ **114** , sequences by hippocampal cell assemblies. _Neuron_ 1399–1416 (2015). **50** , 145–157 (2006). 
+
+57. Niv, Y., Joel, D. & Dayan, P. A normative perspective on 79. Lisman, J. & Redish, A. D. Prediction, sequences motivation. _Trends Cogn. Sci._ **10** , 375–381 (2006). and the hippocampus. _Phil. Trans. R. Soc. B_ **364** , **This paper gives an explication of the difference** 1193–1201 (2009). **between search-and-evaluate and cached-action-** 80. Buzsaki, G. Hippocampal sharp wave-ripple: a **chain decision systems.** cognitive biomarker for episodic memory and 
+
+58. Johnson, A., Varberg, Z., Benhardus, J., Maahs, A. planning. _Hippocampus_ **25** , 1073–1188 (2015). &Schrater, P. The hippocampus and exploration: 81. Diba, K. & Buzsaki, G. Forward and reverse dynamically evolving behavior and neural hippocampal place-cell sequences during ripples. representations. _Front. Hum. Neurosci._ **6** , 216 (2012). _Nat. Neurosci_ . **10** , 1241–1242 (2007). 
+
+59. Balleine, B. W. & Dickinson, A. Goal-directed 82. Yamamoto, J., Suh, J., Takeuchi, D. & Tonegawa, S. instrumental action: contingency and incentive Successful execution of working memory linked to learning and their cortical substrates. synchronized high-frequency gamma oscillations. _Cell Neuropharmacology_ **37** , 407–419 (1998). **157** , 845–857 (2014). 
+
+60. Liljeholm, M., Tricomi, E., O’Doherty, J. P. & 83. Schmitzer-Torbert, N. C. & Redish, A. D. Neuronal Balleine, B. W. Neural correlates of instrumental activity in the rodent dorsal striatum in sequential contingency learning: differential effects of navigation: separation of spatial and reward actionreward conjunction and disjunction. _J. Neurosci._ responses on the multiple-T task. _J. Neurophysiol._ **91** , **31** , 2474–2480 (2011). 2259–2272 (2004). 
+
+84. Tse, D. _et al._ Schemas and memory consolidation. _Science_ **316** , 76–82 (2007). 
+
+85. Hu, D. & Amsel, A. A simple test of the vicarious trial-and-error hypothesis of hippocampal function. _Proc. Natl Acad. Sci. USA_ **92** , 5506–5509 (1995). 
+
+86. Bett, D. _et al._ The neural substrates of deliberative decision making: contrasting effects of hippocampus lesions on performance and vicarious trial-and-error behavior in a spatial memory task and a visual discrimination task. _Front. Behav. Neurosci._ **6** , 70 (2012). 
+
+87. Bett, D., Murdoch, L. H., Wood, E. R. & Dudchenko, P. A. Hippocampus, delay discounting, and vicarious trial-and-error. _Hippocampus_ **25** , 643–654 (2015). 
+
+88. Barnes, C. A., Nadel, L. & Honig, W. K. Spatial memory deficit in senescent rats. _Can. J. Psychol._ **34** , 29–39 (1980). 
+
+89. Breton, Y. A., Seeland K. D. & Redish, A. D. Aging impairs deliberation and behavioral flexibility in intertemporal choice. _Front_ . _Aging Neurosci._ **7** , 41 (2015). 
+
+90. Robbe, D. _et al._ Cannabinoids reveal importance of spike timing coordination in hippocampal function. _Nat. Neurosci_ . **9** , 1526–1533 (2006). 
+
+91. Robbe, D. & Buzsaki, G. Alteration of theta timescale dynamics of hippocampal place cells by a cannabinoid is associated with memory impairment. _J. Neurosci._ **29** , 12597–12605 (2009). 
+
+92. Papale, A. E. _Hippocampal Representations on the Spatial Delay Discounting Task._ Thesis, Univ. Minnesota (2015). 
+
+93. Amemiya, S., Noji, T., Kubota, N., Nishijima, T. & Kita, I. Noradrenergic modulation of vicarious trialand-error behavior during a spatial decision-making task in rats. _Neuroscience_ **265** , 291–301 (2014). 
+
+94. Amemiya, S. & Redish, A. D. Manipulating decisiveness in decision making: effects of clonidine on hippocampal search strategies _. J. Neurosci._ **36** , 814–827 (2016). 
+
+95. Seifert, W. _Neurobiology of the Hippocampus_ (Academic Press, 1983). 
+
+96. Teyler, T. J. and DiScenna, P. The hippocampal memory indexing theory. _Behav. Neurosci._ **100** , 147–154 (1986). 
+
+97. Nadel, L., Samsonovich, A., Ryan, L. & Moscovitch, M. Multiple trace theory of human memory: computational, neuroimaging, and neuropsychological results. _Hippocampus_ **10** , 352–368 (2000). 
+
+98. Doll, B. B., Duncan, K. D., Simon, D. A., Shohamy, D. & Daw, N. D. Model-based choices involve prospective neural activity _. Nat. Neurosci._ **18** , 767–772 (2015). **In humans, prospection entails the representation of specific future outcomes.** 
+
+99. Killcross, S. & Coutureau, E. Coordination of actions and habits in the medial prefrontral cortex of rats. _Cereb. Cortex_ **13** , 400–408 (2003). 
+
+100. Sharpe, M. J. & Killcross, S. The prelimbic cortex directs attention toward predictive cues during fear learning. _Learn. Mem._ **22** , 289–293 (2015). 
+
+101. Spellman, T. _et al._ Hippocampal-prefrontal input supports spatial encoding in working memory. _Nature_ **522** , 309–314 (2015). 
+
+102. Ito, H. T., Zhang, S. J., Witter, M. P., Moser, E. I. & Moser, M. B. A prefrontal–thalamo–hippocampal circuit for goal-directed spatial navigation. _Nature_ **522** , 50–55 (2015). 
+
+103. Kolb, B. in _The Cerebral Cortex of the Rat_ (eds Kolb & Tees R. C.) 437–458 (MIT Press, 1990). 
+
+104. Dalley, J. W., Cardinal, R. N. & Robbins, T. W. Prefrontal executive and cognitive functions in rodents: neural and neurochemical substrates. _Neurosci. Biobehav_ . _Rev._ **28** , 771–784 (2004). 
+
+105. Wallis, J. D. Cross-species studies of orbitofrontal cortex and value-based decision-making. _Nat. Neurosci._ **15** , 13–19 (2012). 
+
+106. Jung, M. W., Qin, Y., McNaughton, B. L. & Barnes, C. A. Firing characteristics of deep layer neurons in prefrontal cortex in rats performing spatial working memory tasks. _Cereb. Cortex_ **8** , 437–450 (1998). 
+
+107. Powell, N. J. & Redish, A. D. Complex neural codes in rat prelimbic cortex are stable across days on a spatial decision task. _Front. Behav. Neurosci._ **8** , (2014). 
+
+108. Jones, M. W. & Wilson, M. A. Theta rhythms coordinate hippocampal–prefrontal interactions in a spatial memory task. _PLoS Biol._ **3** , e402 (2005). 
+
+109. Hyman, J. M., Zilli, E. A., Paley, A. M. & Hasselmo, M. E. Working memory performance correlates with prefrontal-hippocampal theta interactions but not with prefrontal neuron firing rates _. Front. Integr.Neurosci._ **4** , 2 (2010). 
+
+**158**[|] MARCH 2016[|] VOLUME 17 
+
+**www.nature.com/nrn** 
+
+REVIEWS 
+
+## 110. Ragozzino, M. E., Detrick, S. & Kesner, R. P. 
+
+**representations only show covert reward-related information after the turn-around point.** 
+
+- Involvement of the prelimbic–infralimbic areas of the rodent prefrontal cortex in behavioral flexibility for place and response learning. _J. Neurosci._ **19** , 4585–4594 (1999). 
+
+   130. German, P. W. & Fields, H. L. Rat nucleus accumbens neurons persistently encode locations associated with morphine reward. _J. Neurophysiol._ **97** , 2094–2106 (2007). 
+
+111. Rich, E. L. & Shapiro, M. L. Prelimbic/infralimbic inactivation impairs memory for multiple task switches, but not flexible selection of familiar tasks. _J. Neurosci._ **27** , 4747–4755 (2007). 
+
+   131. Moorman, D. E. & Aston-Jones, G. Orbitofrontal cortical neurons encode expectation-driving initiation of reward-seeking. _J. Neurosci._ **34** , 10234–10246 (2014). 
+
+112. Benchenane, K. _et al._ Coherent theta oscillations and reorganization of spike timing in the hippocampal– prefrontal network upon learning. _Neuron_ **66** , 921–936 (2010). 
+
+113. O’Neill, P. K., Gordon, J. A. & Sigurdsson, T. Theta oscillations in the medial prefrontal cortex are modulated by spatial working memory and synchronize with the hippocampus through its ventral subregion. _J. Neurosci._ **33** , 14211–14224 (2013). 
+
+   132. van der Meer, M. A. A. & Redish, A. D. Covert expectation-of-reward in rat ventral striatum at decision points. _Front. Integr. Neurosci._ **3** , 1–15 (2009). 
+
+   133. Wilson, R. C., Takahashi, Y. K., Schoenbaum, G. & Niv, Y. Orbitofrontal cortex as a cognitive map of task space. _Neuron_ **81** , 267–279 (2014). 
+
+   134. Fenton, A. A. _et al._ Attention-like modulation of hippocampus place cell discharge. _J. Neurosci._ **30** , 4613–4625 (2010). 
+
+114. Engel, A. K., Fries, P. & Singer, W. Dynamic predictions: oscillations and synchrony in top-down processing. _Nat. Rev. Neurosci._ **2** , 704–716 (2001). 
+
+   135. Wikenheiser, A. & Redish, A. D. Changes in reward contingency modulate the trial to trial variability of hippocampal place cells. _J. Neurophysiol._ **106** , 589–598 (2011). 
+
+   136. Berke, J. D. & Eichenbaum, H. Striatal versus hippocampal representations during win-stay maze performance. _J. Neurophysiol._ **101** , 1575–1587 (2009). 
+
+   137. Schmitzer-Torbert, N. C. & Redish, A. D. Taskdependent encoding of space and events by striatal neurons is dependent on neural subtype. _Neuroscience_ **153** , 349–360 (2008). 
+
+115. Kucewicz, M. T., Tricklebank, M. D., Bogacz, R. & Jones, M. W. Dysfunctional prefrontal cortical network activity and interactions following cannabinoid receptor activation. _J. Neurosci._ **31** , 15560–15568 (2011). 
+
+116. Mogenson, G. J., Jones, D. L. & Yim, C. Y. From motivation to action: functional interface between the limbic system and the motor system. _Prog. Neurobiol._ **14** , 69–97 (1980). 
+
+117. McDannald, M. A., Lucantonio, F., Burke, K. A., Niv, Y. & Schoenbaum, G. Ventral striatum and orbitofrontal cortex are both required for model-based, but not model-free, reinforcement learning. _J. Neurosci._ **31** , 2700–2705 (2011). 
+
+118. Jones, J. L. _et al._ Orbitofrontal cortex supports behavior and learning using inferred but not cached values. _Science_ **338** , 953–956 (2012). 
+
+119. Padoa-Schioppa, C. & Assad, J. A. Neurons in the orbitofrontal cortex encode economic value. _Nature_ **441** , 223–226 (2006). 
+
+   138. Jog, M. S., Kubota, Y., Connolly, C. I., Hillegaart, V. & Graybiel, A. M. Building neural representations of habits. _Science_ **286** , 1746–1749 (1999). 
+
+   139. Jin, X. & Costa, R. M. Start/stop signals emerge in nigrostriatal circuits during sequence learning. _Nature_ **466** , 457–462 (2010). 
+
+   140. Barnes, T. D., Kubota, Y., Hu, D., Jin, D. Z. & Graybiel, A. M. Activity of striatal neurons reflects dynamic encoding and recoding of procedural memories. _Nature_ **437** , 1158–1161 (2005). 
+
+120. Strait, C. E., Blanchard, T. C. & Hayden, B. Y. Reward memories. _Nature_ **437** , 1158–1161 (2005). value comparison via mutual inhibition in ventromedial 141. Barnes, T. D. _et al._ Advance cueing produces enhanced prefrontal cortex. _Neuron_ **82** , 1357–1366 (2014). action-boundary patterns of spike activity in the 
+
+121. Strait, C. E., Sleezer, B. J. & Hayden, B. Y. Signatures sensorimotor striatum. _J. Neurophysiol._ **105** , of value comparison in ventral striatum neurons. 1861–1878 (2011). _PLoS Biol._ **13** , e1002173 (2015). 142. Kubota, Y. _et al._ Stable encoding of task structure 
+
+122. Bechara, A., Tranel, D. & Damasio, H. Characterization coexists with flexible coding of task events in of the decision-making deficit of patients with sensorimotor striatum. _J. Neurophysiol._ **102** , ventromedial prefrontal cortex lesions. _Brain_ **123** , 2142–2160 (2009). 2189–2202 (2000). 143. Corbit, L. H. & Balleine, B. W. The role of the 
+
+123. Zald, D. H. & Rauch, S. L. (eds) _The Orbitofrontal Cortex_ hippocampus in instrumental conditioning. (Oxford Univ. Press, 2008). _J. Neurosci._ **20** , 4233–4239 (2000). 
+
+124. Fellows, L. K. Deciding how to decide: ventromedial . Fellows, L. K. Deciding how to decide: ventromedial frontal lobe damage affects information acquisition in multi-attribute decision making. _Brain_ **129** , 944–952 (2006). 
+
+124. Fellows, L. K. Deciding how to decide: ventromedial . Fellows, L. K. Deciding how to decide: ventromedial 144. Ragozzino, M. E., Ragozzino, K. E., Mizumori, S. J. Y. frontal lobe damage affects information acquisition in & Kesner, R. P. The role of the dorsomedial striatum multi-attribute decision making. _Brain_ **129** , 944–952 in behavioral flexibility for repsonse and visual cue (2006). discrimination learning. _Behav. Neurosci._ **116** , 
+
+125. Bray, S., Shimojo, S. & O’Doherty, J. P. Human medial 105–115 (2002). orbitofrontal cortex is recruited during experience of 145. Ostlund, S. B., Winterbauer, N. E. & Balleine, B. W. imagined and real rewards. _J. Neurophysiol._ **103** , Evidence of action sequence chunking in goal-directed 2506–2512 (2010). instrumental conditioning and its dependence on 
+
+126. Tremblay, L. & Schultz, W. Relative reward preference the dorsomedial prefrontal cortex. _J. Neurosci._ **29** , in primate orbitofrontal cortex. _Nature_ **398** , 704–708 8280–8287 (2009). (1999). 146. Corbit, L. H. & Janak, P. H. Posterior dorsomedial 
+
+127. Nicola, S. M., Yun, I. A., Wakabayashi, K. T. & . Nicola, S. M., Yun, I. A., Wakabayashi, K. T. & striatum is critical for both selective instrumental Fields, H. L. Cue-evoked firing of nucleus accumbens and Pavlovian reward learning. _Eur. J. Neurosci._ **31** , neurons encodes motivational significance during a 1312–1321 (2010). 
+
+127. Nicola, S. M., Yun, I. A., Wakabayashi, K. T. & . Nicola, S. M., Yun, I. A., Wakabayashi, K. T. & Fields, H. L. Cue-evoked firing of nucleus accumbens neurons encodes motivational significance during a discriminative stimulus task. _J. Neurophysiol._ **91** , 1840–1865 (2004). 
+
+   147. Bower, G. H. in _Studies in Mathematical Learning Theory_ (eds Bush, R. R. & Estes, W. K.) 109–124 (Stanford Univ. Press, 1959). 
+
+128. Roitman, M. F., Wheeler, R. A. & Carelli, R. M. Nucleus accumbens neurons are innately tuned for rewarding and aversive taste stimuli, encode their predictors, and are linked to motor output. _Neuron_ **45** , 587–597 (2005). 
+
+148. Whishaw, I. Q. & Kolb, B. _The Behavior of the Laboratory Rat: A Handbook with Tests_ (Oxford Univ. Press, 2004). 
+
+149. Monaco, J. D., Rao, G., Roth, E. D. & Knierim, J. J. Attentive scanning behavior drives one-trial potentiation of hippocampal place fields. _Nat. Neurosci._ **17** , 725–731 (2014). 
+
+129. Stott, J. J. & Redish, A. D. A functional difference in Attentive scanning behavior drives one-trial potentiation information processing between orbitofrontal cortex of hippocampal place fields. _Nat. Neurosci._ **17** ventral striatum during decision-making behaviour. (2014). _Phil. Trans. R. Soc. B_ **369** , 20130472 (2014). 150. Baddeley, A. _Working Memory, Thought and Action_ **In simultaneous recordings from the ventral** (Oxford Univ. Press, 2007). **striatum and the orbitofrontal cortex,** 151. Fuster, J. _The Prefrontal Cortex_ (Academic Press, **ventral striatal representations show covert** 2008). **reward-related information before the** 152. Guthrie, E. R. _The Psychology of Learning_ (Harpers, **turn-around during VTE, but orbitofrontal** 1935). 
+
+153. Rodgers, R. J., Cao, B. J., Dalvi, A. & Holmes, A. Animals models of anxiety: an ethological perspective. _Brazil. J. Med. Biol. Res._ **30** , 289–304 (1997). 
+
+154. Jackson, J. C. & Redish, A. D. Detecting dynamical changes within a simulated neural ensemble using a measure of representational quality. _Network_ **14** , 629–645 (2003). 
+
+155. Adhikari, A. Distributed circuits underlying anxiety. _Front. Behav. Neurosci._ **8** , 112 (2014). 
+
+156. Allsop, S. A., Vander Weele, C. M., Wichmann, R. & Tye, K. M. Optogenetic insights on the relationship between anxiety-related behaviors and social deficits. _Front. Behav. Neurosci._ **8** , 241 (2014). 
+
+157. Adhikari, A., Topiwala, M. A. & Gordon, J. A. Synchronized activity between the ventral hippocampus and the medial prefrontal cortex during anxiety. _Neuron_ **28** , 257–269 (2010). 
+
+158. Adhikari, A., Topwala, M. & Gordon, J. A. Single units in the medial prefrontal cortex with anxiety-related firing patterns are preferentially influenced by ventral hippocampal activity. _Neuron_ **71** , 898–910 (2011). 
+
+159. Grewal, S. S., Shepherd, J. K., Bill, D. J., Fletcher, A. & Dourish, C. T. Behavioural and pharmacological characterisation of the canopy stretched attend posture test as a model of anxiety in mice and rats. _Psychopharmacology_ **133** , 29–38 (1997). 
+
+160. Choi, J. S. & Kim, J. J. Amygdala regulates risk of predation in rats foraging in a dynamic fear environment. _Proc. Natl Acad. Sci. USA_ **107** , 21773–21777 (2010). 
+
+161. Amir, A., Lee, S. C., Headley, D. B., Herzallah, M. M. & Pare, D. Amygdala signaling during foraging in a hazardous environment. _J. Neurosci._ **35** , 12994–13005 (2015). 
+
+162. Voss, J. L. _et al._ Spontaneous revisitation during visual exploration as a link among strategic behavior, learning, and the hippocampus. _Proc. Natl Acad. Sci. USA_ **108** , E402–E409 (2011). 
+
+163. Reutskaja, E., Nagel, R., Camerer, C. F. & Rangel, A. Search dynamics in consumer choice under time pressure: an eye-tracking study. _Am. Econom. Rev._ **101** , 900–926 (2011). 
+
+164. Treisman, A. M. & Gelade, G. A feature-integration theory of attention. _Cogn. Psychol._ **12** , 97–136 (1980). 
+
+165. Kruse, J. M., Overmier, J. B., Konz, W. A. & Rokke, E. Pavlovian conditioned stimulus effects upon instrumental choice behavior are reinforcer specific. _Learn. Motiv._ **14** , 165–181 (1983). 
+
+166. Balleine, B. W. & Ostlund, S. B. Still at the choice-point: action selection and initiation in instrumental conditioning. _Ann. NY Acad. Sci._ **1104** , 147–171 (2007). 
+
+167. Talmi, D., Seymour, B., Dayan, P. & Dolan, R. J. Human Pavlovian-instrumental transfer. _J. Neurosci._ **28** , 360–368 (2008). 
+
+168. Bray, S., Rangel, A., Shimojo, S., Balleine, B. & O’Doherty, J. P. The neural mechanisms underlying the influence of Pavlovian cues on human decision making. _J. Neurosci._ **28** , 5861–5866 (2008). 
+
+169. Damasio, A. _Looking for Spinoza: Joy, Sorrow, and the Feeling Brain_ (Mariner, 2003). 
+
+170. Balleine, B. W. in _The Behavior of the Laboratory Rat: A Handbook with Tests_ (eds Whishaw, I. Q. & Kolb, B.) 436–446 (Oxford Univ. Press, 2004). 
+
+171. Gold, J. I. & Shadlen, M. N. Banburismus and the brain: decoding the relationship between sensory stimuli, decisions, and reward. _Neuron_ **36** , 299–308 (2002). 
+
+172. Hanks, T. D. _et al._ Distinct relationships of parietal and prefrontal cortices to evidence accumulation. _Nature_ **520** , 220–223 (2015). 
+
+## **Acknowledgements** 
+
+The author thanks all of the students and colleagues who have worked with him over the years looking at different aspects of VTE, both for helpful discussions and for the experi mental and theoretical work on these questions. The author also thanks A. Johnson, K. Smith, J. Stott, S. Amemiya and Y. Breton for comments on drafts of this manuscript, and J. Voss for helpful discussions. Time to work on this manuscript was funded by MH080318 and DA030672. 
+
+## **Competing interests statement** 
+
+The author declares no competing interests. 
+
+NATURE REVIEWS[|] **NEUROSCIENCE** 
+
+VOLUME 17[|] MARCH 2016[|] **159** 
 

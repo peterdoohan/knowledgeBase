@@ -1,276 +1,615 @@
-Neuropsychologia 46 (2008) 2099–2105 
+Article 
 
-**==> picture [55 x 60] intentionally omitted <==**
+## Widespread coding of navigational variables in prefrontal cortex 
 
-**==> picture [142 x 72] intentionally omitted <==**
+## Highlights 
 
-Note 
+- d Prefrontal regions encode navigational variables 
 
-# The role of ventromedial prefrontal cortex in navigation: A case of impaired wayfinding and rehabilitation 
+- d Neurons encoding navigational variables exhibit random, mixed selectivity 
 
-## Elisa Ciaramelli[∗] 
+- d Strength of navigational encoding increases along a ventralto-dorsal gradient 
 
-_Rotman Research Institute, 3560 Bathurst Street, Toronto, Ontario M6A 2E1, Canada_ Received 25 May 2007; received in revised form 25 November 2007; accepted 28 November 2007 Available online 8 December 2007 
+## Authors 
 
-## **Abstract** 
+David J.-N. Maisson, Roberto Lopez Cervera, Benjamin Voloh, Indirah Conover, Mrunal Zambre, Jan Zimmermann, Benjamin Y. Hayden 
 
-A patient with ventromedial prefrontal damage, LG, is described who had a severe difficulty in wayfinding in his home town, despite intact knowledge for landmarks and routes in town. Although able to recall his spatial goals, LG often headed to familiar, “attractor” locations while navigating, losing his way in the process. Both a laboratory and an ecological study showed that spatial navigation improved when the patient was periodically reminded of, or asked to recall, the goal destination along his route. It is suggested that the ventromedial prefrontal cortex is necessary to maintain actively the goal destination in working memory, for use in navigation. © 2007 Elsevier Ltd. All rights reserved. 
+Correspondence benhayden@gmail.com 
 
-_Keywords:_ Spatial navigation; Ventromedial prefrontal cortex; Working memory; Rehabilitation 
+## In brief 
 
-## **1. Introduction** 
+Maisson et al. show that prefrontal brain areas in freely moving rhesus macaques encode navigational variables with random, mixed selectivity. The strength of encoding increases along a ventral-todorsal gradient. 
 
-Spatial navigation relies on a complex set of cognitive operations, starting with the formulation and coding of a goal destination, and ending with the realization of having arrived at the destination. As a consequence of this multicomponentiality, problems in spatial navigation, commonly referred to as “topographical disorientation” (Aguirre & D’Esposito, 1999), can have a variety of different causes. Aguirre and D’Esposito (1999) described the commonly observed types of topographical disorientation, such as egocentric disorientation, landmark agnosia, etc., and their neural and cognitive underpinnings, as derived by studies of human patients with focal brain damage. Functional neuroimaging (fMRI) studies of spatial navigation have nicely mirrored the neuropsychological evidence, by showing,for example,that theposteriorparietalcortexisactiveduring tasks accomplished by taking an egocentric perspective (e.g., Rosenbaum, Ziegler, Winocur, Grady, & Moscovitch, 2004; Spiers & Maguire, 2006; Spiers & Maguire, 2007), and that the lingualgyrusisactiveduringidentificationoffamiliarlandmarks (Rosenbaum et al., 2004). 
+**==> picture [17 x 17] intentionally omitted <==**
 
-Some recent fMRI studies, however, have detected activity in additional brain regions whose functional significance 
+Maisson et al., 2023, Current Biology 33, 3478–3488 August 21, 2023 ª 2023 Elsevier Inc. https://doi.org/10.1016/j.cub.2023.07.024 
 
-for navigation is currently unclear. Spiers and Maguire (2006) investigated the association between London taxi-drivers’ brain activations and their thoughts while they navigated in a virtual simulation of London. They found that the initial seconds of route planning, as well as periods involving traffic monitoring and responding to customers’ irrelevant statements, were associated with increased activity in ventromedial and ventrolateral prefrontal cortex (BAs 10, 11, 25, 46; Spiers & Maguire, 2006). Medial prefrontal regions in BAs 10 and 32 were also activated while subjects thought of the goal destination along their routes (Spiers & Maguire, 2006; see also Maguire et al., 1998). Although these findings suggest that the ventromedial regions of prefrontal cortex might be implicated in navigation, it is currently unclear whether they are essential for normal functioning, or what their specific role during navigation might be. Here, I describe for the first time the case of a patient with ventromedial prefrontal damage who showed a severe wayfinding problem in his home town, despite preserved memory for his goal destination, and for landmarks and routes in town. Observation and experimental investigation showed that his deficit arises from an inability to maintain his goal actively in memory. 
+**ll** 
 
-## **2. Case report** 
+**ll** 
 
-> ∗ Tel.: +1 416 785 2500x3596; fax: +1 416 785 2862. _E-mail address:_ elisa.ciaramelli@utoronto.ca. 
+## Article 
 
-The patient, LG, is a 56-year-old man with 11 years of education. He was recruited at the Centro studi e ricerche di 
+## Widespread coding of navigational variables in prefrontal cortex 
 
-0028-3932/$ – see front matter © 2007 Elsevier Ltd. All rights reserved. doi:10.1016/j.neuropsychologia.2007.11.029 
+David J.-N. Maisson,[1][,][2] Roberto Lopez Cervera,[1][,][2] Benjamin Voloh,[1] Indirah Conover,[1] Mrunal Zambre,[1] Jan Zimmermann,[1][,][3][,][4] and Benjamin Y. Hayden[1][,][3][,][4][,][5][,] * 
 
-_E. Ciaramelli / Neuropsychologia 46 (2008) 2099–2105_ 
+1Department of Neuroscience, Center for Magnetic Resonance Research, Center for Neuroengineering, Department of Biomedical Engineering, University of Minnesota, Minneapolis, MN 55455, USA 
 
-2100 
+2These authors contributed equally 
 
-Neuroscienze Cognitive, Cesena, Italy. In January of 2001 LG had a headache, became unconscious and was admitted to the emergency room. Brain computed tomography showed a subarachnoid haemorrhage caused by a ruptured aneurysm of the anterior communicating artery which was clipped immediately. The patient was discharged after 3 months. He was unable to return to work due to severe memory and executive problems and the presence of spontaneous confabulation (see Kopelman, 1987). In 2006, LG’s confabulation subsided and he was able to go about his daily activities almost independently. For example, he started to work for a company located in the centre of his home town. However, his wife reported one important residual problem: when asked to go to work on his own, LG invariably lost his way. 
+3These authors contributed equally 
 
-Table 1 shows the LG’s neuropsychological test scores at that time. He exhibited preserved general intellectual skills, as revealed by normal performance on the Mini Mental State Evaluation (MMSE; Folstein, Folstein, & McHugh, 1975), the Raven Progressive Matrices and the Verbal Judgment test (for normative data, see Spinnler & Tognoni, 1987). Short- and long-term memory for both verbal and nonverbal material was within the normal ranges (Capitani et al., 1991; Spinnler & Tognoni, 1987). Confabulation appeared sporadically, only if provoked by questioning (Kopelman, 1987). LG had preserved basic attentional skills. He attained normal scores on the “Alertness” subtest from theTestbatteryforAttentionalPerformance(TAP;fornormative data, see Zimmermann & Fimm, 2002) that requires pressing a button as rapidly as possible at the appearance of a target stimulus (see Table 1). Moreover, he was unimpaired on subtests of the test of everyday attention (TEA; Robertson, Ward, Ridgeway, & Nimmo-Smith, 1996) that tap sustained attention (“Elevator Counting”) and selective attention (“Map Search” and “Elevator Counting with Distraction”). However, LG’s performance was low on the “Visual Elevator” subtest, which taps working memory and cognitive flexibility. LG’s working memory deficit was confirmed by the low scores he attained on a 2-back task (with numbersasstimuli)fromtheTAP(Zimmermann&Fimm,2002) and in the Paced Auditory Serial Addition Task (PASAT; for normative data, see Ciaramelli, Serino, Benassi, & Bolzani, 2006). Executive functions, as assessed by the Wisconsin Card Sorting Test and a measure of Letter Fluency (Spinnler & Tognoni, 1987), were impaired as well. 
+4Senior author 
 
-The location and extent of the lesion were mapped using MRIcro software (Rorden & Brett, 2000). Lesions analysis was based on the most recent clinical magnetic resonance imaging (MRI). A neurologist with experience in image analysis manually outlined the lesion onto the standard brain template of the Montreal Neurological Institute (MNI), which is based on 
+5Lead contact *Correspondence: benhayden@gmail.com https://doi.org/10.1016/j.cub.2023.07.024 
 
-Table 1 
+## SUMMARY 
 
-LG’s scores on neuropsychological tests 
+To navigate effectively, we must represent information about our location in the environment. Traditional research highlights the role of the hippocampal complex in this process. Spurred by recent research highlighting the widespread cortical encoding of cognitive and motor variables previously thought to have localized function, we hypothesized that navigational variables would be likewise encoded widely, especially in the prefrontal cortex, which is associated with volitional behavior. We recorded neural activity from six prefrontal regions while macaques performed a foraging task in an open enclosure. In all regions, we found strong encoding of allocentric position, allocentric head direction, boundary distance, and linear and angular velocity. These encodings were not accounted for by distance, time to reward, or motor factors. The strength of coding of all variables increased along a ventral-to-dorsal gradient. Together, these results argue that encoding of navigational variables is not localized to the hippocampus and support the hypothesis that navigation is continuous with other forms of flexible cognition in the service of action. 
 
-|||Cut-off|RS|CS|ES|
-|---|---|---|---|---|---|
-||MMSE|24|/|26|N|
-||Raven Progressive Matrices|18|32|31|4|
-||Verbal Judgement test|33|45|39|2|
-||Wechsler Memory Scale|85|/|92|N|
-||Prose recall|8|14.5|12.5|2|
-||Rey complex fgure|||||
-||•Copy<br>•Delay|28<br>6.2|36<br>8|36<br>9.98|N<br>N|
-||Digit span|3.75|6|5.75|4|
-||Corsi tapping test<br>Corsi supraspan tapping test<br>Attentional Matrices|3.75<br>5.75<br>31|5<br>12.5<br>41|4.75<br>7.5<br>35|4<br>2<br>1|
-||Alertness subtest from TAP<br>•RTs (ms)<br>•Errors|40<br>40|356<br>1|40<br>44|N<br>N|
-||Test of everyday attention<br>•Map search (2 min)<br>•Elevator counting|>5<br>7|44<br>7|7<br>7|N<br>N|
-||•Elevator counting with distraction|>5|9|10|N|
-||•Visual elevator (accuracy score)|>5|3|4|P*|
-||PASAT|||||
-||•Errors|22|34|/|P*|
-||Wisconsin Card Sorting test|||||
-||•Perseverative errors|64%|/|/|P*|
-||Verbal Fluency Task<br>•Semantic||40|36|3|
-||•Phonemic||25|22|1|
-||2-Back task from TAP|||||
-||•Omissions|40|3|44|N|
-||•False responses|40|26|25|P*|
-||Go-noGo Task from TAP|5|22|/|0*|
+## INTRODUCTION 
 
+To move in the world, organisms must represent where they are, where they are going, and where important features in the world are. In other words, they must navigate. The majority of research highlights the role of the hippocampus and adjacent structures in navigation.[1–6] This work supports a modular view of navigation— that is, that navigation results from computations in anatomically circumscribed circuits.[7][,][8] An alternative view is that navigation relies on a suite of more general cognitive abilities, including generalized mapping functions, such as the encoding of task structure and latent environmental variables. 
 
+The modular approach to understanding functional neuroanatomy has been challenged by a growing set of studies that highlight the broad distribution of variables. These include motor signals[9–12] and reward signals.[13–15] Such findings raise the possibility that navigation may also be distributed.[16–19] Thus, evidence of widespread distribution of navigational codes would support their posited role in anchoring elements of cognition to maps of embodied space. In this view, navigation is a special case of the more general problem of representing conceptual linkages.[5–7][,][20][,][21] 
 
-_Note_ : RS = raw score; CS = corrected score; ES = equivalent score. ES = 0 indicates impaired performance; ES = 1 indicates borderline performance. N = normal score; P = pathological score. MMSE = Mini Mental State Examination; TAP = Test battery for Attentional Performance; PASAT = Paced Auditory Serial Addition Task. Impaired performance is highlighted by a ([*] ). 
+A growing body of research suggests that, at least in rodents, navigational functions exist outside the hippocampal complex, including within prefrontal areas.[22][,][23] For example, neurons in somatosensory cortex, orbitofrontal cortex (OFC), and piriform cortex encode current and future spatial positions, as well as 
 
-T1-weighted MRI scans. Fig. 1 shows the extent of LG’s brain damage, which involved a bilateral lesion in the ventromedial prefrontal and rostral anterior cingulate cortices (BAs 10, 11, 12, 32), larger on the right. A smaller lesion was also present on the left medial prefrontal wall, affecting BA 24. 
+the location of targets in the environment.[24–27] However, the distinct navigational strategies and preferred sensory modalities in rodents may not generalize to primates. Moreover, the extent to which rodent prefrontal areas serve as functional homologies to those of primates remains unclear.[28] 
 
-The patient gave his informed consent to participate in the study according to the Declaration of Helsinki ( _BMJ_ 1991, _302_ ,1194), that was approved by the local Ethical Committee. 
+Theories about the function of the prefrontal cortex (PFC) seldom involve a navigational role. Instead, they typically involve functionsthatindirectlysupportnavigation,including control ofaction, planning, resolving conflict, and comparing values.[17][,][18][,][29][,][30] Often, however, these areas support more abstract mapping functions that augment space by anchoring to it an executive-controltype function. For example, the roles for space typically assigned to the PFC include the encoding of goal location, navigational action planning and landmark vector representations, and spatial working memory.[19][,][20][,][31–34] Yet, the direct involvement of PFC in navigational encoding remains unclear. 
 
-**==> picture [457 x 68] intentionally omitted <==**
+We developed a novel naturalistic paradigm for recording neural and behavioral data from freely navigating macaques.[35] As macaques performed a freely moving foraging task, we recorded neuronal activity in six regions: OFC, dorsal anterior cingulate cortex (dACC), supplementary motor area (SMA), ventrolateral PFC (vlPFC), dorsolateral PFC (dlPFC), and dorsal premotor cortex (PMd). In all six, we found selectivity for navigational variables: allocentric position, allocentric head orientation, egocentric boundary distance, angular velocity, and linear velocity. Notably, this navigational tuning is not place-cell-like. Instead, it has a more unstructured pattern, even as it contains 
 
-Fig. 1. Extent of the brain lesion in LG. Brodmann’s areas (BA) affected were areas BA 10, 11, 12, 24, and 32. 
+**==> picture [16 x 17] intentionally omitted <==**
 
-_E. Ciaramelli / Neuropsychologia 46 (2008) 2099–2105_ 
+3478 Current Biology 33, 3478–3488, August 21, 2023 ª 2023 Elsevier Inc. 
 
-2101 
+**ll** 
 
-I first examined LG’s wayfinding failures in his home town by asking him to navigate between relevant landmarks. When asked to reach the company from the main town square, for example, LG initially adhered to the appropriate route, but suddenly took a wrong turn towards a location where he had worked for 25 years. Interestingly, once he arrived at the wrong destination, LG expressed intact knowledge of the goal destination, and embarrassment for being in the wrong place. Similar results were obtained when testing LG with other routes. Crucially, LG’s navigation improved when he was periodically interrogated about the identity of the goal destination along the route. It was hypothesized, therefore, that despite being able to memorize the goal destination, LG failed to maintain this information actively in WM, and thus, ultimately, could not use it for the purpose of navigation. 
+## Article 
 
-## **3. Experimental investigation** 
+navigational information. Proportions of neurons responding were roughly the same as those encoding non-navigational variables, such as reward number and feeder identity. Neurons encoding navigational variables did not form functionally specialized subpopulations and these encodings were not accounted for by distance, time to reward, or motor factors. Finally, we found that distributed encoding of both navigational and nonnavigational task variables followed functional gradients in which stronger coding was found in more dorsal areas. Together these results support the idea that navigational functions are supported by widespread activity of neurons, including those in several prefrontal structures. 
 
-## _3.1. Laboratory study_ 
+## RESULTS 
 
-In order to test this hypothesis more formally, 10 pairs of locations were selected (i.e. a start location and a goal location), all located within the centre of the town. Care was taken that LG was familiar with these locations, by asking him to localize them on a map of the city. During the experiment, LG was seated at a computer, and the name of each location pair appeared in the center of the computer screen for 4 s, one at time. Each pair was presented in black lower-case Arial letters (18-point font size) against a white background. LG’s task was to describe verbally the route from the start location to the goal location. A 3-min time limit was given for each trial. 
+## Behavioral and neural recordings 
 
-Thetaskincludedfourexperimentalconditions.IntheSTANDARD condition the patient was only provided with the start and the goal locations. 
+Rhesus macaques performed a novel freely moving foraging task in a large (245 cm 3 245 cm 3 275 cm) enclosure with four barrels and up to four reward stations (Figures 1A and 1B; STAR Methods). If the subject approached a station (or ‘‘patch’’) and pressed the lever, a juice tube provided preferred liquid reward (1.5 mL) and the display changed from blue to white with a green cross (Figure 1C). After 2 s, the screen returned to blue and the subject could repeat the process. After the fifth lever press, the patch deactivated for 3 min. We used OpenMonkeyStudio[35] to track subjects in space. We recorded neural activity from 128 independently moveable electrodes (Figure 1D; STAR Methods). We recorded 8,276 neurons over 196 sessions from six structures in the PFC (Figure 1E). 
 
-In the REMIND condition, the name of the goal destination appeared for 1 s in the center of the screen every 15 s. The stimulus was contained in a central rectangular area subtending a visual angle of approximately 4[◦] horizontally and 0.5[◦] vertically. If LG’s wayfinding problems were due to problems remembering the goal location, then periodic reminders of the goal location should improve his performance. 
+## Activity of prefrontal neurons can be fitted by a linearnonlinear encoding model 
 
-The REHEARSE condition was designed to elucidate the specific nature of LG’s memory impairment. In this condition, the phrase “Rehearse your destination” appeared every 15 s for 1 s, and the patient was asked to rehearse his goal destination mentally. Again, the stimulus appeared in a central rectangular area subtending a visual angle of approximately 4[◦] horizontally and 0.5[◦] vertically. If LG’s wayfinding problems were due, as hypothesized, to a deficit in keeping the goal destination active in working memory, then rehearsal reminders should improve performance, even if they held no information of the goal destination itself. Thus, LG was expected to succeed in both the Remind and the Rehearse conditions. In contrast, if LG succeeded in the Remind but not the Rehearse condition, then a working memory deficit explanation of his deficit would not be appropriate. Rather, LG’s impairment would then suggest a deficit in short-term memory, causing fast 
+We used a linear-nonlinear Poisson-distributed generalized additivemodel (LN-GAM)toestimate tuningfunctions for 8 distinct variables developed by Hardcastle et al.[36] and used by Laurens etal.,[37] Vinepinskyetal.,[38] Mao etal.,[39] and Yoo etal.,[40][,][41] :(1)lever pressing (versus not pressing, equivalent to reward); (2) position of thebodyonthegroundplane;(3)headelevation;(4)compass-wise head direction; (5) head tilt; (6) distance to enclosure boundaries; (7) angular velocity (speed of change in subjects’ compass-wise orientation); and (8) linear velocity ofthe subject’s body. These variables were used in previous studies of navigational tuning in the macaque hippocampus and were defined the same way.[37][,][39] Note that this procedure includes a cross-validation procedure that controls for false positives by dividing each session into 10 partitions and performing 5-fold cross-validation within each partition. To characterize the encoding of basic navigational variables, we considered the prevalence of tuning to each variable in turn across neurons in each structure (see Figure S1 and Table S1 for a summary). 
 
-decay of the goal destination after its first presentation, and therefore the need for periodical reminders of the goal destination. 
+## Neurons in all six regions encode position 
 
-Finally, in the WARNING condition, a black rectangle subtending a visual angle of approximately 4.5[◦] horizontally and 0.5[◦] vertically appeared every 15 s for 1 s. This condition served to ensure that potential performance differences between the Remind/Rehearse conditions and the Standard condition were not simply due to a higher attentional stimulation in the former compared to the latter. 
+To quantify occupancy, we segmented the surface area of the arena into 36–50 cm[2] bins. During each session, we computed the amount of time when head position was within each bin (Figure 2A). Subjects visited the full range of the arena height, though they tended to favor an elevation between 100 and 200 cm. 
 
-In all conditions, LG received accuracy feedback when he indicated that he had arrived at his destination. When he had reached an incorrect destination, he was probed for the correct destination. Each location pair was tested twice in each experimental condition, in a random order. During the second presentation of each location pair, the assignment of each location to start and destination positions was reversed, to control for potential confounds resulting from arbitrary assignments of locations to start and destination positions. 
+We defined tuning to 3D position as the simultaneous selectivity to the head’s 2D position (x and y axes) (Figure 1A) and 
 
-## _3.1.1. Results_ 
+elevation (z axis).[39] Neurons in all six regions encode 3D position. For example, neuron OFC.143 showed increased firing when the subject entered the northeast corner (Figure 2B); neuron dACC.70 showed increased firing when the subject entered the southeast corner (Figure 2C). Responses of six neurons are shown in Figures 2B–2G and S2. 
 
-In the Standard condition LG succeeded on 7/20 trials, in the Remind condition on 16/20 trials, in the Rehearse condition on 13/20 trials, and in the Warning condition on 9/20 trials (see Fig. 2). Wilcoxon tests showed that LG’s performance accuracy in the Remind condition ( _Z_ = 2.4; _p_ < 0.05) and the Rehearse condition ( _Z_ = 2.2; _p_ < 0.05) was significantly higher than the Standard condition, whereas that in the Warning condition was not ( _p_ = 0.4). Importantly, on incorrect trials LG was able to recall the goal destination in the 70% of cases across conditions. Two healthy individuals living in the same city as LG, and matched to him for age, education, and gender, committed no errors in any of the experimental conditions. A Sign test revealed that differences in performance accuracy between LG and the controls were significant in the Standard ( _Z_ = 3.1; _p_ < 0.001), Warning ( _Z_ = 12.8; _p_ < 0.005), and Rehearse conditions ( _Z_ = 2; _p_ < 0.05), but not in the Remind condition ( _p_ = 0.24). 
+Spatial selectivity is common in all regions recorded. In OFC, 42.87% of neurons showed selectivity to position (Y: 50.13%; W: 39.59%). Overall, 21.35% (n = 259/1,213) carry information about 3D position (p < 0.0001, binomial test). This pattern was observed in both subjects (subjects Y and W) individually (Y: 24.93%; W: 19.74%). An additional 9.65% of OFC neurons were tuned to 2D position, but not to head elevation (Y: 12.22%; W: 8.49%; p < 0.0001); 11.87% of OFC neurons were tuned to head elevation only (Y: 12.99%; W: 11.36%). Indeed, a statistically significant proportion of neurons showed selectivity for 3D position in all regions (Figure 2H). Note that in reporting the percent of neurons modulated by this variable, we do not mean to imply that this is the only variable that the neurons encode. Indeed, we later show that this is not true. To confirm tuning stability, we computed the correlation between encoding magnitudes for each neuron during the first and second halves of the session. We found high correlations in all six structures (OFC: r = 0.903; dACC: r = 0.865; SMA: r = 0.504; vlPFC: r = 0.757; dlPFC: r = 0.608; PMd: r = 0.563; p < 0.0001 in all cases). 
 
-**==> picture [229 x 182] intentionally omitted <==**
+## Neurons in all six regions encode allocentric head direction 
 
-Fig. 2. Frequency of successful wayfinding trials for LG in the experimental study and in the ecological study, by experimental condition. 
+Head direction tuning has been observed in hippocampal formation and associated thalamic nuclei, including in macaques.[39][,][42][,][43] To confirm that subjects’ head positions varied, we segmented the allocentric yaw angles into 6[�] bins (n = 60 bins, from 0[�] to 360[�] , 0[�] representing east). For each bin, during each session, we computed the amount of time during which head direction (yaw) was within each bin (Figure 3A). We did the same with pitch. Subjects favored (an average of 63.61% ± 0.59% of the session) angles between 72[�] and 132[�] (Figure 3A). Subjects overwhelmingly favored (an average of 69.51% ± 0.09% of the session) orienting their heads at an angle between 60[�] and 120[�] (Figure 3A). We found that individual neurons in the PFC encode head direction. For example, neuron OFC.276 showed increased firing rates for northeast head direction (Figure 3B). Responses of six example neurons are shown in Figures 3D–3G. 
 
-_E. Ciaramelli / Neuropsychologia 46 (2008) 2099–2105_ 
+Head direction selectivity was common. In OFC, 43.53% of neurons showed selectivity to 3D orientation (Y: 47.48%; W: 41.75%). Overall, 21.12% (n = 256/1,213) carry information about 3D orientation (p < 0.0001; Y: 26.52%; W: 18.66%); 11.05% of OFC neurons were tuned to head direction but not to head tilt (Y: 9.55%; W: 11.72%) and 11.38% were tuned to head tilt (Y: 11.41%; W: 11.36%). We found similar results across all five other structures (Figure 3H). To confirm stability, we computed correlation between encoding magnitudes during the first and second halves of the session. We found positive correlations in all structures (OFC: r = 0.922; dACC: r = 0.846; SMA: r = 0.504; vlPFC: r = 0.774; dlPFC: r = 0.624; PMd: r = 0.548; p < 0.0001 in all cases). These findings suggest that allocentric head direction is encoded in all six prefrontal regions and this encoding is stable within sessions. 
 
-2102 
+**==> picture [46 x 35] intentionally omitted <==**
 
-_3.1.1.1. Error analysis._ LG’s errors involved going to the wrong location (66%) or giving up before reaching his goal (34%). To elucidate the factors responsible for LG’s topographical disorientation, we conducted a separate testing session. During this session LG was presented with a list of locations, including both the locations that had served as goals in the experimental task ( _N_ = 20), and those he had erroneously reached during the task ( _N_ = 7). LG was asked to rate, on a 10-point scale, how familiar each location was to him, with a rating of 10 indicating that the location was “very familiar”. We defined familiarity as the frequency with which LG had visited the location during his lifetime. Additionally, LG’s wife was presented with the complete list of routes, and was asked to rate, on a 10-point scale, (a) how familiar each route was to LG, and (b) whether the route included any locations familiar to LG. Other factors, such as the length of each route (i.e. the shortest linear distance between the start and the goal location), the number of turn options per route, and the number of famous landmarks contained in each route, were also considered (see also Maguire, Nannery, & Spiers, 2006). 
+Current Biology 33, 3478–3488, August 21, 2023 3479 
 
-Routes on which LG committed errors did not differ significantly from error-free routes in length (740 m vs. 725 m; _p_ = 0.7), number of turn options (7.3 vs. 6.8; _p_ = 0.37), or famous landmarks (1.51 vs. 1.53, _p_ = 0.96). Familiarity with the route influenced navigation accuracy positively: LG performed better on routes that he had often travelled compared to less familiar routes (4.5 vs. 6.8; _t_ (78) = 5.9, _p_ < 0.01). However, familiarity with locations within a route influenced navigation accuracy negatively: LG tended to perform worse on routes that included familiar locations compared to routes that did not (7.14 vs. 6, _t_ (78) = 1.79; _p_ = 0.07), because he mistakenly headed toward familiar locations instead of the goal locations.[1] Accordingly, LG assigned significantly higher familiarity ratings to locations that he reached by mistake, compared to goal locations (9.00 vs. 6.15; _t_ (25) = 2.35; _p_ < 0.05). As mentioned previously, there were 7 such “attractor” locations. These were locations that the patients had atteded frequently in the past for reasons related to his work or hobbies. Across different conditions, LG’s errors tended to occur for the same destination pairs and the same attractor locations. For example, on a route including a location particularly relevant to LG, he erroneously headed towards this location in every experimental condition, including the Remind condition, duringwhichthegoaldestinationwasflashinginfront of him every 15 s. 
+**ll** 
 
-Recently, Spiers and Maguire (2007) have shown that a medial prefrontal region tracked goal proximity, i.e., it responded more strongly as individuals approached their spatial goal. Given the role of the medial prefrontal cortex in computing the value of future rewards (Knutson, Taylor, Kaufman, Peterson, & Glover, 2005), this brain region may be implicated in updating the reward value of spatial goals as they get closer, thereby favouring the implementation of actions that are needed to reach the goals. One may hypothesize, then, that 
+Article 
 
-in healthy individuals navigation would be more resistant to environmental obstacles (or to goal neglect) when the goal is near relative to when it is far away, an effect that shoud not be present in medial prefrontal patients. I investigated whether the distance between the attractor location and the spatial goal related to how often LG navigated successfully. No significant correlation emerged between the two variables, neither when considering the frequency of success across conditions ( _r_ Pearson = 0.007; _p_ = 0.97), nor relative to the Standard condition only ( _r_ Pearson = −0.12; _p_ = 0.59). Although this finding was predicted, additional research is needed to investigate this issue more systematically in patients with medial prefrontal lesions as well as healthy individuals. 
+**==> picture [418 x 549] intentionally omitted <==**
 
-Thus, similar to real-life situations, LG’s navigational failures involved heading to familiar, personally relevant locations instead of actual goal locations. This suggests that the experimental task results closely captured LG’s real-life navigational impairment, and points towards effective approaches for minimizing LG’s impairment. 
+Figure 1. Behavior and neural recordings (A) Schematic of the arena. Checkerboard patterns indicate floor. Black rectangles denote cameras. Blue rectangles indicate the approximate locations of the feeding stations. The lower panel shows a cartoon depiction of the feeding station, with the display monitor at the center showing solid blue. (B) Photograph of the arena. 
 
-## _3.2. Ecological study_ 
+- (C) Schematic of the available, novel freely moving foraging task. 
 
-The experimental findings were supported in an ecologically valid task. LG was asked to navigate between relevant landmarks of his home town with (1) an operator reminding him of the goal location every 3 min (Remind condition), (2) an operator prompting him to recall the goal location every 3 min (Rehearse condition), (3) a cellular phone ringing every 3 min (Warning condition), or (4) no other instructions (Standard condition). 
+- (D) 3D model of the recording system superimposed on a subject’s cranium. 
 
-## _3.2.1. Results_ 
+- (E) 3D rendering of the prefrontal areas from which neural data were recorded. Bars: number of neurons recorded from each region. 
 
-LG succeeded on 3/10 trials in the Standard condition, on 7/10 trials in both the Remind and the Rehearse conditions, and on 2/10 trials in the Warning condition (see Fig. 2). Thus, maintaining the spatial goal active in WM helped LG reach his destination. 
+3480 Current Biology 33, 3478–3488, August 21, 2023 
 
-## _3.3. Landmarks recognition memory test_ 
+**ll** 
 
-To investigate additional cognitive functions involved in spatial navigation, we tested LG’s recognition memory of familiar landmarks. Fifteen pictures of well-known landmarks in LG’s home town served as targets, and 15 pictures of landmarks of other Italian cities served as distractors. The pictures were presented one at time in random intermixed order. 
+Article 
 
-## _3.3.1. Results_ 
+**==> picture [46 x 35] intentionally omitted <==**
 
-LG correctly recognized 12 pictures, whereas two agematched controls scored 14, and 15, respectively. Participants made no false recognitions. Performance differences between LG and the controls were not significant in a Sign test ( _p_ > 0.2 in both cases). For correctly identified pictures, I also asked “If facing this building, would you go left or right in order to get to X?” LG committed only one error in this task, whereas the normal controls performed without errors ( _p_ > 0.5 in both cases). 
+**==> picture [418 x 510] intentionally omitted <==**
 
-> 1 Familiarity for the route and familiarity for locations within the route were not correlated ( _r_ Pearson = −0.17; _p_ = 0.45). 
+Figure 2. Allocentric position encoding (A) Occupancy heat maps depicting the average proportion of time spent in each 50 cm[2] bin across sessions. X: E-W axis of the arena; Y: N-S axis. Color: proportion of the session time in each bin; left: rectangular screens represent the approximate location of each patch feeder and white asterisks denote which ones were on top of barrels. Right, occupancy plot for elevation axis. (B–G) Rate maps of a sample neuron from each structure that was determined to be significantly tuned to 3D allocentric position (2D position and tracked height, simultaneously). Color: neural activity, computed as the occupancy-normalized firing rate (spikes/s); size, occupancy, computed as the time spent (s) in a bin. (H) The proportion of total recorded neurons in each structure (collapsed across subjects) tuned to 3D position (XYZ), 2D position (XY only), tracked height (Z only), single selectivity to 2D position alone, and single selectivity to height alone. Red line: chance. Bars indicate SEM. See also Figure S2. 
 
-_E. Ciaramelli / Neuropsychologia 46 (2008) 2099–2105_ 
+Current Biology 33, 3478–3488, August 21, 2023 3481 
 
-2103 
+Article 
 
-## **4. Discussion** 
+## **ll** 
 
-Functional neuroimaging studies have detected activity in ventromedial and ventrolateral regions of prefrontal cortex during navigation tasks, suggesting these regions might be involved in navigation (Spiers & Maguire, 2006; Spiers & Maguire, 2007). Consistent with neuroimaging evidence, I have described a patient with ventromedial prefrontal damage who often erred while navigating in a largely familiar environment. Regions of maximal overlap between activation in the study by Spiers and Maguire (2006) and brain damage in LG are located in areas BAs 10 and 11. Findings from the present study indicate that the ventromedial prefrontal cortex is needed for navigation. 
+**==> picture [418 x 481] intentionally omitted <==**
 
-As previously noted, Spiers and Maguire (2006) observed activity in ventromedial and ventrolateral prefrontal cortex during the initial processing of the goal destination, suggesting that these brain regions may be involved in encoding the goal destination into long-term memory. However, our patient did remember his spatial goals when interrogated about them. This indicates that the ventromedial prefrontal cortex may not be needed for long-term encoding (or retrieval) of the goal destination during navigation. Accordingly, previous research has implicated ventrolateral, rather than ventromedial, prefrontal regions in long-term memory encoding (see Blumenfeld & Ranganath, 2007, for a review). Moreover, LG performed normally on the Corsi block test, offering additional evidence that his ability to encode and retrieve spatial goals was preserved (Capitani et al., 1991). The patient also showed normal knowledge of famous landmarks and routes in town. 
+Figure 3. Allocentric head orientation coding in volumetric space 
 
-In both ecological and laboratory testing, however, LG typically did lose his way. An error analysis indicated that, when LG got lost, he typically headed to locations that were significantly more familiar to him than the actual goal locations. That is, when travelling along routes that included a location he had attended frequently in the past, LG was “attracted” to the familiar location, and failed to reach the goal location. LG’s spatial navigation problems may thus be due mainly to a failure to suppress interference from familiar, personally relevant spatial lures. Indeed, LG was not impaired in reaching the goal block in the Corsi test, where distractors have no pre-experimental familiarity. LG’s topographical disorientation may therefore reflect a reversal learning problem, that is, a failure to confer the status of “spatial goal” to a relevant location rather than to a previously rewarded, yet currently irrelevant, one (Rolls, 2004). 
+(A) Occupancy histograms depicting the distribution across sessions of the proportion of the total orientations recorded. R, proportion orientation bins occupied at least once during a session; theta: orientation. 
 
-In line with the reversal-learning interpretation, previous evidence shows that patients with ventromedial prefrontal lesions have deficits in reversal learning (Fellows & Farah, 2003). Even though reversal learning was not explicitly assessed in LG, he performed poorly in the Wisconsin Card Sorting Test (see Table 1), which shares cognitive components with reversal learning tasks (Konishi, Chikazoe, Jimura, Asari, & Miyashita, 2005). Moreover, it has been shown that activity in cells of the medial frontal and orbitofrontal cortex is modulated by current navigational goal in humans (Ekstrom et al., 2003) and rodents (Feierstein, Quirk, Uchida, Sosulski, & Mainen, 2006; Hok, Save, Lenck-Santini, & Poucet, 2005). Indeed, ablating rodent orbitofrontal and medial prefrontal cortex can impair per- 
+(B–G) Polar rate maps of a sample neuron with significant tuning. R, occupancy-normalized firing rate (spikes/s). 
 
-formance in navigation tasks (Vafaei & Rashidy-Pour, 2004), especially when behavioural flexibility is required (Lacroix, White, & Feldon, 2002). More generally, it is well established that the prefrontal cortex is involved in suppressing learned stimulus–response associations (Burgess & Shallice, 1996a; Norman & Shallice, 1986). This function may be necessary to inhibit the tendency to make the turns to get to familiar destinations, when this conflicts with current spatial goals (Hartley, Maguire, Spiers, & Burgess, 2003). 
+(H) Proportion of total recorded neurons in each structure (collapsed across subjects) tuned to 3D orientation (Y, yaw; P, pitch; and R, roll), head direction (yaw only), head tilt (pitch and roll), single selectivity to head direction, and single selectivity to head tilt. Red line: chance. 
 
-Of course, behavioural problems of patients with ventromedial prefrontal lesions go well beyond spatial navigation, and there are interesting similarities among patients’ failures across domains. Shallice and Burgess (1991) described the behaviour of 3 patients with lesions similar to LG’s. When asked to carry out a variety of fairly simple but open-ended tasks, these patients “got lost” within individual tasks, spending all of their time on a single activity (see also Burgess, Veitch, Costello, & Shallice, 2000; Goldstein, Bernard, Fenwick, Burgess, & McNeil, 1993). Similar to what is proposed here, the authors argued that the problem was due to an inability to bear in mind intentions while performing an ongoing task, rather than to poor memory for the intention itself. Further, in the verbal domain, patients with lesions in ventromedial prefrontal cortex may confabulate, that is, claim to remember events that did not actually happen (Gilboa & Moscovitch, 2002). Many have pointed out that confabulatory memories are often made up of information that is not pertinent to the ongoing reality (Schnider, 2003), although vivid and personally relevant (Ciaramelli & Ghetti, 2007; Fotopoulou, Conway, & Solms, 2007). Thus, across domains, the behaviour of patients with ventromedial prefrontal damage appears to converge to familiar yet inappropriate solutions, as if they had relatively preserved the representations that reflect their knowledge of the world (perhaps to be identified with _attractor states_ of extended cortical networks), but had damaged the “grammar”thatprescribestheappropriatetransitionsbetweenattractor states, and therefore slipped easily into strong ones (see Treves, 2005). 
+## Encoding of boundary distance, linear velocity, and angular velocity 
 
-An interesting finding of the present study is that LG’s navigation performance improved substantially when he was periodically reminded of, or simply required to recall, the name of his goal destination along the route. Thus, interference from task-irrelevant locations can be overridden by refreshing current goals in working memory. Importantly, a generic alerting signal was not effective in improving performance, which suggests that LG’s wayfinding improvement was not mediated by a generic increase in alertness (e.g., Manly, Hawkins, Evans, Woldt, & Robertson, 2002). This finding suggests that ventromedial prefrontal cortex may contribute to navigation by keeping goal locations active in working memory. Consistent with this idea, Spiers and Maguire (2006) found increased ventromedial prefrontal activity in taxi drivers when they thought about the goal destination while progressing along their routes (Spiers & Maguire, 2006, see also Maguire et al., 2006), and when they heard irrelevant statements from customers. The distracting effect of the latter may be counteracted by mental rehearsal (or energizing) of the actual goals (Spiers & Maguire, 2006). Additional evidence for the goal-maintenance interpre- 
+We found neural encoding of egocentric boundary distance, linear velocity, and angular velocity in all six regions[39] (Figure 4). Egocentric boundary distance is a subject’s current distance to the nearest boundary of the environment.[39] A significant proportion of neurons in all six regions show this encoding (Figures 4C, 
 
-_E. Ciaramelli / Neuropsychologia 46 (2008) 2099–2105_ 
+4D, and 5A); tuning in the first and second halves of the session were correlated (OFC: r = 0.94; dACC: r = 0.93; SMA: r = 0.73; vlPFC: r = 0.86; dlPFC: r = 0.78; PMd: r = 0.74; p < 0.0001 in all cases). 
 
-2104 
+Linear velocity is the derivative of position (converted to cm/s). Significant portions of neurons encoded linear velocity in all areas (Figures 4E and 5A); first/second half coding was 
 
-tation is offered by the fact that LG displays severe verbal WM problems. Ventral subregions of prefrontal cortex, including BA 10, have indeed been implicated in WM maintenance (e.g., Rypma & D’Esposito, 1999). It is worth emphasizing that the reversal-learning and goal-maintenance interpretations of LG’s wayfinding problems are in fact related. As others have noted, holding information actively in mind that mediates task-relevant behaviour is a prerequisite for suppressing taskirrelevant behaviour (Cohen, Barch, Carter, & Servan-Schreiber, 1999). 
+3482 Current Biology 33, 3478–3488, August 21, 2023 
 
-The present study has direct clinical implications. LG was successfully trained to rehearse his spatial goals mentally while navigating, and was able to start going to work by himself. He also reported having generalized the use of the self-reminding strategy to other real-life activities (i.e. grocery shopping). Thus, trainingpatientswithventromedialprefrontaldamagetoactively rehearse task-relevant information may help them overcome the disruptive influence of irrelevant competing tasks or intentions. From a theoretical point of view, the present findings suggest that retrieval goals, after having being described (Burgess & Shallice, 1996b; Badre & Wagner, 2007), need to be held in an active state throughout retrieval attempts to drive the retrieval of pertinent information. This process needs external support in patients with ventromedial prefrontal damage. 
+Article 
 
-## **Acknowledgements** 
+**==> picture [16 x 12] intentionally omitted <==**
 
-I am grateful to the patient and his wife for their devotion to the study. I thank Laura Moretti and Anna Disantantonio for assistance with analyzing the lesion site and data collection, and Julia Spaniol, Morris Moscovitch, Alessandro Treves, and the reviewers for helpful comments. I acknowledge financial support from the EU through a Marie Curie Individual Fellowship. 
+**----- Start of picture text -----**<br>
+ll<br>**----- End of picture text -----**<br>
 
-## **References** 
 
-- Aguirre, G. K., & D’Esposito, M. (1999). Topographical disorientation: A synthesis and taxonomy. _Brain_ , _122_ , 1613–1628. 
+**==> picture [46 x 35] intentionally omitted <==**
 
-- Badre, D., & Wagner, A. D. (2007). Left ventrolateral prefrontal cortex and the cognitive control of memory. _Neuropsychologia_ , _45_ , 2883–2901. 
+**==> picture [490 x 372] intentionally omitted <==**
 
-- Blumenfeld, R. S., & Ranganath, C. (2007). Prefrontal cortex and long-term memory encoding: An integrative review of findings from neuropsychology and neuroimaging. _Neuroscientist_ , _13_ , 280–291. 
+Figure 4. Example tuning curves for neurons encoding angular velocity, egocentric boundary distance, and linear velocity (A and B) The within-session distribution of angular velocities (A) and the corresponding rate maps of a sample neuron from each brain area with significant tuning (B). (C and D) The within-session distribution of egocentric boundary distance (C) and the corresponding rate maps of a sample neuron with significant tuning (D). (E) The tuning curve of a sample neuron with significant tuning to linear velocity. See also Figure S3. 
 
-- Burgess, P. W., & Shallice, T. (1996a). Response suppression, initiation and strategy use following frontal lobe lesions. _Neuropsychologia_ , _34_ , 263–272. 
+correlated (OFC: r = 0.865; dACC: r = 0.865; SMA: r = 0.518; vlPFC: r = 0.757; dlPFC: r = 0.624; PMd: r = 0.548; p < 0.0001 in all cases). 
 
-- Burgess, P. W., & Shallice, T. (1996b). Confabulation and the control of recollection. _Memory_ , _4_ , 359–411. 
+We defined angular velocity as the change in orientation along yaw and pitch angles. We found a significant encoding proportion in all structures (p < 0.0001 in all cases) (Figures 4A, 4B, and 5A), and positive first/second half correlations (OFC: r = 0.884; dACC: r = 0.865; SMA: r = 0.518; vlPFC: r = 0.774; dlPFC: r = 0.608; PMd: r = 0.563; p < 0.0001 in all cases). Figure S3 offers a visualization of the overlap between encoding of different navigational variables across all brain areas. 
 
-- Burgess, P. W., Veitch, E., Costello, A., & Shallice, T. (2000). The cognitive and neuroanatomical correlates of multitasking. _Neuropsychologia_ , _38_ , 848– 863. 
+## Relationship between encoding of navigational variables and task variables 
 
-- Capitani, E., Laiacona, M., & Ciceri, C. (1991). Sex differences in spatial memory: A reanalysis of block tapping long-term memory according to the short-term memory level. _Italian Journal of Neurological Sciences_ , _12_ , 461–466. 
+Neurons in the PFC carry information related to key behavioral variables, such as reward and choice.[44–46] We wondered how robust encoding of navigational variables relates to the more 
 
-- Ciaramelli, E., & Ghetti, S. (2007). What are confabulators’ memories made of? A study of subjective and objective recollection in confabulation. _Neuropsychologia_ , _45_ , 1489–1500. 
+familiar non-navigational task-variable encoding methodology. We computed neural encoding for five task variables: (1) lever pressing (versus not pressing—note that this is confounded with reward receipt); (2) number of rewards remaining throughout the environment; (3) number of rewards remaining at the current patch; (4) stay/leave choice after the previous trial; and (5) the predicted probability of stay/leave at each press given the number of presses remaining through the environment. 
 
-- Ciaramelli, E., Serino, A., Benassi, M., & Bolzani, R. (2006). Standardizzazione 
+We found in OFC that 21.19% (n = 257/1,213 neurons) showed selectivity to lever pressing. This proportion is significantly greater than chance (p < 0.0001, binomial test). We found similar and significant proportions in both subjects individually (Y: 22.55%, W: 20.69%). These proportions are roughly in line with the proportion observed in this region in other tasks.[47] We found similar results in all structures (Figure 5B; Tables S2 and S3). 
 
-   - di tre test di memoria di lavoro. _Giornale Italiano di Psicologia_ , _3_ , 607–626. 
+To measure variables 2–5, we segmented each lever press into individual trials, computed the average firing rates for each 
 
-- Cohen, J. D., Barch, D. M., Carter, C., & Servan-Schreiber, D. (1999). Context-processing deficits in schizophrenia: Converging evidence from 
+Current Biology 33, 3478–3488, August 21, 2023 3483 
 
-three theoretically motivated cognitive tasks. _Journal of Abnormal Psychology_ , _108_ , 120–133. 
+Article 
 
-- Ekstrom,A.D.,Kahana,M.J.,Caplan,J.B.,Fields,T.A.,Isham,E.A.,Newman, E. L., et al. (2003). Cellular networks underlying human spatial navigation. _Nature_ , _425_ , 184–188. 
+## **ll** 
 
-- Feierstein, C. E., Quirk, M. C., Uchida, N., Sosulski, D. L., & Mainen, Z. F. (2006). Representation of spatial goals in rat orbitofrontal cortex. _Neuron_ , _51_ , 495–507. 
+**==> picture [239 x 268] intentionally omitted <==**
 
-- Fellows, L. K., & Farah, M. J. (2003). Ventromedial frontal cortex mediates affective shifting in humans: Evidence from a reversal learning paradigm. _Brain_ , _126_ , 1830–1837. 
+Figure 5. Prefrontal encoding of other navigational and non-navigational variables (A) A summary of the proportion of total recorded neurons tuned to egocentric boundary distance, angular velocity, and linear velocity collapsed across subjects. 
 
-- Folstein, M. F., Folstein, S. E., & McHugh, P. R. (1975). “Mini Mental State”: A practical method for grading the cognitive state of patients for the clinician. _Journal of Psychiatric Research_ , _1_ , 189–198. 
+(B) The proportion of neurons significantly tuned to task-related variables. Each bar indicates the proportion of tuned neurons in one of the six structures. Red lines in (A) and (B) show chance levels for ɑ = 0.05. nSMA = 280, nPMd = 2,017, ndlPFC = 1,591, nvlPFC = 1,756, ndACC = 1,419, nOFC = 1,213. See also Tables S2 and S3. 
 
-- Fotopoulou, K., Conway, M., & Solms, M. (2007). Confabulation: Motivated reality monitoring. _Neuropsychologia_ , _45_ , 2180–2190. 
+neuron per lever press and regressed the averages on the four other task variables (comparable with the approach expected from a chaired-task paradigm). We found that a significant proportion of neurons in each region encoded the number of rewards remaining across the environment (Figure 5B). We found similar results for stay/leave choice (Figure 5B). 
 
-- Gilboa, A., & Moscovitch, M. (2002). The cognitive neuroscience of confabulation: A review and a model. In A. D. Baddeley, M. D. Kopelman, & B. A. Wilson (Eds.), _The Handbook of memory disorders_ (pp. 315–342). John Wiley & Sons. 
+To measure the probability of leaving a given patch, we fitted a sigmoid function to choice by regressing the total number of presses remaining across all patches in the environment against the stay/leave decision (see STAR Methods). We then used the fitted function to estimate the probability of staying/leaving, based on the total number of presses available in the arena. We found a significant proportion of neurons encoded the probability of leaving the current patch, controlling for the rewards remaining at the current patch (Figure 5B). 
 
-- Goldstein, L. H., Bernard, S., Fenwick, P. B. C., Burgess, P. W., & McNeil, J. (1993). Unilateral frontal lobectomy can produce strategy application disorder. _Journal of Neurology Neurosurgery and Psychiatry_ , _56_ , 274–276. 
+Finally, we found that a significant proportion of neurons encoded the probability of leaving the current patch, while controlling for the number of rewards remaining at the current patch in OFC, dACC, vlPFC, and dlPFC (Figure 5B). The proportion of neurons encoding the number of remaining rewards at the current patch failed to reach significance in the SMA (6.64%, p = 0.07, binomial test) and PMd (5.33%, p = 0.25, binomial test). 
 
-- Hartley, T., Maguire, E. A., Spiers, H. J., & Burgess, N. (2003). The well-worn route and the path less travelled: Distinct neural bases of route following and wayfinding in humans. _Neuron_ , _37_ , 877–888. 
+## Variable encoding is distributed randomly among neurons within structures 
 
-- Hok, V., Save, E., Lenck-Santini, P. P., & Poucet, B. (2005). Coding for spatial goals in the prelimbic/infralimbic area of the rat frontal cortex. _Proceedings of the National Academy of Science USA_ , _102_ , 4602–4607. 
+To determine whether navigational and task variables are encoded in distinct subpopulations, we used elliptical projection angle index of response similarity (ePAIRS).[48] We used the LNGAM-generated variable weights to calculate estimated marginal means (EMMs), reduced the dimensionality, and computed a cluster index (Cidx) from the 10 best explanatory principal components (see STAR Methods and Raposo et al.[49] ). The cluster index uses the angles between neural response vectors to compute similarities in tuning properties, so neurons that respond along the same dimensions will be categorized as more similar (even if their tuning curves are different) than neurons that respond along orthogonal dimensions. Given perfect clustering (Cidx = 1), the angle of each point is identical to its nearest neighbors. Conversely, given a perfectly random distribution of variables, Cidx = 0. A Cidx < 0 would indicate a smoother distribution in variable encoding than would be generated by the data-derived null distribution.[49] We found significantly negative ePAIRS score in all structures (Figure 6A). This result provides evidence against the hypothesis that neurons are clustered into functional subtypes. 
 
-- Knutson, B., Taylor, J., Kaufman, M., Peterson, R., & Glover, G. (2005). Distributed neural representation of expected value. _Journal of Neuroscience_ , _25_ , 4806–4812. 
+One advantage of multiplexing is that it allows the same population of neurons to meet distinct behavioral demands, while continuing to support simple linear combinations for downstream decoding.[49][,][50] In one study, the authors demonstrated that, despite the category-free coding they observed in the posterior parietal cortex, it was possible to nonetheless perform a linear readout of firing to estimate task variables, demonstrating that category-free coding does not result in a sacrifice in fidelity.[49] To confirm that the same applies to our own data, we performed the same control analysis described in that study. To do so, we asked whether we could use a linear decoder to accurately predict the position of the animal, based on the firing rates across the population (see STAR Methods). We segmented the arena into 9 zones, so chance-level decoding accuracy was 11.11% (i.e., 1/9). We compared the decoding accuracy from population activity in each structure with chance (correcting for multiple comparisons, a = 0.0083). Position was decodable from population neural activity in all structures (Figure 6B). These analyses were confirmed for both subjects individually (data not shown). 
 
-- Konishi, S., Chikazoe, J., Jimura, K., Asari, T., & Miyashita, Y. (2005). Neural mechanism in anterior prefrontal cortex for inhibition of of prolonger set interference. _Proceedings of the National Academy of Science USA_ , _102_ , 12584–12588. 
+## Coding of all measured variables grows along a ventralto-dorsal gradient 
 
-- Kopelman, M. D. (1987). Two types of confabulation. _Journal of Neurology, Neurosurgery, and Psychiatry_ , _50_ , 1482–1487. 
+We previously found a ventral-to-dorsal gradient in encoding of economic variables along the medial wall of the PFC.[46] We asked if a similar gradient is observed for navigational variables. We identified two distinct potential ventral-to-dorsal anatomical gradients in our data: a medial (OFC / dACC / SMA / PMd) and a lateral series (OFC / vlPFC / dlPFC / PMd). We found that position encoding increases along both gradients. Formally, the regression weight of response strength, computed for each neuron, increased with structure’s hierarchical position (medial: Spearman r[2] = 0.067; lateral: r[2] = 0.051; p < 0.0001 in both cases). We observed the same pattern using depth of electrode instead of brain areas (Figure 7, medial: Pearson r[2] = 0.055; lateral: r[2] = 0.065; p < 0.0001 in both cases). 
 
-- Lacroix, L., White, I., & Feldon, J. (2002). Effect of excitotoxic lesions of rat medial prefrontal cortex on spatial memory. _Behavioural and Brain Research_ , _133_ , 69–81. 
+We found a similar gradient for head direction with brain area (medial: r[2] = 0.099; lateral: r[2] = 0.078; p < 0.0001) and with 
 
-- Maguire, E. A., Burgess, N., Donnett, J. G., Frackowiak, R. S., Frith, C. D., & O’Keefe, J. (1998). Knowing where and getting there: A human navigation network. _Science_ , _280_ , 921–924. 
+3484 Current Biology 33, 3478–3488, August 21, 2023 
 
-- Maguire, E. A., Nannery, R., & Spiers, H. J. (2006). Navigation around London by a taxi driver with bilateral hippocampal lesions. _Brain_ , _129_ , 2894– 2907. 
+## **ll** 
 
-- Manly, T., Hawkins, K., Evans, J., Woldt, K., & Robertson, I. H. (2002). Rehabilitation of executive function: Facilitation of effective goal management on complex tasks using periodic auditory alerts. _Neuropsychologia_ , _40_ , 271–281. 
+## Article 
 
-- Norman, D. A., & Shallice, T. (1986). Attention to action: Willed and automatic control of behavior. In R. Davidson, G. Schwartz, & D. Shapiro (Eds.), _Consciousness and self regulation: Advances in research_ . New York: Plenum Press. 
+Figure 6. Prefrontal encoding of navigational and task variables is distributed randomly among regional neurons (A) Weights for the first and second principal components from both subjects combined, which was produced by reducing the dimensionality of the LN-GAM-derived navigational variable encoding. The roughly uniform circular distributions indicate a lack of encoding-based clustering in N-dimensional principal component space. The inlaid score indicated the clustering index from the ePAIRS analysis and an asterisk denotes significance at p < 0.05. 
 
-- Robertson, I. H., Ward, T., Ridgeway, V., & Nimmo-Smith, I. (1996). The structure of normal human attention: The test of everyday attention. _Journal of the International Neuropsychological Society_ , _2_ , 525–534. 
+**==> picture [322 x 230] intentionally omitted <==**
 
-- Rosenbaum, R. S., Ziegler, M., Winocur, G., Grady, C., & Moscovitch, M. (2004). “I have often walked down this street before”: fMRI studies on the hippocampus and other structures during mental navigation of an old environment. _Hippocampus_ , _14_ , 826–835. 
+(B) Accuracy of a linear decoder, a regressionbased support-vector machine, in using population neural activity to decode the 2D position of the subject. Each bar indicates the accuracy for decoding subject position based on neural activity in each structure. Gray: shuffled values. Bars: standard error across bootstrapped iterations. Red line, chance. 
 
-- Rolls, E. T. (2004). The functions of the orbitofrontal cortex. _Brain and Cognition_ , _55_ , 11–29. 
+electrode depth (medial: r[2] = 0.081; lateral: r[2] = 0.095; p < 0.0001). We found similar results for egocentric boundary distance (medial: r[2] = 0.125; lateral: r[2] = 0.099; p < 0.0001) and electrode depth (medial series: r[2] = 0.098; lateral: r[2] = 0.076; p < 0.0001). Likewise for angular velocity (medial: r[2] = 0.125; lateral: r[2] = 0.099; p < 0.0001) and electrode depth (medial: r[2] = 0.098; lateral: r[2] = 0.076; p < 0.0001); likewise for linear velocity (medial: r[2] = 0.118; lateral: r[2] = 0.099; p < 0.0001) and electrode depth (medial: r[2] = 0.097; lateral: r[2] = 0.071; p < 0.0001). 
 
-- Rorden, C., & Brett, M. (2000). Stereotaxic display of brain lesions. _Behavioural Neurology_ , _12_ , 191–200. 
+be inevitable that information like this is observed broadly. Unfortunately, we cannot ascertain whether these navigational variables are either endogenously or exogenously generated (or some combination). However, we do not believe it is logically necessary that the information will be observed everywhere. There are plentiful examples of cases in which information is generated in one region, but not shared in others. As such, it seems unlikely that different parts of the PFC achieve a balance of encoding due to sharing of information. Having said that, we must also be careful about functional interpretations—the fact that we observe widespread correlates of navigational information in these regions does not prove they play a causal role in navigation. 
 
-- Rypma, B., & D’Esposito, M. (1999). The roles of prefrontal brain regions in components of working memory: Effects of memory load and individ- 
+We found similar patterns for our non-navigational variables. Encoding of stay/leave choice probability significantly increased along both gradients (medial: r[2] = 0.071; lateral: r[2] = 0.069; p < 0.0001). Unsigned weight of reward encoding, from the LN-GAM, increased along both (medial: r[2] = 0.081; lateral: r[2] = 0.067; p < 0.0001). These patterns were significant with electrode depth (p < 0.0001 in all cases). These results extend our previous findings of a ventral-to-dorsal gradient of encoding for economic variables to navigational variables. 
 
-2105 
+Several reports in rodents have identified encoding of navigational variables beyond the hippocampal complex.[24–27] Likewise, a small literature in humans emphasizes the potential roles of nonhippocampal regions, especially prefrontal ones, in navigation.[22] Our report adds to this literature. Some of these results have proposed that navigational information outside of the hippocampus may play a distinct role, such as linking space to value or changing plans; however, existing data are also consistent with the hypothesis that hippocampal and prefrontal regions play largely overlapping roles. Our results imply that navigational information can be found in the PFC, just as it can be found in the hippocampal complex. It is worth emphasizing that the tuning for place that we find is not place-cell-like. In particular, it is not generally localized to a single position in space, nor does it have other hallmarks of place cells. On the other hand, it does clearly contain information about place, and it does resemble responses of nongrid cells in medial entorhinal cortex. It is likely, in our view, that these differences reflect differences in the way space is encoded in prefrontal regions and in hippocampus. It is worth noting, however, that the spread-out responses we observe do qualitatively resemble those measured in two recent studies of primate hippocampus,[39][,][52] suggestingthatthedifferencemaybe,atleastinpart,aspeciesdifference, rather than a purely real one. 
 
-_E. Ciaramelli / Neuropsychologia 46 (2008) 2099–2105_ 
+## DISCUSSION 
 
-   - ual differences. _Proceedings of the National Academy of Science USA_ , _96_ , 6558–6563. 
+In freely moving macaques, single neurons in six prefrontal areas encode several navigational variables. Navigational and nonnavigational variables are encoded in the same set of neurons, using mixed selectivity.[49–51] The widespread encoding of navigational variables outside of the hippocampus suggests that processing of navigational information may not be localized. These results tie into emerging theories that see navigation as a special case of associative mapping.[5–7][,][20][,][21] Indeed navigational information may be found in prefrontal regions because of their more general role as flexible encoders of associative information. 
 
-- Schnider, A. (2003). Spontaneous confabulation and the adaptation of thought to ongoing reality. _Nature Review Neuroscience_ , _4_ , 662– 671. 
+It is not clear whether these signals are generated within the regions we recorded, or whether they are generated elsewhere. Given the broad interconnections with prefrontal regions, it may 
 
-- Shallice, T., & Burgess, P. W. (1991). Deficits in strategy application following frontal lobe damage in man. _Brain_ , _114_ , 727–741. 
+**==> picture [46 x 35] intentionally omitted <==**
 
-- Spiers, H. J., & Maguire, E. A. (2006). Thoughts, behaviour, and brain dynamics during navigation in the real world. _Neuroimage_ , _31_ , 1826–1840. 
+Current Biology 33, 3478–3488, August 21, 2023 3485 
 
-- Spiers, H. J., & Maguire, E. A. (2007). A navigation guidance system in the human brain. _Hippocampus_ , _17_ , 618–626. 
+Article 
 
-- Spinnler, H., & Tognoni, G. (1987). Standardizzazione e Taratura Italiana di Test Neuropsicologici. _The Italian Journal of Neurological Science_ , _6_ (Suppl. 8). Milano: Masson Italia. 
+## **ll** 
 
-- Treves, A. (2005). Frontal latching networks: A possible neural basis for infinite recursion. _Cognitive Neuropsychology_ , _22_ , 276–291. 
+**==> picture [239 x 181] intentionally omitted <==**
 
-- Vafaei, A. A., & Rashidy-Pour, A. (2004). Reversible lesions of the rat’s orbitofrontal cortex interferes with hippocampus-dependent spatial memory. _Behavioural Brain Research_ , _149_ , 61–68. 
+Figure 7. Ventral-dorsal gradient of navigational tuning Average encoding strength as a function of electrode position for both subjects combined. Bubbles correspond to position bins. Color, strength of encoding. Size, number of neurons in bin. 
 
-- Zimmermann, P., & Fimm, B. (2002). A test battery for attentional performance. In M. Leclercq & P. Zimmermann (Eds.), _Applied neuropsychology of attention. Theory, diagnosis and rehabilitation_ , pp. 110–151. 
+We observe no evidence for separate populations encoding navigational and non-navigational information. These results are important because they indicate that navigational encoding is not part of specialized patches or neural subregions, nor of distinct neurons that were inaccessible in prior studies. This result is consistent with the growing body of research indicating that mixed selectivity is widespread and robust.[49][,][51][,][53] This mixed selectivity may allow for flexible yet robust coding and may allow for rapid recombination of information.[50] 
+
+The ventral-to-dorsal gradient in coding strength we report here resembles one we have found for the medial wall.[46] Why would we see stronger encoding more dorsally? We propose that information encoded in a format that is more accessible to the motor system (and likewise to our decoding analyses) in more ventral structures. In other words, more dorsal structures show information in a more untangled manner.[54] Conversely, these data argue against a functionally modular arrangement, in which each area has a specific nameable function, such as ‘‘evaluate,’’ ‘‘compare,’’ and ‘‘control.’’ At the same time, these data argue against a purely distributed view, in which all information is present in the same form across the PFC. Instead, they support a hierarchical view.[17][,][18][,][45][,][55–57] 
+
+One interesting feature of our data is that firing rates are much lower than those typically observed in standard primate physiology experiments, and lower than those often reported in rodent studies of the navigational system. We suspect that the discrepancy is likely to reflect genuine differences in how neurons fire and differences in firing rate for neurons selected online and offline. Specifically, we have noticed that as we move toward more naturalistic tasks, firing rates tend to decrease. Indeed, in our informal observations of these same subjects performing chaired tasks with the same recording system, firing rates are lower in our open-field paradigm. Moreover, we believe that when selecting neurons for recording, physiologists (including ourselves) tend to select higher tonically active neurons, simply because these are the ones we are more likely to notice. It 
+
+remains an open question which of these two factors is more important, and whether other factors contribute as well. 
+
+One limitation of the present study is that we did not measure gaze direction. As such, we could not perform a disambiguation between tuning to facing location (where in the room the subject’s head is facing) and spatial view (where in the room the subject’s eyes are looking). In a recent, important paper, Mao et al.[39] characterized navigational tuning in the hippocampus of freely moving primates. They showed the results of both a traditional tuning curve and the LN-GAM approach used here. The traditional tuning curve approach, using a single fitted variable at a time, yielded tuned proportions analogous to those commonly reported in the rodent hippocampus. Critically, however, the LN-GAM approach included a variable for ‘‘facing location’’ and ‘‘spatial view’’ within the large, simultaneously fitted model. They demonstrated that hippocampal tuning was predominantly driven by facing location rather than spatial view, which underscores the importance of performing this disambiguation (see also Killian et al.[58] and Jacobs et al.[59] ). In future studies we hope to investigate the relationship between facing location and spatial view. 
+
+Another limitation is that we could not include 4 of the 5 nonnavigational variables in the LN-GAM (rewards remaining at the current patch, rewards remaining in the environment, stay/leave choice, and stay/leave probability); therefore, we could not perform any direct analyses to relate navigational encoding to the broader non-navigational encoding strengths beyond the one included in the LN-GAM (lever pressing). One further limitation is that the lack of a rigid trial structure restricted our ability to compare navigational variable encoding when subjects were task-engaged versus not engaged. We conservatively defined a trial as the 2-s epoch after a lever press, a period in which subjects exhibited limited range of motion and which was highly confounded with reward receipt. 
+
+Ultimately, we believe that these results provide a strong argument for the use of naturalistic tasks. It is well known that natural behavior is continuous, complex (multieffector), embedded (in an environment), and seldom isolated from other competing demands on attention and planning.[60–65] Nonetheless, most laboratory tasks, including the great bulk of our own past work, does not hew to these principles. Instead, they use overly simplified laboratory tasks. Simple laboratory tasks have great benefits, especially in tractability, but they have disadvantages. One is that they often do not manipulate variables that may, if manipulated, be found to be major drivers of neural activity. Ignoring that tuning may in turn obscure the broader and more general functions of neurons in regions of interest. 
+
+## STAR+METHODS 
+
+Detailed methods are provided in the online version of this paper and include the following: 
+
+- d KEY RESOURCES TABLE 
+
+- d RESOURCE AVAILABILITY 
+
+   - B Lead contact 
+
+   - B Materials availability 
+
+   - B Data and code availability 
+
+- d EXPERIMENTAL MODEL AND SUBJECT DETAILS 
+
+3486 Current Biology 33, 3478–3488, August 21, 2023 
+
+**ll** 
+
+## Article 
+
+   - B Animal model 
+
+- d METHOD DETAILS 
+
+   - B Surgical procedures 
+
+   - B Recording sites 
+
+   - B Behavioral task 
+
+- d QUANTIFICATION AND STATISTICAL ANALYSIS 
+
+   - B Behavioral analysis 
+
+   - B Linear-Nonlinear Poisson-distributed Generalized Additive Model 
+
+   - B Stay/leave choice probability and neural encoding 
+
+   - B Distribution of variable encoding 
+
+   - B Linear decoder 
+
+## SUPPLEMENTAL INFORMATION 
+
+Supplemental information can be found online at https://doi.org/10.1016/j. cub.2023.07.024. 
+
+## ACKNOWLEDGMENTS 
+
+We thank the Hayden/Zimmermann lab for valuable discussions as well as Brenna Knaebe for help with animal care and preparation. This work was supported by NIH grants R01 MH128177 (J.Z.), P30 DA048742 (J.Z. and B.Y.H.), R01 MH125377 (B.Y.H.), T32 GM008244 (R.L.C.), T32 MH115886 (R.L.C. and D.J.-N.M.), T32 NS105604 (R.L.C. and D.J.-N.M.), NSF 2024581 (J.Z. and B.Y.H.), and MH125377 and a UMN AIRP award (J.Z. and B.Y.H.) from the Digital Technologies Initiative (J.Z.), from the Minnesota Institute of Robotics (J.Z.). 
+
+## AUTHOR CONTRIBUTIONS 
+
+Formal analysis, D.J.-N.M. and R.L.C.; investigation, D.J.-N.M., R.L.C., B.V., I.C., and M.Z.; data curation, D.J.-N.M., R.L.C., and B.V.; writing, D.J.-N.M. and R.L.C.; supervision, J.Z. and B.Y.H. 
+
+## DECLARATION OF INTERESTS 
+
+The authors declare no competing interests. 
+
+Received: January 9, 2023 Revised: June 1, 2023 Accepted: July 13, 2023 Published: August 3, 2023 
+
+## REFERENCES 
+
+1. Hartley, T., Lever, C., Burgess, N., and O’Keefe, J. (2014). Space in the brain: how the hippocampal formation supports spatial cognition. Philos. Trans. R. Soc. Lond. B Biol. Sci. 369, 20120510. 
+
+2. Rolls, E.T., and Wirth, S. (2018). Spatial representations in the primate hippocampus, and their functions in memory and navigation. Prog. Neurobiol. 171, 90–113. 
+
+3. Moser, E.I., Kropff, E., and Moser, M.B. (2008). Place cells, grid cells, and the brain’s spatial representation system. Annu. Rev. Neurosci. 31, 69–89. 
+
+4. McNaughton, B.L., Battaglia, F.P., Jensen, O., Moser, E.I., and Moser, M.B. (2006). Path integration and the neural basis of the ‘cognitive map’. Nat. Rev. Neurosci. 7, 663–678. 
+
+5. Stachenfeld, K.L., Botvinick, M.M., and Gershman, S.J. (2017). The hippocampus as a predictive map. Nat. Neurosci. 20, 1643–1653. 
+
+6. Schuck, N.W., and Niv, Y. (2019). Sequential replay of nonspatial task states in the human hippocampus. Science 364, eaaw5181. 
+
+7. Epstein, R.A., Patai, E.Z., Julian, J.B., and Spiers, H.J. (2017). The cognitive map in humans: spatial navigation and beyond. Nat. Neurosci. 20, 11. 
+
+8. Poulter, S., Hartley, T., and Lever, C. (2018). The neurobiology of mammalian navigation. Curr. Biol. 28, R1023–R1042. 
+
+9. Musall, S., Kaufman, M.T., Juavinett, A.L., Gluf, S., and Churchland, A.K. (2019a). Single-trial neural dynamics are dominated by richly varied movements. Nat. Neurosci. 22, 10. 
+
+10. Musall, S., Urai, A.E., Sussillo, D., and Churchland, A.K. (2019b). Harnessing behavioral diversity to understand neural computations for cognition. Curr. Opin. Neurobiol. 58, 229–238. 
+
+11. Stringer, C., Pachitariu, M., Steinmetz, N., Reddy, C.B., Carandini, M., and Harris, K.D. (2019). Spontaneous behaviors drive multidimensional, brainwide activity. Science 364, 255. 
+
+12. Steinmetz, N.A., Zatka-Haas, P., Carandini, M., and Harris, K.D. (2019). Distributed coding of choice, action and engagement across the mouse brain. Nature 576, 7786. 
+
+13. Vickery, T.J., Chun, M.M., and Lee, D. (2011). Ubiquity and specificity of reinforcement signals throughout the human brain. Neuron 72, 166–177. 
+
+14. Shin, E.J., Jang, Y., Kim, S., Kim, H., Cai, X., Lee, H., Sul, J.H., Lee, S.-H., Chung, Y., Lee, D., et al. (2021). Robust and distributed neural representation of action values. eLife 10, e53045. 
+
+15. Ottenheimer, D.J., Hjort, M.M., Bowen, A.J., Steinmetz, N.A., and Stuber, G.D. (2022). A stable, distributed code for cue value in mouse cortex during reward learning. eLife 12, RP84604. 
+
+16. Fine, J.M., and Hayden, B.Y. (2022). The whole prefrontal cortex is premotor cortex. Philos. Trans. R. Soc. Lond. B Biol. Sci. 377, 20200524. 
+
+17. Fuster, J.M. (2000). Executive frontal functions. Exp. Brain Res. 133, 66–70. 
+
+18. Fuster, J.M. (2001). The prefrontal cortex—an update: time is of the essence. Neuron 30, 319–333. 
+
+19. Yoo, S.B.M., Sleezer, B.J., and Hayden, B.Y. (2018). Robust encoding of spatial information in orbitofrontal cortex and striatum. J. Cogn. Neurosci. 30, 898–913. 
+
+20. Behrens, T.E.J., Muller, T.H., Whittington, J.C.R., Mark, S., Baram, A.B., Stachenfeld, K.L., and Kurth-Nelson, Z. (2018). What is a cognitive map? Organizing knowledge for flexible behavior. Neuron 100, 490–509. 
+
+21. Whittington, J.C.R., Muller, T.H., Mark, S., Chen, G., Barry, C., Burgess, N., and Behrens, T.E.J. (2020). The Tolman-Eichenbaum machine: unifying space and relational memory through generalization in the hippocampal formation. Cell 183, 1249–1263.e23. 
+
+22. Patai, E.Z., and Spiers, H.J. (2021). The versatile wayfinder: prefrontal contributions to spatial navigation. Trends Cogn. Sci. 25, 520–533. 
+
+23. Maisson, D.J.-N., Wikenheiser, A., Noel, J.-P.G., and Keinath, A.T. (2022). Making sense of the multiplicity and dynamics of navigational codes in the brain. J. Neurosci. 42, 8450–8459. 
+
+24. Basu, R., Gebauer, R., Herfurth, T., Kolb, S., Golipour, Z., Tchumatchenko, T., and Ito, H.T. (2021). The orbitofrontal cortex maps future navigational goals. Nature 599, 449–452. 
+
+25. Long, X., and Zhang, S.-J. (2021). A novel somatosensory spatial navigation system outside the hippocampal formation. Cell Res. 31, 6. 
+
+26. Poo, C., Agarwal, G., Bonacchi, N., and Mainen, Z.F. (2022). Spatial maps in piriform cortex during olfactory navigation. Nature 601, 7894. 
+
+27. Wikenheiser, A.M., Gardner, M.P.H., Mueller, L.E., and Schoenbaum, G. (2021). Spatial representations in rat orbitofrontal cortex. J. Neurosci. 41, 6933–6945. 
+
+28. Heilbronner, S.R., Rodriguez-Romaguera, J., Quirk, G.J., Groenewegen, H.J., and Haber, S.N. (2016). Circuit-based corticostriatal homologies between rat and primate. Biol. Psychiatry 80, 509–521. 
+
+29. Miller, E.K., and Cohen, J.D. (2001). An integrative theory of prefrontal cortex function. Annu. Rev. Neurosci. 24, 167–202. 
+
+30. Knight, R.T., and Stuss, D.T. (2002). Prefrontal cortex: the present and the future. Princ. Frontal Lobe Funct. 573–597. 
+
+31. Martinet, L.-E., Sheynikhovich, D., Benchenane, K., and Arleo, A. (2011). Spatial learning and action planning in a prefrontal cortical network model. PLoS Comp. Biol. 7, e1002045. 
+
+**==> picture [46 x 35] intentionally omitted <==**
+
+Current Biology 33, 3478–3488, August 21, 2023 3487 
+
+Article 
+
+## **ll** 
+
+32. Strait, C.E., Sleezer, B.J., Blanchard, T.C., Azab, H., Castagno, M.D., and Hayden, B.Y. (2016). Neuronal selectivity for spatial positions of offers and choices in five reward regions. J. Neurophysiol. 115, 1098–1111. 
+
+33. Bicanski, A., and Burgess, N. (2020). Neuronal vector coding in spatial cognition. Nat. Rev. Neurosci. 21, 453–470. 
+
+34. Ikkai, A., and Curtis, C.E. (2011). Common neural mechanisms supporting spatial working memory, attention and motor intention. Neuropsychologia 49, 1428–1434. 
+
+35. Bala, P.C., Eisenreich, B.R., Yoo, S.B.M., Hayden, B.Y., Park, H.S., and Zimmermann, J. (2020). Automated markerless pose estimation in freely moving macaques with OpenMonkeyStudio. Nat. Commun. 11, 4560. 
+
+36. Hardcastle, K., Maheswaranathan, N., Ganguli, S., and Giocomo, L.M. (2017). A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex. Neuron 94, 375–387.e7. 
+
+37. Laurens, J., Abrego, A., Cham, H., Popeney, B., Yu, Y., Rotem, N., Aarse, J., Asprodini, E.K., Dickman, J.D., and Angelaki, D.E. (2019). Multiplexed code of navigation variables in anterior limbic areas. https://doi.org/10. 1101/684464. 
+
+38. Vinepinsky, E., Perchik, S., and Segev, R. (2020). A generalized linear model of a navigation network. Front. Neural Circuits 14, 56. 
+
+39. Mao, D., Avila, E., Caziot, B., Laurens, J., Dickman, J.D., and Angelaki, D.E. (2021). Spatial modulation of hippocampal activity in freely moving macaques. Neuron 109, 3521–3534.e6. 
+
+40. Yoo, S.B.M., Tu, J.C., Piantadosi, S.T., and Hayden, B.Y. (2020). The neural basis of predictive pursuit. Nat. Neurosci. 23, 252–259. 
+
+41. Yoo, S.B.M., Tu, J.C., and Hayden, B.Y. (2021). Multicentric tracking of multiple agents by anterior cingulate cortex during pursuit and evasion. Nat. Commun. 12, 1985. 
+
+42. Taube, J.S., Muller, R.U., and Ranck, J.B. (1990). Head-direction cells recorded from the postsubiculum in freely moving rats. I. Description and quantitative analysis. J. Neurosci. 10, 420–435. 
+
+43. Taube, J.S. (1998). Head direction cells and the neurophysiological basis for a sense of direction. Prog. Neurobiol. 55, 225–256. 
+
+44. Kennerley, S.W., and Wallis, J.D. (2009). Reward-dependent modulation of working memory in lateral prefrontal cortex. J. Neurosci. 29, 3259–3270. 
+
+45. Rushworth, M.F.S., Noonan, M.P., Boorman, E.D., Walton, M.E., and Behrens, T.E. (2011). Frontal cortex and reward-guided learning and decision-making. Neuron 70, 1054–1069. 
+
+46. Maisson, D.J.-N., Cash-Padgett, T.V., Wang, M.Z., Hayden, B.Y., Heilbronner, S.R., and Zimmermann, J. (2021). Choice-relevant information transformation along a ventrodorsal axis in the medial prefrontal cortex. Nat. Commun. 12, 4830. 
+
+47. Padoa-Schioppa, C. (2011). Neurobiology of economic choice: A goodbased model. Annu. Rev. Neurosci. 34, 333–359. 
+
+48. Hirokawa, J., Vaughan, A., Masset, P., Ott, T., and Kepecs, A. (2019). Frontal cortex neuron types categorically encode single decision variables. Nature 576, 446–451. 
+
+49. Raposo, D., Kaufman, M.T., and Churchland, A.K. (2014). A category-free neural population supports evolving demands during decision-making. Nat. Neurosci. 17, 1784–1792. 
+
+50. Fusi, S., Miller, E.K., and Rigotti, M. (2016). Why neurons mix: high dimensionality for higher cognition. Curr. Opin. Neurobiol. 37, 66–74. 
+
+51. Blanchard, T.C., Piantadosi, S.T., and Hayden, B.Y. (2018). Robust mixture modeling reveals category-free selectivity in reward region neuronal ensembles. J. Neurophysiol. 119, 1305–1318. 
+
+52. Courellis, H.S., Nummela, S.U., Metke, M., Diehl, G.W., Bussell, R., Cauwenberghs, G., and Miller, C.T. (2019). Spatial encoding in primate hippocampus during free navigation. PLoS Biol. 17, e3000546. 
+
+53. Kaufman, M.T., Benna, M.K., Rigotti, M., Stefanini, F., Fusi, S., and Churchland, A.K. (2022). The implications of categorical and categoryfree mixed selectivity on representational geometries. Curr. Opin. Neurobiol. 77, 102644. 
+
+54. Yoo, S.B.M., and Hayden, B.Y. (2018). Economic choice as an untangling of options into actions. Neuron 99, 434–447. 
+
+55. Hunt, L.T., Dolan, R.J., and Behrens, T.E. (2014). Hierarchical competitions subserving multi-attribute choice. Nat. Neurosci. 17, 1613–1622. 
+
+56. Hunt, L.T., Malalasekera, W.M.N., de Berker, A.O., Miranda, B., Farmer, S.F., Behrens, T.E.J., and Kennerley, S.W. (2018). Triple dissociation of attention and decision computations across prefrontal cortex. Nat. Neurosci. 21, 1471–1481. 
+
+57. Hunt, L.T., and Hayden, B.Y. (2017). A distributed, hierarchical and recurrent framework for reward-based choice. Nat. Rev. Neurosci. 18, 172–182. 
+
+58. Killian, N.J., Jutras, M.J., and Buffalo, E.A. (2012). A map of visual space in the primate entorhinal cortex. Nature 491, 761–764. 
+
+59. Jacobs, J., Weidemann, C.T., Miller, J.F., Solway, A., Burke, J.F., Wei, X.X., Suthana, N., Sperling, M.R., Sharan, A.D., Fried, I., et al. (2013). Direct recordings of grid-like neuronal activity in human spatial navigation. Nat. Neurosci. 16, 1188–1190. 
+
+60. Brown, A.E.X., and De Bivort, B. (2018). Ethology as a physical science. Nat. Phys. 14, 653–657. 
+
+61. Datta, S.R., Anderson, D.J., Branson, K., Perona, P., and Leifer, A. (2019). Computational neuroethology: a call to action. Neuron 104, 11–24. 
+
+62. Krakauer, J.W., Ghazanfar, A.A., Gomez-Marin, A., MacIver, M.A., and Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron 93, 480–490. 
+
+63. Matusz, P.J., Dikker, S., Huth, A.G., and Perrodin, C. (2019). Are we ready for real-world neuroscience? J. Cogn. Neurosci. 31, 327–338. 
+
+64. Pearson, J.M., Watson, K.K., and Platt, M.L. (2014). Decision making: the neuroethological turn. Neuron 82, 950–965. 
+
+65. Yoo, S.B.M., Hayden, B.Y., and Pearson, J.M. (2021). Continuous decisions. Philos. Trans. R. Soc. Lond. B Biol. Sci. 376, 20190664. 
+
+66. Azab, H., and Hayden, B.Y. (2018). Correlates of economic decisions in the dorsal and subgenual anterior cingulate cortices. Eur. J. Neurosci. 47, 979–993. 
+
+67. Farashahi, S., Donahue, C.H., Hayden, B.Y., Lee, D., and Soltani, A. (2019). Flexible combination of reward information across primates. Nat. Hum. Behav. 3, 1215–1224. 
+
+68. Yoo, S.B.M., and Hayden, B.Y. (2020). The transition from evaluation to selection involves neural subspace reorganization in core reward regions. Neuron 105, 712–724.e4. 
+
+69. Wang, M.Z., and Hayden, B.Y. (2019). Monkeys are curious about counterfactual outcomes. Cognition 189, 1–10. 
+
+70. Wang, M.Z., Hayden, B.Y., and Heilbronner, S.R. (2022). A structural and functional subdivision in central orbitofrontal cortex. Nat. Commun. 13, 3623. 
+
+71. Blanchard, T.C., Wolfe, L.S., Vlaev, I., Winston, J.S., and Hayden, B.Y. (2014). Biases in preferences for sequences of outcomes in monkeys. Cognition 130, 289–299. 
+
+72. Ebitz, R.B., Sleezer, B.J., Jedema, H.P., Bradberry, C.W., and Hayden, B.Y. (2019). Tonic exploration governs both flexibility and lapses. PLoS Comp. Biol. 15, e1007475. 
+
+73. Balzani, E., Lakshminarasimhan, K., Angelaki, D., and Savin, C. (2020). Efficient estimation of neural tuning during naturalistic behavior. Adv. Neural Inf. Process. Syst. 33, 12604–12614. 
+
+74. Ledergerber, D., Battistin, C., Blackstad, J.S., Gardner, R.J., Witter, M.P., Moser, M.B., Roudi, Y., and Moser, E.I. (2021). Task-dependent mixed selectivity in the subiculum. Cell Rep. 35, 109175. 
+
+75. Saxena, S., and Cunningham, J.P. (2019). Towards the neural population doctrine. Curr. Opin. Neurobiol. 55, 103–111. 
+
+76. Ebitz, R.B., and Hayden, B.Y. (2021). The population doctrine in cognitive neuroscience. Neuron 109, 3055–3068. 
+
+3488 Current Biology 33, 3478–3488, August 21, 2023 
+
+**ll** 
+
+Article 
+
+**==> picture [46 x 35] intentionally omitted <==**
+
+## STAR+METHODS 
+
+## KEY RESOURCES TABLE 
+
+|REAGENT or RESOURCE<br>SOURCE<br>IDENTIFIER|REAGENT or RESOURCE<br>SOURCE<br>IDENTIFIER|REAGENT or RESOURCE<br>SOURCE<br>IDENTIFIER|REAGENT or RESOURCE<br>SOURCE<br>IDENTIFIER|REAGENT or RESOURCE<br>SOURCE<br>IDENTIFIER|
+|---|---|---|---|---|
+||||||
+|Deposited data|||||
+||||||
+|Preprocessed data<br>Zenodo<br>https://doi.org/10.5281/zenodo.8067596|||||
+||||||
+|Software and algorithms|||||
+|MATLAB analysis code<br>Zenodo<br>https://doi.org/10.5281/zenodo.8067596|||||
+||||||
+
+
+
+## RESOURCE AVAILABILITY 
+
+## Lead contact 
+
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the lead contact, Benjamin Hayden (benhayden@gmail.com). 
+
+## Materials availability 
+
+The study did not generate new unique reagents. 
+
+## Data and code availability 
+
+- d The processed data reported in this paper have been deposited on Zenodo and are publicly available as of the date of publication. The DOI is listed in the key resources table. 
+
+- d All original code has been deposited on Zenodo and is publicly available as of the date of publication. The DOI is listed in the key resources table. 
+
+- d Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request. 
+
+## EXPERIMENTAL MODEL AND SUBJECT DETAILS 
+
+## Animal model 
+
+Two male rhesus macaques (Macaca mulatta) served as subjects. Animals were habituated to laboratory conditions, trained to enter and exit an open arena, and then trained to operate water dispensers. The University Committee on Animal Resources at the University of Minnesota approved all animal procedures. Animal procedures were designed and conducted in compliance with the Public Health Service’s Guide for the Care and Use of Animals and approved by the institutional animal care and use committee (IACUC) of the University of Minnesota. 
+
+## METHOD DETAILS 
+
+## Surgical procedures 
+
+We placed a cranium adherent form-fitted Gray Matter (Gray Matter Research) recording chamber and a 128-channel microdrive recording system over the area of interest. We used the same approach as Mao et al.[39] to verify sites. Specifically, we used CT scans which were compared to corresponding CT studies performed following surgical implantation and placement of the electrodes. The hyperdense appearance of electrodes using the post-recording CT allowed us to verify that electrodes followed the trajectory of the pre-operative plan. In both cases (that is, for both subjects), the results of the CT show that this was the case. Specifically, these results indicate that our procedures provided co-registration with an error of less than 0.5 mm. Since electrodes were advanced incrementally not all locations are verified using this approach, but positions could be validly inferred using interpolation. In addition, we performed a second complementary method that also confirmed placement of the electrodes. Specifically, as we have done in many past studies, as we moved the electrodes down into the brain, we made note of the auditorily detectable change from gray to white matter, and reconciled this information with our preoperative CT scans. In all cases, the two matched. Animals received analgesics and antibiotics after all procedures. Procedures were designed and conducted in compliance with the Public Health Service’s Guide for the Care and Use of Animals and approved by the institutional animal care and use committee (IACUC) of the University of Minnesota. 
+
+## Recording sites 
+
+We approached our brain regions by controlled and monitored advancement of individual electrodes, through reconciliation of measured thread-count against postoperative CT images. The implanted microdrive was connected through jumper cables and a 
+
+Current Biology 33, 3478–3488.e1–e3, August 21, 2023 e1 
+
+Article 
+
+## **ll** 
+
+head stage to a removable data logger (SpikeGadgets). The data logger was wirelessly triggered to store neural recordings onto a removable memory card from which it was then extracted at the end of each session. 
+
+We defined OFC as lying within the coronal planes situated between 39.6 and 23.9 mm rostral to the central sulcus, the horizontal planes situated between 23.3 and 45.7 mm from the brain’s dorsal surface, and the sagittal planes between 1.3 and 22.1 mm from the medial wall. 
+
+We defined dACC as lying within the coronal planes situated between 33.5 and 7.4 mm rostral to the central sulcus, the horizontal planes situated between 11.1 and 38.5 mm from the brain’s dorsal surface, and the sagittal planes between 0.4 and 6.7 mm from the medial wall. 
+
+We defined SMA as lying within the coronal planes situated between 30.4 and 13.1 mm rostral to the central sulcus, the horizontal planes situated between 16.2 and 34.3 mm from the brain’s dorsal surface, and the sagittal planes between 0.4 and 6.7 mm from the medial wall. 
+
+We defined vlPFC as lying within the coronal planes situated between 46.8 and 16.8 mm rostral to the central sulcus, the horizontal planes situated between 16.2 and 47.2 mm from the brain’s dorsal surface, and the sagittal planes between 1.1 and 19.4 mm from the medial wall. 
+
+We defined dlPFC as lying within the coronal planes situated between 36.4 and 12.3 mm rostral to the central sulcus, the horizontal planes situated between 17.4 and 48.9 mm from the brain’s dorsal surface, and the sagittal planes between 1.1 and 19.4 mm from the medial wall. 
+
+We defined PMd as lying within the coronal planes situated between 26.7 and 2.9 mm rostral to the central sulcus, the horizontal planes situated between 6.8 and 37.9 mm from the brain’s dorsal surface, and the sagittal planes between 1.9 and 23.7 mm from the medial wall. 
+
+## Behavioral task 
+
+Each patch delivered a fixed amount of 1.5 mL. The first four presses were rewarded with fluid delivery. The fifth was unrewarded and led to a 3-min deactivation. No reset or deactivation was applied if the animal left the patch. A patch was only reset if the subject pressed the lever a fifth time and waited 3 min. A trial consisted of a lever press at time 0, which changed the display to white with a green plus-sign in the center (0-2 seconds), an auditory cue was played (0-2 seconds), and a solenoid opened to dispense reward (0-1 second). After dispensing reward, the solenoid closed, the auditory cue ended, and the green plus-sign disappeared. The screen remained white for 2 additional seconds (2-4 seconds) before the screen turned blue again (total trial time = 4 seconds). The fifth lever press was followed by a white screen. Prior and concurrent chaired task training of these subjects included two risky choice tasks[66–70] and a simpler choice task.[71][,][72] 
+
+## QUANTIFICATION AND STATISTICAL ANALYSIS 
+
+## Behavioral analysis 
+
+There were 5-7 patch events recorded for each patch engagement: lever press, screen off (set to white), screen/auditory reward cue (rewarded presses only), solenoid open (rewarded presses only), solenoid close (rewarded presses only), screen off (set to white), timeout (deactivation press only), and screen reset. Lever press events that led to a reward were used to analyze the reward encoding. The final (unrewarded) press in the series was behaviorally special, so it was not suitable for use in comparison with the rewarded presses. We verified the accuracy of our system to subtle head movements in a previous manuscript.[35] 
+
+To measure the 3 angular axes of the head, we first centered the extracted nose and neck coordinates, placing the estimated head position at the volumetric axis-origin. For each frame, we applied Euler angle transformations on the head-fixed coplanar points to determine the yaw, pitch and roll angles between the origin and the current head orientation. We defined the head direction variable as a 1D vector for the yaw angle of the head. We defined the head tilt variable as a 2D vector consisting of the pitch and roll angles. We measured egocentric boundary in polar coordinates, defined as a 2D variable consisting of the radial distance between the subject and the nearest wall on the azimuthal plane and the angle of the subject relative to the center of the room. To measure angular velocity, we computed a two-dimensional variable, where the first dimension reflects the rotation speed of the head (degrees/second) along the yaw angle and the second dimension reflects the rotation along the pitch angle. To measure linear velocity, we computed the distance traveled (centimeters/second) in any direction. 
+
+## Linear-Nonlinear Poisson-distributed Generalized Additive Model 
+
+We adapted a previously developed approach.[36][,][37][,][39–41][,][73][,][74] Briefly, recordings and variables were binned into 100-ms time bins. Neural data were fitted to multiple, nested linear-nonlinear-Poisson distributed generalized additive models. Data were divided into 10 tranches across the session. Within each, model estimates were computed using 5-fold cross-validation, by dividing each into 5 more subtranches. The process was repeated for each one. The estimated log-likelihood quantified the model performance, and the distribution of log-likelihood estimates was compared to a null distribution (one-sided Wilcoxon signed rank test, alpha = 0.05). 
+
+The best-fitting model was selected using an optimized forward search. Models containing only one variable (1[st] order models) were fitted first. If these models performed better than the null, models containing two variables (2[nd] order models) were fitted. The process was repeated until the performance of the newly fitted model no longer improved over the previous. A neuron was categorized as tuned to a given variable if that variable was included within the best-fitting model. We use the proportion of neurons tuned 
+
+e2 Current Biology 33, 3478–3488.e1–e3, August 21, 2023 
+
+## Article 
+
+## **ll** 
+
+**==> picture [46 x 35] intentionally omitted <==**
+
+as a population level analysis because it suggests that a variable may be a particularly important feature of the neural code and that the population activity may be important for decoding that variable (as we show in the decoding analysis for Figure 6).[75][,][76] Since our significance threshold, alpha, was set at 0.05 for a one-sided Wilcoxon signed rank test, we consider any proportion of neurons above 5% to be significant (see Figure S1 and Table S1 for a summary of variable tuning). Importantly, the additive process for multiple terms was incorporated within the exponentiation used to compute the estimated firing, thus making selectivity to multiple variables a conjunctive (nonlinear) estimate. To assess tuning stability across a session, we computed Pearson’s correlation between encoding magnitudes for each neuron to a given variable during the first and second half of the session. 
+
+We validated the model on our data through a series of controls. After fitting the LN-GAM models, we randomly selected a neuron that was not significantly tuned to any combination of variables. We modified the spike train for that neuron to include a single spurious high firing event, once in each of 3 time periods. We also selected both 10 and 100 bins from each of 3 time periods to insert spurious high firing. Finally, we time-locked the insertion of 1, 10, and 100 simulated spurious events to consistent instances of the tracked position. We repeated this process across 20 randomly selected, untuned neurons from each structure, generating a set of 1200 synthetic datasets. We fitted each of these simulated time series against the original variables. We then determined the proportion of fitting processes that resulted in significant tuning. Only 8.08% (n = 97/1200) of control sets generated a statistically significant fit. These controls confirmed that the best-fitting models were not being influenced by random or spurious events, and instead reflected reliable tuning to the selected variables. 
+
+## Stay/leave choice probability and neural encoding 
+
+We adapted an approach commonly used in traditional neuroeconomics paradigms.[23][,][46][,][73] We leveraged the strictly timed structure of the foraging task to isolate the 2-second epoch during which subjects were rewarded for pressing a lever. Each lever press is necessarily separated from the next by a minimum of 4 seconds; 2 seconds of a reward period and 2 seconds of an intertrial interval. Therefore, each rewarded lever press was treated as a separate trial. We aggregated all trials for each feeder across the session. For each trial, we determined the number of rewarded presses remaining at both the current patch and all distal patches. We also determined whether the current trial occurred at the same or different patch from the previous trial. If it was the same as the previous patch, the subject was said to have made a ‘‘stay’’ choice on the previous trial. Conversely, if it was at a different patch, the subject was said to have made a ‘‘leave’’ choice on the previous trial. This binary choice variable was fitted to the total number of rewarded presses available across the distal patches, using a logistic regression. The resulting sigmoidal function was then used to estimate the stay/leave probability for each trial, based on how many rewarded presses were available elsewhere in the arena. Finally, for each neuron and each trial, an average firing rate was computed from the same post-press epoch. The trial-length vector of stay/leave probability was used to predict this trial-length vector of firing rates, using a linear regression that simultaneously controlled for the number of rewarded presses remaining at the current patch. 
+
+## Distribution of variable encoding 
+
+We adapted an approach previously developed for estimating clustering in n-dimensions, the elliptical Projection Angle Index of Response Similarity (ePAIRS).[48][,][49] If neurons form specialized subpopulations, they should form clusters along a shared axis. Thus, reducing the dimensionality of the tuning conditions across the population code should elucidate a functional cluster. To define a tuning condition, we compute the estimated marginal means (EMMs) from the fully-fitted LN-GAM model. Estimates were computed using the minimum and maximum values for each variable in the design matrix. We used the fully-fitted model estimates because it reduces sparsity in the population matrix. The dimensions of the EMM matrix were n x c, where n is the number of neurons in a brain area and c are the EMMs for each condition (1022 conditions total). We then performed principal component analysis (PCA) on this matrix to generate an n x d matrix of scores for each neuron, where d is the 10 most explanatory PC scores. We then computed the relative angles of each point in 10-D PC space and compared the angular distance between all pairs of nearest neighbors. A functional cluster, therefore, should have relatively tight angles between nearest neighbors when compared to a random distribution. Statistical significance was computed using a rank sum test. 
+
+In each session, a given neuron might be more heavily tuned to one variable than another. That is, the EMMs reflect the distribution of preferred variables. We would expect these estimates to show clustering along the dimensions of the preferred variables. Therefore, as a positive control we performed the ePAIRS analysis on the EMMs and found significant clustering in all areas (p < 0.001, in all areas; two-tailed rank sum test). 
+
+## Linear decoder 
+
+To determine if randomly distributed variable encoding continues to support downstream decodability, we implemented a regressionbased SVM. Tracking data from each session was spatially binned into 9 continuous zones. We define a trial as an entry into the zone, followed by continuous zone occupancy until exiting the zone. We constructed a pseudo-population of pseudo-trials, 495-trials X n-neurons, by randomly selecting 55 trials from each zone for each neuron. We repeated the bootstrapping procedure to constitute one training set and one test set. We created two more matrices by shuffling the zone labels. A regression-based SVM model was trained on the training set and predictions were calculated by fitting the model to the test set. Accuracy was measured as the overall rate of successfully predicting the zone from the population neural activity in the test set. We repeated this process 500 times and averaged the classification accuracy across iterations. We then compared this average accuracy to that from the shuffled data. 
+
+Current Biology 33, 3478–3488.e1–e3, August 21, 2023 e3 
 

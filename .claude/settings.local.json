@@ -18,7 +18,10 @@
       "Bash(ls raw/mds/*.md)",
       "Read(//tmp/**)",
       "Bash(mkdir -p /Users/vyp730/Projects/knowledgeBase/.claude/skills/make_summary)",
-      "Bash(mv /Users/vyp730/Projects/knowledgeBase/.claude/commands/make_summary.md /Users/vyp730/Projects/knowledgeBase/.claude/skills/make_summary/SKILL.md)"
+      "Bash(mv /Users/vyp730/Projects/knowledgeBase/.claude/commands/make_summary.md /Users/vyp730/Projects/knowledgeBase/.claude/skills/make_summary/SKILL.md)",
+      "Bash(conda list:*)",
+      "Bash(conda info:*)",
+      "Bash(python -c \"import sys; print\\(sys.version\\)\")"
     ]
   }
 }
