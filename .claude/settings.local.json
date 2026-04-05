@@ -22,7 +22,14 @@
       "Bash(conda list:*)",
       "Bash(conda info:*)",
       "Bash(python -c \"import sys; print\\(sys.version\\)\")",
-      "Bash(ls /Users/vyp730/Projects/knowledgeBase/raw/summaries/*.md)"
+      "Bash(ls /Users/vyp730/Projects/knowledgeBase/raw/summaries/*.md)",
+      "Bash(git stash:*)",
+      "Bash(find /Users/maxkirkby/Zotero/storage -name \"*.pdf\" -exec basename {} \\\\;)",
+      "Bash(sqlite3:*)",
+      "Bash(cp \"/Users/maxkirkby/Zotero/storage/ZLIYK7ZP/\"*.pdf \"raw/inbox/miller1956_magical_number_seven.pdf\")",
+      "Bash(cp \"/Users/maxkirkby/Zotero/storage/W2VICSUZ/\"*.pdf \"raw/inbox/chomsky1967_review_skinner_verbal_behavior.pdf\")",
+      "Bash(conda run:*)",
+      "Bash(pip3 install:*)"
     ]
   }
 }
