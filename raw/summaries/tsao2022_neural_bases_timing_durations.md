@@ -1,121 +1,328 @@
 ---
 source_file: tsao2022_neural_bases_timing_durations.md
-title: "The neural bases for timing of durations"
+title: The neural bases for timing of durations
 authors: Albert Tsao, S. Aryana Yousefzadeh, Warren H. Meck, May-Britt Moser, Edvard I. Moser
 year: 2022
 journal: Nature Reviews Neuroscience
 paper_type: review
-contribution_type: theoretical
+contribution_type: review
 ---
 
 ### One-line summary
 
-Prospective timing (tracking ongoing duration) and retrospective timing (estimating duration from memory) rely on distinct but interacting neural mechanisms — stable neural trajectories and event-segmentation-driven event trajectories, respectively — both implemented through population-level state dynamics.
+This review proposes that prospective timing (tracking ongoing durations) and retrospective timing (estimating past durations from memory) rely on distinct computational mechanisms both using population state dynamics: stable neural trajectories for prospective timing versus event trajectories generated through event segmentation for retrospective timing.
 
 ---
 
 ### Background & motivation
 
-How the brain encodes and estimates duration is a longstanding question in systems neuroscience. A key unresolved distinction is whether the mechanisms for perceiving ongoing durations (prospective timing) are the same as those for estimating durations from memory of past events (retrospective timing). Classical models based on pacemaker–accumulator mechanisms or oscillatory coincidence detection have lacked clear biological support. This review proposes a unified population-dynamics framework that separately accounts for prospective and retrospective timing while explaining both their mechanistic differences and their interactions.
+Time perception research has historically been divided between studies of prospective timing (attending to ongoing time intervals) and retrospective timing (reconstructing duration from memory). These two forms of timing have largely been studied in isolation using different experimental paradigms and theoretical frameworks. This review integrates these perspectives by proposing that both rely on population-level neural representations but implement distinct computational strategies: prospective timing uses ongoing population dynamics directly as the computation, while retrospective timing uses event-segmented population states that are later recalled and converted into duration estimates.
 
 ---
 
 ### Methods
 
-- **Review type**: Narrative review; no formal inclusion criteria stated.
-- **Scope**: Covers prospective timing (sensory timing, motor timing, temporal expectation) and retrospective timing (event-based duration estimation), plus their interactions.
-- **Evidence base**: Animal single-unit recordings, human functional MRI, lesion/inactivation studies, optogenetics, temperature manipulation experiments, computational modelling (recurrent neural networks, temporal context models).
-- **Synthesis approach**: Theoretical framework-driven synthesis, proposing neural trajectory and event trajectory concepts as organising principles across the literature.
+This is a comprehensive review paper synthesizing literature across multiple domains:
+
+- **Literature scope**: Extensive coverage of timing research from human behavioural studies, human fMRI, and animal single-unit recordings
+- **Key domains integrated**:
+  - Prospective timing (sensory, motor, and implicit timing)
+  - Retrospective timing and episodic memory
+  - Event segmentation theory
+  - Computational modelling (recurrent neural networks)
+- **Cross-species comparison**: Human, monkey, and rodent studies
+- **Analytical approaches reviewed**: Dimensionality reduction of neural population activity, representational similarity analysis, computational modelling
 
 ---
 
 ### Key findings
 
-- **Prospective timing is implemented via stable neural trajectories**: population activity evolves through a sequence of states that serves as a population clock. Trajectories encode duration either via their terminal state (sensory timing) or their speed of evolution (motor timing and temporal expectation).
-- **Trajectory speed is under dopaminergic control**: optogenetic stimulation of substantia nigra pars compacta dopaminergic neurons shifts duration estimates in a manner consistent with trajectory speed modulation; trial-to-trial variability in speed predicts behavioural variability.
-- **Stable trajectories span ~1 s to several minutes**, have been observed across many brain areas (prefrontal cortex, striatum, MEC, hippocampus), and can arise from recurrent networks without specialised architecture.
-- **Corticostriatal interactions refine timing**: the dorsolateral striatum exhibits more sequential activity than cortex and may sharpen cortical temporal representations; striatal sequential activity improves model timing consistency.
-- **Retrospective timing is driven by event segmentation**: continuous experience is segmented into discrete events at multiple timescales; the resulting neural event trajectories in the hippocampus and LEC provide the temporal information used for retrospective estimation.
-- **Event trajectory dynamics differ across medial temporal lobe subregions**: LEC evolves fastest (minutes timescale), CA2 next (hours), CA1 (days), while CA3 and dentate gyrus remain largely stable across days, suggesting a temporal hierarchy.
-- **Duration estimates correlate with event structure**: number of event boundaries, distinctiveness of event representations in hippocampus/prefrontal cortex, and subjective segmentation of experience all predict retrospective duration estimates in humans.
-- **Prospective and retrospective timing interact**: learned temporal structures from repeated prospective experience can crystallise into temporal schema that influence event segmentation online; conversely, event trajectories from initial episodic experience may be the starting material from which stable prospective trajectories develop.
+**Prospective timing mechanisms**:
+- Neural population activity evolves along stable trajectories during ongoing durations, providing reliable temporal information
+- Inactivation of brain areas exhibiting trajectories impairs timing behaviour
+- Trial-to-trial trajectory variability correlates with timing variability
+- Three distinct trajectory implementations:
+  - **Sensory timing**: Common trajectory reaches different terminal states for different durations
+  - **Motor timing**: Common trajectory reaches common terminal state at different speeds (temporal scaling)
+  - **Temporal expectation**: Trajectory shifts reflect learned temporal structures
+
+**Timescales of prospective timing**:
+- Neural trajectories operate from ~1 second to several minutes
+- Hippocampus plays a central role for durations of tens of seconds and longer
+- Potential overlap with path integration mechanisms for longer durations
+
+**Retrospective timing mechanisms**:
+- Duration estimates correlate with number of remembered events (event segmentation)
+- Manipulating event structure affects retrospective duration estimates
+- Neural event trajectories encode event structure through discretized population states
+- Event boundaries correspond to greater changes in population state
+- Event trajectories evolve at different rates across hippocampal subfields and entorhinal cortex
+
+**Computational insights**:
+- Recurrent neural networks can generate stable trajectories without specialized structure
+- Speed modulation in motor timing emerges from interaction of duration input with nonlinear activation functions
+- Temporal context models based on Laplace transform provide potential mechanism for converting event trajectories into duration estimates
+
+**Neuromodulatory influences**:
+- Dopamine controls trajectory speed (increased dopamine → time overestimation)
+- Dopamine also influences trajectory formation through reinforcement learning
+- Acetylcholine affects memory of learned intervals rather than ongoing trajectory evolution
+
+**Bidirectional interactions**:
+- Learning temporal structures can transform event trajectories into stable trajectories (episodic to semantic)
+- Repeated experience generates temporal schemas
+- Learned schemas can influence online event segmentation
 
 ---
 
 ### Computational framework
 
-**Population state dynamics** (neural trajectories) is the core framework. Time is encoded not as a scalar clock signal but as the identity of the current population state within a high-dimensional neural state space. Each moment in time corresponds to a unique population activity pattern; sequences of such patterns define a trajectory.
+The review operates within a **dynamical systems framework** for understanding neural computation of time:
 
-- **Prospective timing**: stable trajectories generated by local recurrent circuits (possibly with corticostriatal and neuromodulatory input). Duration is read out from the terminal state of the trajectory (sensory timing) or from the speed at which a common trajectory evolves (motor timing). Recurrent neural network models with no specialised structure can reproduce these trajectory properties and the associated timing behaviours.
-- **Retrospective timing**: event trajectories arise through event segmentation — the parcellation of ongoing experience into discrete events. A candidate computational model is the **temporal context model** (based on the Laplace transform of event history): each event activates a population subgroup whose sequential activity decays with time constants spanning a range; the resulting population states define a temporal metric such that the magnitude of differences in population state approximates physical duration. Duration can then be read out by counting population state changes, comparing states via pattern separation, or converting a neural distance into a magnitude.
+**Core formalism**:
+- Time is encoded through changes in neural population activity (population state dynamics)
+- Each moment in time corresponds to a unique point in neural state space
+- The evolution of population states traces a trajectory that inherently contains temporal information
 
-Key variables: population state (activity vector across N neurons), trajectory (sequence of population states over time), trajectory speed (rate of state-space evolution), event trajectory distinctiveness (dissimilarity of population states across events).
+**Key computational principles**:
+- **Population clocks**: Time emerges from the dynamics of recurrently connected neural networks rather than dedicated pacemaker mechanisms
+- **State-dependent computation**: The network's current state determines how it evolves, enabling self-sustaining trajectories
+- **Temporal scaling**: Duration can be encoded by modulating the speed of trajectory evolution while maintaining the same geometric path
+
+**Computational modelling approaches reviewed**:
+- Recurrent neural networks (RNNs) trained on timing tasks
+- State-dependent network models for sensory timing
+- Laplace transform-based temporal context models for retrospective timing
+- Predictive coding models of event segmentation
+
+**Marr's levels applied**:
+- **Computational**: The brain must represent time for both online tracking (prospective) and memory-based reconstruction (retrospective)
+- **Algorithmic**: Different algorithms for prospective (direct trajectory evolution) vs retrospective (event segmentation + trajectory recall/conversion)
+- **Implementational**: Population dynamics in cortico-striatal circuits (prospective) and medial temporal lobe (retrospective)
 
 ---
 
 ### Prevailing model of the system under study
 
-The paper's introduction frames the field around two dominant models: (1) **pacemaker–accumulator models**, in which a central pacemaker generates pulses integrated by an accumulator, producing an explicit linear metric of time; and (2) **oscillatory coincidence detection**, in which timing arises from detecting coincidences in networks of oscillating neurons. Both models have intuitive appeal and early empirical support (especially for circadian timing), but neither has strong evidence for its biological implementation in interval or retrospective timing. The population clock concept — that time can be implicitly encoded in evolving population activity patterns without a dedicated pacemaker — was emerging as an alternative at the time of the review, particularly for prospective timing. For retrospective timing, the dominant view (from human psychology) held that it is a reconstructive process involving event-based information, but a neural-level account was lacking.
+The review synthesizes several established theoretical frameworks:
+
+**For prospective timing**:
+- The dominant model has been the **pacemaker-accumulator** mechanism, where a central pacemaker generates pulses that are integrated to estimate time
+- Alternative proposals suggested **coincidence detection of oscillatory activity** as the neural implementation
+- Both models assume a dedicated internal clock generating explicit linear metrical representations of time
+
+**For retrospective timing**:
+- The prevailing view is that retrospective timing relies on **reconstructive processes** using both temporal and non-temporal information from memory
+- **Event segmentation theory** posits that continuous experience is parsed into discrete events, and the structure of these events provides temporal information
+- Psychological models suggest duration estimates are inferred from contextual changes and number of remembered events
+
+**The debate between dedicated vs distributed timing**:
+- A long-standing debate exists between whether timing is supported by a **dedicated central clock** versus **distributed local representations** of time reflecting the inherent temporal nature of many brain functions
+- The review proposes a synthesis: both prospective and retrospective timing use distributed population dynamics, but with different computational implementations
 
 ---
 
 ### What this paper contributes
 
-The review synthesises and sharpens a framework in which:
+This review makes several important contributions to our understanding of temporal cognition:
 
-1. **Prospective timing is mechanistically grounded in neural trajectory dynamics** — the population clock concept is supported by converging evidence across species, brain areas, and timing types, with causal evidence from temperature manipulations and dopamine perturbations tying trajectory speed to behavioural estimates.
-2. **Retrospective timing receives a neural-level account** for the first time as a framework: event segmentation generates event trajectories in the medial temporal lobe, and these trajectories — with their characteristic dissimilarity structure — provide the substrate for duration estimation from memory.
-3. **A principled distinction and interaction** between the two timing types is established: they are not just behaviourally dissociated but mechanistically distinct, though they interact through the transformation of event trajectories into stable learned trajectories and through the influence of temporal schema on event segmentation.
-4. The review identifies the lateral entorhinal cortex as a key node not previously emphasised in timing — as the likely origin of event trajectories and the initial integrator of multimodal episodic content — and places it within a LEC → hippocampal subfield temporal hierarchy.
+**Theoretical integration**:
+- Proposes a **unified framework** for understanding both prospective and retrospective timing as relying on population state dynamics, while clearly distinguishing their distinct computational implementations
+- Bridges the gap between the largely separate literatures on prospective timing (typically studied in sensorimotor contexts) and retrospective timing (typically studied in episodic memory contexts)
 
-What remains unknown: the actual computation converting reinstated event trajectories into a duration magnitude; whether there are general principles of stable trajectory generation across timing types; the upper duration limits of stable trajectories; and how temporal landmarks and schema are combined with event trajectory information during retrospective estimation.
+**Computational distinctions**:
+- **Prospective timing**: Characterized as a **single-step process** where ongoing population dynamics directly serve as the computation of duration. The trajectory evolution is itself the estimation process.
+- **Retrospective timing**: Characterized as a **two-step process**: (1) event segmentation generates population state dynamics during initial encoding, and (2) subsequent computation of duration from memory of those dynamics.
+
+**Neural mechanism insights**:
+- Identifies **stable neural trajectories** (for prospective timing) and **event trajectories** (for retrospective timing) as distinct neural implementations
+- Maps these mechanisms onto specific brain systems: cortico-striatal circuits for prospective timing, medial temporal lobe (hippocampus and entorhinal cortex) for retrospective timing
+- Proposes that the lateral entorhinal cortex plays a central role in generating event trajectories
+
+**Timescale considerations**:
+- Demonstrates how different neural mechanisms operate across different timescales, from subsecond to minutes and beyond
+- Links shorter-timescale prospective timing to cortico-striatal dynamics and longer-timescale timing to hippocampal mechanisms
+
+**Bidirectional interactions**:
+- Proposes mechanisms by which prospective and retrospective timing systems interact: transformation of episodic memories into semantic temporal knowledge, formation of temporal schemas, and influence of learned schemas on online event segmentation
+
+**Testable predictions**:
+- Generates specific predictions about how manipulations of neural trajectory speed should affect timing behaviour (supported by temperature manipulation studies)
+- Predicts how event segmentation manipulations should affect retrospective timing
+- Suggests experimental approaches to test the transformation between event trajectories and stable trajectories
 
 ---
 
 ### Brain regions & systems
 
-- **Hippocampus (CA1, CA2, CA3, dentate gyrus)** — primary site of event trajectories for retrospective timing; subfields evolve at different timescales (CA2 fastest over hours, CA1 over days, CA3/DG stable across days); time cells and sequential activity; pattern separation/completion supporting event segmentation.
-- **Lateral entorhinal cortex (LEC)** — proposed origin of event trajectories; fastest temporal dynamics (minutes timescale); integrates multimodal cortical input; encodes experiential content in egocentric frame; critical for temporal order encoding (Cox et al. inactivation).
-- **Medial entorhinal cortex (MEC)** — stable trajectories for prospective/motor timing; sequential activity supports initial learning of motor timing; does NOT differentiate repeated experiences across days (no event trajectories); grid-cell-adjacent circuits.
-- **Dorsolateral striatum** — refines cortical temporal representations; more sequential than cortex; striatal activity predicts duration judgments (Gouvêa et al.); corticostriatal interactions central to prospective timing.
-- **Medial prefrontal cortex** — stable neural trajectories during sensory and motor timing; cooling shifts duration estimates (Xu et al.).
-- **Dorsomedial frontal cortex** — trajectories demonstrate sensory vs motor timing dissociation (Jazayeri group).
-- **Substantia nigra pars compacta** — dopaminergic neurons encode duration estimates; optogenetic activation causes overestimation (speeds up trajectories).
-- **Premotor cortex** — temporal expectation trajectories (Carnevale et al.).
-- **Angular gyrus / higher-order cortex** — long-timescale event segmentation in humans (Baldassano et al.); event boundaries defined on narrative timescales.
-- **Parahippocampal gyrus and amygdala** — event boundary-responsive cells in human patients (Zheng et al.).
+**Cortico-striatal circuits (prospective timing)**:
+- **Premotor cortex**: Exhibits neural trajectories during temporal expectation tasks; neural population activity evolves reflecting windows of expectation
+- **Prefrontal cortex (medial)**: Shows ramping activity and neural trajectories during motor timing; cooling studies demonstrate causal role in timing
+- **Prefrontal cortex (dorsolateral)**: Contains temporal information during sensory timing tasks
+- **Orbitofrontal cortex**: Contains temporal information during sensory timing but less than striatum
+- **Striatum (dorsolateral)**: Exhibits sequential activity and greater temporal information than cortical areas; shows temporal scaling during motor timing; temperature manipulation affects duration judgments
+- **Striatum (dorsomedial)**: Receives input from medial frontal cortex; involved in temporal processing
+- **Cerebellum**: Implicated in event timing and subsecond timing mechanisms
+
+**Medial temporal lobe (retrospective timing)**:
+- **Hippocampus (CA1)**: Shows event trajectories evolving over timescales of days; population states become increasingly dissimilar with temporal distance; time cells fire at specific moments tiling intervals
+- **Hippocampus (CA2)**: Shows fastest rate of event trajectory evolution; distinguishes time points separated by hours
+- **Hippocampus (CA3)**: Population states remain largely constant across days; involved in pattern completion and temporal order memory
+- **Dentate gyrus**: Shows slow evolution of event trajectories; may operate on timescales of weeks
+- **Entorhinal cortex (lateral)**: Generates event trajectories reflecting content of ongoing experience; evolves faster than hippocampus (distinguishes minutes); major hub for cortical input; integrates multimodal information; proposed as generator of event trajectories
+- **Entorhinal cortex (medial)**: Does not differentiate between repeated experiences within same physical environment; involved in spatial representation and path integration
+- **Perirhinal cortex**: Involved in pattern separation and event representation
+- **Parahippocampal gyrus**: Contains boundary-responsive cells
+- **Amygdala**: Contains boundary-responsive cells
+
+**Sensory and motor areas**:
+- **Primary visual cortex**: Shows modulation by temporal expectation; can learn reward timing through cholinergic mechanisms
+- **Primary auditory cortex**: Shows enhanced frequency tuning approaching periods of high temporal expectation
+- **Visual cortex (inferior temporal)**: Shows attentional modulation by temporal expectation
+- **Motor cortex**: Shows temporal scaling of activity during motor timing; involved in generating timed actions
+- **Supplementary motor area**: Contains neurons encoding interval times
+- **Premotor cortex**: Shows neural trajectories during temporal expectation tasks
+
+**Subcortical structures**:
+- **Substantia nigra pars compacta**: Dopaminergic neurons show activity correlated with duration estimates; optogenetic manipulation shifts duration estimates
+- **Basal ganglia (general)**: Proposed as site of coincidence detection for interval timing
+- **Thalamus (sensory and motor)**: Contains neurons encoding temporal intervals and predictive timing
 
 ---
 
 ### Mechanistic insight
 
-The paper meets a partial version of the mechanistic bar. It reviews and synthesises neural data (single-unit recordings, fMRI, optogenetics, temperature manipulations, lesions) that specifically support the population trajectory framework over alternatives (pacemaker-accumulator, oscillatory coincidence detection). However, as a review, it does not itself present new data. Mapping onto Marr's levels:
+This review meets the high bar for mechanistic insight by synthesizing evidence that links computational algorithms to neural implementation through population dynamics.
 
-- **Computational**: For prospective timing — accurately track elapsed duration within an ongoing interval. For retrospective timing — compute a duration magnitude post-hoc from memory representations of past events, without having tracked time explicitly.
-- **Algorithmic**: For prospective — population activity evolves along a stable neural trajectory; duration is represented by the terminal state (sensory) or trajectory speed (motor/expectation); downstream readout of terminal state or speed generates the estimate. For retrospective — continuous experience is segmented into events by a predictive-model-violation or context-shift process; each event generates a population state; the resulting event trajectory is stored and later reinstated; the magnitude of differences across reinstated states is converted into a duration estimate (candidate mechanism: Laplace-transform temporal context model).
-- **Implementational**: Prospective timing — local recurrent circuits can generate stable trajectories without specialised structure; corticostriatal loops refine sequential activity; dopaminergic input from SNc controls trajectory speed; cholinergic input supports learning/memory of interval-specific trajectories. Retrospective timing — LEC integrates multimodal input and drives event trajectory dynamics; hippocampal CA fields perform pattern separation/completion at different timescales; event boundaries trigger increased activity and population state change in hippocampus; specific boundary-responsive and event-identity cells observed at single-unit level.
+**Computational level (what problem is the brain solving?)**:
+- The brain must represent elapsed time for both online tracking (prospective timing) and memory-based reconstruction (retrospective timing)
+- Both require uniquely representing each moment in time, but through different strategies
+- The problem is solved without dedicated clocks, using intrinsic neural dynamics
 
-**Bonus**: Neuromodulatory implementation is addressed for prospective timing (dopamine → speed, acetylcholine → memory of learned trajectories), and specific cell types (time cells, ramping cells, boundary-responsive cells) are identified as implementational components.
+**Algorithmic level (what representations and processes implement the solution?)**:
+- **Prospective timing**: Population activity evolves along stable trajectories where each moment corresponds to a unique neural state. Duration is encoded either by:
+  - Reaching different terminal states from common starting points (sensory timing)
+  - Evolving at different speeds to reach common terminal states (motor timing)
+  - Shifting to expectation-related states (temporal expectation)
+- **Retrospective timing**: Experience is segmented into discrete events, creating event trajectories. Duration is computed post-hoc by:
+  - Reinstating population states from memory
+  - Converting the difference between event representations into duration estimates
+  - Using contextual drift or counting state changes
+
+**Implementational level (how is this realized in neural hardware?)**:
+- **Prospective timing**: Implemented in cortico-striatal circuits
+  - Recurrent connections within local circuits generate self-sustaining trajectories
+  - External input shapes but does not solely drive trajectory evolution
+  - Striatum refines cortical trajectories through cortico-striatal loops
+  - Temperature manipulations in medial prefrontal cortex and striatum directly affect timing by altering neural dynamics speed
+  - Dopamine modulates trajectory speed through D2 receptors
+  - Individual neurons show diverse patterns: ramping, sequential (time cells), and complex non-monotonic activity
+
+- **Retrospective timing**: Implemented in medial temporal lobe
+  - Lateral entorhinal cortex (LEC) integrates multimodal cortical input and generates event trajectories
+  - Hippocampal subfields (CA1, CA2, CA3, dentate gyrus) process event trajectories at different timescales
+  - Event boundaries cause rapid changes in population state, creating discrete event representations
+  - Pattern separation and pattern completion mechanisms segment continuous input into discrete events
+  - Cells specifically responsive to event boundaries observed in hippocampus, parahippocampal gyrus, and amygdala
+  - Event trajectories evolve at different rates across regions: minutes (LEC), hours (CA2), days (CA1), weeks (dentate gyrus)
+
+**Physical implementation details**:
+- Neuromodulatory systems provide control over timing mechanisms:
+  - Dopamine: Controls trajectory speed and formation through reinforcement learning
+  - Acetylcholine: Modulates memory consolidation of learned intervals
+- Temperature manipulations demonstrate causal link between neural dynamics speed and timing behaviour
+- Multiple timescales emerge from different brain regions and mechanisms
 
 ---
 
 ### Limitations & open questions
 
-- **Retrospective timing estimation mechanism is almost entirely unknown**: how reinstated event trajectories are converted into a duration magnitude is not specified, and experiments directly testing this are only beginning.
-- **Causal role of stable trajectories in prospective timing** needs more precise manipulation beyond temperature and dopamine — direct manipulation of trajectory speed while recording would be ideal.
-- **Distinction between timing-specific trajectories and general temporal nature of neural dynamics**: the ubiquity of stable trajectories across areas raises the question of whether temporal information is actually used for timing in each case, or is an epiphenomenon.
-- **Animal paradigms for retrospective timing** remain nascent; most rely on assumptions about what constitutes an event boundary in animals.
-- **Upper duration limits** of stable trajectories supporting prospective timing unknown.
-- **Interaction between prospective and retrospective timing mechanisms** is acknowledged but largely speculative and poorly studied empirically.
-- **Role of temporal landmarks and schema** in the retrospective estimation computation is not formalised.
-- **Whether event trajectories in CA3/DG** support retrospective timing at longer timescales (weeks) remains to be systematically tested.
-- **Mental time travel** and allocentric representations of time are mentioned as frontier topics with little mechanistic grounding yet.
+**Empirical limitations**:
+- Direct evidence for neural event trajectories in retrospective timing remains limited; most evidence comes from prospective timing paradigms adapted to study memory
+- Animal paradigms for pure retrospective timing (where subjects cannot anticipate timing requirements) are underdeveloped
+- The actual computation converting event trajectories into duration estimates remains essentially unknown
+- Whether neural trajectories can encode durations beyond several minutes is unknown
+
+**Mechanistic gaps**:
+- How trajectory speed is precisely controlled in motor timing remains unclear
+- The transformation from event trajectories (retrospective) to stable trajectories (prospective) through learning has not been directly observed
+- Whether the same neural circuits can flexibly switch between prospective and retrospective timing modes is unknown
+- How temporal information from different timescales (subsecond to days) is integrated remains unclear
+
+**Computational uncertainties**:
+- Whether event trajectories are suitable as linear metrics of physical time is questionable given their nonlinear, event-driven nature
+- Alternative mechanisms for sensory timing involving temporal arithmetic (comparing abstract temporal representations) have not been fully ruled out
+- The relative contributions of different brain regions to the final duration estimate in retrospective timing remain unclear
+
+**Methodological challenges**:
+- Distinguishing whether observed neural activity represents time per se versus time-correlated variables (movement, reward expectation) remains difficult
+- Determining whether temporal information in neural trajectories is actually used by the brain (vs. merely present) requires more sophisticated approaches
+- Cross-species comparisons are complicated by differences in experimental paradigms and cognitive capabilities
+
+**Future directions highlighted**:
+- Development of experimental paradigms that can distinguish prospective and retrospective timing contributions
+- Direct investigation of how event trajectories are converted into duration estimates
+- Time-lapse studies tracking the transformation of event trajectories into stable trajectories through learning
+- Investigation of how learned temporal schemas influence online event segmentation
+- Examination of interactions between timing mechanisms across different timescales
 
 ---
 
 ### Connections & keywords
 
-- **Key citations**: Buhusi & Meck 2005 (Nat Rev Neurosci); Merchant, Harrington & Meck 2013 (Annu Rev Neurosci); Eichenbaum 2014 (Nat Rev Neurosci, time cells); Hicks et al. (prospective vs retrospective dissociation); Mankin et al. (CA1 event trajectories); Tsao et al. (LEC stable vs event trajectories); Baldassano et al. (hierarchical event segmentation); Jazayeri group (ready-set-go sensorimotor timing); Gouvêa et al. (striatal duration judgments); Roseboom et al. / Fountas et al. (event-based model of retrospective timing); Howard & Kahana temporal context model; Zacks & Tversky (event segmentation theory).
-- **Named models or frameworks**: pacemaker–accumulator model; oscillatory coincidence detection; population clock; neural trajectory; event trajectory; temporal context model (Laplace transform); event segmentation theory; scalar property / Weber's law for timing; state-dependent network model.
-- **Brain regions**: hippocampus (CA1, CA2, CA3, dentate gyrus), lateral entorhinal cortex, medial entorhinal cortex, dorsolateral striatum, medial prefrontal cortex, dorsomedial frontal cortex, substantia nigra pars compacta, premotor cortex, angular gyrus, parahippocampal gyrus, amygdala.
-- **Keywords**: prospective timing, retrospective timing, neural trajectories, population state dynamics, event segmentation, event trajectories, time cells, interval timing, corticostriatal circuits, lateral entorhinal cortex, hippocampal temporal hierarchy, dopaminergic trajectory speed control
+**Key citations**:
+- Buhusi & Meck 2005 (Nat Rev Neurosci) - Neural mechanisms of interval timing
+- Merchant, Harrington & Meck 2013 (Annu Rev Neurosci) - Neural basis of time perception
+- Eichenbaum 2014 (Nat Rev Neurosci) - Hippocampal time cells
+- Hicks et al. 1976 (Am J Psychol) - Prospective vs retrospective timing dissociation
+- Mankin et al. 2012 (PNAS) - CA1 event trajectories over days
+- Tsao et al. 2018 (Nature) - LEC stable vs event trajectories
+- Baldassano et al. 2017 (Neuron) - Hierarchical event segmentation
+- Jazayeri & Shadlen 2015 (Curr Biol) - Ready-set-go sensorimotor timing
+- Wang et al. 2018 (Nat Neurosci) - Temporal scaling of cortical responses
+- Gouvêa et al. 2015 (Elife) - Striatal dynamics explain duration judgments
+- Roseboom et al. 2019 (Nat Commun) - Activity in perceptual networks as basis for subjective time
+- Fountas et al. 2022 (Neural Comput) - Predictive processing model of episodic memory and time
+- Howard & Kahana 2002 (J Math Psychol) - Distributed representation of temporal context
+- Zacks & Tversky 2001 (Psychol Bull) - Event structure in perception and conception
+
+**Named models or frameworks**:
+- Pacemaker-accumulator model
+- Oscillatory coincidence detection
+- Population clock
+- Neural trajectory
+- Event trajectory
+- Temporal context model (Laplace transform)
+- Event segmentation theory
+- Scalar property / Weber's law for timing
+- State-dependent network model
+- Recurrent neural network models of timing
+- Laplace transform model of event history
+- Predictive coding models of event segmentation
+
+**Brain regions**:
+- Hippocampus (CA1, CA2, CA3, dentate gyrus)
+- Lateral entorhinal cortex
+- Medial entorhinal cortex
+- Dorsolateral striatum
+- Dorsomedial striatum
+- Medial prefrontal cortex
+- Dorsolateral prefrontal cortex
+- Orbitofrontal cortex
+- Premotor cortex
+- Motor cortex / supplementary motor area
+- Primary visual cortex
+- Primary auditory cortex
+- Inferior temporal cortex
+- Visual cortex (various areas)
+- Angular gyrus
+- Parahippocampal gyrus
+- Amygdala
+- Perirhinal cortex
+- Substantia nigra pars compacta
+- Basal ganglia
+- Thalamus (sensory and motor)
+- Cerebellum
+
+**Keywords**:
+prospective timing, retrospective timing, interval timing, neural trajectories, population clocks, population state dynamics, event segmentation, event trajectories, time cells, sequence coding, temporal context, corticostriatal circuits, lateral entorhinal cortex, hippocampal temporal hierarchy, medial temporal lobe, dopaminergic trajectory speed control, temporal scaling, episodic memory, duration estimation, reconstructive memory, state-dependent networks, recurrent neural networks, Marr's levels, neuromodulation, event boundaries, contextual drift, path integration
