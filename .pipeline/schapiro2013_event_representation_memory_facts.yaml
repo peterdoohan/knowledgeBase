@@ -1,0 +1,53 @@
+source_summary: raw/summaries/schapiro2013_event_representation_memory.md
+source_title: Neural representations of events arise from temporal community structure
+source_year: 2013
+facts:
+  - claim: "Event representations emerge from temporal community structure rather than from predictive uncertainty or surprise at event boundaries"
+    evidence: "Participants consistently segmented sequences at community boundaries even when transition probabilities were uniform and local statistics controlled (Exps 1-2; t(29)=2.27, P<0.05; t(9)=2.30, P<0.05), demonstrating that parsing occurs without prediction error signals"
+    historical_context: "Challenged the prevailing prediction-error/surprise model of event segmentation by showing that temporal community structure alone can drive event boundary detection even with uniform transition probabilities"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, inferior_frontal_gyrus, anterior_temporal_lobe]
+      behaviours: [event_segmentation, sequence_learning]
+      computational_frameworks: [bayesian_inference]
+      methods: [fmri, representational_similarity_analysis]
+    confidence: high
+
+  - claim: "Medial prefrontal cortex tracks event structure through sustained activity during within-community periods and transient disengagement at boundaries"
+    evidence: "mPFC showed sustained activity during within-community periods and transient disengagement at community boundaries (P<0.05 corrected), consistent with tracking event structure rather than surprise"
+    historical_context: "Established mPFC as a key node for event structure representation, distinct from regions showing prediction error responses at boundaries"
+    topics:
+      brain_regions: [medial_prefrontal_cortex]
+      behaviours: [event_segmentation]
+      computational_frameworks: []
+      methods: [fmri]
+    confidence: high
+
+  - claim: "Left inferior frontal gyrus and insula represent community membership through repetition enhancement effects"
+    evidence: "Bilateral IFG and insula showed progressively stronger responses as participants viewed more items from the same community (P<0.05 corrected), suggesting neural populations representing community membership through accumulated activation"
+    historical_context: "Linked IFG/insula to the accumulation of community-level statistical structure, connecting to models of semantic category learning"
+    topics:
+      brain_regions: [inferior_frontal_gyrus, insula]
+      behaviours: [event_segmentation, schema_learning]
+      computational_frameworks: []
+      methods: [fmri]
+    confidence: high
+
+  - claim: "Multivoxel patterns in left IFG, insula, ATL, and STG represent items within the same community as more similar than items from different communities"
+    evidence: "MVPA in left IFG, insula, anterior temporal lobe, and superior temporal gyrus showed items within the same community were represented as more similar than items from different communities (P<0.05 corrected), demonstrating community-structured representational geometry"
+    historical_context: "Extended the temporal community structure framework to show representational clustering in semantic processing regions, bridging event segmentation and semantic cognition"
+    topics:
+      brain_regions: [inferior_frontal_gyrus, anterior_temporal_lobe, superior_temporal_gyrus, insula]
+      behaviours: [event_segmentation, schema_learning]
+      computational_frameworks: []
+      methods: [fmri, representational_similarity_analysis]
+    confidence: high
+
+  - claim: "A simple predictive learning model develops community-structured internal representations through error-driven learning"
+    evidence: "A three-layer feedforward neural network trained to predict next items developed clustered hidden-layer representations mirroring graph communities (t(19)=140.84, P<0.0001), with representational dynamics that could support parsing behavior"
+    historical_context: "Demonstrated that temporal community structure can emerge from basic predictive learning mechanisms without explicit community detection, connecting to PDP models of semantic cognition"
+    topics:
+      brain_regions: []
+      behaviours: [event_segmentation, schema_learning]
+      computational_frameworks: [bayesian_inference, active_inference]
+      methods: [computational_modeling]
+    confidence: high

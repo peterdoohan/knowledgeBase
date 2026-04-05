@@ -1,0 +1,99 @@
+# Facts from summaries 12-15
+
+source_summary: raw/summaries/berners2022_hippocampal_replay_experience.md
+source_title: "Hippocampal replays appear after a single experience and incorporate greater detail with more experience"
+source_year: 2022
+facts_berners:
+  - claim: "Hippocampal replay emerges after a single lap on a novel track and persists for at least 1 hour during subsequent rest"
+    evidence: "Significant replay detected after single pass (post-experience Rest p=2.0e-4 vs pre-experience Pre-Rest p=0.39); one-trial learning sufficient for replay formation"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, dorsal_CA1]
+      behaviours: [hippocampal_replay, memory_consolidation, one_trial_learning]
+      computational_frameworks: [memory_reactivation_theory, replay_dynamics]
+      methods: [tetrode_recordings, bayesian_decoding, replay_detection]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Replay becomes progressively slower and richer in spatial detail with each additional lap through experience-dependent mechanisms"
+    evidence: "Replay duration increased (R=0.14, p=8e-9) and slope decreased (R=-0.054, p=0.03) across first 14 passes; slowing was environment-specific and experience-dependent, not time-dependent"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [hippocampal_replay, memory_consolidation, experience_dependent_plasticity]
+      computational_frameworks: [replay_dynamics, attractor_networks, hover_and_jump]
+      methods: [replay_analysis, slow_gamma_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Replay slowing occurs through insertion of new hover locations rather than changes to underlying gamma dynamics"
+    evidence: "Step number increased (R=0.097, p=1.0e-4) while step size decreased (R=-0.044, p=3.0e-5); hover duration, step duration, gamma frequency and power remained constant"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [hippocampal_replay]
+      computational_frameworks: [hover_and_jump_dynamics, attractor_networks, slow_gamma]
+      methods: [gamma_phase_analysis, replay_step_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Interneuron modulation to replay increases with experience, providing a mechanism for replay elaboration"
+    evidence: "Interneuron modulation increased across passes in two independent datasets (own: N=19, Z=2.4, p=9.3e-3; Grosmark: N=82, Z=2.9, p=2.0e-3)"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, hippocampal_interneurons]
+      behaviours: [hippocampal_replay, memory_consolidation]
+      computational_frameworks: [inhibitory_control, replay_modulation]
+      methods: [interneuron_recordings]
+    confidence: high
+    historical_context: established
+
+  - claim: "Prefrontal cortex engagement scales with replay duration, indicating downstream consequences of replay elaboration"
+    evidence: "PFC neurons remained modulated longer during long versus short replays (80-160 ms post-replay: Z=-2.7, p=3.5e-3)"
+    topics:
+      brain_regions: [prefrontal_cortex, medial_prefrontal_cortex, hippocampus]
+      behaviours: [hippocampal_replay, memory_consolidation, prefrontal_engagement]
+      computational_frameworks: [hippocampal_prefrontal_interaction]
+      methods: [simultaneous_recordings]
+    confidence: high
+    historical_context: established
+
+source_summary: raw/summaries/gillespie2021_replay_past_experiences.md
+source_title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
+source_year: 2021
+facts_gillespie:
+  - claim: "Awake hippocampal replay is decoupled from subsequent behavioral choice and reflects memory storage rather than planning"
+    evidence: "No consistent enrichment for chosen arm; no difference in replay between correct and error trials; GLM classifiers predicting choice from replay at chance level"
+    topics:
+      brain_regions: [hippocampus, dorsal_CA1, hippocampus_ca1]
+      behaviours: [hippocampal_replay, memory_storage, planning, decision_making]
+      computational_frameworks: [planning_hypothesis, storage_hypothesis, memory_reactivation]
+      methods: [clusterless_decoding, bayesian_decoding, GLM_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Replay is strongly enriched for previously rewarded locations, with bias persisting long after goal devaluation"
+    evidence: "~20% of pre-choice remote replay represented previous goal arm; elevation persisted for at least two subsequent trial blocks after goal change"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, reward_biased_memory, memory_persistence]
+      computational_frameworks: [reward_history_bias, prioritized_memory]
+      methods: [replay_content_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Replay shows active suppression of recently visited arms, with higher rates for non-recent locations"
+    evidence: "Immediate past arm suppressed below chance; among non-rewarded arms, replay rate higher for arms not visited in past 5 trials; visit recency negatively correlated with replay rate"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, recency_effects, memory_maintenance]
+      computational_frameworks: [recency_suppression, memory_selection]
+      methods: [replay_content_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Enrichment for current goal emerges only after extensive reward experience, explaining apparent future-trajectory replay in well-learned tasks"
+    evidence: "Current goal replay enrichment emerged only in late repeat phase (≥5 rewards received); reward-history bias at familiar locations explains prior planning-related reports"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, goal_representation, reward_learning]
+      computational_frameworks: [experience_dependent_bias, planning_hypothesis]
+      methods: [replay_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing

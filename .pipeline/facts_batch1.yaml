@@ -1,0 +1,56 @@
+# Facts from summaries 1-5 already created
+# Now processing summaries 6-10
+
+source_summary: raw/summaries/kubska2021_single_neuron_cognition.md
+source_title: "How Human Single-Neuron Recordings Can Help Us Understand Cognition"
+source_year: 2021
+facts_kubska:
+  - claim: "Human medial temporal lobe contains concept cells that encode semantic concepts regardless of sensory modality or visual format"
+    evidence: "Single MTL neurons respond to specific people or objects across images, sketches, written/spoken names; not found in other species to date"
+    topics:
+      brain_regions: [medial_temporal_lobe, hippocampus, amygdala]
+      behaviours: [concept_representation, semantic_memory, recognition]
+      computational_frameworks: [sparse_coding, hierarchical_sparse_coding]
+      methods: [human_single_neuron_recordings, epilepsy_monitoring]
+    confidence: high
+    historical_context: established
+
+  - claim: "Human concept cells rapidly expand tuning to newly associated stimuli after brief exposure, providing cellular evidence for one-shot associative encoding"
+    evidence: "After exposure to photoshopped composite images, concept cells rapidly fire to newly associated stimuli (Ison et al., 2015)"
+    topics:
+      brain_regions: [medial_temporal_lobe, hippocampus]
+      behaviours: [associative_learning, one_shot_learning, memory_encoding]
+      computational_frameworks: [fast_learning]
+      methods: [human_single_neuron_recordings]
+    confidence: high
+    historical_context: established
+
+  - claim: "Human hippocampus, substantia nigra, and posterior parietal cortex contain novelty-dependent neurons that signal novelty vs familiarity independent of stimulus category"
+    evidence: "Novelty neurons in SN have longer response latency than hippocampal ones, consistent with hippocampal-SN/VTA loop for novelty screening"
+    topics:
+      brain_regions: [hippocampus, substantia_nigra, posterior_parietal_cortex, ventral_tegmental_area]
+      behaviours: [novelty_detection, recognition_memory]
+      computational_frameworks: [hippocampal_VTA_loop, novelty_signaling]
+      methods: [human_single_neuron_recordings]
+    confidence: high
+    historical_context: established
+
+  - claim: "Human working memory maintenance involves persistent activity in both MTL concept cells and medial frontal cortex maintenance neurons"
+    evidence: "Persistent activity magnitude predicts behavioral accuracy and decreases with WM load; first direct demonstrations in humans at single-neuron level"
+    topics:
+      brain_regions: [medial_temporal_lobe, medial_frontal_cortex, dorsal_anterior_cingulate, pre_supplementary_motor_area]
+      behaviours: [working_memory, persistent_activity]
+      computational_frameworks: [working_memory_models]
+      methods: [human_single_neuron_recordings]
+    confidence: high
+    historical_context: established
+
+  - claim: "Working memory content in humans can be read out from the phase of slow oscillations at which neurons fire, enabling multiplexing across oscillatory cycles"
+    evidence: "Combined phase-rate coding enables multiple items to be multiplexed; hippocampal-cortical coupling increases with WM load"
+    topics:
+      brain_regions: [hippocampus, medial_frontal_cortex]
+      behaviours: [working_memory, phase_coding, multiplexing]
+      computational_frameworks: [theta_phase_coding, oscillatory_multiplexing]
+      methods: [human_single_neuron_recordings, EEG_coupling]
+    confidence: high
+    historical_context: established

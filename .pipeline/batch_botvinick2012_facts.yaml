@@ -1,0 +1,53 @@
+source_summary: raw/summaries/botvinick2012_planning_inference.md
+source_title: "Planning as inference"
+source_year: 2012
+facts:
+  - claim: "Planning can be reframed as probabilistic inference over a generative model of actions, outcomes, and rewards"
+    evidence: "PAI recasts planning as minimization of KL divergence between current policy distribution and posterior distribution conditioned on future reward"
+    topics:
+      brain_regions: []
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Introduced planning-as-inference framework unifying planning with Bayesian accounts of cognition"
+
+  - claim: "Message-passing in PAI graphical models produces forward and backward signals that integrate to yield action probabilities"
+    evidence: "Forward messages compute probability of reaching states; backward messages compute likelihood of states given reward; integration yields policy updates"
+    topics:
+      brain_regions: [dorsal_striatum, orbitofrontal_cortex, dorsolateral_prefrontal_cortex]
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl]
+      methods: []
+    confidence: medium
+    historical_context: "Proposed neural implementation of PAI via message-passing algorithms"
+
+  - claim: "Neural network implementation of PAI reproduces response profiles of dorsal striatum and orbitofrontal cortex neurons"
+    evidence: "PAI network units matched action-value coding in dorsal striatum and offer-value/chosen-value coding in OFC observed in primate electrophysiology"
+    topics:
+      brain_regions: [dorsal_striatum, orbitofrontal_cortex]
+      behaviours: [decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated that PAI neural implementation can account for known neural response profiles in reward-based choice"
+
+  - claim: "Iterative inference in PAI is formally equivalent to drift-diffusion integration under certain conditions"
+    evidence: "Mathematical equivalence between iterative policy optimization in PAI and drift-diffusion models of perceptual decision-making"
+    topics:
+      brain_regions: [dorsolateral_prefrontal_cortex, lateral_intraparietal_area]
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, drift_diffusion_model]
+      methods: []
+    confidence: high
+    historical_context: "Unified reward-based planning and perceptual decision-making under common algorithmic substrate"
+
+  - claim: "PAI extends naturally to partially observable MDPs via belief-state representations"
+    evidence: "Framework accommodates POMDPs through belief states that represent posterior distributions over hidden states"
+    topics:
+      brain_regions: []
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Extended planning-as-inference to partially observable environments"

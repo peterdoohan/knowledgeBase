@@ -1,0 +1,63 @@
+source_summary: raw/summaries/baram2024_abstract_relational_map_consolidation.md
+source_title: An abstract relational map emerges in the human medial prefrontal cortex with consolidation
+source_year: 2024
+facts:
+  - claim: "The medial temporal lobe (MTL), specifically left entorhinal cortex–subiculum, simultaneously represents both task-relevant and task-irrelevant graph structures at both immediate and delayed time points after learning"
+    evidence: "fMRI repetition suppression showed distance-dependent suppression for both relevant and irrelevant graphs in left MTL (peak t22 = 4.39, MNI [-24, -22, -28]), with no difference between sessions or graph relevance (2×2 ANOVA, all p > 0.2)"
+    historical_context: "Refined the understanding of MTL's role by showing it maintains concrete, stimulus-specific relational representations across time, rather than developing abstract representations like mPFC"
+    topics:
+      brain_regions: [medial_temporal_lobe, entorhinal_cortex, subiculum]
+      behaviours: [cognitive_map, memory_consolidation]
+      computational_frameworks: []
+      methods: [fmri_repetition_suppression]
+    confidence: high
+
+  - claim: "The medial prefrontal cortex (mPFC) develops an abstract, stimulus-independent relational map of learned graph structure over the course of several days following initial learning"
+    evidence: "fMRI repetition suppression revealed a large mPFC cluster (peak t21 = 5.1, MNI [2, 42, 8]; FWE p = 0.003) showing cross-graph suppression that was significantly greater in session 2 than session 1 (SVC FWE p < 0.05, t21 = 3.66), indicating emergence of abstract representation via consolidation"
+    historical_context: "Introduced direct human neuroimaging evidence that mPFC undergoes consolidation-driven abstraction on the timescale of days, paralleling rodent findings by Tse, Morrissey, and colleagues"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, pregenual_mpfc]
+      behaviours: [memory_consolidation, schema_learning, cognitive_map]
+      computational_frameworks: [factorised_representations, cognitive_map_abstraction]
+      methods: [fmri_repetition_suppression]
+    confidence: high
+
+  - claim: "The abstract relational map in mPFC is genuinely factorised, responding to positional commonality across isomorphic graphs rather than merely encoding within-graph distances"
+    evidence: "Cross-graph suppression (switch trials) was detected in mPFC, indicating representation of graph position independent of which specific stimulus occupies that position; this operationalises factorisation as defined by the Tolman-Eichenbaum Machine framework"
+    historical_context: "Refined the concept of factorisation by providing empirical evidence in humans that mPFC implements cross-graph transfer, a key computational requirement for structural generalisation"
+    topics:
+      brain_regions: [medial_prefrontal_cortex]
+      behaviours: [cognitive_map, schema_learning]
+      computational_frameworks: [factorised_representations, tolman_eichenbaum_machine]
+      methods: [fmri_repetition_suppression]
+    confidence: high
+
+  - claim: "The abstract mPFC representation emerges in the same pregenual mPFC region previously implicated in grid-like coding of abstract 2D spaces"
+    evidence: "The session-2 cross-graph effect emerged within an mPFC ROI defined by grid-like coding from Constantinescu et al. (2016) (SVC FWE p = 0.03, t21 = 2.38), and the peak coordinates (MNI [2, 42, 8]) overlapped with the grid-like coding region"
+    historical_context: "Bridged the consolidation literature and the cognitive-map literature by showing that the same mPFC region represents abstract structure via both grid-like codes (Constantinescu) and cross-graph relational maps (this study)"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, pregenual_mpfc]
+      behaviours: [cognitive_map, spatial_navigation]
+      computational_frameworks: [grid_cells, factorised_representations]
+      methods: [fmri_repetition_suppression, representational_similarity_analysis]
+    confidence: high
+
+  - claim: "Representational similarity analysis confirms the emergence of a full abstracted map in right pregenual mPFC from session 1 to session 2"
+    evidence: "RSA showed a cluster in right pregenual mPFC with emergence of full abstracted map (both within- and across-graph RDM elements) from session 1 to session 2 (SVC FWE p = 0.01); within-graph (p = 0.06) and across-graph (p = 0.11) showed trends, each surviving SVC in the other's mask (p = 0.03 and p = 0.01), suggesting shared representational substrate"
+    historical_context: "Refined understanding by converging evidence from two independent analysis techniques (repetition suppression and RSA) supporting the same conclusion about mPFC abstraction"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, pregenual_mpfc]
+      behaviours: [memory_consolidation, cognitive_map]
+      computational_frameworks: [factorised_representations]
+      methods: [representational_similarity_analysis, fmri_repetition_suppression]
+    confidence: high
+
+  - claim: "The MTL maintains concrete, stimulus-specific graph representations while mPFC develops abstract representations, suggesting a division of labour between these systems across consolidation"
+    evidence: "Direct comparison of MTL and mPFC results: MTL showed both relevant and irrelevant graph representations simultaneously across both sessions (no abstraction), while mPFC showed emergence of cross-graph abstraction over days; this pattern aligns with systems consolidation theory where MTL maintains episodic specifics while neocortex extracts statistical structure"
+    historical_context: "Refined the complementary learning systems framework by providing direct human evidence for the predicted division of labour: MTL maintains concrete representations while mPFC abstracts across episodes via consolidation"
+    topics:
+      brain_regions: [medial_temporal_lobe, medial_prefrontal_cortex, entorhinal_cortex]
+      behaviours: [memory_consolidation, cognitive_map]
+      computational_frameworks: [complementary_learning_systems, factorised_representations]
+      methods: [fmri_repetition_suppression, representational_similarity_analysis]
+    confidence: medium

@@ -1,0 +1,73 @@
+source_summary: raw/summaries/jeong2022_mesolimbic_dopamine_causal.md
+source_title: "Mesolimbic dopamine release conveys causal associations"
+source_year: 2022
+facts:
+  - claim: "NAcc mesolimbic dopamine release tracks ANCCR (retrospective causal association) rather than TDRL reward prediction error"
+    evidence: "Eleven experimental tests showed dopamine responses consistent with ANCCR and inconsistent with TDRL RPE predictions"
+    topics:
+      brain_regions: [ventral_striatum, ventral_tegmental_area]
+      behaviours: [conditioning]
+      computational_frameworks: [temporal_difference_learning]
+      methods: [optogenetics]
+    confidence: high
+    historical_context: "Challenged the dominant TDRL RPE theory of dopamine function that had been established since Schultz, Dayan & Montague 1997"
+
+  - claim: "Dopamine response to unpredicted rewards increases across sessions rather than decreasing as predicted by TDRL"
+    evidence: "In unpredicted-reward paradigm, dopamine response to sucrose increased across sessions to a high positive asymptote"
+    topics:
+      brain_regions: [ventral_striatum]
+      behaviours: [conditioning]
+      computational_frameworks: [temporal_difference_learning]
+      methods: []
+    confidence: high
+    historical_context: "Directly contradicted RPE theory prediction that dopamine should decrease as reward becomes contextually predicted"
+
+  - claim: "Dopamine cue responses emerge and peak before behavioral learning, inconsistent with TDRL's tight coupling prediction"
+    evidence: "During cue-reward learning, dopaminergic cue responses reached peak before onset of anticipatory licking"
+    topics:
+      brain_regions: [ventral_striatum, ventral_tegmental_area]
+      behaviours: [conditioning]
+      computational_frameworks: [temporal_difference_learning]
+      methods: []
+    confidence: high
+    historical_context: "Showed dopamine learning leads rather than tracks behavioral learning, challenging RPE account"
+
+  - claim: "Dopamine cue responses survive extinction long after behavioral extinction, consistent with ANCCR's long-term memory"
+    evidence: "After extinction, dopamine cue response remained significantly positive long after behavioral extinction"
+    topics:
+      brain_regions: [ventral_striatum]
+      behaviours: [conditioning]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated that dopamine maintains retrospective associations even when behavior has extinguished"
+
+  - claim: "Optogenetic inhibition of dopamine during second-order intervals does not prevent first-order cue learning"
+    evidence: "Optogenetic inhibition of VTA dopamine neurons during cue2-to-reward interval did not prevent learning of cue1 responses"
+    topics:
+      brain_regions: [ventral_tegmental_area, ventral_striatum]
+      behaviours: [conditioning]
+      computational_frameworks: [temporal_difference_learning]
+      methods: [optogenetics]
+    confidence: high
+    historical_context: "Provided causal evidence against TDRL's prediction that dopamine is necessary for learning during all reward-predictive intervals"
+
+  - claim: "Dopamine response correlates positively with preceding inter-reward interval, opposite to TDRL prediction"
+    evidence: "Dopamine response to sucrose correlated positively with preceding IRI, while TDRL predicts negative correlation"
+    topics:
+      brain_regions: [ventral_striatum]
+      behaviours: [conditioning]
+      computational_frameworks: [temporal_difference_learning]
+      methods: []
+    confidence: high
+    historical_context: "Directly contradicted RPE theory's prediction about how dopamine should scale with reward timing"
+
+  - claim: "Sequential conditioning produces simultaneous rather than backpropagating dopamine responses"
+    evidence: "Dopamine responses to second-order cue and first-order cue increased together early in learning before diverging, inconsistent with TDRL's ordered backpropagation"
+    topics:
+      brain_regions: [ventral_striatum, ventral_tegmental_area]
+      behaviours: [conditioning]
+      computational_frameworks: [temporal_difference_learning]
+      methods: []
+    confidence: high
+    historical_context: "Showed dopamine learns about all predictive cues simultaneously rather than through temporal difference backpropagation"

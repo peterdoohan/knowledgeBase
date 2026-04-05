@@ -1,0 +1,84 @@
+source_summary: raw/summaries/piray2025_compositional_cognitive_map.md
+source_title: "Reconciling flexibility and efficiency: medial entorhinal cortex represents a compositional cognitive map"
+source_year: 2025
+routing:
+  - fact_index: 0
+    claim: "The medial entorhinal cortex encodes compositional predictive maps through Predictive Object Representations (PORs)—compact, translation- and rotation-invariant matrices representing objects as perturbations to open space"
+    evidence: "Mathematical framework using Woodbury matrix identity computes compositional predictive maps by adding low-rank POR correction terms to baseline open-space map; complexity scales with object size (O³) rather than environment size (S³)"
+    targets:
+      - path: wiki/brain_regions/medial_entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "Compositional map encoding in MEC"
+      - path: wiki/computational_frameworks/compositionality.md
+        section: "## Key evidence"
+        reason: "Compositional predictive map framework"
+      - path: wiki/behaviours/cognitive_map.md
+        section: "## Key evidence"
+        reason: "Compositional structure of cognitive maps"
+    action: route
+
+  - fact_index: 1
+    claim: "Object vector cells in MEC (~30% of spatially tuned cells) encode PORs, serving as compositional building blocks that are translation- and rotation-invariant, generalize across objects, and are experience-independent"
+    evidence: "Model identifies object vector cells as encoding projected rows of POR matrices; captures key properties: translation/rotation invariance, field size dependence on object diameter, generalization across objects, experience-independent emergence"
+    targets:
+      - path: wiki/brain_regions/medial_entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "Computational role of object vector cells"
+      - path: wiki/behaviours/grid_cells.md
+        section: "## Key evidence"
+        reason: "Object vector cells as grid cell relatives"
+    action: route
+
+  - fact_index: 2
+    claim: "Grid cells encode basis functions (eigenvectors) of the compositional predictive map, with POR perturbations projected onto this basis predicting local (not global) remapping when barriers or goals are introduced"
+    evidence: "Model identifies grid cells as encoding eigenvectors of open-space DR; POR perturbations projected onto eigenbasis; predicts local remapping near barriers/goals with global stability, consistent with wall removal, home cage, and goal learning experiments"
+    targets:
+      - path: wiki/brain_regions/medial_entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "Grid cells as basis functions for compositional maps"
+      - path: wiki/behaviours/grid_cells.md
+        section: "## Key evidence"
+        reason: "Computational account of grid cell function"
+      - path: wiki/computational_frameworks/basis_functions.md
+        section: "## Key evidence"
+        reason: "Eigenvector basis for spatial coding"
+    action: route
+
+  - fact_index: 3
+    claim: "The compositional framework enables efficient planning via simple matrix-vector multiplication, performing comparably to complete ground-truth planners and substantially outperforming successor representation models"
+    evidence: "Planning simulations showed compositional model achieved relative path length 1.09 (with updates) vs 1.76 (without) compared to complete planner; substantially outperformed random walk and SR models"
+    targets:
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Efficient planning via compositional representations"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Compositional maps support flexible planning"
+      - path: wiki/computational_frameworks/compositionality.md
+        section: "## Key evidence"
+        reason: "Efficiency of compositional representations"
+    action: route
+
+  - fact_index: 4
+    claim: "The learning algorithm for refining combined PORs operates in object-space rather than state-space, making it computationally tractable compared to temporal-difference learning of successor representations"
+    evidence: "Iterative update rule A_new = A_old + α(I - Z·A_old) refines combined PORs; operates in object-space (O³) rather than state-space (S³); dramatically more efficient than TD learning of SRs"
+    targets:
+      - path: wiki/computational_frameworks/reinforcement_learning.md
+        section: "## Key evidence"
+        reason: "Efficient learning in object-space"
+      - path: wiki/computational_frameworks/successor_representation.md
+        section: "## Key evidence"
+        reason: "Comparison with SR learning efficiency"
+    action: route
+
+  - fact_index: 5
+    claim: "The model predicts that grid cells should show local remapping near introduced barriers or goals, with preserved patterns in distal locations, consistent with empirical observations from wall removal, home cage introduction, and goal learning experiments"
+    evidence: "Model predictions align with: Wernle et al. wall removal (local reorganization near former partition), Sanguinetti-Scheck & Brecht home cage (local shift near home), Boccara et al. goals (grid fields move closer to goals), Derdikman et al. hairpin maze (fragmentation at turning points)"
+    targets:
+      - path: wiki/behaviours/grid_cells.md
+        section: "## Key evidence"
+        reason: "Explaining local grid remapping phenomena"
+      - path: wiki/brain_regions/medial_entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "Compositional account of MEC remapping"
+    action: route

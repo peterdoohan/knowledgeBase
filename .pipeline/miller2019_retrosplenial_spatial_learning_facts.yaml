@@ -1,0 +1,52 @@
+source_summary: raw/summaries/miller2019_retrosplenial_spatial_learning.md
+source_title: "Retrosplenial Cortical Representations of Space and Future Goal Locations Develop with Learning"
+source_year: 2019
+facts:
+  - claim: "RSC spatial representations develop progressively across learning stages, with position coding improving early, trajectory coding emerging mid-learning, and selective future-goal coding appearing only at asymptotic performance"
+    evidence: "Bayesian decoding accuracy reached ~40% within 4.5 cm at asymptote; spatial coding errors decreased by 64% from early to asymptotic performance; trial-type-specific firing increased from chance to 21% of neurons at asymptote"
+    historical_context: "Challenged the assumption that RSC becomes important only after consolidation; showed RSC is necessary during initial acquisition at asymptotic performance"
+    topics:
+      brain_regions: [retrosplenial_cortex]
+      behaviours: [spatial_navigation, learning]
+      computational_frameworks: [bayesian_inference]
+      methods: [electrophysiology, lesion_study]
+    confidence: high
+
+  - claim: "RSC lesions have no effect during early learning but selectively impair asymptotic performance, with lesion size strongly correlated with impairment magnitude"
+    evidence: "Bilateral NMDA lesions showed no deficit during early learning but impaired asymptotic performance (interaction F(6,90) = 2.832, p < 0.05); impairment correlated tightly with lesion size (r = -0.90, p < 0.01)"
+    historical_context: "Refined understanding of RSC's causal role in spatial memory from purely consolidation-based to include active planning at asymptotic performance"
+    topics:
+      brain_regions: [retrosplenial_cortex]
+      behaviours: [spatial_navigation, learning]
+      computational_frameworks: []
+      methods: [lesion_study]
+    confidence: high
+
+  - claim: "RSC neurons do not develop hippocampus-like place fields; improved population representations reflect increased reliability of broad firing patterns rather than sharpening of individual tuning curves"
+    evidence: "Individual neurons maintained broad spatial tuning throughout learning; population-level improvements emerged from increased reliability of distributed firing patterns rather than place-field sharpening"
+    historical_context: "Challenged the expectation that RSC would develop hippocampal-like place fields with learning; established distinct representational strategy using distributed population codes"
+    topics:
+      brain_regions: [retrosplenial_cortex, hippocampus]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [population_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "RSC selectively simulates upcoming correct reward locations at asymptotic performance, coinciding with when lesions produce deficits"
+    evidence: "Bayesian decoding to future reward locations increased with learning (F(3,30) = 3.73, p < 0.05); selective decoding to the correct reward area was only significant during asymptotic performance (t(14) = 3.48, p < 0.005)"
+    historical_context: "Extended hippocampal prospective coding literature to RSC, suggesting neocortical participation in goal-directed planning rather than passive storage"
+    topics:
+      brain_regions: [retrosplenial_cortex]
+      behaviours: [spatial_navigation, planning]
+      computational_frameworks: [bayesian_inference, prospective_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Trial-type specificity in RSC is correlated with within-session behavioural performance at asymptotic performance"
+    evidence: "Linear classifier on population activity reached perfect accuracy at asymptote; trial-type specificity correlated with within-session performance (F(3,132) = 24.38, p < 0.001)"
+    topics:
+      brain_regions: [retrosplenial_cortex]
+      behaviours: [spatial_navigation, decision_making]
+      computational_frameworks: [population_coding]
+      methods: [electrophysiology]
+    confidence: high

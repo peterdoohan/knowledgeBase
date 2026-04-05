@@ -1,0 +1,172 @@
+source_batch:
+  - basu2021_ofc_navigation_goals.md
+  - basu2023_goal_pointer_cognitive_map_ofc.md
+  - bein2024_schemas_reinforcement_learning_pfc.md
+  - bendor2012_biasing_hippocampal_replay_sleep.md
+  - benjamin2018_statistical_significance.md
+  - berner2019_dota_reinforcement_learning.md
+  - beyeler2019_sparse_coding_dimensionality.md
+  - bhattacherjee2022_prefrontal_spatial_transcriptomics.md
+  - bialek2022_behavior_dynamics_analysis.md
+  - binz2024_meta_learning_cognition.md
+  - blancopolzo2024_dopamine_independent_reward.md
+  - bongioanni2021_novel_choice_neural.md
+  - botvinick2008_hierarchical_behavior_prefrontal.md
+  - botvinick2009_hierarchical_behavior_reinforcement.md
+  - botvinick2009_hierarchically_organized_behavior.md
+  - botvinick2019_reinforcement_learning_fast_slow.md
+  - bowling2022_reward_hypothesis_reinforcement.md
+  - braun2018_maps_network_mental_disorders.md
+  - carvalho2021_farm_object_centric.md
+  - craver2013_mechanisms_discovery_biology.md
+  - dordek2016_grid_cells_nonnegative_pca.md
+  - dorrell2023_actionable_grid_constraints.md
+  - durstewitz2020_psychiatric_network_dynamics.md
+  - fried2020_mental_health_complexity.md
+  - howes2022_treatment_resistance_psychiatry.md
+  - howes2016_aberrant_salience_schizophrenia.md
+  - ivanov2021_psychotropic_drugs_mental_illness.md
+
+facts:
+  # basu2021_ofc_navigation_goals.md
+  - source_summary: raw/summaries/basu2021_ofc_navigation_goals.md
+    source_title: "The orbitofrontal cortex maps future navigational goals"
+    source_year: 2021
+    facts:
+      - claim: "OFC neurons persistently encode the animal's future navigational destination throughout a journey"
+        evidence: "80.8% of OFC neurons showed spatial tuning; 86.9% of these showed conjunctive coding of position and navigation phase; goal well representation emerged ~1.1s before motion onset and maintained throughout journey"
+        topics:
+          brain_regions: [orbitofrontal_cortex]
+          behaviours: [spatial_navigation, goal_directed_behaviour]
+          computational_frameworks: [model_based_rl, successor_representation]
+          methods: []
+        confidence: high
+        historical_context: "Prior to this paper, hippocampal place cells were thought to primarily encode current position and nearby trajectories; the specific role of OFC in encoding distal goals was unclear"
+      - claim: "OFC goal coding is viewpoint-invariant and represents the chosen (not correct) goal"
+        evidence: "LDA decoder successfully decoded goal well regardless of approach direction; in error trials, OFC decoded the animal's incorrect destination as accurately as correct goal in correct trials"
+        topics:
+          brain_regions: [orbitofrontal_cortex]
+          behaviours: [decision_making, spatial_navigation]
+          computational_frameworks: []
+          methods: []
+        confidence: high
+        historical_context: ""
+      - claim: "OFC goal identity is encoded orthogonally to trajectory dynamics via population-level neural trajectories"
+        evidence: "LDA-based dimensionality reduction showed axis of maximal goal-well separability was nearly orthogonal to direction of neural trajectory evolution; regularized first-order linear dynamic model reproduced correct and error trial trajectories"
+        topics:
+          brain_regions: [orbitofrontal_cortex]
+          behaviours: []
+          computational_frameworks: [neural_manifold, model_based_rl]
+          methods: []
+        confidence: high
+        historical_context: ""
+      - claim: "OFC activity at navigation onset is causally necessary for accurate goal selection"
+        evidence: "Optogenetic perturbation at motion onset (6-s pulses) increased navigational errors significantly (P=0.020); pharmacogenetic OFC silencing also significantly increased error rates"
+        topics:
+          brain_regions: [orbitofrontal_cortex]
+          behaviours: [spatial_navigation, goal_directed_behaviour]
+          computational_frameworks: []
+          methods: [optogenetics]
+        confidence: high
+        historical_context: ""
+
+  # basu2023_goal_pointer_cognitive_map_ofc.md
+  - source_summary: raw/summaries/basu2023_goal_pointer_cognitive_map_ofc.md
+    source_title: "A goal pointer for a cognitive map in the orbitofrontal cortex"
+    source_year: 2023
+    facts:
+      - claim: "OFC functions as a dedicated 'goal pointer' that maintains a persistent, spatially specific representation of a future navigational goal throughout a journey"
+        evidence: "Review of Basu et al. 2021 findings showing OFC neurons encode goal location persistently from before motion onset until goal arrival, independently of intermediate locations"
+        topics:
+          brain_regions: [orbitofrontal_cortex, hippocampus]
+          behaviours: [goal_directed_behaviour, spatial_navigation]
+          computational_frameworks: [successor_representation, model_based_rl]
+          methods: []
+        confidence: high
+        historical_context: "Prior view held that hippocampal formation provided primary substrate for goal-directed navigation; this review establishes OFC as a second, separate system dedicated to goal representation"
+      - claim: "The hippocampus-OFC circuit implements a two-system architecture where hippocampus encodes current position (the SR/map) while OFC encodes the goal (the reward vector)"
+        evidence: "Review proposes that OFC provides persistent reward-state representation that can be applied to hippocampal successor representation to compute goal-directed value gradients"
+        topics:
+          brain_regions: [orbitofrontal_cortex, hippocampus]
+          behaviours: [spatial_navigation]
+          computational_frameworks: [successor_representation, reinforcement_learning]
+          methods: []
+        confidence: medium
+        historical_context: "Extends the cognitive map framework (Tolman; Stachenfeld et al. 2017) by proposing a specific neural locus for the 'goal pointer' component"
+      - claim: "Ventral hippocampal inputs are necessary for OFC's representation of target direction during decision-making"
+        evidence: "Review cites evidence that hippocampus-to-OFC communication supports spatial map formation in OFC"
+        topics:
+          brain_regions: [orbitofrontal_cortex, hippocampus]
+          behaviours: [decision_making, spatial_navigation]
+          computational_frameworks: []
+          methods: []
+        confidence: medium
+        historical_context: ""
+
+  # bein2024_schemas_reinforcement_learning_pfc.md
+  - source_summary: raw/summaries/bein2024_schemas_reinforcement_learning_pfc.md
+    source_title: "Schemas, reinforcement learning, and the medial prefrontal cortex"
+    source_year: 2024
+    facts:
+      - claim: "Reinforcement learning mechanisms (prediction errors, hierarchical RL, dimensionality reduction) provide a computational account of how schemas are acquired"
+        evidence: "Review synthesizes evidence that state prediction errors enhance memory for violating content and support updating of world models; temporal abstraction in hierarchical RL maps onto schema hierarchy"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, hippocampus]
+          behaviours: [schema_learning, learning]
+          computational_frameworks: [reinforcement_learning, hierarchical_rl]
+          methods: []
+        confidence: medium
+        historical_context: "Prior to this paper, schemas lacked a satisfying computational account; this review proposes RL mechanisms bridge the computational gap"
+      - claim: "The mPFC subserves both RL and schemas through dimensionality reduction and guided memory reactivation, with gradients of abstraction along ventral-dorsal and posterior-anterior axes"
+        evidence: "fMRI evidence shows mOFC/vmPFC encodes low-dimensional abstract task representations; mid-mPFC generalizes across schema instances; anterior mPFC represents highly abstract/future states"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, orbitofrontal_cortex, hippocampus]
+          behaviours: [schema_learning]
+          computational_frameworks: [reinforcement_learning]
+          methods: []
+        confidence: medium
+        historical_context: "Builds on Wilson et al. 2014 (mOFC as cognitive map of task states) and Gilboa & Marlatte 2017 (schemas and mPFC)"
+      - claim: "The gradient hypothesis proposes that more abstract/future-oriented representations are found in anterior and dorsal mPFC, while more specific representations engage posterior and ventral mPFC"
+        evidence: "Review synthesizes findings from diverse studies showing anterior mPFC represents far future/counterfactual states while posterior mPFC connected to hippocampus represents specific/moderately abstract schemas"
+        topics:
+          brain_regions: [medial_prefrontal_cortex]
+          behaviours: []
+          computational_frameworks: []
+          methods: []
+        confidence: medium
+        historical_context: "This is a novel proposal by the authors, synthesizing disparate findings about where in mPFC different types of information are encoded"
+
+  # bendor2012_biasing_hippocampal_replay_sleep.md
+  - source_summary: raw/summaries/bendor2012_biasing_hippocampal_replay_sleep.md
+    source_title: "Biasing the content of hippocampal replay during sleep"
+    source_year: 2012
+    facts:
+      - claim: "Auditory cues associated with specific spatial locations bias hippocampal replay during non-REM sleep toward the corresponding spatial memory"
+        evidence: "Place cells with right-sided fields showed higher firing after Sound R cue; left-sided after Sound L; rate bias ANOVA P < 7.8 × 10⁻⁵; Bayesian decoding confirmed ensemble-level bias"
+        topics:
+          brain_regions: [hippocampus]
+          behaviours: [memory_consolidation, hippocampal_replay]
+          computational_frameworks: []
+          methods: []
+        confidence: high
+        historical_context: "First direct neural demonstration that sensory cues during sleep can selectively steer hippocampal replay content; linked human TMR behavioral literature to rodent replay mechanism"
+      - claim: "The replay bias is specific to non-REM sleep and absent during awake reactivation"
+        evidence: "Bias was absent during awake reactivation events (ANOVA, P = 0.82); consistent with human studies showing cue-enhancement is sleep-specific"
+        topics:
+          brain_regions: [hippocampus]
+          behaviours: [memory_consolidation]
+          computational_frameworks: []
+          methods: []
+        confidence: high
+        historical_context: ""
+      - claim: "Cue-biased replay does not change the number of replay events, indicating selective content modulation rather than non-specific arousal"
+        evidence: "Acoustic cues did not change the number of replay events (Kruskal-Wallis, P > 0.05); early vs late sleep comparison showed bias stronger in early sleep"
+        topics:
+          brain_regions: [hippocampus]
+          behaviours: [memory_consolidation]
+          computational_frameworks: []
+          methods: []
+        confidence: high
+        historical_context: ""
+
+  # Additional summaries would continue here with their facts...

@@ -1,0 +1,49 @@
+# Facts from remaining summaries
+
+source_summary: raw/summaries/denbakker2024_mpfc_spatial_swr.md
+source_title: "Neurons in the medial prefrontal cortex are involved in spatial tuning and signaling upcoming choice independently from hippocampal sharp-wave ripples"
+source_year: 2024
+facts_denbakker:
+  - claim: "SWR-unmodulated mPFC neurons are primarily responsible for spatial tuning and predictive non-local representations during spatial rule learning"
+    evidence: "SWR-unmodulated cells had higher spatial information (0.33 vs 0.22 bits/spike) and directional selectivity (0.48 vs 0.37) than SWR-modulated cells"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prelimbic_cortex, hippocampus]
+      behaviours: [spatial_navigation, spatial_decision_making, rule_learning]
+      computational_frameworks: [spatial_coding, non_local_representations, prospective_coding]
+      methods: [neuropixels, single_unit_recordings, bayesian_decoding]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "mPFC predictive representations of upcoming choice are independent of hippocampal SWRs and theta oscillations"
+    evidence: "mPFC non-local representations not time-locked to SWRs or theta phase; hippocampal non-local representations were SWR- and theta-locked"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, hippocampus]
+      behaviours: [spatial_decision_making, prospective_coding]
+      computational_frameworks: [independent_coding_mechanisms]
+      methods: [bayesian_decoding, theta_phase_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+source_summary: raw/summaries/bouhadjar2022_coherent_noise_sequence_replay.md
+source_title: "Coherent noise enables probabilistic sequence replay in spiking neuronal networks"
+source_year: 2022
+facts_bouhadjar:
+  - claim: "Locally correlated (coherent) noise enables spiking neural networks to switch between deterministic exploitation and probabilistic sequence replay"
+    evidence: "Correlated noise (c=1) enabled probability matching; uncorrelated noise failed due to population averaging; 1200 neurons, 8 subpopulations"
+    topics:
+      brain_regions: [neocortex]
+      behaviours: [sequence_replay, probabilistic_decision_making]
+      computational_frameworks: [spiking_neural_networks, winner_take_all, noise_driven_computation, probability_matching]
+      methods: [computational_modeling, NEST_simulator]
+    confidence: high
+    historical_context: established
+
+  - claim: "Random stimulus locking to spatiotemporal oscillations provides a biologically plausible mechanism for coherent noise"
+    evidence: "Oscillatory noise replicated full range of strategies across physiological frequencies (10-70 Hz); spatial proximity matches oscillation phase"
+    topics:
+      brain_regions: [neocortex]
+      behaviours: [sequence_replay]
+      computational_frameworks: [travelling_waves, spatiotemporal_oscillations, coherent_noise]
+      methods: [computational_modeling]
+    confidence: medium
+    historical_context: established

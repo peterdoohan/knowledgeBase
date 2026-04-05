@@ -1,0 +1,63 @@
+source_summary: raw/summaries/balleine1998_goal_directed_instrumental_action.md
+source_title: "Goal-directed instrumental action: contingency and incentive learning and their cortical substrates"
+source_year: 1998
+facts:
+  - claim: "Instrumental behavior is controlled by three dissociable processes: contingency learning, incentive learning, and S-R habit"
+    evidence: "Behavioral designs with two actions and two rewards demonstrated separable control by contingency, incentive value, and habitual mechanisms"
+    topics:
+      brain_regions: []
+      behaviours: [goal_directed_behaviour, habits, conditioning]
+      computational_frameworks: [reinforcement_learning, model_based_rl, model_free_rl]
+      methods: []
+    confidence: high
+    historical_context: "Established the three-process framework that prefigured model-based vs. model-free distinctions in RL"
+
+  - claim: "Prelimbic cortex lesions abolish contingency sensitivity and render behavior habit-like"
+    evidence: "PL-lesioned rats failed to discriminate actions under non-contingent schedule and showed no reward-devaluation effect, but could learn reward-based discriminations"
+    topics:
+      brain_regions: [prelimbic_cortex, prefrontal_cortex]
+      behaviours: [goal_directed_behaviour, habits]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "First demonstration that PL cortex is necessary for contingency learning and goal-directed action"
+
+  - claim: "Insular cortex lesions preserve contingency sensitivity but abolish reward devaluation in extinction"
+    evidence: "IC-lesioned rats showed normal contingency discrimination but indiscriminate responding in extinction devaluation test; normal devaluation when rewards present"
+    topics:
+      brain_regions: [insular_cortex]
+      behaviours: [goal_directed_behaviour]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated IC is required for storing incentive value memories for offline use, not for online evaluation"
+
+  - claim: "Incentive learning requires consummatory experience to transfer motivational state to instrumental performance"
+    evidence: "Motivational state did not directly control performance after limited training; control required prior consummatory experience with reward in relevant state"
+    topics:
+      brain_regions: [insular_cortex]
+      behaviours: [goal_directed_behaviour]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Established that incentive value is learned through direct experience and stored for later retrieval"
+
+  - claim: "Overtraining shifts control from goal-directed to habitual mechanisms"
+    evidence: "After 360 vs. 120 rewards, incentive learning manipulation was ineffective, consistent with S-R habit control"
+    topics:
+      brain_regions: [prelimbic_cortex, insular_cortex]
+      behaviours: [habits, goal_directed_behaviour]
+      computational_frameworks: [model_free_rl, model_based_rl]
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated the transition from goal-directed to habitual control with extended training"
+
+  - claim: "Contingency learning and incentive learning are doubly dissociable at the cortical level"
+    evidence: "PL lesions impair contingency but spare IC functions; IC lesions impair incentive learning but spare contingency detection"
+    topics:
+      brain_regions: [prelimbic_cortex, insular_cortex, prefrontal_cortex]
+      behaviours: [goal_directed_behaviour]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Provided the foundational double dissociation mapping distinct cortical regions to separable computational processes in goal-directed action"

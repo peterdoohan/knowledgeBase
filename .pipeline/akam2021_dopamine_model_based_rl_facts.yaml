@@ -1,0 +1,73 @@
+source_summary: raw/summaries/akam2021_dopamine_model_based_rl.md
+source_title: "What is dopamine doing in model-based reinforcement learning?"
+source_year: 2021
+facts:
+  - claim: "The successor representation (SR) account of dopamine faces a critical dimensionality problem: the rat brain has ~17 million cortico-striatal neurons but only ~70,000 midbrain dopamine neurons, making it implausible that dopamine carries the high-dimensional vector-valued SR prediction error."
+    evidence: "Anatomical cell count comparison shows a ~240:1 ratio of cortico-striatal neurons to dopamine neurons, insufficient bandwidth for vector-valued signaling"
+    historical_context: "Challenged the Gardner et al. 2018 proposal that dopamine encodes vector-valued SPE for SR updating; argued the dimensionality mismatch makes this mechanism anatomically implausible"
+    topics:
+      brain_regions: [ventral_tegmental_area, substantia_nigra, striatum]
+      behaviours: []
+      computational_frameworks: [successor_representation, reinforcement_learning, model_based_rl]
+      methods: []
+    confidence: high
+
+  - claim: "An alternative account — well-informed scalar reward prediction error (RPE) plus a separate scalar surprise signal — can explain dopamine's involvement in model-based RL without requiring high-dimensional signaling."
+    evidence: "This two-component account reconciles model-based influences on dopamine with the scalar RPE framework and explains diverse dopaminergic phenomena"
+    historical_context: "Refined the classical RPE theory of dopamine by incorporating model-based value estimation and a separate surprise signal, showing model-based RL involvement is compatible with scalar RPE rather than requiring a new signal type"
+    topics:
+      brain_regions: [ventral_tegmental_area, substantia_nigra]
+      behaviours: []
+      computational_frameworks: [reinforcement_learning, model_based_rl, model_free_rl, reward_prediction_error]
+      methods: []
+    confidence: high
+
+  - claim: "Model-based value estimates can inform dopaminergic RPEs through three mechanisms: (a) offline planning during hippocampal sharp-wave ripples that refines cached values; (b) predictive representations such as the SR that allow rapid value recomputation; and (c) possibly minimal single-step rollouts gated by theta phase resetting."
+    evidence: "Multiple pathways enable model-based influence on dopamine without requiring real-time prospective computation at decision time"
+    historical_context: "Extended understanding of how hippocampal mechanisms contribute to model-based evaluation, proposing specific neural mechanisms (SWRs, theta sequences) by which cached values can be updated"
+    topics:
+      brain_regions: [hippocampus, ventral_tegmental_area, striatum]
+      behaviours: [planning]
+      computational_frameworks: [model_based_rl, successor_representation, reinforcement_learning]
+      methods: []
+    confidence: medium
+
+  - claim: "A scalar dopaminergic surprise signal, evaluated early in the sensory hierarchy but projected to high-level cortical areas, can upregulate learning rates in cortical and hippocampal predictive models, explaining stimulus-stimulus learning impairments and optogenetic unblocking without requiring vector-valued SPEs."
+    evidence: "Scalar surprise signal explains dopamine's role in sensory learning and attention; compatible with unblocking experiments requiring specificity without vector encoding"
+    historical_context: "Introduced a distinct scalar surprise signal separate from RPE to explain dopamine responses to non-rewarding surprising events and model-based learning phenomena"
+    topics:
+      brain_regions: [ventral_tegmental_area, prefrontal_cortex, hippocampus, amygdala]
+      behaviours: []
+      computational_frameworks: [model_based_rl, state_prediction_error, learning_rate_modulation]
+      methods: [optogenetics]
+    confidence: medium
+
+  - claim: "Dopamine heterogeneity is partially explained by partial summation of value over state features across parallel cortico-basal-ganglia loops; the radically different profile of tail-of-striatum dopamine neurons (threat-responsive, aversive) likely reflects a separate axis of reinforcement."
+    evidence: "Volume transmission and parallel loop architecture naturally produce heterogeneous dopaminergic signals; tail-of-striatum dopamine shows distinct response properties"
+    historical_context: "Refined understanding of dopamine heterogeneity by proposing that apparent diversity emerges from anatomical constraints (volume transmission, parallel loops) rather than fundamentally distinct dopamine subtypes"
+    topics:
+      brain_regions: [ventral_tegmental_area, substantia_nigra, striatum, prefrontal_cortex]
+      behaviours: []
+      computational_frameworks: [reinforcement_learning, cortico_basal_ganglia_loops]
+      methods: []
+    confidence: medium
+
+  - claim: "The SR account does not naturally predict the large body of quantitative RPE-consistent data, including findings that dopamine neuron stimulation is strongly reinforcing — a phenomenon well-explained by scalar RPE theory."
+    evidence: "SR theory struggles to explain why dopamine stimulation is reinforcing; scalar RPE naturally accounts for this"
+    historical_context: "Challenged the SR account's empirical coverage by highlighting its failure to explain core dopaminergic phenomena that the scalar RPE framework handles naturally"
+    topics:
+      brain_regions: [ventral_tegmental_area, substantia_nigra, striatum]
+      behaviours: []
+      computational_frameworks: [successor_representation, reinforcement_learning, reward_prediction_error]
+      methods: []
+    confidence: high
+
+  - claim: "The SR account fails to explain the specificity required for optogenetic dopamine stimulation to unblock stimulus-stimulus learning (C→X) without recruiting neurons specifically selective for predictions about X."
+    evidence: "Unblocking requires specific associative updates; SR vector-encoding cannot explain the observed specificity without implausible assumptions"
+    historical_context: "Challenged the SR account's mechanistic specificity by showing it cannot explain how dopamine stimulation enables learning about specific cue associations without recruiting selective prediction neurons"
+    topics:
+      brain_regions: [ventral_tegmental_area, striatum]
+      behaviours: []
+      computational_frameworks: [successor_representation, reinforcement_learning, blocking_unblocking]
+      methods: [optogenetics]
+    confidence: high

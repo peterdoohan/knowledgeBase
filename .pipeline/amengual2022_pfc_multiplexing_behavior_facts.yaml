@@ -1,0 +1,51 @@
+source_summary: raw/summaries/amengual2022_pfc_multiplexing_behavior.md
+source_title: "The cost of multiplexing: PFC integrates multiple sources of information in non-orthogonal components accounting for behavioral variability"
+source_year: 2022
+facts:
+  - claim: "FEF neural populations simultaneously encode at least four parameters (spatial position, cue-to-target onset asynchrony/CTOA, attentional focus/TA, and reaction time/RT) through mixed-selectivity coding"
+    evidence: "72% of recorded FEF neurons showed mixed selectivity (tuned to more than one parameter), with only 27.2% tuned to a single parameter; dPCA variance partitioning showed trial progression 46%, RT 22%, CTOA 17%, TA 16%"
+    historical_context: "Refined the understanding of mixed selectivity in PFC by showing specific multiplexing of temporal expectation, attention, and motor parameters in FEF"
+    topics:
+      brain_regions: [frontal_eye_field, prefrontal_cortex]
+      behaviours: [spatial_attention, temporal_expectation, reaction_time]
+      computational_frameworks: [mixed_selectivity, neural_manifold]
+      methods: [demixed_pca, electrophysiology]
+    confidence: high
+
+  - claim: "CTOA (temporal expectation) is encoded in two distinct low-dimensional components with different neural profiles — one linear and one inverted-U shaped"
+    evidence: "dPCA captured CTOA variance in two orthogonal components: one with linear activation profile (R² = 0.98 at trial level) correlating with RT, and one with inverted-U profile (R² = 0.97) correlating with TA"
+    topics:
+      brain_regions: [frontal_eye_field]
+      behaviours: [temporal_expectation]
+      computational_frameworks: [neural_manifold, dimensionality_reduction]
+      methods: [demixed_pca]
+    confidence: high
+
+  - claim: "The CTOA-encoding components are non-orthogonal to both RT and TA components, creating representational overlap that predicts behavioral interactions"
+    evidence: "dPCA angular analysis showed CTOA components were significantly non-orthogonal to both RT and TA components; activation of first CTOA dPC correlated with RT across sessions (R² = 0.79), second CTOA dPC correlated with TA (R² = 0.49)"
+    historical_context: "Challenged the prevailing assumption that mixed-selectivity cells would tend to implement orthogonal representations when possible; showed non-orthogonality is a structured coding strategy rather than a deficiency"
+    topics:
+      brain_regions: [frontal_eye_field, prefrontal_cortex]
+      behaviours: [temporal_expectation, reaction_time, attentional_focus]
+      computational_frameworks: [mixed_selectivity, neural_manifold, population_geometry]
+      methods: [demixed_pca]
+    confidence: high
+
+  - claim: "RT and TA components remain orthogonal to each other, preserving independent decodability despite the non-orthogonal overlap with CTOA components"
+    evidence: "dPCA simultaneous analysis across all parameters showed RT and TA components were orthogonal to each other (unlike their non-orthogonal relationship with CTOA components)"
+    topics:
+      brain_regions: [frontal_eye_field]
+      behaviours: [reaction_time, attentional_focus]
+      computational_frameworks: [neural_manifold, population_geometry]
+      methods: [demixed_pca]
+    confidence: high
+
+  - claim: "Non-orthogonal coding in FEF is a systematic strategy for maximizing encoding capacity under dimensionality constraints, with predictable behavioral costs"
+    evidence: "The paper demonstrates that non-orthogonality is not a deficiency but a measurable, structured configuration; the geometric arrangement produces observed behavioral correlations between CTOA, RT, TA, and hit rate, with impaired capacity to use attentional information independently and enhanced responsiveness to external stimuli as trial time advances"
+    historical_context: "Introduced the formal link between low-dimensional constraints, non-orthogonal coding geometry, and overt behavioral interactions that had not been previously established in the PFC literature"
+    topics:
+      brain_regions: [frontal_eye_field, prefrontal_cortex]
+      behaviours: [multiplexing, temporal_expectation, attentional_focus, reaction_time]
+      computational_frameworks: [mixed_selectivity, neural_manifold, dimensionality_constraint]
+      methods: [demixed_pca]
+    confidence: high

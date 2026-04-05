@@ -1,0 +1,89 @@
+# Facts from remaining summaries
+
+source_summary: raw/summaries/gillespie2021_replay_past_experiences.md
+source_title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
+source_year: 2021
+facts_gillespie:
+  - claim: "Awake hippocampal replay is decoupled from subsequent behavioral choice and reflects memory storage rather than planning"
+    evidence: "No consistent enrichment for chosen arm; no difference between correct and error trials; GLM classifiers at chance level predicting choice from replay"
+    topics:
+      brain_regions: [hippocampus, dorsal_CA1, hippocampus_ca1]
+      behaviours: [hippocampal_replay, memory_storage, planning, decision_making]
+      computational_frameworks: [planning_hypothesis, storage_hypothesis, memory_reactivation]
+      methods: [clusterless_decoding, bayesian_decoding, GLM_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Replay is strongly enriched for previously rewarded locations even when no longer relevant to current behavior"
+    evidence: "~20% of pre-choice remote replay represented previous goal arm; elevation persisted for at least two subsequent trial blocks after goal devaluation"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, reward_biased_memory, memory_persistence]
+      computational_frameworks: [reward_history_bias, prioritized_memory]
+      methods: [replay_content_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Replay shows active suppression of recently visited locations, favoring temporally remote experiences"
+    evidence: "Immediate past arm suppressed below chance; among non-rewarded arms, replay rate higher for arms not visited in past 5 trials; visit recency negatively correlated with replay rate"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, recency_effects, memory_selection]
+      computational_frameworks: [recency_suppression, temporal_organization]
+      methods: [replay_content_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Enrichment for current goal emerges only after extensive reward experience, suggesting apparent future-trajectory replay reflects reward-history bias"
+    evidence: "Current goal enrichment emerged only in late repeat phase (≥5 rewards); reward-history bias at familiar locations explains prior planning-related reports"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, goal_representation, reward_learning]
+      computational_frameworks: [experience_dependent_bias, planning_hypothesis]
+      methods: [replay_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+source_summary: raw/summaries/bernerslee2021_prefrontal_cortex_hippocampal.md
+source_title: "Prefrontal Cortical Neurons Are Selective for Non-Local Hippocampal Representations during Replay and Behavior"
+source_year: 2021
+facts_bernerslee:
+  - claim: "A subset of PFC neurons is selectively tuned to the content of hippocampal replay rather than the animal's actual location"
+    evidence: "18.5% of PFC neurons significantly differentially modulated by replay of different maze arms (p=2.2e-9); PFC population decoded HP replay arm identity (p=0.002)"
+    topics:
+      brain_regions: [prefrontal_cortex, medial_prefrontal_cortex, prelimbic_cortex, infralimbic_cortex, hippocampus, dorsal_CA1]
+      behaviours: [hippocampal_replay, memory_guided_decision_making, non_local_representation]
+      computational_frameworks: [hippocampal_prefrontal_interaction, replay_content_decoding]
+      methods: [simultaneous_recordings, bayesian_decoding, permutation_testing]
+    confidence: high
+    historical_context: established
+
+  - claim: "PFC replay selectivity exceeds behavioral selectivity, indicating stronger coupling during replay than experience"
+    evidence: "Simulated reactivation responses from running firing rates significantly less arm-selective than observed replay responses (Wilcoxon p=9.8e-4)"
+    topics:
+      brain_regions: [prefrontal_cortex, hippocampus]
+      behaviours: [hippocampal_replay, memory_consolidation]
+      computational_frameworks: [hippocampal_prefrontal_coupling, indexing_theory]
+      methods: [correlational_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "PFC neurons are preferentially driven by non-local hippocampal representations during both replay and behavior"
+    evidence: "PFC neurons more strongly driven by HP spikes from late (non-local) than early (local) theta half (p=4.9e-5); late-theta preference correlated with replay selectivity (R=0.32, p=7.6e-5)"
+    topics:
+      brain_regions: [prefrontal_cortex, hippocampus]
+      behaviours: [non_local_representation, theta_sequences, prospective_coding]
+      computational_frameworks: [theta_phase_gating, hippocampal_prefrontal_interaction]
+      methods: [theta_phase_analysis, cross_covariance_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "PFC activity locked to non-local theta epochs predicts upcoming choice while local-locked activity does not"
+    evidence: "Remote HP theta cycles predicted upcoming choice (p<0.001); PFC spikes to non-local theta epochs decoded future choice (p<0.001) while local-locked did not (p>0.8)"
+    topics:
+      brain_regions: [prefrontal_cortex, hippocampus]
+      behaviours: [prospective_coding, decision_making, non_local_representation]
+      computational_frameworks: [theta_sequences, predictive_coding]
+      methods: [decoding, theta_phase_analysis]
+    confidence: high
+    historical_context: established

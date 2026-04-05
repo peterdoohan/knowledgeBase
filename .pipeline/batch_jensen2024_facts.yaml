@@ -1,0 +1,53 @@
+source_summary: raw/summaries/jensen2024_recurrent_planning_hippocampal_replay.md
+source_title: "A recurrent network model of planning explains hippocampal replay and human behavior"
+source_year: 2024
+facts:
+  - claim: "A meta-reinforcement learning agent with imagined policy rollouts learns to plan when beneficial, matching human thinking-time variability"
+    evidence: "Trained RNN performed more rollouts earlier in trials and farther from goal; π(rollout) correlated positively with human thinking time (r=0.186±0.007)"
+    topics:
+      brain_regions: [prefrontal_cortex, hippocampus]
+      behaviours: [planning, forward_replay]
+      computational_frameworks: [meta_reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Provided normative account for why humans think for variable durations before acting"
+
+  - claim: "Hippocampal forward replays parallel model policy rollouts in their statistical properties"
+    evidence: "Biological replays avoided walls more than chance (P<0.001), over-represented goal location (P<0.001), and predicted subsequent actions more accurately when successful"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [forward_replay, hippocampal_replay, spatial_navigation]
+      computational_frameworks: [model_based_rl, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Established quantitative parallels between biological hippocampal replay and model-based planning rollouts"
+
+  - claim: "Consecutive hippocampal replays become increasingly goal-directed, consistent with iterative policy refinement"
+    evidence: "In trials with ≥3 replays, goal over-representation increased with replay number (2nd replay P=0.068, 3rd replay P=0.009), mirrored in the RL agent"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [forward_replay, hippocampal_replay, planning]
+      computational_frameworks: [reinforcement_learning, model_based_rl]
+      methods: []
+    confidence: high
+    historical_context: "Provided evidence that replay implements iterative policy refinement rather than single-shot planning"
+
+  - claim: "Successful versus unsuccessful rollouts have opposite effects on action selection"
+    evidence: "Successful rollouts increased probability of taking the first rolled-out action; unsuccessful rollouts decreased it (both effects significant vs. matched controls)"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [planning, forward_replay]
+      computational_frameworks: [meta_reinforcement_learning, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated that policy rollouts causally modulate action selection based on their success"
+
+  - claim: "Rollouts causally improve policy when used, with timing-specific benefits"
+    evidence: "Forcing more rollouts at trial start monotonically reduced steps-to-goal; preventing rollouts impaired reward; randomizing rollout timing while preserving count also impaired performance"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [planning]
+      computational_frameworks: [meta_reinforcement_learning, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Established that rollouts provide causal policy benefits specifically when deployed at appropriate times"

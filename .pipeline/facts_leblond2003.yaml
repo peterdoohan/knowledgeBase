@@ -1,0 +1,53 @@
+source_summary: raw/summaries/leblond2003_locomotion_spinal.md
+source_title: "Treadmill Locomotion in the Intact and Spinal Mouse"
+source_year: 2003
+facts:
+  - claim: "Adult mice can spontaneously re-express coordinated hindlimb locomotion within 14 days of complete thoracic spinal cord transection without pharmacological treatment"
+    evidence: "10 of 13 spinal mice recovered locomotion; recovery followed stereotyped sequence with intralimb coordination restored by day 12 and interlimb alternation by day 14"
+    topics:
+      brain_regions: [spinal_cord, lumbosacral_spinal_cord, thoracic_spinal_cord]
+      behaviours: [locomotion, hindlimb_locomotion, motor_recovery]
+      computational_frameworks: [central_pattern_generator]
+      methods: [spinal_cord_transection, kinematic_analysis, electromyography]
+    confidence: high
+    historical_context: established
+
+  - claim: "The mouse lumbar spinal cord contains a functional central pattern generator for locomotion that operates autonomously without supraspinal input"
+    evidence: "Double transection at T8 did not disrupt recovery, ruling out axonal regrowth; locomotor patterns emerged from spinal circuits alone"
+    topics:
+      brain_regions: [spinal_cord, lumbosacral_spinal_cord]
+      behaviours: [locomotion, motor_pattern_generation]
+      computational_frameworks: [central_pattern_generator]
+      methods: [spinal_cord_transection]
+    confidence: high
+    historical_context: established
+
+  - claim: "Intralimb coordination recovers before interlimb alternation following spinal transection, suggesting hierarchical organization of spinal locomotor networks"
+    evidence: "Intralimb kinematics restored by day 12; proper out-of-phase hindlimb alternation by day 14; homolateral forelimb-hindlimb coupling permanently lost"
+    topics:
+      brain_regions: [spinal_cord]
+      behaviours: [locomotion, motor_recovery, interlimb_coordination]
+      computational_frameworks: [central_pattern_generator, hierarchical_networks]
+      methods: []
+    confidence: high
+    historical_context: established
+
+  - claim: "Step cycle duration in spinal mice is significantly longer than intact mice due to prolonged stance rather than swing phase"
+    evidence: "Mean step cycle: spinal 700±64 ms vs intact 500±94 ms (p<0.0005); stance duration increased while swing remained invariant (~100-180 ms)"
+    topics:
+      brain_regions: [spinal_cord]
+      behaviours: [locomotion, gait_analysis]
+      computational_frameworks: []
+      methods: [kinematic_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Mice are more similar to cats than rats in their capacity for spontaneous spinal locomotion recovery"
+    evidence: "Adult rats require pharmacological intervention for recovery; adult mice and cats recover spontaneously; establishes mice as suitable model for spinal cord injury research"
+    topics:
+      brain_regions: [spinal_cord]
+      behaviours: [locomotion, motor_recovery]
+      computational_frameworks: [central_pattern_generator]
+      methods: [spinal_cord_injury_model]
+    confidence: high
+    historical_context: challenge_to_prevailing

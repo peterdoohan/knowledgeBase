@@ -1,0 +1,55 @@
+# Facts from summaries 11-15
+
+source_summary: raw/summaries/denbakker2024_mpfc_spatial_swr.md
+source_title: "Neurons in the medial prefrontal cortex are involved in spatial tuning and signaling upcoming choice independently from hippocampal sharp-wave ripples"
+source_year: 2024
+facts_denbakker:
+  - claim: "SWR-unmodulated mPFC neurons are primarily responsible for spatial tuning, directional selectivity, and predictive non-local representations during spatial rule learning"
+    evidence: "SWR-unmodulated cells had higher spatial information (0.33 vs 0.22 bits/spike) and directional selectivity (0.48 vs 0.37 max index) than SWR-modulated cells"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prelimbic_cortex, hippocampus]
+      behaviours: [spatial_navigation, spatial_decision_making, rule_learning]
+      computational_frameworks: [spatial_coding, non_local_representations, prospective_coding]
+      methods: [neuropixels, single_unit_recordings, bayesian_decoding]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "mPFC predictive representations of upcoming choice are independent of hippocampal SWRs and theta oscillations"
+    evidence: "mPFC non-local representations not time-locked to SWRs or biased to theta phase; hippocampal non-local representations were SWR- and theta-locked"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, hippocampus, dorsal_hippocampus]
+      behaviours: [spatial_decision_making, prospective_coding]
+      computational_frameworks: [independent_coding_mechanisms]
+      methods: [bayesian_decoding, theta_phase_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "SWR-modulated mPFC neurons respond to hippocampal replay content but do not drive prospective spatial representations"
+    evidence: "SWR-excited mPFC neurons fired more during hippocampal representations of upcoming choice; SWR-inhibited fired more during alternative choice representations"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, hippocampus]
+      behaviours: [spatial_decision_making, replay_processing]
+      computational_frameworks: [hippocampal_prefrontal_interaction]
+      methods: [single_unit_recordings, decoding]
+    confidence: high
+    historical_context: established
+
+  - claim: "Dorsal and ventral mPFC show differential SWR modulation and theta phase preferences consistent with anatomical connectivity differences"
+    evidence: "SWR modulation stronger in ventral mPFC (mean z-score 0.20 vs 0.09); dorsal cells fired near theta peak, ventral near theta trough"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, dorsal_mPFC, ventral_mPFC, hippocampus]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [theta_oscillations, functional_dissociation]
+      methods: [single_unit_recordings, theta_phase_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "SWR-unmodulated mPFC neurons show theta cycle skipping predictive of upcoming choice"
+    evidence: "Theta cycle skipping more prevalent in SWR-unmodulated (28.94%) than SWR-excited (22.72%) or SWR-inhibited (12.39%) neurons (p<0.001)"
+    topics:
+      brain_regions: [medial_prefrontal_cortex]
+      behaviours: [spatial_decision_making, prospective_coding]
+      computational_frameworks: [theta_cycle_skipping, theta_oscillations]
+      methods: [spike_autocorrelation_analysis]
+    confidence: high
+    historical_context: established

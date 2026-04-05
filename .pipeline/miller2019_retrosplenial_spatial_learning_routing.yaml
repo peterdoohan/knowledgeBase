@@ -1,0 +1,60 @@
+source_summary: raw/summaries/miller2019_retrosplenial_spatial_learning.md
+source_title: "Retrosplenial Cortical Representations of Space and Future Goal Locations Develop with Learning"
+source_year: 2019
+routing:
+  - fact_index: 0
+    claim: "RSC spatial representations develop progressively across learning stages, with position coding improving early, trajectory coding emerging mid-learning, and selective future-goal coding appearing only at asymptotic performance"
+    evidence: "Bayesian decoding accuracy reached ~40% within 4.5 cm at asymptote; spatial coding errors decreased by 64% from early to asymptotic performance"
+    targets:
+      - path: wiki/brain_regions/retrosplenial_cortex.md
+        section: "## Key evidence"
+        reason: "Direct finding about RSC representational development across learning"
+      - path: wiki/behaviours/spatial_navigation.md
+        section: "## Key evidence"
+        reason: "Learning-related changes in spatial representation"
+    action: route
+
+  - fact_index: 1
+    claim: "RSC lesions have no effect during early learning but selectively impair asymptotic performance, with lesion size strongly correlated with impairment magnitude"
+    evidence: "Bilateral NMDA lesions showed no deficit during early learning but impaired asymptotic performance (interaction F(6,90) = 2.832, p < 0.05); impairment correlated with lesion size (r = -0.90, p < 0.01)"
+    targets:
+      - path: wiki/brain_regions/retrosplenial_cortex.md
+        section: "## Key evidence"
+        reason: "Causal evidence for RSC necessity at specific learning stages"
+    action: route
+
+  - fact_index: 2
+    claim: "RSC neurons do not develop hippocampus-like place fields; improved population representations reflect increased reliability of broad firing patterns rather than sharpening of individual tuning curves"
+    evidence: "Individual neurons maintained broad spatial tuning throughout learning; population-level improvements emerged from increased reliability of distributed firing patterns"
+    targets:
+      - path: wiki/brain_regions/retrosplenial_cortex.md
+        section: "## Key evidence"
+        reason: "Distinct representational strategy in RSC vs hippocampus"
+      - path: wiki/brain_regions/hippocampus.md
+        section: "## Key evidence"
+        reason: "Comparative finding about representational differences"
+    action: route
+
+  - fact_index: 3
+    claim: "RSC selectively simulates upcoming correct reward locations at asymptotic performance, coinciding with when lesions produce deficits"
+    evidence: "Bayesian decoding to future reward locations increased with learning (F(3,30) = 3.73, p < 0.05); selective decoding to correct reward area only significant during asymptotic performance (t(14) = 3.48, p < 0.005)"
+    targets:
+      - path: wiki/brain_regions/retrosplenial_cortex.md
+        section: "## Key evidence"
+        reason: "Prospective coding in RSC during navigation"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Goal simulation as prospective planning mechanism"
+    action: route
+
+  - fact_index: 4
+    claim: "Trial-type specificity in RSC is correlated with within-session behavioural performance at asymptotic performance"
+    evidence: "Linear classifier on population activity reached perfect accuracy at asymptote; trial-type specificity correlated with within-session performance (F(3,132) = 24.38, p < 0.001)"
+    targets:
+      - path: wiki/brain_regions/retrosplenial_cortex.md
+        section: "## Key evidence"
+        reason: "Population coding of trajectory in RSC"
+      - path: wiki/behaviours/spatial_navigation.md
+        section: "## Key evidence"
+        reason: "Relationship between neural coding and behavior"
+    action: route

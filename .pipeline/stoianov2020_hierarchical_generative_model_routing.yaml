@@ -1,0 +1,66 @@
+source_summary: raw/summaries/stoianov2020_hierarchical_generative_model.md
+source_title: The hippocampal formation as a hierarchical generative model supporting generative replay and continual learning
+source_year: 2020
+routing:
+  - fact_index: 0
+    claim: "The hippocampal formation functions as a hierarchical generative model with three levels: items (place cells), sequences (temporal trajectories), and maps (spatial contexts)"
+    evidence: "The model architecture organizes experiences hierarchically with Layer 1 for individual observations (items/place cells), Layer 2 for temporal sequences, and Layer 3 for mutually exclusive spatial contexts (cognitive maps); reduced models lacking sequence layers or single-cluster capability showed significantly degraded performance (all p<0.001)"
+    targets:
+      - path: wiki/brain_regions/hippocampus.md
+        section: "## Key evidence"
+        reason: "Hierarchical generative model of hippocampal function"
+      - path: wiki/behaviours/cognitive_map.md
+        section: "## Key evidence"
+        reason: "Multi-level organization of cognitive maps"
+    action: route
+
+  - fact_index: 1
+    claim: "Generative replay from the learned model enables effective continual learning without catastrophic forgetting, outperforming experience replay in nonparametric settings"
+    evidence: "Generative replay and prioritized generative replay agents significantly outperformed baseline (t=3.47, p=0.002 and t=4.18, p<0.001) and showed no difference from ideal experience replay; in nonparametric settings with unknown cluster numbers, generative replay outperformed both baseline and experience replay (p<0.001)"
+    targets:
+      - path: wiki/behaviours/hippocampal_replay.md
+        section: "## Key evidence"
+        reason: "Generative replay mechanism for continual learning"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Mechanism for preventing catastrophic forgetting"
+      - path: wiki/computational_frameworks/experience_replay.md
+        section: "## Key evidence"
+        reason: "Comparison of generative vs experience replay"
+    action: route
+
+  - fact_index: 2
+    claim: "Internally generated hippocampal sequences follow Brownian diffusion statistics distinct from directed navigation, consistent with generative model sampling"
+    evidence: "Log-log regression showed replay trajectories followed power-law diffusion (alpha=0.46, s.d.=0.031) consistent with empirical findings (Stella et al., 2019), while navigation showed directed motion (alpha=0.75); replayed trajectories differed by 35% from most similar experienced trajectories and included 8.6 novel locations never visited"
+    targets:
+      - path: wiki/behaviours/hippocampal_replay.md
+        section: "## Key evidence"
+        reason: "Brownian diffusion statistics of replay"
+      - path: wiki/behaviours/forward_replay.md
+        section: "## Key evidence"
+        reason: "Diffusion-like forward replay dynamics"
+    action: route
+
+  - fact_index: 3
+    claim: "Pre-run dynamics predict post-run replay more strongly than post-run predicts run, supporting generative model-based preplay"
+    evidence: "Rank-order correlation analysis showed pre-run (preplay) and post-run (replay) activity were more strongly correlated (r=0.66) than post-run and run activity (r=0.36, t=17.05, p<0.001), matching empirical findings (Liu et al., 2019)"
+    targets:
+      - path: wiki/behaviours/hippocampal_replay.md
+        section: "## Key evidence"
+        reason: "Preplay-replay correlation mechanism"
+      - path: wiki/behaviours/forward_replay.md
+        section: "## Key evidence"
+        reason: "Preplay as prospective generative process"
+    action: route
+
+  - fact_index: 4
+    claim: "Run-post-run correlations decrease over learning while pre-run-post-run correlations remain stable, a novel prediction of the generative model"
+    evidence: "A novel prediction of the model - run-post-run correlations decreased linearly across blocks (beta=-0.05, t=-3.9, p<0.001) while pre-run-post-run correlations remained stable (beta=0.02, n.s.)"
+    targets:
+      - path: wiki/behaviours/hippocampal_replay.md
+        section: "## Key evidence"
+        reason: "Learning-dependent changes in replay correlations"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Consolidation-related changes in replay dynamics"
+    action: route

@@ -1,0 +1,96 @@
+source_summary: raw/summaries/baram2024_abstract_relational_map_consolidation.md
+source_title: An abstract relational map emerges in the human medial prefrontal cortex with consolidation
+source_year: 2024
+routing:
+  - fact_index: 0
+    claim: "The medial temporal lobe (MTL), specifically left entorhinal cortex–subiculum, simultaneously represents both task-relevant and task-irrelevant graph structures at both immediate and delayed time points after learning"
+    evidence: "fMRI repetition suppression showed distance-dependent suppression for both relevant and irrelevant graphs in left MTL (peak t22 = 4.39, MNI [-24, -22, -28]), with no difference between sessions or graph relevance (2×2 ANOVA, all p > 0.2)"
+    targets:
+      - path: wiki/brain_regions/medial_temporal_lobe.md
+        section: "## Key evidence"
+        reason: "Direct finding about MTL representation of graph structures"
+      - path: wiki/brain_regions/hippocampus.md
+        section: "## Key evidence"
+        reason: "MTL findings include entorhinal cortex-hippocampal system"
+      - path: wiki/behaviours/cognitive_map.md
+        section: "## Key evidence"
+        reason: "Finding about how cognitive map structures are represented in MTL"
+    action: route
+
+  - fact_index: 1
+    claim: "The medial prefrontal cortex (mPFC) develops an abstract, stimulus-independent relational map of learned graph structure over the course of several days following initial learning"
+    evidence: "fMRI repetition suppression revealed a large mPFC cluster (peak t21 = 5.1, MNI [2, 42, 8]; FWE p = 0.003) showing cross-graph suppression that was significantly greater in session 2 than session 1 (SVC FWE p < 0.05, t21 = 3.66), indicating emergence of abstract representation via consolidation"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Core finding about mPFC development of abstract relational maps"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Direct evidence for systems consolidation producing abstract representations"
+      - path: wiki/behaviours/schema_learning.md
+        section: "## Key evidence"
+        reason: "Abstract relational maps are a form of schema abstraction"
+    action: route
+
+  - fact_index: 2
+    claim: "The abstract relational map in mPFC is genuinely factorised, responding to positional commonality across isomorphic graphs rather than merely encoding within-graph distances"
+    evidence: "Cross-graph suppression (switch trials) was detected in mPFC, indicating representation of graph position independent of which specific stimulus occupies that position; this operationalises factorisation as defined by the Tolman-Eichenbaum Machine framework"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Finding about factorised representation format in mPFC"
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Factorised representations enable model-based RL generalisation"
+      - path: wiki/computational_frameworks/state_representation.md
+        section: "## Key evidence"
+        reason: "Factorisation is a key principle of state representation learning"
+    action: route
+
+  - fact_index: 3
+    claim: "The abstract mPFC representation emerges in the same pregenual mPFC region previously implicated in grid-like coding of abstract 2D spaces"
+    evidence: "The session-2 cross-graph effect emerged within an mPFC ROI defined by grid-like coding from Constantinescu et al. (2016) (SVC FWE p = 0.03, t21 = 2.38), and the peak coordinates (MNI [2, 42, 8]) overlapped with the grid-like coding region"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Finding links mPFC consolidation to grid-like coding literature"
+      - path: wiki/behaviours/cognitive_map.md
+        section: "## Key evidence"
+        reason: "Connects consolidation to cognitive map representation"
+      - path: wiki/behaviours/spatial_navigation.md
+        section: "## Key evidence"
+        reason: "Grid-like codes originally discovered in spatial navigation contexts"
+    action: route
+
+  - fact_index: 4
+    claim: "Representational similarity analysis confirms the emergence of a full abstracted map in right pregenual mPFC from session 1 to session 2"
+    evidence: "RSA showed a cluster in right pregenual mPFC with emergence of full abstracted map (both within- and across-graph RDM elements) from session 1 to session 2 (SVC FWE p = 0.01); within-graph (p = 0.06) and across-graph (p = 0.11) showed trends, each surviving SVC in the other's mask (p = 0.03 and p = 0.01), suggesting shared representational substrate"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "RSA confirmation of abstract map emergence in mPFC"
+      - path: wiki/methods/computational_modeling.md
+        section: "## Key evidence"
+        reason: "RSA is a key computational modeling method for fMRI"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Converging evidence for consolidation in mPFC"
+    action: route
+
+  - fact_index: 5
+    claim: "The MTL maintains concrete, stimulus-specific graph representations while mPFC develops abstract representations, suggesting a division of labour between these systems across consolidation"
+    evidence: "Direct comparison of MTL and mPFC results: MTL showed both relevant and irrelevant graph representations simultaneously across both sessions (no abstraction), while mPFC showed emergence of cross-graph abstraction over days; this pattern aligns with systems consolidation theory where MTL maintains episodic specifics while neocortex extracts statistical structure"
+    targets:
+      - path: wiki/brain_regions/medial_temporal_lobe.md
+        section: "## Key evidence"
+        reason: "Division of labour finding regarding MTL"
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Division of labour finding regarding mPFC"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Systems consolidation theory validation"
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Complementary learning systems enable model-based RL"
+    action: route

@@ -1,0 +1,53 @@
+source_summary: raw/summaries/behrens2007_learning_value_information_uncertain.md
+source_title: "Learning the value of information in an uncertain world"
+source_year: 2007
+facts:
+  - claim: "Humans adaptively adjust reinforcement learning rate based on environmental volatility in a Bayesian-optimal manner"
+    evidence: "Subjects showed significantly higher learning rates during volatile vs. stable phases (paired t(17)=2.91, P<0.005); Bayesian learner predicted decisions better than delta-rule models"
+    topics:
+      brain_regions: []
+      behaviours: [reinforcement_learning, decision_making]
+      computational_frameworks: [bayesian_inference, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "First demonstration that humans dynamically modulate learning rate based on volatility using Bayesian principles"
+
+  - claim: "Anterior cingulate cortex BOLD signal during outcome monitoring reflects estimated environmental volatility"
+    evidence: "ACC (MNI: x=–6, y=26, z=34 mm; max Z=4.2) was the only region surviving correction for multiple comparisons in the monitor × volatility interaction"
+    topics:
+      brain_regions: [anterior_cingulate_cortex]
+      behaviours: [reinforcement_learning, decision_making]
+      computational_frameworks: [bayesian_inference]
+      methods: [fmri]
+    confidence: high
+    historical_context: "Identified ACC as the neural locus of volatility tracking for learning rate modulation"
+
+  - claim: "ACC volatility signal is robust to confounds and cannot be explained by alternative variables"
+    evidence: "Volatility-related ACC signal was robust to inclusion of all ten confound regressors including reward, reaction time, prediction error, error likelihood, and local reward variance"
+    topics:
+      brain_regions: [anterior_cingulate_cortex]
+      behaviours: [reinforcement_learning]
+      computational_frameworks: [bayesian_inference]
+      methods: [fmri]
+    confidence: high
+    historical_context: "Established that ACC volatility signal is specific and not confounded by other decision variables"
+
+  - claim: "Individual differences in ACC volatility response predict individual differences in learning rate"
+    evidence: "Subjects with larger volatility-related ACC response had higher mean learning rates overall (r²=0.27, P<0.01 at peak; max r²=0.32)"
+    topics:
+      brain_regions: [anterior_cingulate_cortex]
+      behaviours: [reinforcement_learning]
+      computational_frameworks: [bayesian_inference]
+      methods: [fmri]
+    confidence: high
+    historical_context: "Provided direct link between neural volatility signal and behavioral learning rate parameter"
+
+  - claim: "Both estimated volatility and posterior variance on reward rate independently contribute to ACC BOLD signal"
+    evidence: "When included together, each survived the inclusion of the other, suggesting ACC tracks multiple uncertainty-related variables"
+    topics:
+      brain_regions: [anterior_cingulate_cortex]
+      behaviours: [reinforcement_learning]
+      computational_frameworks: [bayesian_inference]
+      methods: [fmri]
+    confidence: medium
+    historical_context: "Suggested ACC tracks both expected uncertainty (posterior variance) and unexpected uncertainty (volatility changes)"

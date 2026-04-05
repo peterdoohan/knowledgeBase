@@ -1,0 +1,51 @@
+source_summary: raw/summaries/schapiro2013_event_representation_memory.md
+source_title: Neural representations of events arise from temporal community structure
+source_year: 2013
+routing:
+  - fact_index: 0
+    claim: "Event representations emerge from temporal community structure rather than from predictive uncertainty or surprise at event boundaries"
+    evidence: "Participants consistently segmented sequences at community boundaries even when transition probabilities were uniform and local statistics controlled (Exps 1-2; t(29)=2.27, P<0.05; t(9)=2.30, P<0.05)"
+    targets:
+      - path: wiki/behaviours/event_segmentation.md
+        section: "## Key evidence"
+        reason: "Alternative mechanism for event segmentation without prediction error"
+    action: route
+
+  - fact_index: 1
+    claim: "Medial prefrontal cortex tracks event structure through sustained activity during within-community periods and transient disengagement at boundaries"
+    evidence: "mPFC showed sustained activity during within-community periods and transient disengagement at community boundaries (P<0.05 corrected)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "mPFC role in event structure tracking"
+    action: route
+
+  - fact_index: 2
+    claim: "Left inferior frontal gyrus and insula represent community membership through repetition enhancement effects"
+    evidence: "Bilateral IFG and insula showed progressively stronger responses as participants viewed more items from the same community (P<0.05 corrected)"
+    targets:
+      - path: wiki/brain_regions/inferior_frontal_gyrus.md
+        section: "## Key evidence"
+        reason: "IFG representation of community membership"
+    action: route
+
+  - fact_index: 3
+    claim: "Multivoxel patterns in left IFG, insula, ATL, and STG represent items within the same community as more similar than items from different communities"
+    evidence: "MVPA in left IFG, insula, anterior temporal lobe, and superior temporal gyrus showed items within the same community were represented as more similar than items from different communities (P<0.05 corrected)"
+    targets:
+      - path: wiki/brain_regions/inferior_frontal_gyrus.md
+        section: "## Key evidence"
+        reason: "Representational similarity for community structure"
+      - path: wiki/brain_regions/superior_temporal_gyrus.md
+        section: "## Key evidence"
+        reason: "STG representation of community structure"
+    action: route
+
+  - fact_index: 4
+    claim: "A simple predictive learning model develops community-structured internal representations through error-driven learning"
+    evidence: "A three-layer feedforward neural network trained to predict next items developed clustered hidden-layer representations mirroring graph communities (t(19)=140.84, P<0.0001)"
+    targets:
+      - path: wiki/behaviours/event_segmentation.md
+        section: "## Key evidence"
+        reason: "Computational mechanism for community structure learning"
+    action: route

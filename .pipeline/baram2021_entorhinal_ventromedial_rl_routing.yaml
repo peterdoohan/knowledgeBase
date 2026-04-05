@@ -1,0 +1,81 @@
+source_summary: raw/summaries/baram2021_entorhinal_ventromedial_rl.md
+source_title: "Entorhinal and ventromedial prefrontal cortices abstract and generalize the structure of reinforcement learning problems"
+source_year: 2021
+routing:
+  - fact_index: 0
+    claim: "The right entorhinal cortex encodes the relational structure of abstract reinforcement learning problems, generalizing across different sensory exemplars of the same structure"
+    evidence: "RSA searchlight analysis showed strongest effect in right EC (p=0.005 small-volume corrected; p=0.01 Bonferroni-corrected for bilateral EC); representations for same relational structure (different stimuli) were more similar than those for different structures"
+    targets:
+      - path: wiki/brain_regions/entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "Direct finding about EC encoding relational structure in abstract RL tasks"
+      - path: wiki/behaviours/cognitive_map.md
+        section: "## Key evidence"
+        reason: "Extends cognitive map framework to non-spatial abstract domains"
+      - path: wiki/computational_frameworks/state_representation.md
+        section: "## Key evidence"
+        reason: "Evidence for abstract state representation in EC"
+    action: route
+
+  - fact_index: 1
+    claim: "vmPFC and ventral striatum encode prediction errors in structure-specific multivoxel patterns, suggesting structure-conditioned credit assignment"
+    evidence: "Multivoxel patterns of prediction error signals differed by relational structure in left vmPFC (p=0.014), right vmPFC (p=0.02), and ventral striatum (p=0.034); univariate PE signals were strong in both regions (vmPFC t(27)≈9.3-9.4, vStr t(27)=10.24)"
+    targets:
+      - path: wiki/brain_regions/ventromedial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "vmPFC prediction error patterns are structure-dependent"
+      - path: wiki/brain_regions/ventral_striatum.md
+        section: "## Key evidence"
+        reason: "Ventral striatum PE patterns are structure-dependent"
+      - path: wiki/computational_frameworks/reinforcement_learning.md
+        section: "## Key evidence"
+        reason: "Structure-conditioned prediction errors for credit assignment"
+    action: route
+
+  - fact_index: 2
+    claim: "Humans use relational structure in reinforcement learning tasks to generalize across sensory exemplars, as captured by a structure-aware model with cross-stimulus update terms"
+    evidence: "STRUCT model (modified delta-rule with cross-terms H_XY) significantly outperformed structure-naive NAIVE/Rescorla-Wagner model in cross-validation within-structure (t(27)=4.29, p=0.0002); fitted cross-terms confirmed correct use of +Corr/-Corr/0Corr structure (t(27)=13.06, p<10^-12)"
+    targets:
+      - path: wiki/behaviours/reinforcement_learning.md
+        section: "## Key evidence"
+        reason: "Behavioral evidence for structure-based generalization in human RL"
+      - path: wiki/behaviours/schema_learning.md
+        section: "## Key evidence"
+        reason: "Structure learning enables generalization across exemplars"
+    action: route
+
+  - fact_index: 3
+    claim: "The entorhinal cortex represents abstract task structure in a manner analogous to its representation of spatial structure during spatial remapping"
+    evidence: "EC representations preserved relational structure across different stimulus sets (same structure) but changed between different structures, mirroring how grid cells and place cells remap between environments while preserving spatial relationships; control showed visual stimulus identity encoded in lateral occipital cortex instead"
+    targets:
+      - path: wiki/brain_regions/entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "EC remapping in abstract non-spatial domains"
+      - path: wiki/behaviours/cognitive_map.md
+        section: "## Key evidence"
+        reason: "Cognitive map framework extends to abstract relational structures"
+      - path: wiki/brain_regions/hippocampus.md
+        section: "## Key evidence"
+        reason: "Hippocampal-entorhinal circuit for abstract structure representation"
+    action: route
+
+  - fact_index: 4
+    claim: "vmPFC exhibits a longer hemodynamic response function for prediction error signals compared to ventral striatum, peaking at approximately 8.5 seconds versus 6 seconds post-outcome"
+    evidence: "Univariate prediction error signal in vmPFC peaked at ~8.5 s post-outcome versus standard 6 s in ventral striatum; results held with adjusted HRF, suggesting region-specific hemodynamic dynamics or processing delays"
+    targets:
+      - path: wiki/brain_regions/ventromedial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Methodological finding about vmPFC HRF timing"
+      - path: wiki/methods/fmri.md
+        section: "## Key evidence"
+        reason: "Technical consideration for fMRI PE studies"
+    action: route
+
+  - fact_index: 5
+    claim: "Posterior cingulate cortex shows exploratory effects of prediction error by structure interaction, suggesting potential involvement in structure-sensitive learning signals"
+    evidence: "Exploratory whole-brain analysis revealed prediction error × structure interaction effects in posterior cingulate cortex alongside vmPFC and ventral striatum; region also known for grid-like coding and schema representations in other work"
+    targets:
+      - path: wiki/brain_regions/posterior_cingulate_cortex.md
+        section: "## Key evidence"
+        reason: "Exploratory finding of structure-sensitive PE signals"
+    action: route

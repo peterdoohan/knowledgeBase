@@ -1,0 +1,69 @@
+source_summary: raw/summaries/ormond2022_goal_oriented_vector_fields.md
+source_title: "Hippocampal place cells have goal-oriented vector fields during navigation"
+source_year: 2022
+facts:
+  - claim: "A subset of CA1 place cells (31.1%) fire as egocentric vector fields oriented toward goal-proximal 'convergence sinks' (ConSinks), forming a population-level navigational signal"
+    evidence: "142/456 CA1 cells showed significant ConSink tuning; mean preferred relative direction = -6.20° (not significantly different from 0°, i.e., cells fire when facing the sink)"
+    historical_context: "Introduced a new representational format for goal-directed navigation in hippocampus, shifting from pure place coding to vector-field representations"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, goal_directed_behaviour]
+      computational_frameworks: [vector_coding, cognitive_map]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "ConSink positions are distributed across the environment but are significantly denser near the goal than near an anti-goal control location"
+    evidence: "ConSinks significantly denser near goal than anti-goal (z = -4.92, p = 8.6 × 10⁻⁷); population vector fields converged to a population ConSink close to the goal for all five animals"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, goal_directed_behaviour]
+      computational_frameworks: [population_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "After a goal switch, ConSinks redistribute from the original goal to the new goal, with cells moving their ConSinks progressively closer to the new goal with continued training"
+    evidence: "Cells with ConSinks during both goal epochs (n = 28) moved their ConSinks significantly toward the new goal (Wilcoxon signed-rank, z = -2.48, p = 0.013); ConSinks moved progressively closer with continued training"
+    historical_context: "Demonstrated that ConSinks are dynamic, experience-dependent representations that reorganize faster than place-field remapping, suggesting partially dissociable plasticity mechanisms"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, learning, goal_directed_behaviour]
+      computational_frameworks: [cognitive_map]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "86.6% of ConSink cells significantly encode at least one of relative direction, distance, or allocentric direction to the sink; 57% encode combinations sufficient to calculate the full goal direction vector"
+    evidence: "123/142 ConSink cells encoded at least one variable; 57% encoded sufficient combinations for full vector calculation; linear-nonlinear Poisson nested models identified simplest significant variable combinations"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [vector_coding]
+      methods: [electrophysiology, computational_modeling]
+    confidence: high
+
+  - claim: "Population firing rate varies monotonically with angular deviation from the goal direction, forming a 'fantail' pattern that provides sufficient information to choose between any available pair of platforms"
+    evidence: "Fantail pattern observed in population firing rate; angular deviation from goal direction monotonically encoded; sufficient for binary choice decisions in honeycomb maze"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, decision_making]
+      computational_frameworks: [population_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Before error choices, goal-directed firing rates are significantly reduced and the fantail is rotated away from the goal, even before the animal knows which platforms will be offered"
+    evidence: "During both wait periods before error choices, goal-directed firing rates significantly reduced (z = 5.61, p = 1.97 × 10⁻⁸ for wait period 1); fantail rotated away from goal before choice options known"
+    historical_context: "Established that vector-field representation is a causal antecedent of spatial behavior rather than merely a correlate of movement, supporting a planning rather than purely motor account"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, decision_making, planning]
+      computational_frameworks: []
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "ConSink tuning is task-specific: only 13% of place cells show ConSink tuning during open-field foraging versus 31% during goal-directed navigation, and foraging ConSinks are not clustered around the navigation goal"
+    evidence: "13% ConSink cells during open-field foraging vs 31% during navigation; foraging ConSinks not clustered around navigation goal; population vector fields only converged to goal during navigation task"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, foraging]
+      computational_frameworks: [cognitive_map]
+      methods: [electrophysiology]
+    confidence: high

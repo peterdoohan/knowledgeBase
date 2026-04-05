@@ -1,0 +1,53 @@
+source_summary: raw/summaries/kaplan2018_active_inference_navigation.md
+source_title: "Planning and navigation as active inference"
+source_year: 2018
+facts:
+  - claim: "Active inference over Markov decision processes unifies epistemic exploration and pragmatic navigation through expected free energy minimization"
+    evidence: "Simulations showed epistemic foraging driven by novelty produces efficient exploration without requiring stochastic noise or explicit memory of visited locations"
+    topics:
+      brain_regions: [hippocampus, prefrontal_cortex]
+      behaviours: [spatial_navigation, planning, novelty_seeking]
+      computational_frameworks: [active_inference, bayesian_inference]
+      methods: []
+    confidence: medium
+    historical_context: "Extended active inference framework to spatial navigation and planning, dissolving the exploration-exploitation dilemma"
+
+  - claim: "Expected free energy decomposes into epistemic value (novelty/salience) and extrinsic/pragmatic value (goal-directed)"
+    evidence: "When combined, exploration is initially dominated by novelty until uncertainty is resolved, then goal-seeking takes over without explicit arbitration"
+    topics:
+      brain_regions: []
+      behaviours: [spatial_navigation, planning, novelty_seeking]
+      computational_frameworks: [active_inference, bayesian_inference]
+      methods: []
+    confidence: high
+    historical_context: "Formalized the decomposition of expected free energy that explains automatic exploration-exploitation transitions"
+
+  - claim: "Graph-Laplacian diffusion heuristic enables hierarchical planning with finite-horizon policies"
+    evidence: "Subgoal heuristic derived from graph-Laplacian based on reachability from target location led to near-optimal performance after ~16 seconds of exploration"
+    topics:
+      brain_regions: [prefrontal_cortex, hippocampus]
+      behaviours: [spatial_navigation, planning]
+      computational_frameworks: [active_inference, model_based_rl]
+      methods: []
+    confidence: medium
+    historical_context: "Introduced a specific tractable subgoal heuristic for active inference planning"
+
+  - claim: "Path cells represent a more general class of spatial representation than place cells"
+    evidence: "Process theory predicts a continuum between path cells (encoding hidden states at start of subpath) and place cells (encoding states at end of subpath)"
+    topics:
+      brain_regions: [hippocampus, entorhinal_cortex]
+      behaviours: [spatial_navigation, place_cells, cognitive_map]
+      computational_frameworks: [active_inference]
+      methods: []
+    confidence: medium
+    historical_context: "Proposed path cells as a generalization of place cells, with place cells as the limiting case"
+
+  - claim: "Simulated dopaminergic precision updates predict largest phasic responses at intermediate familiarity"
+    evidence: "Model predicts dopamine-like precision-update signals show largest phasic responses at intermediate, not maximal or minimal, familiarity stages"
+    topics:
+      brain_regions: [ventral_tegmental_area, ventral_striatum]
+      behaviours: [reward_processing]
+      computational_frameworks: [active_inference, reinforcement_learning]
+      methods: []
+    confidence: medium
+    historical_context: "Generated a counter-intuitive testable prediction about dopaminergic response dynamics"

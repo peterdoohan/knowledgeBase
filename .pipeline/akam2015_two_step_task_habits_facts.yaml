@@ -1,0 +1,70 @@
+source_summary: raw/summaries/akam2015_two_step_task_habits.md
+source_title: Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task
+source_year: 2015
+facts:
+  - claim: "Q(1) model-free agents can produce a spurious transition-outcome interaction in stay probability analysis on reduced two-step task variants, indistinguishable from model-based behaviour"
+    evidence: "Simulation of Q(1) agents on reduced task (80/20 transitions, block-based rewards) showed significant transition-outcome interaction due to correlations between trial-start action values and subsequent trial events"
+    historical_context: "Challenged the assumption that the two-step task's stay probability signature cleanly dissociates model-based from model-free strategies; revealed the analysis is vulnerable to statistical confounds in modified task variants"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making", "habitual_control", "goal_directed_behavior"]
+      computational_frameworks: ["reinforcement_learning", "model_free_rl", "temporal_difference_learning"]
+      methods: ["two_step_task", "computational_modeling", "simulation"]
+    confidence: high
+
+  - claim: "Higher stochasticity in the original two-step task design decorrelates trial-start action values from subsequent events, greatly reducing the spurious transition-outcome interaction in model-free agents"
+    evidence: "Q(1) agents showed only weak effect (P = 0.01) on original task with 70/30 common/rare transitions and drifting reward probabilities compared to strong effect on reduced task"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making"]
+      computational_frameworks: ["reinforcement_learning", "model_free_rl"]
+      methods: ["two_step_task", "task_design", "simulation"]
+    confidence: high
+
+  - claim: "Including a 'correct' predictor in logistic regression analysis eliminates the spurious transition-outcome interaction for model-free agents and serves as an effective correction"
+    evidence: "Extended logistic regression with 'correct' predictor (repeat choice that was correct on previous trial) validated as correction method; removes false model-based signature from Q(1) agents"
+    historical_context: "Provided a methodological refinement to the standard two-step task analysis, enabling more accurate classification of agent strategies"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making"]
+      computational_frameworks: ["reinforcement_learning", "model_free_rl"]
+      methods: ["two_step_task", "logistic_regression", "statistical_analysis"]
+    confidence: high
+
+  - claim: "Reward-as-cue agents that perform model-free RL over extended state representations can produce transition-outcome interactions indistinguishable from model-based behaviour by standard stay probability analysis"
+    evidence: "Agent using 4 states defined by previous outcome × second-step state learns fixed stimulus-response mapping producing strong transition-outcome interaction; only detectable via lagged regression showing no multi-trial integration"
+    historical_context: "Challenged the binary model-based vs model-free distinction by demonstrating that extended state representations in model-free agents can mimic planning behaviour"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making", "habitual_control"]
+      computational_frameworks: ["reinforcement_learning", "model_free_rl", "state_representation_learning"]
+      methods: ["two_step_task", "computational_modeling"]
+    confidence: high
+
+  - claim: "Latent-state agents that perform Bayesian inference over discrete world states can produce behaviour qualitatively identical to model-based agents on stay probability and lagged regression analyses"
+    evidence: "Bayesian agent with two latent world states and fixed state-action mapping showed identical patterns to model-based agent on both stay probability plots and lagged logistic regression"
+    historical_context: "Further eroded the model-based/model-free dichotomy by showing that inference over latent states without explicit forward planning can produce identical behavioural signatures"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making"]
+      computational_frameworks: ["reinforcement_learning", "bayesian_inference", "latent_state_inference", "model_based_rl"]
+      methods: ["two_step_task", "computational_modeling"]
+    confidence: high
+
+  - claim: "Latent-state and model-based agents can only be reliably discriminated by maximum likelihood model comparison on large datasets, with differences highly significant but quantitatively small"
+    evidence: "Model comparison required large datasets (10 sessions × 10,000 trials) to achieve significant discrimination (P < 10⁻⁵); differences between agent types were small in magnitude"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making"]
+      computational_frameworks: ["reinforcement_learning", "model_based_rl", "bayesian_inference", "model_comparison"]
+      methods: ["two_step_task", "maximum_likelihood", "model_fitting"]
+    confidence: high
+
+  - claim: "Extended-state model-free agents outperform classical model-free strategies in reward obtained, providing an incentive for their acquisition with extended training"
+    evidence: "Both reward-as-cue and latent-state agents achieved higher reward rates than Q(1) and Q(0) agents; this performance advantage provides a learning incentive for extended state representations"
+    topics:
+      brain_regions: []
+      behaviours: ["decision_making", "habitual_control"]
+      computational_frameworks: ["reinforcement_learning", "model_free_rl", "state_representation_learning"]
+      methods: ["two_step_task", "computational_modeling", "simulation"]
+    confidence: medium

@@ -1,0 +1,227 @@
+routing:
+  # Reznikova 2017 - Hunting behavior
+  - fact_index: 0
+    claim: "The striped field mouse exhibits efficient, stereotyped hunting behavior toward insects comparable to specialized insectivores"
+    targets:
+      - path: wiki/behaviours/hunting_behavior.md
+        section: "## Key evidence"
+        reason: "Direct finding about hunting behavior in rodents"
+    action: route
+
+  - fact_index: 1
+    claim: "Data compression ratios can quantify behavioral complexity and distinguish hunting strategies across species"
+    targets:
+      - path: wiki/computational_frameworks/Kolmogorov_complexity.md
+        section: "## Key evidence"
+        reason: "Methodological finding about compression-based behavioral analysis"
+      - path: wiki/methods/behavioral_sequence_analysis.md
+        section: "## Key evidence"
+        reason: "Applied method for behavioral sequence analysis"
+    action: route
+
+  # Leblond 2003 - Spinal locomotion
+  - fact_index: 2
+    claim: "Adult mice can spontaneously re-express coordinated hindlimb locomotion within 14 days of complete thoracic spinal cord transection without pharmacological treatment"
+    targets:
+      - path: wiki/brain_regions/spinal_cord.md
+        section: "## Key evidence"
+        reason: "Finding about spinal cord CPG function"
+      - path: wiki/behaviours/locomotion.md
+        section: "## Key evidence"
+        reason: "Finding about locomotor recovery"
+    action: route
+
+  - fact_index: 3
+    claim: "The mouse lumbar spinal cord contains a functional central pattern generator for locomotion that operates autonomously without supraspinal input"
+    targets:
+      - path: wiki/brain_regions/spinal_cord.md
+        section: "## Key evidence"
+        reason: "Central finding about spinal CPG"
+      - path: wiki/computational_frameworks/central_pattern_generator.md
+        section: "## Key evidence"
+        reason: "CPG computational framework"
+    action: route
+
+  # Otchy 2015 - Off-target effects
+  - fact_index: 4
+    claim: "Transient inactivations of brain areas can disrupt behavior by perturbing downstream circuit dynamics even when the targeted area is dispensable for the behavior"
+    targets:
+      - path: wiki/methods/optogenetics.md
+        section: "## Key evidence"
+        reason: "Critical finding for optogenetic interpretation"
+      - path: wiki/computational_frameworks/permissive_vs_instructive_roles.md
+        section: "## Key evidence"
+        reason: "Theoretical framework for circuit roles"
+    action: route
+
+  - fact_index: 5
+    claim: "Recovery from transient inactivation deficits occurs via homeostatic regulation rather than experience-dependent learning"
+    targets:
+      - path: wiki/computational_frameworks/homeostatic_plasticity.md
+        section: "## Key evidence"
+        reason: "Homeostatic recovery mechanism"
+      - path: wiki/behaviours/spontaneous_recovery.md
+        section: "## Key evidence"
+        reason: "Recovery dynamics after perturbation"
+    action: route
+
+  # Yang 2022 Pac-Man
+  - fact_index: 6
+    claim: "Macaque monkeys use compositional strategies and hierarchical decision-making with a 'take-the-best' heuristic to solve complex tasks"
+    targets:
+      - path: wiki/behaviours/decision_making.md
+        section: "## Key evidence"
+        reason: "Strategic decision-making in primates"
+      - path: wiki/computational_frameworks/hierarchical_rl.md
+        section: "## Key evidence"
+        reason: "Hierarchical RL framework"
+    action: route
+
+  - fact_index: 7
+    claim: "Monkeys predominantly use a single dominant strategy at each decision point rather than averaging multiple strategies"
+    targets:
+      - path: wiki/computational_frameworks/take_the_best_heuristic.md
+        section: "## Key evidence"
+        reason: "Take-the-best heuristic evidence"
+      - path: wiki/behaviours/decision_making.md
+        section: "## Key evidence"
+        reason: "Decision strategy selection"
+    action: route
+
+  # Yang 2022 Thalamus
+  - fact_index: 8
+    claim: "Thalamic inputs drive functionally distinct subnetworks in anterior lateral motor cortex with stronger impact on task selectivity than cortico-cortical inputs"
+    targets:
+      - path: wiki/brain_regions/thalamus.md
+        section: "## Key evidence"
+        reason: "Thalamic driving of cortical selectivity"
+      - path: wiki/brain_regions/anterior_lateral_motor_cortex.md
+        section: "## Key evidence"
+        reason: "ALM functional organization"
+    action: route
+
+  - fact_index: 9
+    claim: "ALM neurons exhibit organized prototypical response profiles contradicting randomly mixed selectivity"
+    targets:
+      - path: wiki/computational_frameworks/mixed_selectivity.md
+        section: "## Key evidence"
+        reason: "Challenge to random mixed selectivity view"
+      - path: wiki/brain_regions/anterior_lateral_motor_cortex.md
+        section: "## Key evidence"
+        reason: "ALM response organization"
+    action: route
+
+  # Kubska 2021
+  - fact_index: 10
+    claim: "Human medial temporal lobe contains concept cells encoding semantic concepts across sensory modalities"
+    targets:
+      - path: wiki/brain_regions/medial_temporal_lobe.md
+        section: "## Key evidence"
+        reason: "Concept cells in human MTL"
+      - path: wiki/behaviours/semantic_memory.md
+        section: "## Key evidence"
+        reason: "Semantic concept representation"
+    action: route
+
+  - fact_index: 11
+    claim: "Human working memory maintenance involves persistent activity in MTL concept cells and medial frontal maintenance neurons"
+    targets:
+      - path: wiki/behaviours/working_memory.md
+        section: "## Key evidence"
+        reason: "Persistent activity in human WM"
+      - path: wiki/brain_regions/medial_frontal_cortex.md
+        section: "## Key evidence"
+        reason: "Medial frontal WM maintenance"
+    action: route
+
+  # Redish 2016
+  - fact_index: 12
+    claim: "Vicarious trial and error reflects deliberative decision-making with hippocampal theta sequences representing future path options"
+    targets:
+      - path: wiki/behaviours/vicarious_trial_error.md
+        section: "## Key evidence"
+        reason: "VTE as deliberation marker"
+      - path: wiki/behaviours/hippocampal_theta_sequences.md
+        section: "## Key evidence"
+        reason: "Theta sequences in deliberation"
+    action: route
+
+  - fact_index: 13
+    claim: "Ventral striatum and orbitofrontal cortex provide differential reward signals during deliberation versus post-decision phases"
+    targets:
+      - path: wiki/brain_regions/ventral_striatum.md
+        section: "## Key evidence"
+        reason: "Pre-decision evaluative signals"
+      - path: wiki/brain_regions/orbitofrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Post-decision expectation signals"
+    action: route
+
+  # Samborska 2021
+  - fact_index: 14
+    claim: "Medial prefrontal cortex maintains abstract task structure representations while hippocampus represents sensorimotor-specific instantiations"
+    evidence: "PFC cellular modes generalized better across problems than CA1; PFC decoded abstract task state while CA1 decoded physical port"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, hippocampus, hippocampus_ca1]
+      behaviours: [abstraction, generalization, task_structure_learning]
+      computational_frameworks: [complementary_learning_systems, schema_theory, meta_learning]
+      methods: [representational_similarity_analysis, SVD, decoding]
+    confidence: high
+    historical_context: established
+
+  - fact_index: 15
+    claim: "Both PFC and hippocampus encode policy at multiple temporal scales but PFC representations generalize while hippocampal representations are context-specific"
+    evidence: "PFC policy representations generalized across problems for both choices; CA1 policy only generalized for same physical port"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, hippocampus_ca1]
+      behaviours: [policy_learning, reinforcement_learning]
+      computational_frameworks: [reinforcement_learning, hierarchical_rl]
+      methods: [policy_estimation, decoding]
+    confidence: high
+    historical_context: established
+
+  # Gridchyn 2020
+  - fact_index: 16
+    claim: "Closed-loop optogenetic disruption of content-specific hippocampal reactivation selectively impairs corresponding memories"
+    evidence: "Target-environment reactivation disrupted while control-environment spared; selective impairment confirmed by cofiring analysis (p<10^-4); other memories remained intact"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, prefrontal_cortex]
+      behaviours: [hippocampal_replay, memory_consolidation, selective_memory]
+      computational_frameworks: [content_specific_consolidation, memory_reactivation]
+      methods: [closed_loop_optogenetics, archaerhodopsin, bayesian_decoding, brain_machine_interface]
+    confidence: high
+    historical_context: established
+
+  - fact_index: 17
+    claim: "Place maps destabilized by targeted replay disruption can re-emerge after relearning, suggesting replay consolidates map-context associations"
+    evidence: "Place field similarity lower at probe (p<0.0056) and first post-learning trial (p<0.027); recovered to baseline by trials 6-10 (p>0.34)"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, prefrontal_cortex]
+      behaviours: [memory_consolidation, place_map_stability, spatial_memory]
+      computational_frameworks: [context_binding, memory_reactivation]
+      methods: [place_field_analysis]
+    confidence: high
+    historical_context: established
+
+  # Schmidt 2021
+  - fact_index: 18
+    claim: "Disrupting medial prefrontal cortex with inhibitory DREADDs impairs post-learning hippocampal sharp-wave ripple rates"
+    evidence: "SWR rate increase from pre-maze to post-maze rest significantly reduced on CNO days (RM-ANOVA: F(1,49)=8.36, p=0.0057; interaction F(1,49)=10.9, p=0.0018)"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prelimbic_cortex, hippocampus, hippocampus_ca1]
+      behaviours: [memory_consolidation, sharp_wave_ripples]
+      computational_frameworks: [hippocampal_prefrontal_interaction]
+      methods: [DREADDs, CNO, LFP_recordings, SWR_detection]
+    confidence: high
+    historical_context: established
+
+  - fact_index: 19
+    claim: "mPFC disruption specifically affects consolidation-related SWRs while sparing on-maze SWRs during decision-making"
+    evidence: "On-maze SWR rates during Waiting and Lingering epochs showed no effect of CNO (F(1,49)=1.62, p=0.21); post-learning SWRs specifically impaired"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, hippocampus]
+      behaviours: [memory_consolidation, decision_making, sharp_wave_ripples]
+      computational_frameworks: [hippocampal_prefrontal_interaction, consolidation_vs_planning]
+      methods: [DREADDs, behavioral_analysis]
+    confidence: high
+    historical_context: established

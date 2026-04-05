@@ -1,0 +1,23 @@
+source_summary: raw/summaries/behrens2007_learning_value_information_uncertain.md
+source_title: "Learning the value of information in an uncertain world"
+source_year: 2007
+facts:
+  - claim: "Both estimated volatility and posterior variance on reward rate independently contribute to ACC BOLD signal"
+    evidence: "When volatility and posterior variance included together in fMRI model, each survived the inclusion of the other"
+    topics:
+      brain_regions: [anterior_cingulate_cortex]
+      behaviours: [reinforcement_learning, decision_making]
+      computational_frameworks: [bayesian_inference]
+      methods: [fmri]
+    confidence: medium
+    historical_context: "Suggested ACC tracks both expected uncertainty (posterior variance) and unexpected uncertainty (volatility changes)"
+
+  - claim: "Ventral striatum BOLD signals reflect expected reward probability during decision intervals"
+    evidence: "Focal VTA activation and ventral striatum signals reflected expected reward probability during interval phase, consistent with dopaminergic prediction signals"
+    topics:
+      brain_regions: [ventral_striatum, ventral_tegmental_area]
+      behaviours: [decision_making, reward_processing]
+      computational_frameworks: [reinforcement_learning]
+      methods: [fmri]
+    confidence: medium
+    historical_context: "Replicated classic dopaminergic prediction signals in ventral striatum during decision-making"

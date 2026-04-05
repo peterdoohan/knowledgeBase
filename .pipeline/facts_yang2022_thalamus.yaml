@@ -1,0 +1,53 @@
+source_summary: raw/summaries/yang2022_thalamus_frontal_decision.md
+source_title: "Thalamus-driven functional populations in frontal cortex support decision-making"
+source_year: 2022
+facts:
+  - claim: "Thalamic inputs drive functionally distinct subnetworks within mouse anterior lateral motor cortex (ALM) that encode stimulus, choice, and action during tactile decision-making"
+    evidence: "20,046 neurons recorded; thalamic inputs have stronger impact on task selectivity than cortico-cortical inputs; photoinhibition of thalamus abolishes task selectivity"
+    topics:
+      brain_regions: [thalamus, anterior_lateral_motor_cortex, ALM, somatosensory_cortex, motor_cortex]
+      behaviours: [decision_making, tactile_discrimination, working_memory]
+      computational_frameworks: [population_coding, mixed_selectivity, activity_modes]
+      methods: [optogenetics, silicon_probe_recordings, clustering_analysis]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "ALM neurons exhibit organized, repeatable prototypical response profiles rather than randomly mixed selectivity"
+    evidence: "94 prototypical response profiles identified via t-SNE and density peak clustering; consistent across mice and datasets; ePAIRS test confirmed non-uniform distribution"
+    topics:
+      brain_regions: [anterior_lateral_motor_cortex, ALM, prefrontal_cortex]
+      behaviours: [decision_making]
+      computational_frameworks: [mixed_selectivity, population_coding, attractor_networks]
+      methods: [clustering_analysis, dimensionality_reduction]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Stimulus, choice, and action are encoded by distinct but partially overlapping functional populations in ALM that can be delineated by response profiles"
+    evidence: "k-means clustering on activity mode weights revealed distinct functional populations; neurons with similar profiles exhibit significant trial-to-trial noise correlation suggesting subnetworks"
+    topics:
+      brain_regions: [anterior_lateral_motor_cortex, ALM]
+      behaviours: [decision_making, action_selection]
+      computational_frameworks: [population_coding, mixed_selectivity, neural_manifold]
+      methods: [clustering_analysis, noise_correlation_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Thalamic inputs are required for maintaining stimulus information, choice selectivity, and action-related activity in ALM"
+    evidence: "Photoinhibition of thalamus (ThalALM) abolished task selectivity even in neurons with unchanged spike rates; stimulus information persisted after S1/S2 inactivation but not thalamic inactivation"
+    topics:
+      brain_regions: [thalamus, anterior_lateral_motor_cortex, ALM, somatosensory_cortex]
+      behaviours: [decision_making, tactile_discrimination]
+      computational_frameworks: [thalamocortical_loop]
+      methods: [optogenetics, photoinhibition]
+    confidence: high
+    historical_context: established
+
+  - claim: "Choice and ramping signals share the same neuronal population in ALM, supporting models where ramping plays a permissive role for choice development"
+    evidence: "Activity mode analysis revealed choice and ramping modes share neuronal population; ramping signals appear to originate outside thalamocortical loop but transmitted through thalamus"
+    topics:
+      brain_regions: [anterior_lateral_motor_cortex, ALM, thalamus]
+      behaviours: [decision_making, working_memory]
+      computational_frameworks: [ramping_signals, urgency_signals]
+      methods: [activity_mode_analysis]
+    confidence: medium
+    historical_context: established

@@ -1,0 +1,63 @@
+source_summary: raw/summaries/akam2022_pycontrol_behavioral_experiments.md
+source_title: "Open-source, Python-based, hardware and software for controlling behavioural neuroscience experiments"
+source_year: 2022
+facts:
+  - claim: "pyControl achieves sub-millisecond response latencies (556 ± 17 μs under low load, 859 ± 241 μs under high load) with 99.6% of latencies under 2 ms"
+    evidence: "Measured with PicoScope 2204A USB oscilloscope at 50 kHz; high load defined as two analog inputs at 1 kHz plus two Poisson digital inputs at 200 Hz average rate"
+    historical_context: "Introduced"
+    topics:
+      brain_regions: []
+      behaviours: []
+      computational_frameworks: []
+      methods: [pycontrol, behavioral_control_systems, microcontroller]
+    confidence: high
+
+  - claim: "pyControl provides millisecond-level timing accuracy with errors approximately uniformly distributed across the 1 ms clock resolution"
+    evidence: "Under low load: mean −220 μs, SD 282 μs; under high load: mean −10 μs, SD 353 μs with 99.5% of errors < 1 ms and maximum error 1.9 ms"
+    historical_context: "Introduced"
+    topics:
+      brain_regions: []
+      behaviours: []
+      computational_frameworks: []
+      methods: [pycontrol, behavioral_control_systems, timing_accuracy]
+    confidence: high
+
+  - claim: "pyControl implements a task definition framework based on extended finite state machines running directly on MicroPython-enabled microcontrollers"
+    evidence: "Tasks defined as states, events, state-behaviour functions, and timers with arbitrary MicroPython code within state functions; runs on pyboard microcontroller (Arm Cortex M4, 168 MHz, 192 KB RAM)"
+    historical_context: "Introduced"
+    topics:
+      brain_regions: []
+      behaviours: []
+      computational_frameworks: [extended_finite_state_machine]
+      methods: [pycontrol, micropython, behavioral_control_systems, state_machine]
+    confidence: high
+
+  - claim: "pyControl supports high-throughput behavioral testing with up to 24 parallel setups confirmed running from a single computer"
+    evidence: "GUI built in PyQt for configuring and running parallel experiments; 24 setups run without issue (maximum not systematically characterized)"
+    historical_context: "Introduced"
+    topics:
+      brain_regions: []
+      behaviours: []
+      computational_frameworks: []
+      methods: [pycontrol, high_throughput_behavioral_testing, behavioral_control_systems]
+    confidence: high
+
+  - claim: "pyControl's implementation of the 5-Choice Serial Reaction Time Task replicates established pharmacological effects of atomoxetine"
+    evidence: "Atomoxetine (2 mg/kg i.p.) reduced premature responding and increased attentional accuracy (p<0.05, paired t-tests); attention challenges reduced accuracy and increased omissions, impulsivity challenges increased premature responses"
+    historical_context: "Refined"
+    topics:
+      brain_regions: []
+      behaviours: [sustained_attention, impulsivity, five_choice_serial_reaction_time_task]
+      computational_frameworks: []
+      methods: [pycontrol, behavioral_control_systems, pharmacological_validation]
+    confidence: high
+
+  - claim: "MicroPython's automatic garbage collection in pyControl can introduce brief pauses that affect digital input processing when multiple edges occur during a single garbage collection episode"
+    evidence: "Only the last edge is processed when multiple edges arrive on a single digital input during garbage collection; timers that elapse during garbage collection are processed immediately afterwards with correct timestamps"
+    historical_context: "Introduced"
+    topics:
+      brain_regions: []
+      behaviours: []
+      computational_frameworks: []
+      methods: [pycontrol, micropython, garbage_collection, timing_limitations]
+    confidence: high

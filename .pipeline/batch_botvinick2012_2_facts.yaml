@@ -1,0 +1,33 @@
+source_summary: raw/summaries/botvinick2012_planning_inference.md
+source_title: "Planning as inference"
+source_year: 2012
+facts:
+  - claim: "Planning-as-inference framework unifies planning with Bayesian accounts of perception, motor control, and cognition"
+    evidence: "PAI recasts planning as probabilistic inference over generative models, suggesting the brain reuses domain-general inference machinery rather than specialized planning mechanisms"
+    topics:
+      brain_regions: []
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl]
+      methods: []
+    confidence: high
+    historical_context: "Unified planning with broader Bayesian brain framework, dissolving the need for separate planning mechanisms"
+
+  - claim: "PAI extends naturally to partially observable MDPs via belief-state representations"
+    evidence: "Framework accommodates POMDPs through belief states representing posterior distributions over hidden states"
+    topics:
+      brain_regions: []
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl]
+      methods: []
+    confidence: high
+    historical_context: "Extended planning-as-inference to partially observable environments"
+
+  - claim: "Sampling-based approximations to PAI provide a potential account of bounded rationality and capacity-limited planning"
+    evidence: "Approximate inference through sampling offers tractable solutions for large state spaces with limited computational resources"
+    topics:
+      brain_regions: []
+      behaviours: [planning, decision_making]
+      computational_frameworks: [bayesian_inference, model_based_rl]
+      methods: []
+    confidence: medium
+    historical_context: "Proposed sampling approximations as mechanism for bounded rationality in planning"

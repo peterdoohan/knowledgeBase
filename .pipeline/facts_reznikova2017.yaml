@@ -1,0 +1,53 @@
+source_summary: raw/summaries/reznikova2017_hunting_behavior_mouse.md
+source_title: "Studying hunting behaviour in the striped field mouse using data compression"
+source_year: 2017
+facts:
+  - claim: "The striped field mouse (Apodemus agrarius) exhibits efficient, stereotyped hunting behavior toward insects comparable to specialized insectivores"
+    evidence: "65% of mice displayed complete hunting stereotypes with 86% key behavioral elements, comparable to 100% of shrews and higher than 52% of rats"
+    topics:
+      brain_regions: []
+      behaviours: [hunting_behavior, predatory_behavior]
+      computational_frameworks: [Kolmogorov_complexity, data_compression]
+      methods: [ethogram_analysis, behavioral_sequence_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Data compression ratios can quantify behavioral complexity and distinguish hunting strategies across species"
+    evidence: "Compression ratios: mice 0.596, shrews 0.59, rats 0.631; mice and shrews differed significantly from rats but not from each other"
+    topics:
+      brain_regions: []
+      behaviours: [hunting_behavior, behavioral_complexity]
+      computational_frameworks: [Kolmogorov_complexity, data_compression, information_theory]
+      methods: [ethogram_analysis, behavioral_sequence_analysis, compression_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Efficient hunting relies on streamlined, predictable action sequences rather than behavioral flexibility"
+    evidence: "Strong negative correlation between compression ratio and proportion of key elements (r = -0.693, P < 0.01); mice had 86% key elements vs 66.7% in rats"
+    topics:
+      brain_regions: []
+      behaviours: [hunting_behavior, behavioral_stereotypy, action_sequences]
+      computational_frameworks: []
+      methods: [behavioral_sequence_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Granivorous rodents can possess sophisticated hunting capabilities comparable to specialized insectivores despite lacking morphological specializations for predation"
+    evidence: "Striped field mice showed hunting efficiency of 0.36 ants/minute in prior work, rivaling specialized predators; 65% success rate in complete hunting stereotypes"
+    topics:
+      brain_regions: []
+      behaviours: [hunting_behavior, predatory_behavior, foraging_ecology]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Behavioral complexity quantified via compression ratios reflects genuine differences in behavioral strategy rather than mere noise"
+    evidence: "Compression ratios correlated with proportion of key elements (r = -0.693), bite proportion (r = -0.676), and noise elements (r = 0.780), all P < 0.01"
+    topics:
+      brain_regions: []
+      behaviours: [behavioral_complexity]
+      computational_frameworks: [Kolmogorov_complexity, data_compression]
+      methods: [ethogram_analysis, compression_analysis]
+    confidence: high
+    historical_context: established

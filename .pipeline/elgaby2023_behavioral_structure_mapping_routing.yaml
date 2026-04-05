@@ -1,0 +1,87 @@
+source_summary: raw/summaries/elgaby2023_behavioral_structure_mapping.md
+source_title: A Cellular Basis for Mapping Behavioural Structure
+source_year: 2023
+routing:
+  - fact_index: 0
+    claim: "Neurons in the medial frontal cortex (mFC) are organized into modular ring attractor structures that encode behavioral sequences through goal-progress tuning"
+    evidence: "Pairwise coherence analysis and hierarchical clustering revealed mFC neurons form modules with preserved within-module state-tuning relationships across task instances (silhouette scores significantly above permuted controls, Wilcoxon, N=24 days, P=0.003)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Direct finding about modular ring attractor organization in mFC"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Behavioral implications of goal-progress tuned ring attractors"
+      - path: wiki/computational_frameworks/attractor_networks.md
+        section: "## Key evidence"
+        reason: "Ring attractor dynamics in behavioral sequence encoding"
+    action: route
+
+  - fact_index: 1
+    claim: "Goal-progress tuning is the dominant signal in mFC, with 80% of neurons tuned to fractional progress between consecutive goals independent of specific locations or trajectories"
+    evidence: "GLM analysis showed 80% of mFC neurons were significantly tuned to goal-progress (one-sample t-test vs. 0, N=1438, P=2.71×10⁻⁸²), with tuning independent of elapsed time, physical distance, speed, and acceleration"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Dominant neural signal in mFC is goal-progress tuning"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Neural basis of goal-directed behavior tracking"
+    action: route
+
+  - fact_index: 2
+    claim: "State tuning in mFC does not generalize across tasks but is anchored to specific goal-progress/place conjunctions, contradicting the associative binding model"
+    evidence: "State-tuning angles shifted across distinct tasks (proportion generalising = 20%, below chance of 25%; z=9.04, P<0.001), while state preferences were highly conserved across repeated sessions of the same task (87% stable, P<0.001)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "State tuning remapping evidence contradicting associative binding"
+      - wiki/behaviours/schema_learning.md
+        section: "## Key evidence"
+        reason: "Implications for schema learning and task structure transfer"
+    action: route
+
+  - fact_index: 3
+    claim: "mFC neurons form mnemonic fields at fixed task-space lags from specific goal-progress/place anchors, enabling distal behavioral prediction"
+    evidence: "Three convergent cross-validation analyses confirmed state-tuned neurons fire at fixed lags in task-space from specific anchors (t-tests against 0, all P<0.001), and neuronal activity at 'bump time' predicted the animal's choice to visit the anchor on the following trial (regression coefficient significantly positive, P=0.017)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Mnemonic fields and distal prediction mechanism"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Distal behavioral prediction from neural activity"
+      - path: wiki/computational_frameworks/attractor_networks.md
+        section: "## Key evidence"
+        reason: "Ring attractor dynamics for sequence prediction"
+    action: route
+
+  - fact_index: 4
+    claim: "Sleep co-activity in mFC shows ring-shaped offline organization consistent with the Structured Memory Buffer model"
+    evidence: "During sleep, co-anchored neuron pairs closer in circular task-space showed greater co-activity (regression coefficient for circular distance significantly negative, t=-1.656, P=0.049), with ring structure present in both pre- and post-task sleep"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Offline ring organization in mFC during sleep"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Sleep co-activity and memory consolidation mechanisms"
+      - path: wiki/computational_frameworks/attractor_networks.md
+        section: "## Key evidence"
+        reason: "Ring attractor organization during offline periods"
+    action: route
+
+  - fact_index: 5
+    claim: "Experienced mice demonstrate zero-shot transfer of abstract task structure to new scenarios on the first trial"
+    evidence: "Mice performing late tasks took the most direct d→a path on the very first trial of new tasks significantly above chance (Wilcoxon, P=0.009), with first-trial performance improving across tasks (one-way repeated-measures ANOVA, F=3.10, P=0.010)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Zero-shot transfer mechanism in mFC"
+      - path: wiki/behaviours/schema_learning.md
+        section: "## Key evidence"
+        reason: "Abstract task structure transfer without new learning"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Zero-shot generalization of goal-directed behavior"
+    action: route

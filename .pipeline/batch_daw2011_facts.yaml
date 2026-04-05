@@ -1,0 +1,53 @@
+source_summary: raw/summaries/daw2011_model_based_striatal_prediction.md
+source_title: "Model-Based Influences on Humans' Choices and Striatal Prediction Errors"
+source_year: 2011
+facts:
+  - claim: "Ventral striatal BOLD signals encode a mixture of model-free and model-based reward prediction errors, not purely model-free signals"
+    evidence: "Ventral striatum showed significant BOLD correlations with both model-free RPE regressor (p<0.001) and model-based difference regressor (p<0.005), with conjunction surviving correction"
+    topics:
+      brain_regions: [ventral_striatum, ventromedial_prefrontal_cortex]
+      behaviours: [decision_making, reinforcement_learning]
+      computational_frameworks: [model_based_rl, model_free_rl, reinforcement_learning, temporal_difference_learning]
+      methods: [fmri]
+    confidence: high
+    historical_context: "First direct evidence that striatal BOLD signal encodes both model-free and model-based valuations, challenging the assumption of system isolation"
+
+  - claim: "The neural model-based weighting in ventral striatum correlates with behavioral model-based weighting across subjects"
+    evidence: "Neural estimate of model-based weighting in right ventral striatum correlated with behavioral estimate (r²=0.28, p=0.027)"
+    topics:
+      brain_regions: [ventral_striatum]
+      behaviours: [decision_making, reinforcement_learning]
+      computational_frameworks: [model_based_rl, model_free_rl]
+      methods: [fmri]
+    confidence: high
+    historical_context: "Demonstrated consistency between neural and behavioral mixture proportions, supporting genuine model-based influence on striatal signals"
+
+  - claim: "Human behavior shows significant model-based influences inconsistent with pure model-free learning"
+    evidence: "Behavior showed significant reward × transition-type interaction (p<5e-5), rejecting pure model-free account; ~10/17 subjects showed positive interaction"
+    topics:
+      brain_regions: []
+      behaviours: [decision_making, reinforcement_learning]
+      computational_frameworks: [model_based_rl, model_free_rl]
+      methods: []
+    confidence: high
+    historical_context: "Established behavioral signature of model-based control in the two-step task paradigm"
+
+  - claim: "Hybrid model combining model-based and model-free learning is strongly preferred over either alone"
+    evidence: "Hybrid model showed Bayesian exceedance probability of 92%; median model-free weight 61%, model-based weight 39%; both significantly different from 0 and 100%"
+    topics:
+      brain_regions: []
+      behaviours: [decision_making, reinforcement_learning]
+      computational_frameworks: [model_based_rl, model_free_rl, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Validated the hybrid RL architecture as the best account of human choice behavior"
+
+  - claim: "Anticipatory striatal BOLD activity mirrors behavioral model-based influence"
+    evidence: "Factorial analysis of anticipatory striatal BOLD showed reward × transition-type interaction that correlated with behavioral model-based weight (r²=0.32, p=0.017)"
+    topics:
+      brain_regions: [ventral_striatum]
+      behaviours: [decision_making, reinforcement_learning]
+      computational_frameworks: [model_based_rl, model_free_rl]
+      methods: [fmri]
+    confidence: high
+    historical_context: "Replicated model-based striatal effects using independent factorial analysis"

@@ -1,0 +1,53 @@
+source_summary: raw/summaries/stoianov2020_hierarchical_generative_model.md
+source_title: The hippocampal formation as a hierarchical generative model supporting generative replay and continual learning
+source_year: 2020
+facts:
+  - claim: "The hippocampal formation functions as a hierarchical generative model with three levels: items (place cells), sequences (temporal trajectories), and maps (spatial contexts)"
+    evidence: "The model architecture organizes experiences hierarchically with Layer 1 for individual observations (items/place cells), Layer 2 for temporal sequences, and Layer 3 for mutually exclusive spatial contexts (cognitive maps); reduced models lacking sequence layers or single-cluster capability showed significantly degraded performance (all p<0.001)"
+    historical_context: "Recharacterized hippocampal function from a static memory buffer to a hierarchical generative model that organizes sequential experiences into coherent spatiotemporal contexts"
+    topics:
+      brain_regions: [hippocampus, entorhinal_cortex, hippocampal_formation]
+      behaviours: [spatial_navigation, memory_consolidation, cognitive_map]
+      computational_frameworks: [bayesian_inference, active_inference]
+      methods: [computational_modeling]
+    confidence: high
+
+  - claim: "Generative replay from the learned model enables effective continual learning without catastrophic forgetting, outperforming experience replay in nonparametric settings"
+    evidence: "Generative replay and prioritized generative replay agents significantly outperformed baseline (t=3.47, p=0.002 and t=4.18, p<0.001) and showed no difference from ideal experience replay; in nonparametric settings with unknown cluster numbers, generative replay outperformed both baseline and experience replay (p<0.001)"
+    historical_context: "Proposed generative replay as a biologically plausible alternative to verbatim experience replay, explaining how hippocampal sequences can generate novel trajectories while preventing catastrophic forgetting"
+    topics:
+      brain_regions: [hippocampus, hippocampal_formation]
+      behaviours: [memory_consolidation, hippocampal_replay]
+      computational_frameworks: [bayesian_inference, active_inference]
+      methods: [computational_modeling]
+    confidence: high
+
+  - claim: "Internally generated hippocampal sequences follow Brownian diffusion statistics distinct from directed navigation, consistent with generative model sampling"
+    evidence: "Log-log regression showed replay trajectories followed power-law diffusion (alpha=0.46, s.d.=0.031) consistent with empirical findings (Stella et al., 2019), while navigation showed directed motion (alpha=0.75); replayed trajectories differed by 35% from most similar experienced trajectories and included 8.6 novel locations never visited"
+    historical_context: "Explained the puzzling Brownian diffusion statistics of hippocampal replay as a natural consequence of generative model sampling rather than verbatim memory retrieval"
+    topics:
+      brain_regions: [hippocampus, hippocampal_formation]
+      behaviours: [hippocampal_replay, spatial_navigation, memory_consolidation]
+      computational_frameworks: [bayesian_inference]
+      methods: [computational_modeling]
+    confidence: high
+
+  - claim: "Pre-run dynamics predict post-run replay more strongly than post-run predicts run, supporting generative model-based preplay"
+    evidence: "Rank-order correlation analysis showed pre-run (preplay) and post-run (replay) activity were more strongly correlated (r=0.66) than post-run and run activity (r=0.36, t=17.05, p<0.001), matching empirical findings (Liu et al., 2019)"
+    historical_context: "Provided a mechanistic account for preplay-replay correlations by showing they arise naturally from generative model dynamics rather than requiring separate storage mechanisms"
+    topics:
+      brain_regions: [hippocampus, hippocampal_formation, prefrontal_cortex]
+      behaviours: [hippocampal_replay, forward_replay, memory_consolidation]
+      computational_frameworks: [bayesian_inference]
+      methods: [computational_modeling]
+    confidence: high
+
+  - claim: "Run-post-run correlations decrease over learning while pre-run-post-run correlations remain stable, a novel prediction of the generative model"
+    evidence: "A novel prediction of the model - run-post-run correlations decreased linearly across blocks (beta=-0.05, t=-3.9, p<0.001) while pre-run-post-run correlations remained stable (beta=0.02, n.s.)"
+    historical_context: "Generated a novel empirical prediction distinguishing generative replay from experience replay that had not been previously tested"
+    topics:
+      brain_regions: [hippocampus, hippocampal_formation]
+      behaviours: [hippocampal_replay, memory_consolidation]
+      computational_frameworks: [bayesian_inference]
+      methods: [computational_modeling]
+    confidence: high

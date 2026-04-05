@@ -1,0 +1,70 @@
+source_summary: raw/summaries/ouchi2024_predictive_grid_coding.md
+source_title: "Predictive grid coding in the medial entorhinal cortex"
+source_year: 2024
+facts:
+  - claim: "A distinct population of medial entorhinal cortex neurons, termed predictive grid cells, have grid firing fields shifted ahead of the animal's current position, encoding future locations"
+    evidence: "305 predictive grid cells identified across 6 rats; maximum gridness at mean forward shift of 22.5 ± 10.2 cm (~0.27 of grid spacing, roughly one-quarter of grid spacing)"
+    historical_context: "Introduced a new functional subtype of grid cells dedicated to prospective spatial coding, distinct from cells encoding current position"
+    topics:
+      brain_regions: [medial_entorhinal_cortex]
+      behaviours: [spatial_navigation, planning]
+      computational_frameworks: [predictive_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Predictive grid cells fire at the trough (~180°) of CA1 theta oscillations, opposite to phase-locked grid cells and distinct from phase-precessing cells"
+    evidence: "Theta phase analysis showed predictive grid cells phase-locked to trough (~180°); phase-locked cells fired at opposite phase; phase-precessing cells showed different phase relationships"
+    topics:
+      brain_regions: [medial_entorhinal_cortex, hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [theta_oscillations, phase_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Predictive grid cells are predominantly located in MEC layer 3; phase-precessing cells in layer 2; phase-locked cells in layer 3 with opposite phase preference"
+    evidence: "Laminar analysis showed predictive grid cells concentrated in layer 3; phase-precessing cells in layer 2; phase-locked cells also in layer 3 but with opposite theta phase preference"
+    historical_context: "Provided functional segregation of grid cell subtypes across MEC layers, supporting the dual-input model of CA1 sequence generation"
+    topics:
+      brain_regions: [medial_entorhinal_cortex, hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [layer_specificity, circuit_organization]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Bayesian decoding using predictive, phase-precessing, and phase-locked cells together reveals theta sequences sweeping from current to future positions across each theta cycle"
+    evidence: "Decoding showed position sweep from current to future across theta cycle; removing predictive grid cell spikes significantly reduced representation of future positions during descending theta phases"
+    historical_context: "Demonstrated that MEC predictive grid cells contribute directly to organizing CA1 theta sequences, providing feedforward predictive drive to hippocampus"
+    topics:
+      brain_regions: [medial_entorhinal_cortex, hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, planning]
+      computational_frameworks: [theta_sequences, bayesian_decoding, predictive_coding]
+      methods: [electrophysiology, computational_modeling]
+    confidence: high
+
+  - claim: "Disrupting spike synchronisation within theta cycles abolishes future-position representation, implicating coordinated assembly activity rather than single-cell coding"
+    evidence: "Synchrony disruption specifically abolished future-position representation while preserving current-position coding; implicates coordinated population activity for predictive coding"
+    topics:
+      brain_regions: [medial_entorhinal_cortex, hippocampus]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [population_coding, neural_synchrony]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Cross-correlogram analysis shows increased functional connectivity from predictive grid cells to CA1 place cells when the grid field precedes the place field, suggesting directional spike transmission"
+    evidence: "CCG analysis showed predictive grid cell firing leads CA1 place cell activity when grid field spatially precedes place field; consistent with feedforward predictive drive from MEC to hippocampus"
+    topics:
+      brain_regions: [medial_entorhinal_cortex, hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation]
+      computational_frameworks: [functional_connectivity]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Predictive coding properties are preserved across goal-directed and random-foraging tasks, with grid spacing rescaling but position-shift bias and phase preferences maintained"
+    evidence: "Interleaved goal-directed and random-foraging tasks showed preserved predictive coding properties; grid spacing rescaled with environment but forward shift and theta phase preferences unchanged"
+    historical_context: "Generalized predictive grid coding beyond goal-directed contexts, suggesting it is a fundamental property of MEC spatial representation rather than task-specific coding"
+    topics:
+      brain_regions: [medial_entorhinal_cortex]
+      behaviours: [spatial_navigation, foraging]
+      computational_frameworks: [predictive_coding]
+      methods: [electrophysiology]
+    confidence: high

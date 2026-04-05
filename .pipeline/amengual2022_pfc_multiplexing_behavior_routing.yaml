@@ -1,0 +1,95 @@
+source_summary: raw/summaries/amengual2022_pfc_multiplexing_behavior.md
+source_title: "The cost of multiplexing: PFC integrates multiple sources of information in non-orthogonal components accounting for behavioral variability"
+source_year: 2022
+routing:
+  - fact_index: 0
+    claim: "FEF neural populations simultaneously encode at least four parameters (spatial position, cue-to-target onset asynchrony/CTOA, attentional focus/TA, and reaction time/RT) through mixed-selectivity coding"
+    evidence: "72% of recorded FEF neurons showed mixed selectivity (tuned to more than one parameter), with only 27.2% tuned to a single parameter; dPCA variance partitioning showed trial progression 46%, RT 22%, CTOA 17%, TA 16%"
+    targets:
+      - path: wiki/brain_regions/frontal_eye_field.md
+        section: "## Key evidence"
+        reason: "Direct finding about FEF multiplexing of multiple task parameters"
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "FEF is part of PFC; findings inform broader PFC mixed-selectivity debate"
+      - path: wiki/computational_frameworks/mixed_selectivity.md
+        section: "## Key evidence"
+        reason: "Quantifies mixed selectivity prevalence in FEF and its geometric structure"
+    action: route
+
+  - fact_index: 1
+    claim: "CTOA (temporal expectation) is encoded in two distinct low-dimensional components with different neural profiles — one linear and one inverted-U shaped"
+    evidence: "dPCA captured CTOA variance in two orthogonal components: one with linear activation profile (R² = 0.98 at trial level) correlating with RT, and one with inverted-U profile (R² = 0.97) correlating with TA"
+    targets:
+      - path: wiki/brain_regions/frontal_eye_field.md
+        section: "## Key evidence"
+        reason: "Direct finding about FEF encoding of temporal expectation"
+      - path: wiki/behaviours/temporal_expectation.md
+        section: "## Key evidence"
+        reason: "Finding about how temporal expectation is neurally encoded in low-dimensional components"
+      - path: wiki/computational_frameworks/neural_manifold.md
+        section: "## Key evidence"
+        reason: "Demonstrates multiple distinct components for a single parameter within manifold"
+    action: route
+
+  - fact_index: 2
+    claim: "The CTOA-encoding components are non-orthogonal to both RT and TA components, creating representational overlap that predicts behavioral interactions"
+    evidence: "dPCA angular analysis showed CTOA components were significantly non-orthogonal to both RT and TA components; activation of first CTOA dPC correlated with RT across sessions (R² = 0.79), second CTOA dPC correlated with TA (R² = 0.49)"
+    historical_context: "Challenged the prevailing assumption that mixed-selectivity cells would tend to implement orthogonal representations when possible; showed non-orthogonality is a structured coding strategy rather than a deficiency"
+    targets:
+      - path: wiki/brain_regions/frontal_eye_field.md
+        section: "## Key evidence"
+        reason: "Direct finding about non-orthogonal geometry in FEF"
+      - path: wiki/computational_frameworks/mixed_selectivity.md
+        section: "## Key evidence"
+        reason: "Key finding about non-orthogonality as a coding strategy"
+      - path: wiki/computational_frameworks/neural_manifold.md
+        section: "## Key evidence"
+        reason: "Finding about population geometry and component angles"
+    action: route
+
+  - fact_index: 3
+    claim: "RT and TA components remain orthogonal to each other, preserving independent decodability despite the non-orthogonal overlap with CTOA components"
+    evidence: "dPCA simultaneous analysis across all parameters showed RT and TA components were orthogonal to each other (unlike their non-orthogonal relationship with CTOA components)"
+    targets:
+      - path: wiki/computational_frameworks/neural_manifold.md
+        section: "## Key evidence"
+        reason: "Finding about selective orthogonality in population geometry"
+      - path: wiki/brain_regions/frontal_eye_field.md
+        section: "## Key evidence"
+        reason: "Specific finding about FEF component geometry"
+    action: route
+
+  - fact_index: 4
+    claim: "Non-orthogonal coding in FEF is a systematic strategy for maximizing encoding capacity under dimensionality constraints, with predictable behavioral costs"
+    evidence: "The paper demonstrates that non-orthogonality is not a deficiency but a measurable, structured configuration; the geometric arrangement produces observed behavioral correlations between CTOA, RT, TA, and hit rate, with impaired capacity to use attentional information independently and enhanced responsiveness to external stimuli as trial time advances"
+    historical_context: "Introduced the formal link between low-dimensional constraints, non-orthogonal coding geometry, and overt behavioral interactions that had not been previously established in the PFC literature"
+    targets:
+      - path: wiki/brain_regions/frontal_eye_field.md
+        section: "## Key evidence"
+        reason: "Core finding about FEF coding strategy"
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Broader implication for PFC coding principles"
+      - path: wiki/computational_frameworks/mixed_selectivity.md
+        section: "## Key evidence"
+        reason: "Theoretical contribution to mixed selectivity framework"
+      - path: wiki/computational_frameworks/neural_manifold.md
+        section: "## Key evidence"
+        reason: "Contribution to understanding geometry-behavior relationship"
+    action: route
+
+  - fact_index: 5
+    claim: "FEF firing rates are significantly modulated by temporal expectation (CTOA), reaction time, and attentional focus with distinct correlational patterns"
+    evidence: "FEF firing rate (pre-target, -200 to 0 ms) was significantly modulated by CTOA (linear, rho = 0.95), RT (linear, rho = 0.92), and TA (quadratic, R² = 0.66)"
+    topics:
+      brain_regions: [frontal_eye_field]
+      behaviours: [temporal_expectation, reaction_time, attentional_focus]
+      computational_frameworks: []
+      methods: [electrophysiology]
+    confidence: high
+    targets:
+      - path: wiki/brain_regions/frontal_eye_field.md
+        section: "## Key evidence"
+        reason: "Direct finding about FEF firing rate modulation"
+    action: route

@@ -1,0 +1,53 @@
+source_summary: raw/summaries/duncan1996_intelligence_frontal_goal.md
+source_title: "Intelligence and the Frontal Lobe: The Organization of Goal-Directed Behavior"
+source_year: 1996
+facts:
+  - claim: "Goal neglect — failure to act on a understood and remembered task requirement — is strongly correlated with Spearman's g in the normal population"
+    evidence: "Correlation between goal neglect (measured by letter monitoring task) and Culture Fair IQ was r = .41 in Experiment 1, rising to r = .52 in elderly (Experiment 2) and r = .55 under dual-task conditions (Experiment 3); goal neglect showed higher correlation with g than comparably distributed items from the Culture Fair test itself"
+    historical_context: "Established goal neglect as a quantifiable behavioral phenomenon in normal individuals that scales with general intelligence, challenging the view that g and frontal function are independent"
+    topics:
+      brain_regions: [prefrontal_cortex, dorsolateral_prefrontal_cortex, anterior_cingulate_cortex]
+      behaviours: [goal_directed_behaviour, cognitive_impairment]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+
+  - claim: "Goal neglect is the predominant deficit following frontal lobe lesions, implicating frontal action-control functions in general intelligence"
+    evidence: "7/10 frontal patients showed complete SSI neglect vs. 1/10 matched controls; F(1,9) = 14.4, p < .005. Posterior lesion patients showed no deficit (F = 0). Frontal patients also showed mean 9-point Culture Fair IQ deficit (F(1,9) = 14.8, p < .005)"
+    historical_context: "Demonstrated that apparent preservation of IQ after frontal lesions was a measurement artifact of WAIS-style tests; fluid intelligence tests reveal substantial frontal deficits, linking frontal function to g"
+    topics:
+      brain_regions: [prefrontal_cortex, frontal_lobes]
+      behaviours: [goal_directed_behaviour, cognitive_impairment]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+
+  - claim: "Goal neglect reflects failure of goal activation — converting verbally understood requirements into active behavioral controllers — not working memory or verbal ability per se"
+    evidence: "Verbal prompts eliminated neglect in both normal and frontal subjects; once a subject first correctly used the SSI, performance was almost immediately and durably correct (~1-2% subsequent failures). Many subjects who neglected the SSI reported having seen the symbols, showing stimulus awareness and goal activation are dissociable"
+    historical_context: "Dissociated goal activation from working memory capacity and from verbal comprehension, identifying a specific frontal lobe function for translating abstract requirements into active control"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [goal_directed_behaviour]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+
+  - claim: "Concurrent goal requirements increase goal neglect and strengthen its correlation with g, consistent with a limited-capacity goal-activation process"
+    evidence: "Adding a secondary dot task increased SSI neglect and raised the g correlation; dot neglect was much greater (mean omissions 6.6 vs. 3.2) and more closely tied to g (r = .66 vs. .19) when dot instructions were given last, confirming concurrent goal load as a key determinant"
+    historical_context: "Demonstrated that goal activation is capacity-limited and subject to interference from competing requirements, supporting a resource-based account of frontal function"
+    topics:
+      brain_regions: [prefrontal_cortex, dorsolateral_prefrontal_cortex]
+      behaviours: [goal_directed_behaviour, cognitive_impairment]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+
+  - claim: "Fluid intelligence, not crystallized intelligence, predicts goal neglect, dissociating current problem-solving from accumulated knowledge"
+    evidence: "In elderly subjects, fluid intelligence (Culture Fair) predicted neglect (r ≈ .52) whereas verbal knowledge (Mill Hill r = .02; Nelson-Denny r = .30) did not, showing a specific link to current problem-solving ability rather than accumulated knowledge"
+    historical_context: "Clarified the relationship between g and frontal function by showing the link is specific to fluid intelligence, explaining why WAIS IQ (heavily weighted to crystallized knowledge) appeared preserved after frontal lesions"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [goal_directed_behaviour, cognitive_impairment]
+      computational_frameworks: []
+      methods: []
+    confidence: high

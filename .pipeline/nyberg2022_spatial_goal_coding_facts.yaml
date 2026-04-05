@@ -1,0 +1,69 @@
+source_summary: raw/summaries/nyberg2022_spatial_goal_coding.md
+source_title: "Spatial goal coding in the hippocampal formation"
+source_year: 2022
+facts:
+  - claim: "The hippocampal formation encodes goal-related information in multiple formats across all three phases of navigation: planning, travel, and arrival"
+    evidence: "Review synthesizes evidence from rodents, bats, and humans showing goal coding during rest/pauses (replay), travel (theta sequences, goal-distance cells), and arrival (place-field overrepresentation)"
+    historical_context: "Established that HF is not a passive map but actively encodes goals dynamically across navigation phases, shifting from purely positional coding to active goal representation"
+    topics:
+      brain_regions: [hippocampus, medial_entorhinal_cortex, subiculum]
+      behaviours: [spatial_navigation, goal_directed_behaviour, planning]
+      computational_frameworks: [cognitive_map, successor_representation]
+      methods: [electrophysiology, fmri]
+    confidence: high
+
+  - claim: "Goal-distance cells in CA1 (~16% of principal cells in bats) encode path proximity to the goal, while goal-direction cells (~19%) encode egocentric angle to the goal"
+    evidence: "Sarel et al. 2017 reported in bat CA1: ~16% goal-distance cells, ~19% goal-direction cells, ~5% conjunctively encoding both; similar cells found in rodents and humans"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1]
+      behaviours: [spatial_navigation, goal_directed_behaviour]
+      computational_frameworks: [vector_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Place-field overrepresentation at goal locations occurs in CA1 (but not CA3) when trajectories are repeated AND the goal location must be memorised, but not in flexible place-navigation tasks"
+    evidence: "Review shows goal overrepresentation requires both repeated trajectories and memory demand; does not occur in flexible navigation or when goals are visibly cued without memory demand"
+    historical_context: "Refined understanding of goal overrepresentation from being viewed as universal to being context-dependent, tied to specific learning conditions"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, hippocampus_ca3]
+      behaviours: [spatial_navigation, learning, reward_processing]
+      computational_frameworks: [hebbian_learning]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "mEC grid fields overrepresent goals more slowly than CA1 but more persistently, lasting to the next day; non-grid spatial cells in mEC form goal-proximal fields specifically in goal-directed contexts"
+    evidence: "Boccara et al. 2019 showed grid field overrepresentation develops more slowly but persists longer than CA1; Butler et al. 2019 showed non-grid cells form goal-proximal fields"
+    topics:
+      brain_regions: [medial_entorhinal_cortex]
+      behaviours: [spatial_navigation, goal_directed_behaviour, grid_cells]
+      computational_frameworks: [predictive_coding]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Dopamine (VTA→CA1 and LC→CA1) is required for place fields to shift toward goal locations; LC manipulation that induces goal overrepresentation does not affect task performance, dissociating map reorganization from overt behaviour"
+    evidence: "Kaufman et al. 2020 showed LC→CA1 dopamine is necessary and sufficient for place-field shift toward goals, but not for task performance; dissociates map plasticity from behavior"
+    historical_context: "Established that goal overrepresentation is not merely a byproduct of performance but reflects a distinct learning process that can be dissociated from overt behavior"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, ventral_tegmental_area, locus_coeruleus]
+      behaviours: [reward_processing, learning, spatial_navigation]
+      computational_frameworks: [neuromodulation, dopamine]
+      methods: [optogenetics, pharmacology]
+    confidence: high
+
+  - claim: "Hippocampal replay during rest/pauses can represent future goal-directed routes but does so reliably only under high mnemonic demand, not on stereotyped tracks"
+    evidence: "Pfeiffer & Foster 2013 showed replay represents goal-directed routes in open field; less reliable on stereotyped tracks; review synthesizes conditions for prospective replay"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [hippocampal_replay, planning, spatial_navigation]
+      computational_frameworks: [model_based_rl, successor_representation]
+      methods: [electrophysiology]
+    confidence: high
+
+  - claim: "Splitter cells in CA1, CA3, mEC, and SUB encode current route identity rather than goal identity per se; only ~0.5% of place cells show goal-specific (route-independent) firing"
+    evidence: "Wood et al. 2000 and subsequent studies showed splitter cells encode route not goal; review confirms very small fraction of true goal-coding cells across hippocampal formation"
+    topics:
+      brain_regions: [hippocampus, hippocampus_ca1, hippocampus_ca3, medial_entorhinal_cortex, subiculum]
+      behaviours: [spatial_navigation, decision_making]
+      computational_frameworks: [population_coding]
+      methods: [electrophysiology]
+    confidence: high

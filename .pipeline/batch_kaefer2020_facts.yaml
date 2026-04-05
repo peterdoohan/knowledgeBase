@@ -1,0 +1,63 @@
+source_summary: raw/summaries/kaefer2020_mpfc_replay_ruleswitching.md
+source_title: "Replay of Behavioral Sequences in the Medial Prefrontal Cortex during Rule Switching"
+source_year: 2020
+facts:
+  - claim: "mPFC generates awake trajectory replay independently of hippocampal replay during rule switching"
+    evidence: "Only ~5% of mPFC replay events co-occurred with HPC replay events; cross-correlation showed no peaks"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex, hippocampus]
+      behaviours: [hippocampal_replay, forward_replay, spatial_navigation]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "First demonstration that mPFC can generate independent awake replay, not merely receiving hippocampal reactivation"
+
+  - claim: "mPFC holds a generalized spatial code representing relative position rather than specific allocentric locations"
+    evidence: "mPFC neurons fired symmetrically in both start arms and both goal arms; 1D Bayesian decoding error was 16±3 cm vs. 46±3 cm for 2D decoding"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [spatial_navigation, cognitive_map]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Established that mPFC replay reactivates trajectory-independent generalized positions, unlike hippocampal allocentric place codes"
+
+  - claim: "mPFC replay rate positively correlates with rule-switching performance while hippocampal replay shows opposite correlation"
+    evidence: "mPFC trajectory replay rate during switching block negatively correlated with trials needed to switch (center: r=−0.76, p=0.01); HPC replay at goal positively correlated with trials to switch (r=0.71, p=0.009)"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex, hippocampus]
+      behaviours: [hippocampal_replay, forward_replay, cognitive_flexibility]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated opposing behavioral relevance of mPFC versus hippocampal replay for flexible behavior"
+
+  - claim: "mPFC replay at the goal preferentially decodes the current goal arm"
+    evidence: "Replay events at the goal preferentially decoded the current goal arm (p<0.00001 vs. chance)"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [hippocampal_replay, forward_replay, goal_directed_behaviour]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Showed mPFC replay content is task-relevant and goal-specific"
+
+  - claim: "mPFC ahead replay increases on error trials while behind replay increases on correct trials"
+    evidence: "At maze center, mPFC ahead replay was increased during error trials while behind replay was increased during correct trials"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [hippocampal_replay, forward_replay, cognitive_flexibility]
+      computational_frameworks: []
+      methods: []
+    confidence: medium
+    historical_context: "Suggested forward and reverse mPFC replays serve distinct computational functions in performance monitoring"
+
+  - claim: "mPFC replay co-occurs with hippocampal SWRs but is temporally independent of hippocampal replay"
+    evidence: "40% of mPFC replay events co-occurred with hippocampal SWRs (p=0.02), but only ~5% co-occurred with HPC replay events"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex, hippocampus]
+      behaviours: [hippocampal_replay, sharp_wave_ripples, forward_replay]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated that mPFC replay is associated with hippocampal population events but not driven by hippocampal replay content"

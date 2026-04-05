@@ -1,0 +1,69 @@
+source_summary: raw/summaries/duncan1996_intelligence_frontal_goal.md
+source_title: "Intelligence and the Frontal Lobe: The Organization of Goal-Directed Behavior"
+source_year: 1996
+routing:
+  - fact_index: 0
+    claim: "Goal neglect — failure to act on a understood and remembered task requirement — is strongly correlated with Spearman's g in the normal population"
+    evidence: "Correlation between goal neglect (measured by letter monitoring task) and Culture Fair IQ was r = .41 in Experiment 1, rising to r = .52 in elderly (Experiment 2) and r = .55 under dual-task conditions (Experiment 3); goal neglect showed higher correlation with g than comparably distributed items from the Culture Fair test itself"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Link between frontal function and general intelligence"
+      - path: wiki/behaviours/cognitive_impairment.md
+        section: "## Key evidence"
+        reason: "Goal neglect as a measure of cognitive impairment"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Goal activation in goal-directed behavior"
+    action: route
+
+  - fact_index: 1
+    claim: "Goal neglect is the predominant deficit following frontal lobe lesions, implicating frontal action-control functions in general intelligence"
+    evidence: "7/10 frontal patients showed complete SSI neglect vs. 1/10 matched controls; F(1,9) = 14.4, p < .005. Posterior lesion patients showed no deficit (F = 0). Frontal patients also showed mean 9-point Culture Fair IQ deficit (F(1,9) = 14.8, p < .005)"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Frontal lesion deficits in goal-directed behavior"
+      - path: wiki/behaviours/cognitive_impairment.md
+        section: "## Key evidence"
+        reason: "Specific frontal contribution to cognitive impairment patterns"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Frontal lobe necessity for goal-directed behavior"
+    action: route
+
+  - fact_index: 2
+    claim: "Goal neglect reflects failure of goal activation — converting verbally understood requirements into active behavioral controllers — not working memory or verbal ability per se"
+    evidence: "Verbal prompts eliminated neglect in both normal and frontal subjects; once a subject first correctly used the SSI, performance was almost immediately and durably correct (~1-2% subsequent failures). Many subjects who neglected the SSI reported having seen the symbols, showing stimulus awareness and goal activation are dissociable"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Goal activation as specific frontal function"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Mechanism of goal activation in behavior"
+    action: route
+
+  - fact_index: 3
+    claim: "Concurrent goal requirements increase goal neglect and strengthen its correlation with g, consistent with a limited-capacity goal-activation process"
+    evidence: "Adding a secondary dot task increased SSI neglect and raised the g correlation; dot neglect was much greater (mean omissions 6.6 vs. 3.2) and more closely tied to g (r = .66 vs. .19) when dot instructions were given last, confirming concurrent goal load as a key determinant"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Capacity limits of frontal goal activation"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Dual-task interference in goal-directed behavior"
+    action: route
+
+  - fact_index: 4
+    claim: "Fluid intelligence, not crystallized intelligence, predicts goal neglect, dissociating current problem-solving from accumulated knowledge"
+    evidence: "In elderly subjects, fluid intelligence (Culture Fair) predicted neglect (r ≈ .52) whereas verbal knowledge (Mill Hill r = .02; Nelson-Denny r = .30) did not, showing a specific link to current problem-solving ability rather than accumulated knowledge"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Specific link between frontal function and fluid intelligence"
+      - path: wiki/behaviours/cognitive_impairment.md
+        section: "## Key evidence"
+        reason: "Dissociation between fluid and crystallized intelligence in cognitive impairment"
+    action: route

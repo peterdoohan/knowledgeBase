@@ -1,0 +1,79 @@
+# Facts from remaining summaries (otchy, yang thalamus, denbakker)
+
+source_summary: raw/summaries/otchy2015_neural_circuit_motor.md
+source_title: "Acute off-target effects of neural circuit manipulations"
+source_year: 2015
+facts_otchy:
+  - claim: "Transient inactivations of brain areas can disrupt behavior by perturbing downstream circuit dynamics even when the targeted area is dispensable for the behavior"
+    evidence: "Muscimol in motor cortex severely degraded lever-pressing despite permanent lesions leaving skill intact; song degraded by Nif inactivation but recovered after permanent lesion"
+    topics:
+      brain_regions: [motor_cortex, HVC, nucleus_interface, basal_ganglia, cerebellum, thalamus]
+      behaviours: [motor_skill_execution, song_production, learned_behavior]
+      computational_frameworks: [permissive_vs_instructive_roles, diaschisis, homeostatic_plasticity]
+      methods: [muscimol_inactivation, optogenetics, permanent_lesions, multi_unit_recordings]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Recovery from transient inactivation deficits occurs via homeostatic regulation rather than experience-dependent learning"
+    evidence: "HVC dynamics recovered over 2-3 days without any song practice; recovery time constant ~3.4h for spontaneous activity; overnight recovery of song-aligned structure consistent with synaptic homeostasis hypothesis"
+    topics:
+      brain_regions: [HVC, songbird_premotor_nucleus]
+      behaviours: [song_production, spontaneous_recovery]
+      computational_frameworks: [homeostatic_plasticity, synaptic_homeostasis, synfire_chain]
+      methods: [chronic_recordings, computational_modeling]
+    confidence: high
+    historical_context: established
+
+  - claim: "The distinction between permissive and instructive circuit roles provides an operationally useful framework for interpreting neural manipulation studies"
+    evidence: "Permissive roles (acutely required for expression but not providing essential computation) vs instructive roles (providing non-redundant information); motor cortex and Nif shown to be permissive for learned skills"
+    topics:
+      brain_regions: [motor_cortex, HVC, nucleus_interface]
+      behaviours: [learned_behavior, skill_execution]
+      computational_frameworks: [permissive_vs_instructive_roles, circuit_dynamics]
+      methods: [lesion_studies, inactivation_studies]
+    confidence: high
+    historical_context: established
+
+source_summary: raw/summaries/yang2022_thalamus_frontal_decision.md
+source_title: "Thalamus-driven functional populations in frontal cortex support decision-making"
+source_year: 2022
+facts_yang_thalamus:
+  - claim: "Thalamic inputs drive functionally distinct subnetworks in anterior lateral motor cortex with stronger impact on task selectivity than cortico-cortical inputs"
+    evidence: "20,046 neurons recorded; thalamic inputs have higher connection probability and elicit stronger EPSPs; thalamic photoinhibition abolishes task selectivity"
+    topics:
+      brain_regions: [thalamus, anterior_lateral_motor_cortex, ALM, somatosensory_cortex, ventral_medial_thalamus, VAL, medial_dorsal_thalamus]
+      behaviours: [decision_making, tactile_discrimination, working_memory, action_selection]
+      computational_frameworks: [thalamocortical_loop, population_coding, mixed_selectivity, activity_modes]
+      methods: [optogenetics, silicon_probe_recordings, ChR2_tagging, whole_cell_recordings]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "ALM neurons exhibit 94 prototypical response profiles that are consistent across mice and datasets, contradicting randomly mixed selectivity"
+    evidence: "t-SNE embedding and density peak clustering identified repeatable clusters; ePAIRS test confirmed non-uniform distribution of coding vectors"
+    topics:
+      brain_regions: [anterior_lateral_motor_cortex, ALM, frontal_cortex]
+      behaviours: [decision_making]
+      computational_frameworks: [population_coding, mixed_selectivity, neural_manifold, attractor_networks]
+      methods: [tSNE, clustering_analysis, dPCA]
+    confidence: high
+    historical_context: challenge_to_prevailing
+
+  - claim: "Thalamic inputs are required for stimulus selectivity while cortico-cortical inputs are dispensable"
+    evidence: "Stimulus information persisted after S1/S2 photoinhibition but was abolished by thalamic photoinhibition; suggests redundant subcortical pathways signal stimulus via thalamus"
+    topics:
+      brain_regions: [thalamus, anterior_lateral_motor_cortex, somatosensory_cortex, ALM]
+      behaviours: [tactile_discrimination, stimulus_processing]
+      computational_frameworks: [thalamocortical_loop, cortico_cortical_pathways]
+      methods: [optogenetic_inactivation, photoinhibition]
+    confidence: high
+    historical_context: established
+
+  - claim: "Neurons with similar response profiles in ALM exhibit trial-to-trial noise correlation, suggesting they belong to functional subnetworks"
+    evidence: "Significant noise correlations between neurons with similar prototypical response profiles; indicates anatomically or functionally connected subpopulations"
+    topics:
+      brain_regions: [anterior_lateral_motor_cortex, ALM]
+      behaviours: [decision_making]
+      computational_frameworks: [functional_subnetworks, population_coding, noise_correlations]
+      methods: [noise_correlation_analysis, clustering]
+    confidence: high
+    historical_context: established

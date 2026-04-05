@@ -1,0 +1,63 @@
+source_summary: raw/summaries/jadhav2016_hippocampal_prefrontal_swr.md
+source_title: "Coordinated Excitation and Inhibition of Prefrontal Ensembles during Awake Hippocampal Sharp-Wave Ripple Events"
+source_year: 2016
+facts:
+  - claim: "Awake hippocampal SWRs drive approximately equal numbers of excited and inhibited PFC neurons, unlike sleep SWRs which predominantly excite PFC"
+    evidence: "35% of PFC neurons were significantly SWR-modulated; 18% excited and 17% inhibited, contrasting with sleep SWR studies showing mostly excitatory responses"
+    topics:
+      brain_regions: [hippocampus, medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [sharp_wave_ripples, hippocampal_replay]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Prior work on sleep SWRs showed mostly excitatory PFC responses; this paper demonstrated awake SWRs produce qualitatively different coordination"
+
+  - claim: "CA1 population activity precedes PFC responses during awake SWRs, with distinct temporal dynamics for excited versus inhibited PFC cells"
+    evidence: "Mean peak latencies were 54 ms (CA1), 100 ms (SWR-excited PFC), and 84 ms (SWR-inhibited PFC)"
+    topics:
+      brain_regions: [hippocampus_ca1, medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [sharp_wave_ripples, hippocampal_replay]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Established temporal hierarchy in hippocampal-prefrontal communication during awake replay events"
+
+  - claim: "SWR-modulated PFC neurons show stronger theta phase-locking during movement than unmodulated neurons"
+    evidence: "77% of excited and 71% of inhibited cells significantly phase-locked to theta vs. 53% of unmodulated cells (p < 0.01)"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [sharp_wave_ripples]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Linked SWR modulation to ongoing theta coordination between hippocampus and PFC"
+
+  - claim: "SWR-excited and SWR-inhibited PFC cells form functionally distinct ensembles with different spatial and speed coding properties"
+    evidence: "Excited cells have diffuse spatial firing and higher firing rates at higher movement speeds; inhibited cells have concentrated firing and preferentially fire at low speeds/around reward"
+    topics:
+      brain_regions: [medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [spatial_navigation, sharp_wave_ripples]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated content-specific functional segregation of PFC neurons based on SWR modulation type"
+
+  - claim: "CA1-PFC SWR correlations are predicted by theta-period cross-covariance and spatial overlap, indicating content-specific coordination"
+    evidence: "SWR correlation between CA1-PFC pairs was significantly predicted by theta-period cross-covariance (r = 0.39, p < 10^-4) and spatial firing field overlap"
+    topics:
+      brain_regions: [hippocampus_ca1, medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [hippocampal_replay, sharp_wave_ripples]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Established that awake SWR coordination recapitulates theta-period co-activity structure"
+
+  - claim: "CA1-PFC SWR correlations are experience-dependent and absent during pre-task rest"
+    evidence: "CA1-PFC SWR correlations were absent during pre-task rest and were not predicted by rest-period activity, establishing structured coordination is built through behavioural experience"
+    topics:
+      brain_regions: [hippocampus_ca1, medial_prefrontal_cortex, prefrontal_cortex]
+      behaviours: [hippocampal_replay, sharp_wave_ripples]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated that hippocampal-prefrontal coordination during SWRs is not fixed connectivity but experience-dependent"

@@ -1,0 +1,140 @@
+source_summary: raw/summaries/akam2015_two_step_task_habits.md
+source_title: Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task
+source_year: 2015
+routing:
+  - fact_index: 0
+    claim: "A pure Q(1) model-free agent can show a spurious transition-outcome interaction in stay probability on the reduced two-step task, which is classically interpreted as a signature of model-based behavior."
+    evidence: "Simulation study showing that Q(1) agents with eligibility trace λ=1 produce the transition-outcome interaction pattern on the reduced task (80/20 transitions, block-based rewards) without any world model."
+    topics: [model_free_rl, two_step_task, reinforcement_learning, habitual_control]
+    targets:
+      - path: wiki/computational_frameworks/model_free_rl.md
+        section: "## Key evidence"
+        reason: "Direct finding about model-free RL producing apparent model-based signatures"
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Critical confound in the two-step task's standard analysis"
+    action: route
+
+  - fact_index: 1
+    claim: "The spurious transition-outcome interaction in Q(1) model-free agents arises from correlations between action values at trial onset and subsequent trial events, not from prospective planning."
+    evidence: "Mathematical analysis showing that Q(1) agents maintain eligibility traces from previous trials, creating correlations between first-step action values and trial events that mimic model-based evaluation."
+    topics: [model_free_rl, reinforcement_learning, eligibility_traces, temporal_difference]
+    targets:
+      - path: wiki/computational_frameworks/model_free_rl.md
+        section: "## Key evidence"
+        reason: "Mechanistic explanation of how eligibility traces create apparent planning signatures"
+    action: route
+
+  - fact_index: 2
+    claim: "The original two-step task with higher stochasticity (70/30 common/rare transitions) decorrelates trial-start action values from subsequent events, eliminating the confound seen in the reduced task."
+    evidence: "Comparison showing the spurious interaction is very weak (P = 0.01) in the original task but strong in the reduced task (80/20 transitions, block-based rewards)."
+    topics: [two_step_task, reinforcement_learning, task_design]
+    targets:
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Task design factor that controls confound strength"
+    action: route
+
+  - fact_index: 3
+    claim: "Including a 'correct' predictor in logistic regression (repeat the choice that was correct on the previous trial) eliminates the spurious transition-outcome interaction for Q(1) agents and serves as an effective correction."
+    evidence: "Validation study showing that extended logistic regression with a 'correct' predictor successfully distinguishes Q(1) from true model-based agents by removing the confound."
+    topics: [two_step_task, statistical_methods, logistic_regression, analysis_methods]
+    targets:
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Corrected analysis method to avoid false positives"
+      - path: wiki/methods/computational_modeling.md
+        section: "## Key evidence"
+        reason: "Statistical correction for RL model analysis"
+    action: route
+
+  - fact_index: 4
+    claim: "A reward-as-cue agent (model-free RL over 4 states defined by previous outcome × second-step state) learns a fixed stimulus-response mapping that produces a strong transition-outcome interaction indistinguishable from model-based behavior by one-trial-back analysis."
+    evidence: "Simulation showing that reward-as-cue agents (using outcome and second-step state as discriminative stimuli) produce the exact pattern of stay probabilities that is interpreted as model-based planning."
+    topics: [model_free_rl, reward_as_cue, extended_state, two_step_task, habitual_control]
+    targets:
+      - path: wiki/computational_frameworks/model_free_rl.md
+        section: "## Key evidence"
+        reason: "Extended state representation enabling sophisticated model-free behavior"
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Alternative strategy that mimics model-based planning"
+    action: route
+
+  - fact_index: 5
+    claim: "Reward-as-cue strategies can only be detected by lagged regression showing no multi-trial integration, distinguishing them from true model-based planning."
+    evidence: "Lagged logistic regression analysis showing that reward-as-cue agents show no multi-trial reward history effects (unlike true model-based agents which integrate across trials)."
+    topics: [model_free_rl, reward_as_cue, statistical_methods, two_step_task]
+    targets:
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Diagnostic test to distinguish reward-as-cue from model-based"
+    action: route
+
+  - fact_index: 6
+    claim: "A latent-state agent (Bayesian inference over two latent world states + fixed state-action mapping) produces behavior qualitatively identical to a model-based agent on both stay probability and lagged logistic regression analyses."
+    evidence: "Simulation showing that agents performing Bayesian inference over latent task states produce identical stay probability patterns and multi-trial integration effects as true model-based agents."
+    topics: [latent_state, bayesian_inference, model_based_rl, two_step_task, reinforcement_learning]
+    targets:
+      - path: wiki/computational_frameworks/bayesian_inference.md
+        section: "## Key evidence"
+        reason: "Latent state inference producing model-like behavior"
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Challenge to the model-based/model-free dissociation"
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Indistinguishability of latent-state from model-based strategies"
+    action: route
+
+  - fact_index: 7
+    claim: "Latent-state and model-based agents can only be discriminated by maximum likelihood model comparison on large datasets; differences are highly significant (P < 10⁻⁵) but small in magnitude."
+    evidence: "Model comparison analysis showing that while MLE can statistically distinguish latent-state from model-based agents, the effect sizes are small and require large datasets (>10,000 trials)."
+    topics: [model_comparison, bayesian_inference, model_based_rl, statistical_methods]
+    targets:
+      - path: wiki/computational_frameworks/bayesian_inference.md
+        section: "## Key evidence"
+        reason: "Limitation of model comparison for strategy identification"
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Practical difficulty distinguishing model-based from latent-state strategies"
+    action: route
+
+  - fact_index: 8
+    claim: "Both extended-state agents (reward-as-cue and latent-state) outperform classical model-free strategies in reward obtained, providing an incentive for their acquisition with extended training."
+    evidence: "Reward comparison showing that agents using extended state representations achieve higher cumulative reward than pure Q(0) or Q(1) agents, suggesting why animals might develop these strategies."
+    topics: [model_free_rl, reinforcement_learning, reward_as_cue, latent_state, learning]
+    targets:
+      - path: wiki/computational_frameworks/model_free_rl.md
+        section: "## Key evidence"
+        reason: "Performance advantage driving strategy acquisition"
+    action: route
+
+  - fact_index: 9
+    claim: "The two-step task's ability to dissociate model-based from model-free strategies is more fragile than assumed; extended state representations can approximate or match model-based performance without prospective planning."
+    evidence: "Comprehensive analysis demonstrating that the binary MB/MF dissociation fails because extended-state strategies occupy a middle ground, producing model-like signatures without world models."
+    topics: [two_step_task, reinforcement_learning, model_based_rl, model_free_rl, extended_state]
+    targets:
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Core finding about task validity and limitations"
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Challenge to the binary MB/MF distinction"
+    action: route
+
+  - fact_index: 10
+    claim: "The model-based/model-free dissociation should be viewed as a spectrum rather than a binary distinction, with state representation learning as a key unmeasured variable in the two-step task."
+    evidence: "Theoretical synthesis arguing that extended state representations create a continuum between pure model-free and pure model-based strategies, making binary classification inadequate."
+    topics: [model_based_rl, model_free_rl, reinforcement_learning, two_step_task, state_representation]
+    targets:
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Theoretical reframing of MB/MF as spectrum"
+      - path: wiki/computational_frameworks/model_free_rl.md
+        section: "## Key evidence"
+        reason: "Extended state strategies as middle ground"
+      - path: wiki/behaviours/two_step_task.md
+        section: "## Key evidence"
+        reason: "Implications for task interpretation and design"
+    action: route

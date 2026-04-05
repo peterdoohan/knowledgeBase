@@ -1,0 +1,53 @@
+source_summary: raw/summaries/yang2022_monkey_pacman_strategy.md
+source_title: "Monkey plays Pac-Man with compositional strategies and hierarchical decision-making"
+source_year: 2022
+facts:
+  - claim: "Macaque monkeys use compositional strategies and hierarchical decision-making with a 'take-the-best' heuristic to solve complex tasks"
+    evidence: "Dynamic compositional strategy model achieved 90.4% prediction accuracy; dominant strategy weight (0.907±0.117) significantly larger than secondary (0.273±0.233) and tertiary (0.087±0.137)"
+    topics:
+      brain_regions: [prefrontal_cortex, dorsolateral_prefrontal_cortex, orbitofrontal_cortex]
+      behaviours: [decision_making, strategic_behavior, hierarchical_cognitive_control]
+      computational_frameworks: [hierarchical_rl, compositional_strategies, take_the_best_heuristic]
+      methods: [computational_modeling, eye_tracking, pupil_dilation]
+    confidence: high
+    historical_context: established
+
+  - claim: "Monkeys predominantly use a single dominant strategy at each decision point rather than averaging multiple strategies"
+    evidence: "In over 90% of time points, weight difference between first and second strategies exceeded 0.1; in 33% of cases it exceeded 0.9"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [decision_making, strategy_switching]
+      computational_frameworks: [take_the_best_heuristic, hierarchical_rl]
+      methods: []
+    confidence: high
+    historical_context: established
+
+  - claim: "Monkeys form compound strategies by assembling basis strategies into higher-level cognitive structures"
+    evidence: "Observed 'planned attack' (energizer consumption followed by ghost chasing) and 'suicide' (deliberate death to reset game) compound strategies"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [decision_making, strategic_behavior, planning]
+      computational_frameworks: [compositional_strategies, hierarchical_rl]
+      methods: []
+    confidence: high
+    historical_context: established
+
+  - claim: "Pupil dilation and eye movements provide independent validation of strategy labels and reveal cognitive costs of strategy transitions"
+    evidence: "Pupil dilation increased transiently around strategy transitions (p<0.01); eye fixation patterns shifted to match strategy-relevant game elements"
+    topics:
+      brain_regions: [prefrontal_cortex]
+      behaviours: [decision_making, attention]
+      computational_frameworks: []
+      methods: [pupil_dilation, eye_tracking, physiological_markers]
+    confidence: high
+    historical_context: established
+
+  - claim: "Hierarchical RL models outperform flat RL models in predicting monkey behavior in complex decision tasks"
+    evidence: "Dynamic compositional strategy model (90.4%) significantly outperformed static (81.6%), LARL (66.9%), and perceptron (62.4%) models"
+    topics:
+      brain_regions: []
+      behaviours: [decision_making]
+      computational_frameworks: [hierarchical_rl, reinforcement_learning, model_comparison]
+      methods: [computational_modeling]
+    confidence: high
+    historical_context: established

@@ -1,0 +1,63 @@
+source_summary: raw/summaries/behrens2018_cognitive_map_organizing_knowledge.md
+source_title: "What Is a Cognitive Map? Organizing Knowledge for Flexible Behavior"
+source_year: 2018
+facts:
+  - claim: "Grid cells can be derived as eigenvectors of the transition matrix, providing an efficient basis for computing all future state distributions"
+    evidence: "Grid cells are mathematically equivalent to principal components of place cell activity or eigenvectors of T, enabling linear computation of any n-step transition distribution"
+    topics:
+      brain_regions: [medial_entorhinal_cortex]
+      behaviours: [grid_cells, spatial_navigation, cognitive_map]
+      computational_frameworks: [successor_representation, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Provided mathematical foundation linking grid cells to general computational principles of transition structure representation"
+
+  - claim: "The successor representation of place cells accounts for policy-dependent place-field distortions"
+    evidence: "SR predicts field stretching toward track start on 1-way tracks and clustering near reward, matching observed place cell properties"
+    topics:
+      brain_regions: [hippocampus]
+      behaviours: [place_cells, spatial_navigation, cognitive_map]
+      computational_frameworks: [successor_representation, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Unified hippocampal place cell phenomena with RL successor representation framework"
+
+  - claim: "Grid-like coding extends to non-spatial conceptual dimensions in humans"
+    evidence: "Hexagonally symmetric fMRI activity observed in entorhinal cortex and ventral frontal cortex during navigation through 2D conceptual space defined by bird morphology"
+    topics:
+      brain_regions: [entorhinal_cortex, ventral_prefrontal_cortex]
+      behaviours: [cognitive_map, spatial_navigation]
+      computational_frameworks: [successor_representation]
+      methods: [fmri]
+    confidence: high
+    historical_context: "Extended grid cell findings from spatial to abstract conceptual domains, supporting domain-general cognitive map theory"
+
+  - claim: "Hippocampal and entorhinal cells exhibit place-field-like and grid-like activity for non-spatial sound frequency"
+    evidence: "Hippocampal cells show place-field-like activity for sound frequencies; entorhinal cells show multi-field grid-like firing across frequency dimension"
+    topics:
+      brain_regions: [hippocampus, entorhinal_cortex]
+      behaviours: [cognitive_map]
+      computational_frameworks: []
+      methods: []
+    confidence: high
+    historical_context: "Demonstrated spatial-like coding mechanisms in non-spatial domains in rodents"
+
+  - claim: "OFC/vPFC lesions impair credit assignment and learning set, paralleling RL state-space deficits"
+    evidence: "OFC lesion deficits match predictions of removing explicit latent-state representations from RL agents"
+    topics:
+      brain_regions: [orbitofrontal_cortex, ventral_prefrontal_cortex]
+      behaviours: [reinforcement_learning, goal_directed_behaviour]
+      computational_frameworks: [model_based_rl, reinforcement_learning]
+      methods: []
+    confidence: high
+    historical_context: "Connected OFC function to computational role of state-space representations in RL"
+
+  - claim: "Factorized representations separating structural from sensory information enable generalization across tasks"
+    evidence: "Medial vs. lateral entorhinal cortex anatomical segregation supports factorization, allowing structural knowledge to transfer across sensory contexts"
+    topics:
+      brain_regions: [medial_entorhinal_cortex, lateral_entorhinal_cortex, hippocampus]
+      behaviours: [cognitive_map, spatial_navigation]
+      computational_frameworks: [successor_representation]
+      methods: []
+    confidence: high
+    historical_context: "Proposed factorization as the mechanism enabling domain-general cognitive maps"

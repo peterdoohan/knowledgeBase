@@ -1,0 +1,69 @@
+source_summary: raw/summaries/goel2013_prefrontal_planning_real_world.md
+source_title: "Lesions to right prefrontal cortex impair real-world planning through premature commitments"
+source_year: 2013
+routing:
+  - fact_index: 0
+    claim: "Right prefrontal cortex lesions specifically impair real-world planning by causing premature commitment to concrete solutions before adequate problem space exploration"
+    evidence: "RPFC patients produced significantly lower-quality plans than normal controls (F[3,16]=4.76, p=.015, partial η²=.47); LPFC and posterior groups did not differ from NC. RPFC patients had significantly higher concrete-to-abstract statement ratios (F[3,16]=3.90, p=.029, partial η²=.42)"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Right PFC specific role in real-world planning"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Concrete vs abstract representation in planning"
+      - path: wiki/behaviours/goal_directed_behaviour.md
+        section: "## Key evidence"
+        reason: "Goal-directed planning deficits"
+    action: route
+
+  - fact_index: 1
+    claim: "Right PFC specifically supports early planning phases requiring abstract representations, while left PFC is not required for real-world planning"
+    evidence: "The concrete-to-abstract ratio was significantly elevated for RPFC patients in the middle planning phase (F[3,15]=4.28, p=.023, η²=.46). LPFC patients showed no planning deficit, did not differ from NC in time-on-task or abstractness ratios, and were not significantly different from any group"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Hemispheric dissociation in PFC planning functions"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Phase-specific planning contributions"
+    action: route
+
+  - fact_index: 2
+    claim: "The right PFC deficit is specific to representational abstractness, not to operator repertoire, episode structure, or planning phase allocation"
+    evidence: "No significant between-group differences were found in operator distributions, episode types, or allocation of time to problem-solving phases. The deficit was specific to the abstractness dimension - NC showed a 'judicious interplay' of concrete and abstract representations while RPFC patients locked into concrete detail prematurely"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Specificity of right PFC to abstract representation maintenance"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Abstract vs concrete representational modes in planning"
+    action: route
+
+  - fact_index: 3
+    claim: "Right PFC patients spend less time on planning tasks but show no deficit in well-structured laboratory tasks like Tower of London"
+    evidence: "RPFC patients spent significantly less time on the Travel Planning Task than NC (RPFC M=28.75 min vs NC M=58.80 min; F[3,16]=4.31, p=.024, η²=.48). The deficit is specific to ill-structured real-world planning - standard well-structured tasks like Tower of London/Hanoi fail to detect right PFC contributions"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Task-specificity of right PFC deficits"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Ill-structured vs well-structured planning task dissociation"
+    action: route
+
+  - fact_index: 4
+    claim: "Right PFC supports lateral transformations (exploring between ideas) while damage forces premature vertical transformations (deepening single ideas)"
+    evidence: "RPFC patients showed elevated concrete-to-abstract ratios specifically in middle planning phases where abstract representations enable lateral exploration; RPFC patients locked into concrete detail prematurely while NC showed judicious interplay of representation types"
+    targets:
+      - path: wiki/brain_regions/prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Lateral vs vertical transformation support in PFC"
+      - path: wiki/behaviours/planning.md
+        section: "## Key evidence"
+        reason: "Problem-space traversal mechanisms in planning"
+      - path: wiki/computational_frameworks/model_based_rl.md
+        section: "## Key evidence"
+        reason: "Exploration mechanisms in model-based planning"
+    action: route

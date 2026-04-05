@@ -1,0 +1,55 @@
+# Facts from summaries 6-10 (continued)
+
+source_summary: raw/summaries/redish2016_vicarious_trial_error.md
+source_title: "Vicarious trial and error"
+source_year: 2016
+facts_redish:
+  - claim: "Vicarious trial and error (VTE) reflects a deliberative decision-making process in which hippocampal theta sequences serially represent future path options"
+    evidence: "Hippocampal place-cell firing during VTE generates alternating forward representations of each path option within individual theta cycles"
+    topics:
+      brain_regions: [hippocampus, medial_prefrontal_cortex, ventral_striatum, dorsolateral_striatum]
+      behaviours: [vicarious_trial_error, deliberative_decision_making, spatial_navigation]
+      computational_frameworks: [hippocampal_theta_sequences, cognitive_map, dual_systems_decision_making]
+      methods: [electrophysiology, behavioral_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "VTE occurs when animals use flexible, deliberative strategies and disappears as behavior automates"
+    evidence: "VTE observed during early learning, changing reward contingencies, and difficult choices at threshold; absent during automated behavior"
+    topics:
+      brain_regions: [hippocampus, prefrontal_cortex]
+      behaviours: [vicarious_trial_error, deliberative_decision_making, habit_formation]
+      computational_frameworks: [model_based_rl, model_free_rl, dual_systems]
+      methods: [behavioral_analysis]
+    confidence: high
+    historical_context: established
+
+  - claim: "Hippocampal theta sequences during VTE project far ahead of the rat and alternate serially between path options"
+    evidence: "Three stages described: deliberation (sequences alternate between goals), planning (sequences sweep toward chosen goal), automation (sequences collapse to immediate location)"
+    topics:
+      brain_regions: [hippocampus, dorsal_hippocampus]
+      behaviours: [vicarious_trial_error, planning, deliberation]
+      computational_frameworks: [hippocampal_theta_sequences, prospective_coding]
+      methods: [electrophysiology, decoding]
+    confidence: high
+    historical_context: established
+
+  - claim: "Ventral striatum provides pre-decision evaluative signals while orbitofrontal cortex provides post-decision expectation signals during VTE"
+    evidence: "Covert reward signals in ventral striatum precede VTE turn-around point; OFC reward signals emerge only after animal commits to direction"
+    topics:
+      brain_regions: [ventral_striatum, orbitofrontal_cortex, nucleus_accumbens]
+      behaviours: [vicarious_trial_error, reward_evaluation, decision_making]
+      computational_frameworks: [model_based_rl, value_computation]
+      methods: [electrophysiology]
+    confidence: high
+    historical_context: established
+
+  - claim: "Dorsolateral striatum is the substrate of procedural decision-making and is disengaged during deliberation"
+    evidence: "Dorsolateral striatum shows task-bracketing (start/end firing) as behavior automates; no transient forward sweeps or covert reward signals during VTE"
+    topics:
+      brain_regions: [dorsolateral_striatum, dorsal_striatum]
+      behaviours: [vicarious_trial_error, procedural_decision_making, habit_formation, task_bracketing]
+      computational_frameworks: [model_free_rl, habitual_control]
+      methods: [electrophysiology]
+    confidence: high
+    historical_context: established

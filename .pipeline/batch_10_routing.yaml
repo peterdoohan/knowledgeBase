@@ -1,0 +1,293 @@
+# Routing decisions for 10 summaries - batch processing
+# Generated: 2026-04-05
+
+routing_batch:
+  # From reinert2021_mouse_prefrontal_categorization.md
+  - fact_index: 0
+    claim: "mPFC neurons gradually acquire category selectivity during rule-based visual categorization learning, with 9.8% becoming category-selective after learning rule 1"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Direct finding about mPFC category selectivity acquisition during learning"
+      - path: wiki/behaviours/categorization.md
+        section: "## Key evidence"
+        reason: "Behavioral finding about rule-based categorization learning"
+    action: route
+
+  - fact_index: 1
+    claim: "Go- and NoGo-preferring category-selective populations show distinct learning dynamics: Go neurons emerge rapidly (ad hoc, T2-T5) while NoGo neurons emerge gradually (T4-T5)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Population dynamics finding for mPFC neurons"
+      - path: wiki/behaviours/reinforcement_learning.md
+        section: "## Key evidence"
+        reason: "Relevance to Go/NoGo learning dynamics"
+    action: route
+
+  - fact_index: 2
+    claim: "After a rule-switch, Go category-selective neurons remap their stimulus selectivity while NoGo category-selective neurons are replaced by a new population"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Rule-switching plasticity in mPFC"
+      - path: wiki/behaviours/cognitive_flexibility.md
+        section: "## Key evidence"
+        reason: "Cognitive flexibility finding"
+    action: route
+
+  - fact_index: 3
+    claim: "4.3% of mPFC neurons are uniquely category-modulated, not explained by choice, reward, or uninstructed behaviors (whisking, eye movements, posture)"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Abstract category representation in mPFC"
+      - path: wiki/computational_frameworks/mixed_selectivity.md
+        section: "## Key evidence"
+        reason: "Mixed selectivity decomposition finding"
+    action: route
+
+  - fact_index: 4
+    claim: "Mice generalize learned rules to novel stimuli upon first presentation, with performance on novel and experienced stimuli not significantly different"
+    targets:
+      - path: wiki/behaviours/generalization.md
+        section: "## Key evidence"
+        reason: "Generalization finding in categorization"
+      - wiki/behaviours/categorization.md
+        section: "## Key evidence"
+        reason: "Rule generalization in category learning"
+    action: route
+
+  # From campbell2025_hardwired_circuit_td_learning.md
+  - fact_index: 5
+    claim: "D1-MSN stimulation drives VTA dopamine neurons via a hardwired biphasic linear filter that computes a temporal difference"
+    targets:
+      - path: wiki/brain_regions/ventral_tegmental_area.md
+        section: "## Key evidence"
+        reason: "TD computation in dopamine neurons"
+      - path: wiki/brain_regions/striatum.md
+        section: "## Key evidence"
+        reason: "D1-MSN to dopamine pathway"
+      - path: wiki/computational_frameworks/temporal_difference_learning.md
+        section: "## Key evidence"
+        reason: "Hardwired TD computation mechanism"
+    action: route
+
+  - fact_index: 6
+    claim: "The temporal discount factor gamma is set by the balance of excitatory and inhibitory components of the D1-MSN to dopamine pathway"
+    targets:
+      - path: wiki/computational_frameworks/temporal_difference_learning.md
+        section: "## Key evidence"
+        reason: "Gamma mechanism in TD learning"
+      - path: wiki/brain_regions/ventral_tegmental_area.md
+        section: "## Key evidence"
+        reason: "Gamma implementation in dopamine circuit"
+    action: route
+
+  - fact_index: 7
+    claim: "TD computation is conserved across striatal subregions with region-specific parameters: biphasic impulse responses observed in lNAc, DMS, and DLS"
+    targets:
+      - path: wiki/brain_regions/striatum.md
+        section: "## Key evidence"
+        reason: "Conserved TD computation across striatum"
+      - path: wiki/brain_regions/nucleus_accumbens.md
+        section: "## Key evidence"
+        reason: "TD computation in ventral striatum"
+    action: route
+
+  # From brunec2022_predictive_representations_hierarchies.md
+  - fact_index: 8
+    claim: "Anterior PFC encodes the longest predictive horizons (up to ~875 m) while posterior hippocampus encodes the shortest (~25 m), demonstrating a multiscale successor-representation hierarchy"
+    targets:
+      - path: wiki/brain_regions/anterior_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Long predictive horizons in antPFC"
+      - path: wiki/brain_regions/hippocampus.md
+        section: "## Key evidence"
+        reason: "Short predictive horizons in posterior hippocampus"
+      - path: wiki/computational_frameworks/successor_representation.md
+        section: "## Key evidence"
+        reason: "Multiscale SR hierarchy"
+    action: route
+
+  - fact_index: 9
+    claim: "Goal-directed navigation shows longer and stronger predictive representations than GPS-guided navigation, with top-down goal representations shaping spatial scale of predictive coding"
+    targets:
+      - path: wiki/behaviours/goal_directed_navigation.md
+        section: "## Key evidence"
+        reason: "Goal-directed enhancement of predictive coding"
+      - path: wiki/brain_regions/anterior_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Top-down modulation of predictive horizons"
+    action: route
+
+  - fact_index: 10
+    claim: "Path distance modulates predictive representations oppositely in antPFC vs hippocampus: longer routes strengthen antPFC predictive signals but weaken hippocampal representations"
+    targets:
+      - path: wiki/brain_regions/anterior_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "Path distance effect in antPFC"
+      - path: wiki/brain_regions/hippocampus.md
+        section: "## Key evidence"
+        reason: "Opposite path distance effect in hippocampus"
+    action: route
+
+  # From bowler2023_cortical_inputs_hippocampal_ca1.md
+  - fact_index: 11
+    claim: "LEC and MEC direct inputs to CA1 carry distinct navigational signals: LEC representations are goal-biased and remap with goal relocation, while MEC provides stable context-specific codes"
+    targets:
+      - path: wiki/brain_regions/lateral_entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "LEC goal-biased representations"
+      - path: wiki/brain_regions/medial_entorhinal_cortex.md
+        section: "## Key evidence"
+        reason: "MEC stable context codes"
+      - path: wiki/brain_regions/hippocampus_ca1.md
+        section: "## Key evidence"
+        reason: "Integration of distinct EC inputs"
+    action: route
+
+      - claim: "LEC axons show higher spatial tuning in reward-proximal regions (50 cm preceding reward zone) across all tasks, while MEC maintains stable position coding independent of goals"
+    evidence: "Two-photon axon imaging; goal-enrichment index significantly higher for LEC; MEC position decoding stable across reward conditions"
+    topics:
+      brain_regions: [lateral_entorhinal_cortex, medial_entorhinal_cortex, hippocampus_ca1]
+      behaviours: [reward_anticipation, spatial_navigation, goal_directed_navigation]
+      computational_frameworks: [value_based_navigation, goal_vector_coding]
+      methods: [two_photon_calcium_imaging]
+    confidence: high
+
+  - claim: "LEC-CA1 projection is causally necessary for novel reward-location learning, while MEC-CA1 silencing produces no measurable deficit"
+    evidence: "Retrograde-Cre + hM4D DREADD; LEC silencing impaired learning (p<=0.001 for all DCZ days); MEC silencing showed no effect vs tdTomato controls"
+    topics:
+      brain_regions: [lateral_entorhinal_cortex, medial_entorhinal_cortex, hippocampus_ca1]
+      behaviours: [spatial_learning, reward_learning, goal_directed_navigation]
+      computational_frameworks: [causal_necessity]
+      methods: [chemogenetics, dreadd]
+    confidence: high
+
+  # From brown2016_prospective_goals_hippocampus.md
+  - source_summary: raw/summaries/brown2016_prospective_goals_hippocampus.md
+    source_year: 2016
+    facts:
+      - claim: "Hippocampal activity patterns during the planning period significantly decode the future goal location before navigation begins"
+        evidence: "High-resolution fMRI MVPA; classifier accuracy 29.4% (t16=7.54, P=1.19e-6); planning period before active navigation"
+        topics:
+          brain_regions: [hippocampus, perirhinal_cortex, parahippocampal_cortex, retrosplenial_cortex]
+          behaviours: [planning, prospective_memory, spatial_navigation, goal_directed_navigation]
+          computational_frameworks: [episodic_simulation, predictive_coding]
+          methods: [fmri, multi_voxel_pattern_analysis]
+        confidence: high
+
+      - claim: "During planning, the location most confusable with the true goal is the intervening sub-goal along the optimal route, consistent with sequential trajectory simulation"
+        evidence: "MVPA confusion matrices; classifier errors reflected route waypoints; pattern reinstatement of intermediate locations"
+        topics:
+          brain_regions: [hippocampus]
+          behaviours: [planning, route_planning, prospective_coding, spatial_navigation]
+          computational_frameworks: [episodic_simulation, model_based_rl, forward_sweep]
+          methods: [fmri, pattern_classification]
+        confidence: high
+
+      - claim: "Trial-by-trial hippocampal goal evidence positively correlates with planning-period activity in lateral and medial frontopolar cortex, suggesting PFC-hippocampal coupling during prospective simulation"
+        evidence: "Univariate PFC activity correlation with hippocampal classifier evidence; FPC activity tracked trial-by-trial goal coding strength"
+        topics:
+          brain_regions: [hippocampus, frontopolar_cortex, prefrontal_cortex, orbitofrontal_cortex]
+          behaviours: [planning, prospective_memory, episodic_simulation]
+          computational_frameworks: [hippocampal_prefrontal_interaction, top_down_control]
+          methods: [fmri, functional_connectivity]
+        confidence: medium
+
+  # From hok2005_goal_coding_prefrontal.md
+  - source_summary: raw/summaries/hok2005_goal_coding_prefrontal.md
+    source_year: 2005
+    facts:
+      - claim: "Approximately 25% of prelimbic/infralimbic mPFC neurons have spatial correlates during goal-directed navigation, with fields concentrated at goal locations"
+        evidence: "69/272 PL/IL neurons showed place fields; 77% of fields centered on goal trigger zone or food landing zone vs other locations (chi-squared=47.6, p<0.0001)"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, prelimbic_cortex, infralimbic_cortex]
+          behaviours: [spatial_navigation, goal_directed_navigation, place_preference]
+          computational_frameworks: [goal_coding, spatial_representation]
+          methods: [single_unit_recording, microwire_arrays]
+        confidence: high
+
+      - claim: "PL/IL place fields are larger and less spatially coherent than hippocampal place cells, suggesting a coarse goal-centered gradient representation"
+        evidence: "Spatial coherence: 0.48 vs 0.68 for hippocampus; field size larger at mean-rate threshold (146 vs 114 pixels)"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, hippocampus]
+          behaviours: [spatial_navigation, goal_representation]
+          computational_frameworks: [gradient_ascent, coarse_coding]
+          methods: []
+        confidence: high
+
+      - claim: "Goal-related firing in mPFC reflects motivational salience of goal locations rather than reward consumption itself, dissociated by spatial separation of trigger zone and food landing zone"
+        evidence: "Relocating feeder shifted landing zone fields; rotating cue card did not; comparable firing during navigation vs foraging episodes"
+        topics:
+          brain_regions: [medial_prefrontal_cortex]
+          behaviours: [goal_directed_navigation, motivational_salience]
+          computational_frameworks: [goal_value_representation]
+          methods: []
+        confidence: high
+
+  # From hok2013_prefrontal_place_cells.md
+  - source_summary: raw/summaries/hok2013_prefrontal_place_cells.md
+    source_year: 2013
+    facts:
+      - claim: "mPFC inactivation leaves hippocampal place cell goal-related firing intact but reduces place field overdispersion, suggesting mPFC modulates firing variability rather than average spatial structure"
+        evidence: "Lidocaine inactivation of PL/IL; goal-zone firing rate unchanged (1.17 vs 1.46 Hz, NS); overdispersion significantly reduced (Levene's W=17.850, p<0.001)"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, hippocampus_ca1, prelimbic_cortex]
+          behaviours: [spatial_navigation, place_coding]
+          computational_frameworks: [attractor_dynamics, ensemble_state_switching]
+          methods: [reversible_inactivation, lidocaine, single_unit_recording]
+        confidence: high
+
+      - claim: "mPFC inactivation increases peak firing rate and spatial coherence within place field centers without affecting spatial selectivity or field size"
+        evidence: "Peak firing rate increased (t(52)=3.047, p<0.01); spatial coherence elevated (p<0.05); spatial information content and field size unchanged"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, hippocampus_ca1]
+          behaviours: [spatial_navigation]
+          computational_frameworks: [spatial_coding, firing_rate_modulation]
+          methods: []
+        confidence: high
+
+      - claim: "mPFC is not required for maintaining hippocampal goal representations in overtrained animals, challenging the view that mPFC exerts necessary top-down organizing influence on hippocampal spatial maps"
+        evidence: "Between-session spatial correlation unchanged (0.47 vs 0.49, NS); theta ratio and peak frequency during goal period unchanged; behavior unaffected in overtrained rats"
+        topics:
+          brain_regions: [medial_prefrontal_cortex, hippocampus]
+          behaviours: [spatial_navigation, goal_directed_navigation]
+          computational_frameworks: [hippocampal_prefrontal_interaction]
+          methods: []
+        confidence: high
+
+  # From hasz2020_spatial_encoding_deliberation.md
+  - source_summary: raw/summaries/hasz2020_spatial_encoding_deliberation.md
+    source_year: 2020
+    facts:
+      - claim: "dmPFC predicts whether hippocampus enters prospective encoding mode on a broad seconds-long timescale, while hippocampal goal representations drive fast theta-cycle-locked reward encoding increases in dmPFC"
+        evidence: "Simultaneous Neuropixels recordings in rat dmPFC and CA1; Bayesian classifier predicted HPC state from dmPFC (AUROC 0.6-0.8); dmPFC reward encoding increased ~1.02% per theta cycle during HPC goal representations (p=0.0021)"
+        topics:
+          brain_regions: [dorsomedial_prefrontal_cortex, prelimbic_cortex, hippocampus_ca1]
+          behaviours: [deliberation, vicarious_trial_error, decision_making, spatial_navigation]
+          computational_frameworks: [hippocampal_prefrontal_interaction, prospective_coding, theta_coupling]
+          methods: [neuropixels, bayesian_decoding, simultaneous_recording]
+        confidence: high
+
+  # From denbakker2024_mpfc_spatial_swr.md
+  - fact_index: 0
+    claim: "SWR-unmodulated mPFC neurons show superior spatial tuning, directional selectivity, and predictive non-local coding compared to SWR-modulated neurons"
+    targets:
+      - path: wiki/brain_regions/medial_prefrontal_cortex.md
+        section: "## Key evidence"
+        reason: "SWR-unmodulated population superiority for spatial coding"
+    action: route
+
+  # From gridchyn2020_replay_selective_memory.md
+  - fact_index: 0
+    claim: "Closed-loop optogenetic disruption of content-specific hippocampal reactivation during sleep selectively impairs recall of the disrupted memories while leaving undisrupted memories intact"
+    targets:
+      - path: wiki/behaviours/hippocampal_replay.md
+        section: "## Key evidence"
+        reason: "Content-specific replay disruption effect"
+      - path: wiki/behaviours/memory_consolidation.md
+        section: "## Key evidence"
+        reason: "Selective memory impairment from replay disruption"
+    action: route
