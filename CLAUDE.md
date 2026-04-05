@@ -67,7 +67,9 @@ After `/digest`, summaries in `raw/summaries/` are ready for wiki integration.
 ```
 /wiki_init  (orchestrator: opus, summaries sorted oldest-first)
     ↓
-  Stage 0: /taxonomy_planner  →  .pipeline/taxonomy.yaml + wiki stubs + index.md
+  Stage 0a: extract metadata  →  .pipeline/summary_index.yaml (compact: one-line summaries, brain regions, keywords)
+    ↓
+  Stage 0b: /taxonomy_planner  →  .pipeline/taxonomy.yaml + wiki stubs + index.md (reads summary_index.yaml, not raw files)
     ↓  (batches of 20, checkpointed per-summary in STATUS.md)
   Stage 1: /fact_finder (×N, parallel per batch)  →  .pipeline/<stem>_facts.yaml  [YAML validated]
     ↓
@@ -142,7 +144,7 @@ Recommended page structure:
 
 1. **Current understanding** — a synthesised narrative of the best current model. Written by synthesis agents, NOT by individual fact additions. Left as a placeholder until enough Key evidence accumulates.
 2. **Key evidence** — bullet points with backlinks to supporting summaries. This is where individual paper findings land. Format: `- <Claim> ([Author Year](<relative path to summary>))`
-3. **History of ideas** — how the understanding evolved over time
+3. **History of ideas** — a chronological narrative of how the field's understanding evolved: early models, key experiments that challenged them, and the intellectual path to the current model. Written by the synthesiser alongside Current understanding, drawing on publication years and `historical_context` annotations from fact_finder. Not a publication timeline — focuses on *why* thinking changed.
 4. **Open questions** — unresolved issues flagged by the literature
 5. **Related pages** — links to other wiki pages (cross-category links encouraged)
 

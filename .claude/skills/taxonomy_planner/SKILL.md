@@ -1,9 +1,9 @@
 ---
 name: taxonomy_planner
-description: Scans all summary frontmatter and content to produce a canonical wiki taxonomy — page structure, canonical topic names, and aliases. Runs once before any routing to ensure consistent wiki organisation. Writes .pipeline/taxonomy.yaml and pre-populates index.md with stub pages.
+description: Reads a pre-built summary index (.pipeline/summary_index.yaml) and produces a canonical wiki taxonomy — page structure, canonical topic names, and aliases. Runs once before any routing to ensure consistent wiki organisation. Writes .pipeline/taxonomy.yaml and pre-populates index.md with stub pages.
 user-invocable: true
 disable-model-invocation: true
-argument-hint: []
+argument-hint: [path to .pipeline/summary_index.yaml]
 allowed-tools: Read Glob Grep Write Bash
 model: opus
 ---
@@ -16,18 +16,25 @@ You are a taxonomy planning agent. Your job is to read every summary in `raw/sum
 
 Without upfront planning, incremental routing creates inconsistent taxonomy — duplicate pages for the same concept under different names, flat structures that should be nested, and naming drift across hundreds of summaries. You solve this by making all structural decisions once, informed by the full corpus.
 
-## Step 1 — Scan all summaries
+## Input validation
 
-Glob `raw/summaries/*.md` (excluding `STATUS.md`). For each summary, read the YAML frontmatter and skim the content to extract:
-- Brain regions mentioned (from `### Brain regions & systems` section or body)
-- Behaviours / paradigms studied
-- Computational frameworks referenced
-- Methods used
-- Key topic keywords
+`$ARGUMENTS` should be a path to `.pipeline/summary_index.yaml`. If empty or the file does not exist, stop and return:
 
-You do NOT need to read every summary in full. Read the frontmatter and the section headers (`### Brain regions & systems`, `### Computational framework`, `### Methods`, `### Key findings` first lines). This is a breadth pass, not a depth pass.
+> **taxonomy_planner requires a summary index file as its argument.**
+> Usage: `/taxonomy_planner .pipeline/summary_index.yaml`
+> The index is built by wiki_init (Stage 0a) before calling this skill.
 
-Collect all topics into four lists: `brain_regions`, `behaviours`, `computational_frameworks`, `methods`.
+## Step 1 — Read the summary index
+
+Read the pre-built summary index at `$ARGUMENTS`. This file contains compact metadata extracted from every summary: filename, title, year, paper_type, one_line_summary, brain_regions, computational_framework, and keywords.
+
+From this single file, collect all topics into four lists: `brain_regions`, `behaviours`, `computational_frameworks`, `methods`. Use:
+- `brain_regions` field → brain region topics
+- `computational_framework` field → computational framework topics
+- `keywords` field → scan for behaviour/paradigm terms and method terms
+- `one_line_summary` field → supplementary context for ambiguous cases
+
+You do NOT need to read any individual summary files. The index contains everything needed for taxonomy planning.
 
 ## Step 2 — Cluster and canonicalise
 

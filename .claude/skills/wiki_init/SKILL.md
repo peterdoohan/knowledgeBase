@@ -52,11 +52,46 @@ Pass file paths (not raw YAML strings) as arguments to downstream skills. The `.
 5. **Sort the working set by year (oldest first)**. Extract the year from each filename (the digits immediately after the author surname, e.g. `stachenfeld2017_...` → 2017). Foundational papers should be processed first so the wiki backbone forms before niche findings are added. Within the same year, sort alphabetically by author.
 6. List the count, year range, and first few filenames before proceeding.
 
-## Stage 0 — Taxonomy planning
+## Stage 0a — Build summary index
 
-Spawn an agent to invoke `taxonomy_planner` (model: `opus`). No arguments needed — it scans all summaries itself.
+Before taxonomy planning, programmatically extract compact metadata from every summary in the working set into a single file. This avoids loading the full text of every summary into the taxonomy planner's context.
 
-Wait for it to complete. Verify that `.pipeline/taxonomy.yaml` was created and that `index.md` now has wiki structure entries. If taxonomy planning fails, stop — the pipeline cannot proceed without a taxonomy.
+For each summary in the working set, read it and extract:
+- `filename` — the summary filename (stem)
+- `title` — from YAML frontmatter
+- `year` — from YAML frontmatter
+- `paper_type` — from YAML frontmatter (`empirical`, `computational`, `review`)
+- `one_line_summary` — the content under `### One-line summary`
+- `brain_regions` — the content under `### Brain regions & systems` (trim to first 2–3 lines if long)
+- `computational_framework` — the first 1–2 sentences under `### Computational framework`
+- `keywords` — the keywords list from `### Connections & keywords`
+
+Write the collected metadata to `.pipeline/summary_index.yaml`:
+
+```yaml
+generated_at: <ISO 8601 UTC>
+count: <N>
+summaries:
+  - filename: adams2018_attractor_schizophrenia
+    title: "Computational Psychiatry..."
+    year: 2018
+    paper_type: computational
+    one_line_summary: "Attractor network instability may explain..."
+    brain_regions: "prefrontal cortex — proposed locus of attractor instability"
+    computational_framework: "Attractor networks with Bayesian inference..."
+    keywords: [attractor_networks, schizophrenia, prefrontal_cortex, bayesian_inference]
+  - ...
+```
+
+**Parallelisation**: you can read multiple summaries in parallel to speed this up. The extraction is purely mechanical — no reasoning needed, just parsing sections from each file.
+
+Validate the YAML output with the validation helper before proceeding.
+
+## Stage 0b — Taxonomy planning
+
+Spawn an agent to invoke `taxonomy_planner` (model: `opus`), passing `.pipeline/summary_index.yaml` as `$ARGUMENTS`.
+
+The taxonomy planner reads this single compact file instead of scanning all summaries individually. Wait for it to complete. Verify that `.pipeline/taxonomy.yaml` was created and that `index.md` now has wiki structure entries. If taxonomy planning fails, stop — the pipeline cannot proceed without a taxonomy.
 
 This stage creates all wiki stub pages and populates `index.md`, so the router has a pre-planned structure to route into.
 

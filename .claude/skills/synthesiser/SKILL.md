@@ -52,12 +52,29 @@ Write a synthesis for `## Current understanding` that:
 - **Uses inline citations**: reference source summaries with `([Author Year](relative/path/to/summary.md))` format, same as Key evidence bullets. Every substantive claim should have at least one citation.
 - **Is concise but complete**: aim for 2–6 paragraphs depending on the richness of the evidence. A page with 3 evidence bullets needs 1–2 paragraphs. A page with 20 bullets may need 4–6.
 
-### Step 3 — Write the narrative
+### Step 2.5 — Construct the History of Ideas narrative
 
-Replace the `## Current understanding` section content. Specifically:
-- Remove the placeholder text if present.
-- Write the new narrative between `## Current understanding` and the next `##` header.
-- Do NOT modify any other section of the page (`## Key evidence`, `## History of ideas`, `## Open questions`, `## Related pages`).
+After writing the Current understanding narrative, construct a chronological account for `## History of ideas` that explains how the field arrived at the current model. This section tells the intellectual story — it is not a timeline of publications but a narrative of how thinking evolved.
+
+1. **Gather temporal evidence**: from the source summaries you read in Step 1, note publication years and any `historical_context` fields in the corresponding `.pipeline/<stem>_facts.yaml` files (if they exist). Also look for explicit references to earlier work within the summaries themselves (e.g. "building on X's finding that...", "contrary to the prevailing view...").
+
+2. **Identify the arc**: organise the intellectual progression into phases. Common patterns include:
+   - An early model or assumption → key experiments that challenged it → the refined/replacement model
+   - Independent lines of evidence converging on a unified framework
+   - A methodological advance that opened a new window on the phenomenon
+
+3. **Write the narrative**: 1–4 paragraphs depending on evidence depth. Structure chronologically but focus on *why* thinking changed, not just *when*. Use inline citations with the same backlink format as Current understanding. Example tone:
+   > Early accounts treated hippocampal place cells as a static spatial map ([O'Keefe 1978](...)). The discovery of remapping ([Muller 1987](...)) challenged this view, suggesting the map was context-dependent. Successor representation models ([Stachenfeld 2017](...)) later reframed place fields as encoding predicted future states rather than current location, unifying spatial and non-spatial findings under a single predictive framework.
+
+4. **Handle sparse evidence**: if the page draws on fewer than 3 sources, write a brief 1–2 sentence note rather than fabricating a history. Mark it as preliminary: "*Based on limited sources — history will be expanded as more evidence is integrated.*"
+
+### Step 3 — Write the narratives
+
+Replace both the `## Current understanding` and `## History of ideas` section content. Specifically:
+- Remove placeholder text if present in either section.
+- Write the Current understanding narrative between `## Current understanding` and the next `##` header.
+- Write the History of ideas narrative between `## History of ideas` and the next `##` header.
+- Do NOT modify any other section of the page (`## Key evidence`, `## Open questions`, `## Related pages`).
 - If there are `[!INCONSISTENCY]` markers within Current understanding from a previous reviewer pass, resolve them if your synthesis addresses the conflict, or preserve them if it doesn't.
 
 ### Step 4 — Update Open questions (optional)

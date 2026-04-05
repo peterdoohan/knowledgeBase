@@ -34,6 +34,16 @@ Extract 3–8 facts. A good fact is:
 
 Do not extract background or motivation statements — only findings and contributions.
 
+### Historical context (optional per fact)
+
+For each fact, consider whether it represents a shift in the field's understanding. If so, add a `historical_context` field noting one of:
+- **Introduced**: first demonstration or proposal of a concept (e.g. "First evidence that place cells remap between environments")
+- **Challenged**: contradicted a prevailing view (e.g. "Challenged the idea that grid cells require path integration; showed they persist with only visual cues")
+- **Refined**: extended or nuanced an existing model (e.g. "Extended successor representation theory to account for policy-dependent place fields")
+- **Replaced**: superseded an older framework (e.g. "Replaced the cognitive map hypothesis with a predictive map account")
+
+Omit `historical_context` if the fact is a straightforward finding that doesn't meaningfully relate to the evolution of ideas in the field. Not every fact needs one — aim for roughly half.
+
 ## Output format
 
 Write the YAML output to a file AND return it as text.
@@ -49,6 +59,7 @@ source_year: <year from YAML frontmatter>
 facts:
   - claim: "<specific claim>"
     evidence: "<brief note on what supports this — e.g. 'model comparison favoured κ₁ over α across two datasets'>"
+    historical_context: "<optional — how this finding relates to the evolution of ideas: did it introduce, challenge, refine, or replace a prior model? e.g. 'Challenged the view that dopamine signals pure reward; showed it encodes precision-weighted prediction errors instead'>"
     topics:
       brain_regions: [<list or empty>]
       behaviours: [<list or empty>]
@@ -58,6 +69,7 @@ facts:
 
   - claim: "..."
     evidence: "..."
+    historical_context: "..."
     topics:
       brain_regions: []
       behaviours: []
