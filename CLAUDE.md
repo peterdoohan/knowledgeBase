@@ -1,6 +1,8 @@
 # CLAUDE.md — Knowledge Base
 
-This is a personal academic knowledge base for neuroscience research. It stores paper summaries, raw paper conversions, and a structured wiki of current scientific understanding, all designed to be navigated and updated by AI agents.
+This is an AI-maintained neuroscience knowledge base. Its purpose is to generate deeply literature-informed summaries when a user queries a topic. Agents continually review papers to build and maintain a structured wiki representing humanity's best current understanding of how the brain works, alongside an up-to-date index of tools and active research avenues.
+
+The repo stores raw papers, structured summaries, and a living wiki — all designed to be navigated, updated, and queried by AI agents autonomously. The repo should also be structured so that it is human-readable when opened in tools like Obsidian — standard markdown, relative links between files, and a navigable folder hierarchy.
 
 ---
 
@@ -22,6 +24,7 @@ wiki/
 
 index.md        # Wiki navigation and primitive search index — read this before globbing wiki/
 log.md          # Append-only YAML activity log — read this to check recent agent activity
+.pipeline/      # Temp directory for intermediate YAML files during pipeline runs (can be cleaned up)
 CLAUDE.md       # This file
 ```
 
@@ -47,6 +50,7 @@ Wiki pages use descriptive snake_case names reflecting the concept, not a paper:
 
 ## Pipeline overview
 
+### Ingestion
 ```
 raw/inbox/<paper>.pdf
     ↓ /digest
@@ -58,6 +62,23 @@ raw/inbox/<paper>.pdf
 ```
 
 After `/digest`, summaries in `raw/summaries/` are ready for wiki integration.
+
+### Wiki init (cold start)
+```
+/wiki_init
+    ↓
+  Stage 0: /taxonomy_planner  →  .pipeline/taxonomy.yaml + wiki stubs + index.md
+    ↓
+  Stage 1: /fact_finder (×N, parallel per batch)  →  .pipeline/<stem>_facts.yaml
+    ↓
+  Stage 2: /router (sequential)  →  .pipeline/<stem>_routing.yaml
+    ↓
+  Stage 3: /wiki_writer (parallel across different pages)  →  wiki pages updated
+    ↓
+  Stage 5: /synthesiser batch  →  Current understanding narratives written
+    ↓
+  Stage 6: /reviewer  →  [!INCONSISTENCY] markers + cross-links
+```
 
 ---
 
@@ -75,10 +96,12 @@ After `/digest`, summaries in `raw/summaries/` are ready for wiki integration.
 
 | Skill | Trigger | What it does |
 |---|---|---|
-| `/wiki_init` | Manual, once on a cold wiki | Bootstraps wiki from all summaries in `raw/summaries/`; runs full pipeline then reviewer |
-| `/fact_finder` | Called by `/wiki_init` or `/wiki_integrate` | Extracts 3–8 discrete, wiki-ready facts from a single summary as a YAML payload |
-| `/router` | Called by `/wiki_init` or `/wiki_integrate` | Routes facts to target wiki pages; creates stub pages and updates `index.md` as needed |
-| `/wiki_writer` | Called by `/wiki_init` or `/wiki_integrate` | Writes a single routed fact to a wiki page; checks for duplication and relevance first |
+| `/wiki_init` | Manual, once on a cold wiki | Bootstraps wiki from all summaries; runs taxonomy → facts → route → write → synthesise → review |
+| `/taxonomy_planner` | Called by `/wiki_init` or manually | Scans all summaries, designs canonical wiki structure, creates stubs, writes `.pipeline/taxonomy.yaml` |
+| `/fact_finder` | Called by `/wiki_init` or `/wiki_integrate` | Extracts 3–8 discrete, wiki-ready facts from a single summary; normalises topics against taxonomy |
+| `/router` | Called by `/wiki_init` or `/wiki_integrate` | Routes facts to pre-planned wiki pages; creates new stubs only if topic falls outside taxonomy |
+| `/wiki_writer` | Called by `/wiki_init` or `/wiki_integrate` | Writes routed facts to wiki pages; checks for duplication and relevance; append-only logging |
+| `/synthesiser` | Called by `/wiki_init` or manually | Reads Key evidence on wiki pages and writes Current understanding narratives; batch or single-page mode |
 | `/reviewer` | Called at end of `/wiki_init` or manually | Adversarial pass over recent wiki changes; flags inconsistencies with `[!INCONSISTENCY]` markers |
 
 ---
@@ -115,13 +138,17 @@ Each wiki page represents the **current scientific understanding** of a concept 
 
 Recommended page structure:
 
-1. **Current understanding** — the best current model of how this thing works, synthesised across all digested papers
-2. **Key evidence** — bullet points with links to supporting summaries (`[Adams 2018](../../raw/summaries/adams2018_attractor_schizophrenia.md)`)
+1. **Current understanding** — a synthesised narrative of the best current model. Written by synthesis agents, NOT by individual fact additions. Left as a placeholder until enough Key evidence accumulates.
+2. **Key evidence** — bullet points with backlinks to supporting summaries. This is where individual paper findings land. Format: `- <Claim> ([Author Year](<relative path to summary>))`
 3. **History of ideas** — how the understanding evolved over time
 4. **Open questions** — unresolved issues flagged by the literature
 5. **Related pages** — links to other wiki pages (cross-category links encouraged)
 
-Wiki pages should link back to `raw/summaries/` and `raw/mds/` files for agents that need to query the source material.
+Wiki pages should link back to `raw/summaries/` and `raw/mds/` files so agents can query source material for more detail.
+
+**Relative links**: calculate the correct relative path based on the wiki page's nesting depth. Pages at `wiki/<category>/<page>.md` use `../../raw/summaries/`. Pages at `wiki/<category>/<sub>/<page>.md` use `../../../raw/summaries/`. Cross-wiki links use relative paths between the two pages.
+
+**Inconsistency markers**: the `/reviewer` agent may add `> [!INCONSISTENCY]` callout blocks to flag contradictions between papers. These are working flags — once resolved (through user interaction or new evidence), they are removed and the settled understanding becomes normal wiki content.
 
 ---
 

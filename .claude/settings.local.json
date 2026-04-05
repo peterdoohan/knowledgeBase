@@ -21,7 +21,8 @@
       "Bash(mv /Users/vyp730/Projects/knowledgeBase/.claude/commands/make_summary.md /Users/vyp730/Projects/knowledgeBase/.claude/skills/make_summary/SKILL.md)",
       "Bash(conda list:*)",
       "Bash(conda info:*)",
-      "Bash(python -c \"import sys; print\\(sys.version\\)\")"
+      "Bash(python -c \"import sys; print\\(sys.version\\)\")",
+      "Bash(ls /Users/vyp730/Projects/knowledgeBase/raw/summaries/*.md)"
     ]
   }
 }

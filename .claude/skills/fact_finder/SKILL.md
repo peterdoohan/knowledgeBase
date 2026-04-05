@@ -36,12 +36,16 @@ Do not extract background or motivation statements — only findings and contrib
 
 ## Output format
 
-Return a YAML block and nothing else after it. Do not write any files.
+Write the YAML output to a file AND return it as text.
+
+**File output**: derive the stem from the input filename (e.g. `adams2018_attractor_schizophrenia` from `raw/summaries/adams2018_attractor_schizophrenia.md`) and write to `.pipeline/<stem>_facts.yaml`.
+
+**YAML schema**:
 
 ```yaml
 source_summary: raw/summaries/<filename>.md
-source_title: <paper title>
-source_year: <year>
+source_title: <paper title from YAML frontmatter>
+source_year: <year from YAML frontmatter>
 facts:
   - claim: "<specific claim>"
     evidence: "<brief note on what supports this — e.g. 'model comparison favoured κ₁ over α across two datasets'>"
@@ -62,6 +66,20 @@ facts:
     confidence: <high | medium | low>
 ```
 
+**Topic normalisation** — before assigning topic names, check if `.pipeline/taxonomy.yaml` exists. If it does:
+
+1. Read the `alias_map` section.
+2. For every topic you would assign to a fact, check if it (or a close variant) appears in the alias map. If so, use the **canonical name** (the value), not your original name.
+3. If a topic does not appear in the alias map at all, use a consistent lowercase_snake_case name and it will be handled by the router.
+
+If `.pipeline/taxonomy.yaml` does not exist, fall back to these conventions:
+- Brain regions: `hippocampus`, `prefrontal_cortex`, `ventral_striatum`, `entorhinal_cortex`, etc.
+- Behaviours: `spatial_navigation`, `decision_making`, `sequence_learning`, etc.
+- Computational frameworks: `reinforcement_learning`, `bayesian_inference`, `attractor_networks`, etc.
+- Methods: `electrophysiology`, `fmri`, `two_step_task`, `spike_sorting`, etc.
+
+Using canonical names from the taxonomy is critical for consistent routing — it prevents duplicate wiki pages from being created for the same concept under different names.
+
 `confidence` reflects how clearly the paper supports the claim:
 - `high` — direct experimental or modelling result
 - `medium` — inferred or indirect, but well-motivated
@@ -70,7 +88,7 @@ facts:
 ## Status line
 
 End with:
-`STATUS: success | source=<filename> | facts=<N>`
+`STATUS: success | source=<filename> | facts=<N> | output=.pipeline/<stem>_facts.yaml`
 
 Or on failure:
 `STATUS: failed | source=<filename> | reason=<brief reason>`
