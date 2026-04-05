@@ -65,13 +65,15 @@ After `/digest`, summaries in `raw/summaries/` are ready for wiki integration.
 
 ### Wiki init (cold start)
 ```
-/wiki_init
+/wiki_init  (orchestrator: opus, summaries sorted oldest-first)
     ↓
   Stage 0: /taxonomy_planner  →  .pipeline/taxonomy.yaml + wiki stubs + index.md
+    ↓  (batches of 20, checkpointed per-summary in STATUS.md)
+  Stage 1: /fact_finder (×N, parallel per batch)  →  .pipeline/<stem>_facts.yaml  [YAML validated]
     ↓
-  Stage 1: /fact_finder (×N, parallel per batch)  →  .pipeline/<stem>_facts.yaml
+  Stage 1.5: dedup manifest  →  .pipeline/batch_<N>_dedup.yaml
     ↓
-  Stage 2: /router (sequential)  →  .pipeline/<stem>_routing.yaml
+  Stage 2: /router (batched, ~1 call per batch)  →  .pipeline/<stem>_routing.yaml  [YAML validated]
     ↓
   Stage 3: /wiki_writer (parallel across different pages)  →  wiki pages updated
     ↓

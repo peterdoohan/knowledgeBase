@@ -3,7 +3,7 @@ name: router
 description: Receives a fact payload from fact_finder and determines which wiki pages it should be written to. Creates stub pages and updates index.md when no suitable page exists. Returns routing decisions to the caller. Usually called programmatically.
 user-invocable: true
 disable-model-invocation: true
-argument-hint: [path to a _facts.yaml file in .pipeline/]
+argument-hint: [path(s) to _facts.yaml file(s) in .pipeline/ — single path or space-separated list]
 allowed-tools: Read Glob Grep Write Bash
 model: sonnet
 ---
@@ -14,9 +14,11 @@ You are a routing agent. You receive a set of facts extracted from a paper summa
 
 ## Input
 
-`$ARGUMENTS` is a path to a `.yaml` file (typically `.pipeline/<stem>_facts.yaml`). Read this file to get the facts payload.
+`$ARGUMENTS` is one or more paths to `.yaml` files (typically `.pipeline/<stem>_facts.yaml`), space-separated. Read each file to get its facts payload.
 
-The file contains `source_summary`, `source_title`, `source_year`, and a `facts` list.
+Each file contains `source_summary`, `source_title`, `source_year`, and a `facts` list.
+
+**Batch mode**: when multiple paths are provided, process all files in sequence within a single invocation. Read `index.md` and `taxonomy.yaml` once at the start, then route facts from each file in order. This avoids the overhead of re-reading shared state for every summary. Write a separate `_routing.yaml` output file for each input file.
 
 ## Step 1 — Read the index and taxonomy
 
@@ -118,5 +120,13 @@ Also return the full YAML as text output.
 
 ## Status line
 
-End with:
+For single-file input, end with:
 `STATUS: success | facts_in=<N> | routed=<N> | skipped=<N> | stubs_created=<N> | output=.pipeline/<stem>_routing.yaml`
+
+For batch input (multiple files), end with one STATUS line per file:
+```
+STATUS: success | source=<stem1> | facts_in=<N> | routed=<N> | skipped=<N> | output=.pipeline/<stem1>_routing.yaml
+STATUS: success | source=<stem2> | facts_in=<N> | routed=<N> | skipped=<N> | output=.pipeline/<stem2>_routing.yaml
+...
+```
+And a final summary: `BATCH_STATUS: success | files=<N> | total_routed=<N> | total_skipped=<N> | stubs_created=<N>`
