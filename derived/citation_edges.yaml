@@ -1,8 +1,8 @@
-generated_at: "2026-04-12T14:19:58.094198+00:00"
-edge_count: 520
+generated_at: "2026-04-12T14:32:33.163144+00:00"
+edge_count: 522
 auto_accept_count: 524
-judged_accept_count: 0
-unresolved_count: 193
+judged_accept_count: 2
+unresolved_count: 191
 edges:
   -
     source: adams_delusions_inference_attractors
@@ -28,6 +28,30 @@ edges:
       evidence_excerpt: "Daw et al. 2011 (original two-step task), Wunderlich et al., Otto et al. (human two-step literature), Killcross & Coutureau / Balleine & Dickinson (goal-directed vs. habitual lesion literature)"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: akam2015_two_step_task_simple_plans
+    target: daw2011_model_based_striatal_prediction
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Background & motivation"
+      mention_text: "Daw et al. 2011"
+      evidence_excerpt: "The two-step task (Daw et al. 2011) was developed to dissociate model-based from model-free reinforcement learning (RL) in humans and animals"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: akam2021_anterior_cingulate_model
+    target: daw2011_model_based_striatal_prediction
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Background & motivation"
+      mention_text: "Daw et al. 2011"
+      evidence_excerpt: ", the two-step task, Daw et al. 2011) were not well-suited to rodent neurophysiology, and had not been combined with single-unit recordings or causal manipulations in anterior cingulate cortex (ACC)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: ambrose2016_reverse_replay_hippocampal
     target: singer2009_reward_reactivation_hippocampus

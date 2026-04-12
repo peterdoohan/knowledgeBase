@@ -39,14 +39,14 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--provider",
-        choices=("anthropic_api", "claude"),
+        choices=("anthropic_api", "openai_api", "claude"),
         default="anthropic_api",
         help="Judge backend to use.",
     )
     parser.add_argument(
         "--model",
         default="claude-opus-4-6",
-        help="Judge model name. For Anthropic API, defaults to Claude Opus 4.6.",
+        help="Judge model name. Defaults to Claude Opus 4.6; pass gpt-5.4 for OpenAI.",
     )
     parser.add_argument(
         "--candidate-id",
@@ -241,6 +241,54 @@ def run_anthropic_api(prompt: str, model: str) -> Dict[str, Any]:
     return parse_json_text(text)
 
 
+def run_openai_api(prompt: str, model: str) -> Dict[str, Any]:
+    api_key = os.environ.get("OPENAI_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY is not set")
+
+    payload = {
+        "model": model,
+        "input": prompt,
+        "text": {
+            "verbosity": "low",
+        },
+        "reasoning": {
+            "effort": "low",
+        },
+    }
+    request = urllib.request.Request(
+        url="https://api.openai.com/v1/responses",
+        data=json.dumps(payload).encode("utf-8"),
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=120) as response:
+            body = response.read().decode("utf-8")
+    except urllib.error.HTTPError as exc:
+        error_body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"openai api error {exc.code}: {error_body}") from exc
+    except urllib.error.URLError as exc:
+        raise RuntimeError(f"openai api request failed: {exc}") from exc
+
+    parsed = json.loads(body)
+    output = parsed.get("output", []) or []
+    text_chunks = []
+    for item in output:
+        if item.get("type") != "message":
+            continue
+        for content in item.get("content", []) or []:
+            if content.get("type") == "output_text":
+                text_chunks.append(content.get("text", ""))
+    text = "\n".join(chunk for chunk in text_chunks if chunk).strip()
+    if not text:
+        raise RuntimeError("openai api returned no text content")
+    return parse_json_text(text)
+
+
 def judge_candidate(
     candidate: Dict[str, Any],
     paper_index: Dict[str, Dict[str, Any]],
@@ -250,6 +298,8 @@ def judge_candidate(
     prompt = build_prompt(candidate, paper_index)
     if provider == "anthropic_api":
         result = run_anthropic_api(prompt, model)
+    elif provider == "openai_api":
+        result = run_openai_api(prompt, model)
     else:
         result = run_claude(prompt)
     return OrderedDict(
