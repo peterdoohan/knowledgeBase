@@ -1,18 +1,57 @@
 ---
-source_file: "campagner2023_cortico_collicular_shelter.md"
-paper_id: "campagner2023_cortico_collicular_shelter"
+source_file: campagner2023_cortico_collicular_shelter.md
+paper_id: campagner2023_cortico_collicular_shelter
 title: "A cortico-collicular circuit for orienting to shelter during escape"
-authors: "Dario Campagner, Ruben Vale, Yu Lin Tan, Panagiota Iordanidou, Oriol Pav\u00f3n Arocas, Federico Claudi, A. Vanessa Stempel, Sepiedeh Keshavarzi, Rasmus S. Petersen, Troy W. Margrie, Tiago Branco"
+authors:
+  - "Dario Campagner"
+  - "Ruben Vale"
+  - "Yu Lin Tan"
+  - "Panagiota Iordanidou"
+  - "Oriol Pavón Arocas"
+  - "Federico Claudi"
+  - "A. Vanessa Stempel"
+  - "Sepiedeh Keshavarzi"
+  - "Rasmus S. Petersen"
+  - "Troy W. Margrie"
+  - "Tiago Branco"
 year: 2023
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["navigation_task"]
-methods: ["optogenetics", "neuropixels", "computational_modeling"]
-brain_regions: ["anterior_cingulate_cortex", "retrosplenial_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["cortico", "collicular", "circuit", "orienting", "shelter", "during", "escape"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - navigation_task
+methods:
+  - optogenetics
+  - neuropixels
+  - computational_modeling
+brain_regions:
+  - anterior_cingulate_cortex
+  - retrosplenial_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - egocentric_shelter_direction_encoding
+  - cortico_collicular_circuit
+  - escape_behaviour
+  - memory_guided_orienting
+  - feedforward_lateral_inhibition
+  - superior_colliculus_cell_types_vglut2
+  - vgat
+  - retrosplenial_cortex_spatial_coding
+  - defensive_navigation
+  - goal_direction_vector
+  - chemogenetic_projection_specific_inactivation
+  - opto_tagging
+  - spiking_ring_attractor_network
+  - cortico
+  - collicular
+  - circuit
+  - orienting
+  - shelter
+  - during
+  - escape
 ---
 
 ### One-line summary

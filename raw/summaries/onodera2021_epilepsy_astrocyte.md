@@ -1,17 +1,51 @@
 ---
-source_file: "onodera2021_epilepsy_astrocyte.md"
-paper_id: "onodera2021_epilepsy_astrocyte"
+source_file: onodera2021_epilepsy_astrocyte.md
+paper_id: onodera2021_epilepsy_astrocyte
 title: "Exacerbation of Epilepsy by Astrocyte Alkalization and Gap Junction Uncoupling"
-authors: "Mariko Onodera, Jan Meyer, Kota Furukawa, Yuichi Hiraoka, Tomomi Aida, Kohichi Tanaka, Kenji F. Tanaka, Christine R. Rose, Ko Matsui"
+authors:
+  - "Mariko Onodera"
+  - "Jan Meyer"
+  - "Kota Furukawa"
+  - "Yuichi Hiraoka"
+  - "Tomomi Aida"
+  - "Kohichi Tanaka"
+  - "Kenji F. Tanaka"
+  - "Christine R. Rose"
+  - "Ko Matsui"
 year: 2021
 journal: "The Journal of Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["exacerbation", "epilepsy", "astrocyte", "alkalization", "gap", "junction", "uncoupling"]
-key_citations: ["wang2020_alternating_theta_sequences"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - astrocyte_gap_junction_uncoupling
+  - connexin_ph_sensitivity
+  - extracellular_potassium_clearance
+  - na_hco3_cotransporter_nbc
+  - nbce1
+  - epileptogenesis
+  - spatial_buffering
+  - hippocampal_astrocyte_syncytium
+  - intracellular_alkalization
+  - rapid_kindling
+  - s0859_nbc_blocker
+  - astrocyte_plasticity
+  - sbfi_sodium_imaging
+  - exacerbation
+  - epilepsy
+  - astrocyte
+  - alkalization
+  - gap
+  - junction
+  - uncoupling
+key_citations:
+  - wang2020_alternating_theta_sequences
 ---
 
 ### One-line summary

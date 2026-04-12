@@ -1,19 +1,57 @@
 ---
-source_file: "samborska2021_hippocampus_prefrontal_gen_b.md"
-paper_id: "samborska2021_hippocampus_prefrontal_gen_b"
+source_file: samborska2021_hippocampus_prefrontal_gen_b.md
+paper_id: samborska2021_hippocampus_prefrontal_gen_b
 title: "Complementary task representations in hippocampus and prefrontal cortex for generalising the structure of problems"
-authors: "Veronika Samborska, James Butler, Mark Walton, Timothy E.J. Behrens, Thomas Akam"
+authors:
+  - "Veronika Samborska"
+  - "James Butler"
+  - "Mark Walton"
+  - "Timothy E.J. Behrens"
+  - "Thomas Akam"
 year: 2021
 journal: "bioRxiv (preprint)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["probabilistic_reversal_learning"]
-methods: ["electrophysiology", "representational_similarity_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "tolman_eichenbaum_machine"]
-keywords: ["complementary", "task", "representations", "hippocampus", "prefrontal", "cortex", "generalising", "structure", "problems"]
-key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "whittington2020_tolman_eichenbaum_machine", "baram2021_entorhinal_ventromedial_rl"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - probabilistic_reversal_learning
+methods:
+  - electrophysiology
+  - representational_similarity_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - tolman_eichenbaum_machine
+keywords:
+  - generalisation
+  - transfer_learning
+  - meta_learning
+  - schema
+  - reversal_learning
+  - medial_prefrontal_cortex
+  - hippocampus
+  - ca1
+  - representational_similarity_analysis
+  - singular_value_decomposition
+  - abstraction
+  - remapping
+  - policy_representation
+  - cell_assemblies
+  - low_dimensional_representations
+  - complementary_learning_systems
+  - cognitive_map
+  - sensorimotor_abstraction
+  - episodic_memory
+  - learning_set
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
+  - whittington2020_tolman_eichenbaum_machine
+  - baram2021_entorhinal_ventromedial_rl
 ---
 
 ### One-line summary

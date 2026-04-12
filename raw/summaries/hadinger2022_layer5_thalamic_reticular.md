@@ -1,16 +1,48 @@
 ---
-source_file: "hadinger2022_layer5_thalamic_reticular.md"
-paper_id: "hadinger2022_layer5_thalamic_reticular"
+source_file: hadinger2022_layer5_thalamic_reticular.md
+paper_id: hadinger2022_layer5_thalamic_reticular
 title: "Region-selective control of the thalamic reticular nucleus via cortical layer 5 pyramidal cells"
-authors: "N\u00f3ra H\u00e1dinger, Em\u00edlia B\u0151sz, Bogl\u00e1rka T\u00f3th, Gil Vantomme, Anita L\u00fcthi, L\u00e1szl\u00f3 Acs\u00e1dy"
+authors:
+  - "Nóra Hádinger"
+  - "Emília Bősz"
+  - "Boglárka Tóth"
+  - "Gil Vantomme"
+  - "Anita Lüthi"
+  - "László Acsády"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["prefrontal_cortex", "infralimbic_cortex", "mediodorsal_thalamus"]
-keywords: ["region", "selective", "control", "thalamic", "reticular", "nucleus", "via", "cortical", "layer", "pyramidal"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - prefrontal_cortex
+  - infralimbic_cortex
+  - mediodorsal_thalamus
+keywords:
+  - corticothalamic_pathway
+  - layer_5
+  - pyramidal_tract
+  - thalamic_reticular_nucleus
+  - intrathalamic_inhibition
+  - cortical_synchrony
+  - burst_coding
+  - optogenetics
+  - feed_forward_inhibition
+  - lateral_inhibition
+  - nmda_ampa_ratio
+  - short_term_synaptic_depression
+  - region
+  - selective
+  - control
+  - thalamic
+  - reticular
+  - nucleus
+  - via
+  - cortical
 ---
 
 ### One-line summary

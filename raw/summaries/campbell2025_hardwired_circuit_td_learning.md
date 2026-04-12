@@ -1,18 +1,58 @@
 ---
-source_file: "campbell2025_hardwired_circuit_td_learning.md"
-paper_id: "campbell2025_hardwired_circuit_td_learning"
+source_file: campbell2025_hardwired_circuit_td_learning.md
+paper_id: campbell2025_hardwired_circuit_td_learning
 title: "A hardwired neural circuit for temporal difference learning"
-authors: "Malcolm G. Campbell, Yongsoo Ra, Zhiqin Chen, Shudi Xu, Mark Burrell, Sara Matias, Mitsuko Watabe-Uchida, Naoshige Uchida"
+authors:
+  - "Malcolm G. Campbell"
+  - "Yongsoo Ra"
+  - "Zhiqin Chen"
+  - "Shudi Xu"
+  - "Mark Burrell"
+  - "Sara Matias"
+  - "Mitsuko Watabe-Uchida"
+  - "Naoshige Uchida"
 year: 2025
 journal: "bioRxiv (preprint)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "optogenetics", "electrophysiology", "neuropixels"]
-brain_regions: ["striatum", "dorsomedial_striatum", "dorsolateral_striatum", "nucleus_accumbens", "ventral_tegmental_area"]
-frameworks: ["reinforcement_learning", "temporal_difference_learning"]
-keywords: ["hardwired", "neural", "circuit", "temporal", "difference", "learning"]
-key_citations: ["jeong2022_mesolimbic_dopamine_causal", "schultz1997_neural_substrate_reward_pred"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - optogenetics
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+  - temporal_difference_learning
+keywords:
+  - temporal_difference_learning
+  - dopamine_reward_prediction_error
+  - d1_medium_spiny_neurons
+  - nucleus_accumbens
+  - temporal_discounting_discount_factor_gamma
+  - linear_time_invariant_systems
+  - biphasic_impulse_response
+  - antidromic_optotagging
+  - neuropixels_electrophysiology
+  - grabda3m_dopamine_photometry
+  - patterned_optogenetic_stimulation
+  - hardwired_neural_circuit
+  - hardwired
+  - neural
+  - circuit
+  - temporal
+  - difference
+  - learning
+key_citations:
+  - jeong2022_mesolimbic_dopamine_causal
+  - schultz1997_neural_substrate_reward_pred
 ---
 
 ### One-line summary

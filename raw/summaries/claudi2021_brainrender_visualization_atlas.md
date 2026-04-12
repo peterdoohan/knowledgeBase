@@ -1,17 +1,46 @@
 ---
-source_file: "claudi2021_brainrender_visualization_atlas.md"
-paper_id: "claudi2021_brainrender_visualization_atlas"
+source_file: claudi2021_brainrender_visualization_atlas.md
+paper_id: claudi2021_brainrender_visualization_atlas
 title: "Visualizing anatomically registered data with brainrender"
-authors: "Federico Claudi, Adam L Tyson, Luigi Petrucco, Troy W Margrie, Ruben Portugues, Tiago Branco"
+authors:
+  - "Federico Claudi"
+  - "Adam L Tyson"
+  - "Luigi Petrucco"
+  - "Troy W Margrie"
+  - "Ruben Portugues"
+  - "Tiago Branco"
 year: 2021
-journal: "eLife"
-paper_type: "computational"
-contribution_type: "methodological"
-species: ["mouse", "human"]
-methods: ["neuropixels"]
-brain_regions: ["hippocampus", "thalamus", "periaqueductal_gray"]
-keywords: ["visualizing", "anatomically", "registered", "data", "brainrender"]
-key_citations: ["wang2020_alternating_theta_sequences"]
+journal: eLife
+paper_type: computational
+contribution_type: methodological
+species:
+  - mouse
+methods:
+  - neuropixels
+brain_regions:
+  - hippocampus
+  - thalamus
+  - periaqueductal_gray
+keywords:
+  - 3d_brain_visualization
+  - neuroanatomical_atlas
+  - python_neuroscience_tools
+  - atlas_registration
+  - brain_wide_imaging
+  - neuronal_morphology_rendering
+  - mesoscale_connectomics
+  - brainglobe
+  - open_source_neuroscience_software
+  - multi_atlas_compatibility
+  - interactive_3d_rendering
+  - volumetric_data_visualization
+  - visualizing
+  - anatomically
+  - registered
+  - data
+  - brainrender
+key_citations:
+  - wang2020_alternating_theta_sequences
 ---
 
 ### One-line summary

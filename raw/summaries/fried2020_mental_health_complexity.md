@@ -1,14 +1,39 @@
 ---
-source_file: "fried2020_mental_health_complexity.md"
-paper_id: "fried2020_mental_health_complexity"
+source_file: fried2020_mental_health_complexity.md
+paper_id: fried2020_mental_health_complexity
 title: "Systems all the way down: embracing complexity in mental health research"
-authors: "Eiko I. Fried, Donald J. Robinaugh"
+authors:
+  - "Eiko I. Fried"
+  - "Donald J. Robinaugh"
 year: 2020
 journal: "BMC Medicine"
-paper_type: "review"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-keywords: ["mclaughlin_et_al_2020_transdiagnostic_model_of_childhood_trauma_and_psychopathology", "ioannidis_et_al_2020_complex_neurobiology_of_resilience_after_childhood_maltreatment", "fritz_et_al_2019_network_analysis_of_resilience_factors_in_adolescents", "franklin_2019_psychological_primitives_and_biopsychosocial_factor_complexity", "burger_et_al_2020_computational_model_of_functional_analysis_idiographic_case_conceptualisation", "hayes_and_andrews_2020_complex_systems_approach_to_psychotherapy", "kendler_2012_dappled_nature_of_causes_of_psychiatric_illness", "cicchetti_and_rogosch_1996_equifinality_and_multifinality_in_developmental_psychopathology", "barabasi_2012_network_takeover", "named_models_or_frameworks", "complex_systems_complexity_science", "network_analysis_psychopathology_networks", "attractor_states_and_state_space_trajectories", "early_warning_signals", "network_destabilisation", "psychological_primitives_franklin", "computational_idiographic_case_conceptualisation_burger_et_al", "transdiagnostic_models_of_risk_and_resilience", "brain_regions", "not_applicable_systems_level_editorial"]
+paper_type: review
+contribution_type: theoretical
+methods:
+  - computational_modeling
+keywords:
+  - complex_systems_psychiatry
+  - psychopathology_networks
+  - attractor_dynamics_mental_health
+  - multifinality_equifinality
+  - transdiagnostic_resilience_factors
+  - childhood_adversity_developmental_psychopathology
+  - network_destabilisation_psychotherapy
+  - early_warning_signals_mental_health
+  - idiographic_computational_models
+  - biopsychosocial_systems
+  - systems_approach_mental_illness
+  - complexity_science_clinical_psychology
+  - systems
+  - all
+  - way
+  - down
+  - embracing
+  - complexity
+  - mental
+  - health
+key_citations:
+  - hayes2020_complex_systems_psychotherapy
 ---
 
 ### One-line summary

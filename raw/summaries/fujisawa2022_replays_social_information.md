@@ -1,17 +1,42 @@
 ---
-source_file: "fujisawa2022_replays_social_information.md"
-paper_id: "fujisawa2022_replays_social_information"
+source_file: fujisawa2022_replays_social_information.md
+paper_id: fujisawa2022_replays_social_information
 title: "Replays of socially acquired information in the hippocampus"
-authors: "Shigeyoshi Fujisawa, Ayako Ouchi"
+authors:
+  - "Shigeyoshi Fujisawa"
+  - "Ayako Ouchi"
 year: 2022
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat", "human"]
-tasks: ["t_maze"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["replays", "socially", "acquired", "information", "hippocampus"]
-key_citations: ["mou_ji2022_observational_learning_replay", "behrens2018_cognitive_map_organizing_knowledge"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - rat
+tasks:
+  - t_maze
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - hippocampal_replay
+  - place_cells
+  - observational_learning
+  - social_memory
+  - sharp_wave_ripples
+  - awake_remote_replay
+  - prospective_planning
+  - cognitive_map
+  - t_maze
+  - social_observation
+  - memory_consolidation
+  - sequence_reactivation
+  - replays
+  - socially
+  - acquired
+  - information
+  - hippocampus
+key_citations:
+  - mou_ji2022_observational_learning_replay
+  - behrens2018_cognitive_map_organizing_knowledge
 ---
 
 ### One-line summary

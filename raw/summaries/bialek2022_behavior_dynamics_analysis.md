@@ -1,13 +1,28 @@
 ---
-source_file: "bialek2022_behavior_dynamics_analysis.md"
-paper_id: "bialek2022_behavior_dynamics_analysis"
+source_file: bialek2022_behavior_dynamics_analysis.md
+paper_id: bialek2022_behavior_dynamics_analysis
 title: "On the dimensionality of behavior"
-authors: "William Bialek"
+authors:
+  - "William Bialek"
 year: 2022
-journal: "PNAS"
-paper_type: "computational"
-contribution_type: "theoretical"
-keywords: ["dimensionality", "behavior"]
+journal: PNAS
+paper_type: computational
+contribution_type: theoretical
+keywords:
+  - behavioral_dimensionality
+  - predictive_information
+  - past_future_kernel
+  - gaussian_stochastic_process
+  - correlation_function
+  - maximum_entropy
+  - maximum_caliber
+  - power_law_correlations
+  - effectively_infinite_dimensionality
+  - dynamical_systems
+  - computational_neuroethology
+  - physics_of_behavior
+  - dimensionality
+  - behavior
 ---
 
 ### One-line summary

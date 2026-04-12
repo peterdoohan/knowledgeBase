@@ -1,13 +1,39 @@
 ---
-source_file: "sorgen2004_connexin43_structural_domain.md"
-paper_id: "sorgen2004_connexin43_structural_domain"
+source_file: sorgen2004_connexin43_structural_domain.md
+paper_id: sorgen2004_connexin43_structural_domain
 title: "Structural Changes in the Carboxyl Terminus of the Gap Junction Protein Connexin43 Indicates Signaling between Binding Domains for c-Src and Zonula Occludens-1"
-authors: "Paul L. Sorgen, Heather S. Duffy, Prangya Sahoo, Wanda Coombs, Mario Delmar, David C. Spray"
+authors:
+  - "Paul L. Sorgen"
+  - "Heather S. Duffy"
+  - "Prangya Sahoo"
+  - "Wanda Coombs"
+  - "Mario Delmar"
+  - "David C. Spray"
 year: 2004
 journal: "Journal of Biological Chemistry"
-paper_type: "empirical"
-contribution_type: "empirical"
-keywords: ["connexin43", "gap_junction", "nmr_spectroscopy", "protein_structure", "intrinsic_disorder", "zo_1", "c_src", "sh3_domain", "pdz_domain", "protein_protein_interaction", "allosteric_signaling", "ball_and_chain_model", "chemical_gating", "cytoplasmic_tail", "intercellular_communication", "structural", "changes", "carboxyl", "terminus", "gap"]
+paper_type: empirical
+contribution_type: empirical
+keywords:
+  - connexin43
+  - gap_junction
+  - nmr_spectroscopy
+  - protein_structure
+  - intrinsic_disorder
+  - zo_1
+  - c_src
+  - sh3_domain
+  - pdz_domain
+  - protein_protein_interaction
+  - allosteric_signaling
+  - ball_and_chain_model
+  - chemical_gating
+  - cytoplasmic_tail
+  - intercellular_communication
+  - structural
+  - changes
+  - carboxyl
+  - terminus
+  - gap
 ---
 
 ### One-line summary

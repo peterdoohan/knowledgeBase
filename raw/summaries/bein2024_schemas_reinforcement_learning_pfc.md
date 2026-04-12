@@ -1,18 +1,56 @@
 ---
-source_file: "bein2024_schemas_reinforcement_learning_pfc.md"
-paper_id: "bein2024_schemas_reinforcement_learning_pfc"
+source_file: bein2024_schemas_reinforcement_learning_pfc.md
+paper_id: bein2024_schemas_reinforcement_learning_pfc
 title: "Schemas, reinforcement learning, and the medial prefrontal cortex"
-authors: "Oded Bein, Yael Niv"
+authors:
+  - "Oded Bein"
+  - "Yael Niv"
 year: 2024
 journal: "Not specified in source (opinion paper)"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-methods: ["electrophysiology", "lesion"]
-brain_regions: ["hippocampus", "hippocampus_ca3", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "retrosplenial_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "bayesian_inference", "hierarchical_rl"]
-keywords: ["sutton_and_barto_2018_rl_textbook_foundational_reference", "dayan_and_niv_2008_rl_and_the_brain", "niv_2019_representation_learning_and_dimensionality_reduction_in_rl", "gilboa_and_marlatte_2017_schemas_and_mpfc_review", "wilson_et_al_2014_mofc_as_cognitive_map_of_task_states", "schuck_et_al_2016_mofc_vmpfc_encodes_latent_states_requiring_memory", "baldassano_et_al_2018_mpfc_represents_real_world_event_schemas", "mack_et_al_2020_dimensionality_reduction_in_vmpfc_during_categorisation", "tompary_and_davachi_2017_schema_like_integration_and_mpfc_after_consolidation", "van_kesteren_et_al_2012_mpfc_routes_memory_encoding_based_on_schema_consistency", "botvinick", "niv_and_barto_2009_hierarchical_rl_and_its_neural_foundations", "gershman_and_niv_2010", "franklin_et_al_2020_latent_cause_inference", "reagh_and_ranganath_2023_mpfc_encodes_schematic", "not_episodic", "movie_representations", "leong_et_al_2017_mpfc_activity_tracks_dimensionality_reduced_rl_value", "named_models_or_frameworks", "reinforcement_learning_model_based_and_model_free_rl"]
-key_citations: ["wilson2014_best_practices_scientific", "schuck2016_orbitofrontal_cortex_state"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - electrophysiology
+  - lesion
+brain_regions:
+  - hippocampus
+  - hippocampus_ca3
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - retrosplenial_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - bayesian_inference
+  - hierarchical_rl
+keywords:
+  - schema_learning
+  - reinforcement_learning
+  - medial_prefrontal_cortex
+  - dimensionality_reduction
+  - prediction_error
+  - hierarchical_reinforcement_learning
+  - latent_cause_inference
+  - orbito_medial_prefrontal_cortex
+  - cognitive_map
+  - memory_consolidation
+  - event_segmentation
+  - representation_learning
+  - schemas
+  - reinforcement
+  - learning
+  - medial
+  - prefrontal
+  - cortex
+key_citations:
+  - niv2019_representation_learning_task_states
+  - wilson2014_best_practices_scientific
+  - schuck2016_orbitofrontal_cortex_state
 ---
 
 ### One-line summary

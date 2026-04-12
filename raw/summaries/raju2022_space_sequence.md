@@ -1,16 +1,45 @@
 ---
-source_file: "raju2022_space_sequence.md"
-paper_id: "raju2022_space_sequence"
+source_file: raju2022_space_sequence.md
+paper_id: raju2022_space_sequence
 title: "Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus"
-authors: "Rajkumar Vasudeva Raju, J. Swaroop Guntupalli, Guangyao Zhou, Miguel L\u00e1zaro-Gredilla, Dileep George"
+authors:
+  - "Rajkumar Vasudeva Raju"
+  - "J. Swaroop Guntupalli"
+  - "Guangyao Zhou"
+  - "Miguel Lázaro-Gredilla"
+  - "Dileep George"
 year: 2022
 journal: "DeepMind (preprint)"
-paper_type: "computational"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus"]
-frameworks: ["successor_representation", "tolman_eichenbaum_machine"]
-keywords: ["space", "latent", "sequence", "structured", "learning", "unified", "theory", "representation", "hippocampus"]
-key_citations: ["stachenfeld2017_hippocampus_predictive_map"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+frameworks:
+  - successor_representation
+  - tolman_eichenbaum_machine
+keywords:
+  - sequence_learning
+  - latent_representations
+  - cognitive_maps
+  - place_cells
+  - remapping
+  - hippocampus
+  - higher_order_graphs
+  - hidden_markov_models
+  - aliased_observations
+  - spatial_representation
+  - transitive_inference
+  - schema_learning
+  - replay
+  - planning
+  - clone_structured_models
+  - space
+  - latent
+  - sequence
+  - structured
+  - learning
+key_citations:
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

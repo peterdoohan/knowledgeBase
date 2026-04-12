@@ -1,17 +1,55 @@
 ---
-source_file: "tyson2022_brainreg_segmentation.md"
-paper_id: "tyson2022_brainreg_segmentation"
+source_file: tyson2022_brainreg_segmentation.md
+paper_id: tyson2022_brainreg_segmentation
 title: "Accurate determination of marker location within whole-brain microscopy images"
-authors: "Adam L. Tyson, Mateo V\u00e9lez-Fort, Charly V. Rousseau, Lee Cossell, Chryssanthi Tsitoura, Stephen C. Lenzi, Horst A. Obenhaus, Federico Claudi, Tiago Branco, Troy W. Margrie"
+authors:
+  - "Adam L. Tyson"
+  - "Mateo Vélez-Fort"
+  - "Charly V. Rousseau"
+  - "Lee Cossell"
+  - "Chryssanthi Tsitoura"
+  - "Stephen C. Lenzi"
+  - "Horst A. Obenhaus"
+  - "Federico Claudi"
+  - "Tiago Branco"
+  - "Troy W. Margrie"
 year: 2022
 journal: "Scientific Reports"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse"]
-methods: ["calcium_imaging", "electrophysiology", "neuropixels"]
-brain_regions: ["hippocampus", "visual_cortex"]
-keywords: ["whole_brain_microscopy", "image_registration", "atlas_alignment", "probe_tracking", "electrophysiology", "neuropixels", "serial_two_photon_tomography", "calcium_imaging", "retinotopy", "open_source_software", "napari_plugin", "brain_segmentation", "ccfv3", "neuroanatomy", "accurate", "determination", "marker", "location", "within", "whole"]
-key_citations: ["wang2020_alternating_theta_sequences", "claudi2021_brainrender_visualization_atlas"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - hippocampus
+  - visual_cortex
+keywords:
+  - whole_brain_microscopy
+  - image_registration
+  - atlas_alignment
+  - probe_tracking
+  - electrophysiology
+  - neuropixels
+  - serial_two_photon_tomography
+  - calcium_imaging
+  - retinotopy
+  - open_source_software
+  - napari_plugin
+  - brain_segmentation
+  - ccfv3
+  - neuroanatomy
+  - accurate
+  - determination
+  - marker
+  - location
+  - within
+  - whole
+key_citations:
+  - wang2020_alternating_theta_sequences
+  - claudi2021_brainrender_visualization_atlas
 ---
 
 ### One-line summary

@@ -1,19 +1,54 @@
 ---
-source_file: "balaguer2016_hierarchical_planning_subway.md"
-paper_id: "balaguer2016_hierarchical_planning_subway"
+source_file: balaguer2016_hierarchical_planning_subway.md
+paper_id: balaguer2016_hierarchical_planning_subway
 title: "Neural Mechanisms of Hierarchical Planning in a Virtual Subway Network"
-authors: "Jan Balaguer, Hugo Spiers, Demis Hassabis, Christopher Summerfield"
+authors:
+  - "Jan Balaguer"
+  - "Hugo Spiers"
+  - "Demis Hassabis"
+  - "Christopher Summerfield"
 year: 2016
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["virtual_navigation"]
-methods: ["fmri", "representational_similarity_analysis"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "ventromedial_prefrontal_cortex", "amygdala"]
-frameworks: ["reinforcement_learning", "model_free_rl", "hierarchical_rl"]
-keywords: ["botvinick", "niv_and_barto_2009_hierarchical_rl_and_neural_foundations", "ribas_fernandes_et_al_2011_neural_signature_of_hierarchical_rl", "subgoal_signal_in_medial_pfc", "holroyd_and_yeung_2012_anterior_cingulate_dmpfc_as_motivational_controller_of_extended_behaviour", "howard_et_al_2014_hippocampus_encoding_distance_to_goal_during_navigation", "van_den_heuvel_et_al_2003", "wagner_et_al_2006_rlpfc_and_plan_complexity_in_tower_of_london", "daw_et_al_2005", "2011_model_based_vs_model_free_rl", "sutton_and_barto_1998_options_framework_in_hierarchical_rl", "koechlin", "ody_and_kouneiher_2003", "koechlin_and_summerfield_2007_architecture_of_prefrontal_executive_control", "badre", "kayser_and_desposito_2010_frontal_hierarchy_and_abstract_action_rules", "named_models_or_frameworks", "hierarchical_reinforcement_learning_hrl_options_framework", "representational_similarity_analysis_rsa", "tower_of_london_task_comparison_paradigm"]
-key_citations: ["botvinick2009_hierarchically_organized_behavior"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - virtual_navigation
+methods:
+  - fmri
+  - representational_similarity_analysis
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - amygdala
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+  - hierarchical_rl
+keywords:
+  - hierarchical_planning
+  - hierarchical_reinforcement_learning
+  - prefrontal_cortex
+  - context_representation
+  - bottleneck_states
+  - description_length_plan_complexity
+  - fmri
+  - representational_similarity_analysis
+  - model_based_planning
+  - virtual_navigation
+  - subgoal
+  - dorsomedial_prefrontal_cortex
+  - neural
+  - mechanisms
+  - hierarchical
+  - planning
+  - virtual
+  - subway
+  - network
+key_citations:
+  - botvinick2009_hierarchically_organized_behavior
 ---
 
 ### One-line summary

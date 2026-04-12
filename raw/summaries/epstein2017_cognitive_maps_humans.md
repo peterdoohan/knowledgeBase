@@ -1,19 +1,61 @@
 ---
-source_file: "epstein2017_cognitive_maps_humans.md"
-paper_id: "epstein2017_cognitive_maps_humans"
+source_file: epstein2017_cognitive_maps_humans.md
+paper_id: epstein2017_cognitive_maps_humans
 title: "The cognitive map in humans: spatial navigation and beyond"
-authors: "Russell A Epstein, Eva Zita Patai, Joshua B Julian, Hugo J Spiers"
+authors:
+  - "Russell A Epstein"
+  - "Eva Zita Patai"
+  - "Joshua B Julian"
+  - "Hugo J Spiers"
 year: 2017
 journal: "Nature Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["electrophysiology", "fmri", "representational_similarity_analysis", "repetition_suppression", "computational_modeling"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventromedial_prefrontal_cortex", "retrosplenial_cortex", "posterior_cingulate_cortex"]
-frameworks: ["reinforcement_learning", "successor_representation", "attractor_networks"]
-keywords: ["cognitive", "map", "humans", "spatial", "navigation", "beyond"]
-key_citations: ["tolman1948_cognitive_maps_rats", "ekstrom2003_spatial_navigation", "constantinescu2016_gridlike_conceptual_knowledge"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - electrophysiology
+  - fmri
+  - representational_similarity_analysis
+  - repetition_suppression
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - retrosplenial_cortex
+  - posterior_cingulate_cortex
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - attractor_networks
+keywords:
+  - cognitive_map
+  - spatial_navigation
+  - place_cells
+  - grid_cells
+  - head_direction_cells
+  - fmri_mvpa
+  - entorhinal_cortex
+  - retrosplenial_cortex
+  - landmark_anchoring
+  - route_planning
+  - pattern_separation
+  - allocentric_coding
+  - abstract_space
+  - hippocampal_prefrontal_circuits
+  - cognitive
+  - map
+  - humans
+  - spatial
+  - navigation
+  - beyond
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - ekstrom2003_spatial_navigation
+  - constantinescu2016_gridlike_conceptual_knowledge
 ---
 
 ### One-line summary

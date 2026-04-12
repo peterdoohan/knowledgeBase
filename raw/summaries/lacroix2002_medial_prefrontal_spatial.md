@@ -1,17 +1,51 @@
 ---
-source_file: "lacroix2002_medial_prefrontal_spatial.md"
-paper_id: "lacroix2002_medial_prefrontal_spatial"
+source_file: lacroix2002_medial_prefrontal_spatial.md
+paper_id: lacroix2002_medial_prefrontal_spatial
 title: "Effect of excitotoxic lesions of rat medial prefrontal cortex on spatial memory"
-authors: "Laurent Lacroix, Ilsun White, Joram Feldon"
+authors:
+  - "Laurent Lacroix"
+  - "Ilsun White"
+  - "Joram Feldon"
 year: 2002
 journal: "Behavioural Brain Research"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["morris_water_maze", "open_field", "navigation_task"]
-methods: ["lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "thalamus", "mediodorsal_thalamus"]
-keywords: ["effect", "excitotoxic", "lesions", "rat", "medial", "prefrontal", "cortex", "spatial", "memory"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - morris_water_maze
+  - open_field
+methods:
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - thalamus
+  - mediodorsal_thalamus
+keywords:
+  - medial_prefrontal_cortex_lesion
+  - spatial_memory
+  - working_memory
+  - morris_water_maze
+  - three_panel_runway
+  - delayed_matching_to_position
+  - reversal_learning
+  - behavioural_flexibility
+  - attentional_processes
+  - food_hoarding
+  - nmda_excitotoxic_lesion
+  - rat_prefrontal_cortex
+  - effect
+  - excitotoxic
+  - lesions
+  - rat
+  - medial
+  - prefrontal
+  - cortex
+  - spatial
 ---
 
 ### One-line summary

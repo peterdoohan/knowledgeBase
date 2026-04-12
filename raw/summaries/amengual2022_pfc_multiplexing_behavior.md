@@ -1,17 +1,50 @@
 ---
-source_file: "amengual2022_pfc_multiplexing_behavior.md"
-paper_id: "amengual2022_pfc_multiplexing_behavior"
+source_file: amengual2022_pfc_multiplexing_behavior.md
+paper_id: amengual2022_pfc_multiplexing_behavior
 title: "The cost of multiplexing: PFC integrates multiple sources of information in non-orthogonal components accounting for behavioral variability"
-authors: "Julian L Amengual, Fabio Di Bello, Sameh Ben Hadj Hassen, Elaine Astrand, Suliann Ben Hamed"
+authors:
+  - "Julian L Amengual"
+  - "Fabio Di Bello"
+  - "Sameh Ben Hadj Hassen"
+  - "Elaine Astrand"
+  - "Suliann Ben Hamed"
 year: 2022
 journal: "bioRxiv (preprint, posted December 29, 2022)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque", "monkey"]
-brain_regions: ["prefrontal_cortex", "dorsolateral_prefrontal_cortex"]
-frameworks: ["mixed_selectivity", "neural_manifold"]
-keywords: ["cost", "multiplexing", "pfc", "integrates", "multiple", "sources", "information", "non", "orthogonal", "components"]
-key_citations: ["gao2017_neural_dimensionality_dynamics", "fusi2016_mixed_selectivity_cognition"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+  - monkey
+brain_regions:
+  - prefrontal_cortex
+  - dorsolateral_prefrontal_cortex
+frameworks:
+  - mixed_selectivity
+  - neural_manifold
+keywords:
+  - mixed_selectivity
+  - non_orthogonal_coding
+  - low_dimensional_neural_manifold
+  - demixed_principal_component_analysis_dpca
+  - temporal_expectation
+  - spatial_attention
+  - attentional_focus
+  - reaction_time_variability
+  - multiplexing
+  - frontal_eye_field
+  - population_geometry
+  - cue_to_target_onset_asynchrony_ctoa
+  - cost
+  - pfc
+  - integrates
+  - multiple
+  - sources
+  - information
+  - non
+  - orthogonal
+key_citations:
+  - gao2017_neural_dimensionality_dynamics
+  - fusi2016_mixed_selectivity_cognition
 ---
 
 ### One-line summary

@@ -1,14 +1,44 @@
 ---
-source_file: "thevenin2013_gap_junction_assembly.md"
-paper_id: "thevenin2013_gap_junction_assembly"
+source_file: thevenin2013_gap_junction_assembly.md
+paper_id: thevenin2013_gap_junction_assembly
 title: "Proteins and Mechanisms Regulating Gap-Junction Assembly, Internalization, and Degradation"
-authors: "Anastasia F. Th\u00e9venin, Tia J. Kowal, John T. Fong, Rachael M. Kells, Charles G. Fisher, Matthias M. Falk"
+authors:
+  - "Anastasia F. Thévenin"
+  - "Tia J. Kowal"
+  - "John T. Fong"
+  - "Rachael M. Kells"
+  - "Charles G. Fisher"
+  - "Matthias M. Falk"
 year: 2013
-journal: "Physiology"
-paper_type: "review"
-contribution_type: "review"
-brain_regions: ["hippocampus", "thalamus"]
-keywords: ["maeda_et_al_2009_cx26_gj_crystal_structure_at_3_5_a", "sorgen_et_al_2004_nmr_structure_of_cx43_cooh_terminal_tail", "chen_et_al_2008_crystal_structure_of_zo_1_pdz2_cx43_peptide_complex", "piehl_et_al_gumpert_et_al_clathrin_mediated_gj_endocytosis", "hunter_et_al_2005_zo_1_regulation_of_gj_plaque_size", "rhett_and_gourdie_2011_perinexus_connexon_pool_at_plaque_periphery", "solan_and_lampe_multiple_cx43_phosphorylation_life_cycle", "bukauskas_et_al_open_probability_of_gj_channels", "pereda_et_al_electrical_synapses", "low_channel_activity_fraction", "named_models_or_frameworks", "annular_gap_junction_agj_connexosome_internalized_double_membrane_vesicle", "perinexus_zo_1_associated_connexon_pool_at_plaque_periphery", "cme_clathrin_mediated_endocytosis_of_gj_plaques", "escrt_machinery_endosomal_sorting_complex_required_for_transport", "brain_regions", "hippocampus_cx32", "cx36_expression_context", "thalamus_cx36_expression_context", "mesencephalic_trigeminal_nucleus_mesv_neurons_electrical_synapse_physiology"]
+journal: Physiology
+paper_type: review
+contribution_type: review
+brain_regions:
+  - hippocampus
+  - thalamus
+keywords:
+  - connexin_43_cx43
+  - gap_junction_life_cycle
+  - connexon_docking
+  - gj_plaque_assembly
+  - posttranslational_modification
+  - connexin_phosphorylation
+  - gap_junction_internalization
+  - annular_gap_junction
+  - clathrin_mediated_endocytosis
+  - ap_2
+  - dynamin2
+  - ubiquitination
+  - nedd4
+  - autophagic_degradation
+  - zo_1
+  - pdz_domain
+  - scaffolding_protein
+  - gj_channel_turnover
+  - perinexus
+  - proteins
+key_citations:
+  - sorgen2004_connexin43_structural_domain
 ---
 
 ### One-line summary

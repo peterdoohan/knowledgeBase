@@ -1,18 +1,53 @@
 ---
-source_file: "fiore2015_basal_ganglia_behavior.md"
-paper_id: "fiore2015_basal_ganglia_behavior"
+source_file: fiore2015_basal_ganglia_behavior.md
+paper_id: fiore2015_basal_ganglia_behavior
 title: "Evolutionarily conserved mechanisms for the selection and maintenance of behavioural activity"
-authors: "Vincenzo G. Fiore, Raymond J. Dolan, Nicholas J. Strausfeld, Frank Hirth"
+authors:
+  - "Vincenzo G. Fiore"
+  - "Raymond J. Dolan"
+  - "Nicholas J. Strausfeld"
+  - "Frank Hirth"
 year: 2015
 journal: "Philosophical Transactions of the Royal Society B"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["mouse"]
-methods: ["optogenetics", "computational_modeling", "lesion"]
-brain_regions: ["striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus"]
-frameworks: ["reinforcement_learning", "attractor_networks"]
-keywords: ["evolutionarily", "conserved", "mechanisms", "selection", "maintenance", "behavioural", "activity"]
-key_citations: ["kravitz2010_basal_ganglia_optogenetic"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - computational_modeling
+  - lesion
+brain_regions:
+  - striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - thalamus
+frameworks:
+  - reinforcement_learning
+  - attractor_networks
+keywords:
+  - action_selection
+  - basal_ganglia
+  - central_complex
+  - attractor_states
+  - dimensionality_reduction
+  - evolutionary_homology
+  - dopamine
+  - winner_take_all
+  - sensorimotor_integration
+  - direct_pathway
+  - indirect_pathway
+  - ontogenetic_clones
+  - evolutionarily
+  - conserved
+  - mechanisms
+  - selection
+  - maintenance
+  - behavioural
+  - activity
+key_citations:
+  - kravitz2010_basal_ganglia_optogenetic
 ---
 
 ### One-line summary

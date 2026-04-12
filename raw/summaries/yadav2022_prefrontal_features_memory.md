@@ -1,17 +1,57 @@
 ---
-source_file: "yadav2022_prefrontal_features_memory.md"
-paper_id: "yadav2022_prefrontal_features_memory"
+source_file: yadav2022_prefrontal_features_memory.md
+paper_id: yadav2022_prefrontal_features_memory
 title: "Prefrontal feature representations drive memory recall"
-authors: "Nakul Yadav, Chelsea Noble, James E. Niemeyer, Andrea Terceros, Jonathan Victor, Conor Liston, Priyamvada Rajasethupathy"
+authors:
+  - "Nakul Yadav"
+  - "Chelsea Noble"
+  - "James E. Niemeyer"
+  - "Andrea Terceros"
+  - "Jonathan Victor"
+  - "Conor Liston"
+  - "Priyamvada Rajasethupathy"
 year: 2022
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "optogenetics"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "anterior_cingulate_cortex"]
-frameworks: ["attractor_networks", "mixed_selectivity", "neural_manifold"]
-keywords: ["rajasethupathy_et_al_2015_projections_from_neocortex_mediate_top_down_control_of_memory_retrieval_nature", "tomita_et_al_1999_top_down_signal_from_prefrontal_cortex_in_executive_control_of_memory_retrieval_nature", "oreilly_and_rudy_2001_conjunctive_representations_in_learning_and_memory_psychological_review", "wills_et_al_2005_attractor_dynamics_in_hippocampal_representation_science", "rigotti_et_al_2013_importance_of_mixed_selectivity_in_complex_cognitive_tasks_nature", "mante_et_al_2013_context_dependent_computation_by_recurrent_dynamics_in_prefrontal_cortex_nature", "named_models_or_frameworks", "attractor_network_dynamics_hippocampal_ca3_ca1", "mixed_selectivity_coding_prefrontal_cortex", "pattern_completion_memory_retrieval_from_partial_cues", "marrs_three_levels_of_analysis_implicit_in_mechanistic_approach", "conjunctive_vs_feature_representations_dual_memory_system", "brain_regions", "anterior_cingulate_cortex_ac", "hippocampal_ca1", "lateral_entorhinal_cortex_lec", "hippocampal_ca3", "prefrontal_cortex_general", "keywords", "contextual_memory"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - optogenetics
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+frameworks:
+  - attractor_networks
+  - mixed_selectivity
+  - neural_manifold
+keywords:
+  - contextual_memory
+  - feature_representations
+  - conjunctive_representations
+  - memory_retrieval
+  - two_photon_calcium_imaging
+  - optogenetic_inhibition
+  - trap2_activity_dependent_targeting
+  - prefrontal_hippocampal_circuit
+  - anterior_cingulate_cortex
+  - pattern_completion
+  - mixed_selectivity
+  - attractor_dynamics
+  - virtual_reality_behaviour
+  - longitudinal_imaging
+  - prefrontal
+  - feature
+  - representations
+  - drive
+  - memory
+  - recall
 ---
 
 ### One-line summary

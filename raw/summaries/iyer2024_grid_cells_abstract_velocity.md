@@ -1,16 +1,48 @@
 ---
-source_file: "iyer2024_grid_cells_abstract_velocity.md"
-paper_id: "iyer2024_grid_cells_abstract_velocity"
+source_file: iyer2024_grid_cells_abstract_velocity.md
+paper_id: iyer2024_grid_cells_abstract_velocity
 title: "Flexible mapping of abstract domains by grid cells via self-supervised extraction and projection of generalized velocity signals"
-authors: "Abhiram Iyer, Sarthak Chandra, Sugandha Sharma, Ila Fiete"
+authors:
+  - "Abhiram Iyer"
+  - "Sarthak Chandra"
+  - "Sugandha Sharma"
+  - "Ila Fiete"
 year: 2024
 journal: "NeurIPS 2024 (38th Conference on Neural Information Processing Systems)"
-paper_type: "computational"
-contribution_type: "theoretical"
-brain_regions: ["entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["successor_representation", "attractor_networks", "tolman_eichenbaum_machine"]
-keywords: ["grid_cells", "abstract_cognitive_maps", "self_supervised_learning", "velocity_extraction", "loop_closure_constraint", "continuous_attractor_networks", "path_integration", "cognitive_flexibility", "dimensionality_reduction", "non_spatial_representations", "transfer_learning", "manifold_learning", "flexible", "mapping", "abstract", "domains", "grid", "cells", "via", "self"]
-key_citations: ["constantinescu2016_gridlike_conceptual_knowledge", "whittington2020_tolman_eichenbaum_machine", "stachenfeld2017_hippocampus_predictive_map"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - successor_representation
+  - attractor_networks
+  - tolman_eichenbaum_machine
+keywords:
+  - grid_cells
+  - abstract_cognitive_maps
+  - self_supervised_learning
+  - velocity_extraction
+  - loop_closure_constraint
+  - continuous_attractor_networks
+  - path_integration
+  - cognitive_flexibility
+  - dimensionality_reduction
+  - non_spatial_representations
+  - transfer_learning
+  - manifold_learning
+  - flexible
+  - mapping
+  - abstract
+  - domains
+  - grid
+  - cells
+  - via
+  - self
+key_citations:
+  - constantinescu2016_gridlike_conceptual_knowledge
+  - whittington2020_tolman_eichenbaum_machine
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

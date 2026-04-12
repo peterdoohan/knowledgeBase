@@ -1,15 +1,39 @@
 ---
-source_file: "decharms2000_neural_representation.md"
-paper_id: "decharms2000_neural_representation"
+source_file: decharms2000_neural_representation.md
+paper_id: decharms2000_neural_representation
 title: "Neural Representation and the Cortical Code"
-authors: "R. Christopher deCharms, Anthony Zador"
+authors:
+  - "R. Christopher deCharms"
+  - "Anthony Zador"
 year: 2000
 journal: "Annual Review of Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex", "visual_cortex", "primary_auditory_cortex"]
-keywords: ["neural", "representation", "cortical", "code"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - visual_cortex
+  - primary_auditory_cortex
+keywords:
+  - neural_representation
+  - cortical_code
+  - rate_coding
+  - temporal_coding
+  - population_coding
+  - coordinated_coding
+  - neural_synchrony
+  - reverse_correlation
+  - spike_irregularity
+  - content_and_function_of_representation
+  - binocular_rivalry
+  - perceptual_decision_making
+  - neural
+  - representation
+  - cortical
+  - code
 ---
 
 ### One-line summary

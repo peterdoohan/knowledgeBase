@@ -1,16 +1,50 @@
 ---
-source_file: "gershman2018_successor_representation_learning.md"
-paper_id: "gershman2018_successor_representation_learning"
+source_file: gershman2018_successor_representation_learning.md
+paper_id: gershman2018_successor_representation_learning
 title: "The Successor Representation: Its Computational Logic and Neural Substrates"
-authors: "Samuel J. Gershman"
+authors:
+  - "Samuel J. Gershman"
 year: 2018
 journal: "The Journal of Neuroscience"
-paper_type: "review"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "ventral_tegmental_area", "substantia_nigra"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
-keywords: ["successor", "representation", "its", "computational", "logic", "neural", "substrates"]
-key_citations: ["dayan1993_successor_representation", "momennejad2017_successor_representation_humans", "russek2017_model_based_reinforcement", "tolman1948_cognitive_maps_rats"]
+paper_type: review
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - striatum
+  - ventral_tegmental_area
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+  - temporal_difference_learning
+keywords:
+  - successor_representation
+  - reinforcement_learning
+  - predictive_map
+  - hippocampal_place_cells
+  - temporal_difference_learning
+  - dopamine_prediction_error
+  - efficiency_flexibility_tradeoff
+  - model_based_vs_model_free
+  - reward_devaluation
+  - latent_learning
+  - prospective_coding
+  - linear_function_approximation
+  - successor
+  - representation
+  - its
+  - computational
+  - logic
+  - neural
+  - substrates
+key_citations:
+  - dayan1993_successor_representation
+  - momennejad2017_successor_representation_humans
+  - russek2017_model_based_reinforcement
+  - tolman1948_cognitive_maps_rats
 ---
 
 ### One-line summary

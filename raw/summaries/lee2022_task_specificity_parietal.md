@@ -1,18 +1,48 @@
 ---
-source_file: "lee2022_task_specificity_parietal.md"
-paper_id: "lee2022_task_specificity_parietal"
+source_file: lee2022_task_specificity_parietal.md
+paper_id: lee2022_task_specificity_parietal
 title: "Task specificity in mouse parietal cortex"
-authors: "Julie J. Lee, Michael Krumin, Kenneth D. Harris, Matteo Carandini"
+authors:
+  - "Julie J. Lee"
+  - "Michael Krumin"
+  - "Kenneth D. Harris"
+  - "Matteo Carandini"
 year: 2022
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["t_maze", "virtual_navigation"]
-methods: ["calcium_imaging"]
-brain_regions: ["hippocampus", "amygdala", "visual_cortex"]
-frameworks: ["reinforcement_learning", "mixed_selectivity"]
-keywords: ["task", "specificity", "mouse", "parietal", "cortex"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - t_maze
+  - virtual_navigation
+methods:
+  - calcium_imaging
+brain_regions:
+  - hippocampus
+  - amygdala
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+  - mixed_selectivity
+keywords:
+  - task_specificity
+  - parietal_cortex
+  - context_dependent_neural_activity
+  - ensemble_selectivity
+  - two_photon_calcium_imaging
+  - physical_context_gating
+  - mixed_selectivity
+  - cross_task_recording
+  - mouse_decision_making
+  - neural_subpopulations
+  - context_remapping
+  - virtual_reality_navigation
+  - task
+  - specificity
+  - mouse
+  - parietal
+  - cortex
 ---
 
 ### One-line summary

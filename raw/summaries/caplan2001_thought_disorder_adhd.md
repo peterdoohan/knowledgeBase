@@ -1,15 +1,40 @@
 ---
-source_file: "caplan2001_thought_disorder_adhd.md"
-paper_id: "caplan2001_thought_disorder_adhd"
+source_file: caplan2001_thought_disorder_adhd.md
+paper_id: caplan2001_thought_disorder_adhd
 title: "Thought Disorder in Attention-Deficit Hyperactivity Disorder"
-authors: "Rochelle Caplan, Donald Guthrie, Beth Tang, Keith H. Nuechterlein, Robert F. Asarnow"
+authors:
+  - "Rochelle Caplan"
+  - "Donald Guthrie"
+  - "Beth Tang"
+  - "Keith H. Nuechterlein"
+  - "Robert F. Asarnow"
 year: 2001
 journal: "Journal of the American Academy of Child and Adolescent Psychiatry"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-brain_regions: ["prefrontal_cortex", "superior_temporal_gyrus"]
-keywords: ["thought", "disorder", "attention", "deficit", "hyperactivity"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+brain_regions:
+  - prefrontal_cortex
+  - superior_temporal_gyrus
+keywords:
+  - formal_thought_disorder
+  - adhd
+  - childhood_schizophrenia
+  - illogical_thinking
+  - loose_associations
+  - cohesion
+  - pragmatic_communication
+  - continuous_performance_test
+  - span_of_apprehension
+  - working_memory
+  - frontotemporal_networks
+  - neurodevelopment
+  - thought
+  - disorder
+  - attention
+  - deficit
+  - hyperactivity
 ---
 
 ### One-line summary

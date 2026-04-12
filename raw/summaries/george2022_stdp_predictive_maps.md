@@ -1,18 +1,55 @@
 ---
-source_file: "george2022_stdp_predictive_maps.md"
-paper_id: "george2022_stdp_predictive_maps"
+source_file: george2022_stdp_predictive_maps.md
+paper_id: george2022_stdp_predictive_maps
 title: "Rapid learning of predictive maps with STDP and theta phase precession"
-authors: "Tom M George, William de Cothi, Kimberly Stachenfeld, Caswell Barry"
+authors:
+  - "Tom M George"
+  - "William de Cothi"
+  - "Kimberly Stachenfeld"
+  - "Caswell Barry"
 year: 2022
 journal: "bioRxiv (preprint)"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["open_field", "foraging_task"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "striatum", "nucleus_accumbens"]
-frameworks: ["reinforcement_learning", "successor_representation", "temporal_difference_learning"]
-keywords: ["rapid", "learning", "predictive", "maps", "stdp", "theta", "phase", "precession"]
-key_citations: ["dayan1993_successor_representation", "momennejad2018_offline_replay_planning"]
+paper_type: computational
+contribution_type: theoretical
+tasks:
+  - open_field
+  - foraging_task
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - striatum
+  - nucleus_accumbens
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - temporal_difference_learning
+keywords:
+  - successor_representation
+  - predictive_map
+  - stdp
+  - theta_phase_precession
+  - theta_sweep
+  - place_cells
+  - ca3_ca1_synaptic_plasticity
+  - hebbian_learning
+  - dorso_ventral_hippocampal_axis
+  - multiscale_spatial_representation
+  - reinforcement_learning
+  - biologically_plausible_learning
+  - rapid
+  - learning
+  - predictive
+  - maps
+  - theta
+  - phase
+  - precession
+key_citations:
+  - dayan1993_successor_representation
+  - momennejad2018_offline_replay_planning
 ---
 
 ### One-line summary

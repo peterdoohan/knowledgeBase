@@ -1,18 +1,55 @@
 ---
-source_file: "avigan2020_spatial_learning_hippocampus.md"
-paper_id: "avigan2020_spatial_learning_hippocampus"
+source_file: avigan2020_spatial_learning_hippocampus.md
+paper_id: avigan2020_spatial_learning_hippocampus
 title: "Flexible spatial learning requires both the dorsal and ventral hippocampus and their functional interactions with the prefrontal cortex"
-authors: "Philip D. Avigan, Katharine Cammack, Matthew L. Shapiro"
+authors:
+  - "Philip D. Avigan"
+  - "Katharine Cammack"
+  - "Matthew L. Shapiro"
 year: 2020
-journal: "Hippocampus"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["morris_water_maze"]
-methods: ["lesion"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "dorsolateral_striatum", "thalamus", "ventral_hippocampus"]
-keywords: ["flexible", "spatial", "learning", "requires", "both", "dorsal", "ventral", "hippocampus", "their", "functional"]
-key_citations: ["ito2015_prefrontal_thalamic_hippocampus", "jadhav2016_hippocampal_prefrontal_swr", "jones2005_theta_hippocampal_prefrontal"]
+journal: Hippocampus
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - morris_water_maze
+methods:
+  - lesion
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+  - dorsolateral_striatum
+  - thalamus
+  - ventral_hippocampus
+keywords:
+  - hippocampal_longitudinal_axis
+  - dorsal_ventral_hippocampus_dissociation
+  - spatial_reversal_learning
+  - muscimol_inactivation
+  - crossed_disconnection
+  - mpfc_hippocampus_interaction
+  - cognitive_flexibility
+  - perseveration
+  - proactive_interference
+  - place_cells
+  - egocentric_response_strategies
+  - nucleus_reuniens
+  - flexible
+  - spatial
+  - learning
+  - requires
+  - both
+  - dorsal
+  - ventral
+  - hippocampus
+key_citations:
+  - ito2015_prefrontal_thalamic_hippocampus
+  - jadhav2016_hippocampal_prefrontal_swr
+  - jones2005_theta_hippocampal_prefrontal
 ---
 
 ### One-line summary

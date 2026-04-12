@@ -1,16 +1,55 @@
 ---
-source_file: "anastasiades2021_circuit_medial_prefrontal.md"
-paper_id: "anastasiades2021_circuit_medial_prefrontal"
+source_file: anastasiades2021_circuit_medial_prefrontal.md
+paper_id: anastasiades2021_circuit_medial_prefrontal
 title: "Circuit organization of the rodent medial prefrontal cortex"
-authors: "Paul G. Anastasiades, Adam G. Carter"
+authors:
+  - "Paul G. Anastasiades"
+  - "Adam G. Carter"
 year: 2021
 journal: "Trends in Neurosciences"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "ventral_tegmental_area", "thalamus", "mediodorsal_thalamus", "amygdala", "basolateral_amygdala", "periaqueductal_gray", "ventral_hippocampus"]
-keywords: ["circuit", "organization", "rodent", "medial", "prefrontal", "cortex"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - striatum
+  - ventral_tegmental_area
+  - thalamus
+  - mediodorsal_thalamus
+  - amygdala
+  - basolateral_amygdala
+  - periaqueductal_gray
+  - ventral_hippocampus
+keywords:
+  - medial_prefrontal_cortex
+  - agranular_cortex
+  - projection_neuron_diversity
+  - intratelencephalic_neurons
+  - pyramidal_tract_neurons
+  - corticothalamic_neurons
+  - long_range_afferent_specificity
+  - laminar_targeting
+  - feedforward_inhibition
+  - disinhibitory_circuits
+  - parvalbumin_interneurons
+  - somatostatin_interneurons
+  - cck_interneurons
+  - ndnf_interneurons
+  - vip_interneurons
+  - reciprocal_loops
+  - dendritic_computation
+  - endocannabinoid_modulation
+  - cell_type_specific_wiring
+  - rodent_prefrontal_cortex
 ---
 
 ### One-line summary

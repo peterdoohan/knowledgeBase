@@ -1,18 +1,59 @@
 ---
-source_file: "redish2016_vicarious_trial_error_b.md"
-paper_id: "redish2016_vicarious_trial_error_b"
+source_file: redish2016_vicarious_trial_error_b.md
+paper_id: redish2016_vicarious_trial_error_b
 title: "Vicarious trial and error"
-authors: "A. David Redish"
+authors:
+  - "A. David Redish"
 year: 2016
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat", "human"]
-tasks: ["foraging_task", "navigation_task"]
-methods: ["optogenetics", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "nucleus_accumbens", "amygdala"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
-keywords: ["muenzinger_and_gentry_1931_original_vte_observation", "tolman_1939", "1948_cognitive_map_and_vte_as_prospective_imagination", "hull_1943_situation_action_chain_hypothesis", "okeefe_and_nadel_1978_hippocampus_as_cognitive_map", "johnson_and_redish_2007_hippocampal_sequences_at_choice_points", "daw", "niv_and_dayan_2005_uncertainty_based_competition_between_decision_systems", "redish_1999_beyond_the_cognitive_map", "buckner_and_carroll_2007_self_projection_and_the_brain", "schacter_and_addis_2011_episodic_future_thinking", "named_models_or_frameworks", "cognitive_map_theory_tolman", "search_and_evaluate_deliberation_framework", "model_based_vs_model_free_reinforcement_learning", "multiple_decision_systems_hypothesis_deliberative_vs_procedural", "integration_to_threshold_decision_theory", "episodic_future_thinking_mental_time_travel", "visuospatial_scratchpad_working_memory", "task_bracketing_dorsolateral_striatum"]
+paper_type: review
+contribution_type: review
+species:
+  - rat
+tasks:
+  - foraging_task
+methods:
+  - optogenetics
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - amygdala
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+keywords:
+  - vicarious_trial_and_error
+  - vte
+  - deliberation
+  - decision_making
+  - hippocampus
+  - theta_sequences
+  - mental_time_travel
+  - episodic_future_thinking
+  - cognitive_map
+  - model_based_reinforcement_learning
+  - place_cells
+  - prefrontal_cortex
+  - ventral_striatum
+  - orbitofrontal_cortex
+  - procedural_learning
+  - working_memory
+  - behavioral_flexibility
+  - spatial_navigation
+  - reward_evaluation
+  - vicarious
+key_citations:
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

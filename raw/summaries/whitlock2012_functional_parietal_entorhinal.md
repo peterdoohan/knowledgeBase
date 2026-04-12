@@ -1,17 +1,50 @@
 ---
-source_file: "whitlock2012_functional_parietal_entorhinal.md"
-paper_id: "whitlock2012_functional_parietal_entorhinal"
+source_file: whitlock2012_functional_parietal_entorhinal.md
+paper_id: whitlock2012_functional_parietal_entorhinal
 title: "Functional Split between Parietal and Entorhinal Cortices in the Rat"
-authors: "Jonathan R. Whitlock, Gerit Pfuhl, Nenitha Dagslott, May-Britt Moser, Edvard I. Moser"
+authors:
+  - "Jonathan R. Whitlock"
+  - "Gerit Pfuhl"
+  - "Nenitha Dagslott"
+  - "May-Britt Moser"
+  - "Edvard I. Moser"
 year: 2012
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["open_field", "foraging_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "retrosplenial_cortex"]
-keywords: ["self_motion", "grid_cells", "parietal_cortex", "entorhinal_cortex", "navigation", "spatial_memory", "prospective_coding", "sensorimotor_transformation", "allocentric", "egocentric", "remapping", "behavioral_tuning", "acceleration", "open_field", "hairpin_maze", "virtual_hairpin", "action_organization", "double_dissociation", "movement_encoding", "head_direction"]
-key_citations: ["fyhn2007_remapping_grid_realignment"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+  - foraging_task
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - retrosplenial_cortex
+keywords:
+  - self_motion
+  - grid_cells
+  - parietal_cortex
+  - entorhinal_cortex
+  - navigation
+  - spatial_memory
+  - prospective_coding
+  - sensorimotor_transformation
+  - allocentric
+  - egocentric
+  - remapping
+  - behavioral_tuning
+  - acceleration
+  - open_field
+  - hairpin_maze
+  - virtual_hairpin
+  - action_organization
+  - double_dissociation
+  - movement_encoding
+  - head_direction
+key_citations:
+  - fyhn2007_remapping_grid_realignment
 ---
 
 ### One-line summary

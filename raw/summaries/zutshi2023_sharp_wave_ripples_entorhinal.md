@@ -1,17 +1,47 @@
 ---
-source_file: "zutshi2023_sharp_wave_ripples_entorhinal.md"
-paper_id: "zutshi2023_sharp_wave_ripples_entorhinal"
+source_file: zutshi2023_sharp_wave_ripples_entorhinal.md
+paper_id: zutshi2023_sharp_wave_ripples_entorhinal
 title: "Hippocampal sharp-wave ripples and their spike assembly content are regulated by the medial entorhinal cortex"
-authors: "Ipshita Zutshi, Gy\u00f6rgy Buzs\u00e1ki"
+authors:
+  - "Ipshita Zutshi"
+  - "György Buzsáki"
 year: 2023
 journal: "Current Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
-keywords: ["sharp_wave_ripples", "spw_rs", "medial_entorhinal_cortex", "ca1", "optogenetics", "silencing", "cell_assemblies", "sequence_replay", "up_down_states", "nrem_sleep", "memory_consolidation", "hippocampal_cortical_communication", "current_source_density", "dentate_spikes", "neuronal_trajectories", "hippocampal", "sharp", "wave", "ripples", "their"]
-key_citations: ["girardeau2009_ripples_spatial_memory"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+keywords:
+  - sharp_wave_ripples
+  - spw_rs
+  - medial_entorhinal_cortex
+  - ca1
+  - optogenetics
+  - silencing
+  - cell_assemblies
+  - sequence_replay
+  - up_down_states
+  - nrem_sleep
+  - memory_consolidation
+  - hippocampal_cortical_communication
+  - current_source_density
+  - dentate_spikes
+  - neuronal_trajectories
+  - hippocampal
+  - sharp
+  - wave
+  - ripples
+  - their
+key_citations:
+  - girardeau2009_ripples_spatial_memory
 ---
 
 ### One-line summary

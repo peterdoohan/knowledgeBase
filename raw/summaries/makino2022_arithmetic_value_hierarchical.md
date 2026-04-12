@@ -1,17 +1,44 @@
 ---
-source_file: "makino2022_arithmetic_value_hierarchical.md"
-paper_id: "makino2022_arithmetic_value_hierarchical"
+source_file: makino2022_arithmetic_value_hierarchical.md
+paper_id: makino2022_arithmetic_value_hierarchical
 title: "Arithmetic value representation for hierarchical behavior composition"
-authors: "Hiroshi Makino"
+authors:
+  - "Hiroshi Makino"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["mouse"]
-methods: ["calcium_imaging", "behavioral_analysis"]
-brain_regions: ["striatum", "retrosplenial_cortex"]
-frameworks: ["reinforcement_learning", "hierarchical_rl", "neural_manifold"]
-keywords: ["arithmetic", "value", "representation", "hierarchical", "behavior", "composition"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - behavioral_analysis
+brain_regions:
+  - striatum
+  - retrosplenial_cortex
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+  - neural_manifold
+keywords:
+  - hierarchical_reinforcement_learning
+  - action_value_function_q_function
+  - behavioral_composition
+  - soft_actor_critic_sac
+  - maximum_entropy_policy
+  - two_photon_calcium_imaging
+  - cortex_wide_mesoscale_imaging
+  - intrinsic_neural_manifold
+  - policy_transfer
+  - policy_entropy
+  - few_shot_learning
+  - generalized_linear_model_glm
+  - arithmetic
+  - value
+  - representation
+  - hierarchical
+  - behavior
+  - composition
 ---
 
 ### One-line summary

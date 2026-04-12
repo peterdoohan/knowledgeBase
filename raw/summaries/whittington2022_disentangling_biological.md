@@ -1,17 +1,52 @@
 ---
-source_file: "whittington2022_disentangling_biological.md"
-paper_id: "whittington2022_disentangling_biological"
+source_file: whittington2022_disentangling_biological.md
+paper_id: whittington2022_disentangling_biological
 title: "Disentangling with biological constraints: A theory of functional cell types"
-authors: "James C.R. Whittington, Will Dorrell, Surya Ganguli, Timothy E.J. Behrens"
+authors:
+  - "James C.R. Whittington"
+  - "Will Dorrell"
+  - "Surya Ganguli"
+  - "Timothy E.J. Behrens"
 year: 2022
 journal: "Preprint (under review)"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "visual_cortex"]
-frameworks: ["mixed_selectivity"]
-keywords: ["disentangling", "biological", "constraints", "theory", "functional", "cell", "types"]
-key_citations: ["boccara2019_grid_goal_attractor", "butler2019_reward_locations_entorhinal_maps"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - visual_cortex
+frameworks:
+  - mixed_selectivity
+keywords:
+  - disentangled_representations
+  - nonnegativity_constraint
+  - energy_efficiency
+  - grid_cells
+  - object_vector_cells
+  - functional_cell_types
+  - relu_activation
+  - variational_autoencoder
+  - mixed_selectivity
+  - factorial_task_structure
+  - path_integration
+  - neural_population_coding
+  - representational_geometry
+  - biological_constraints
+  - independent_component_analysis
+  - linear_autoencoder
+  - pattern_formation
+  - task_factorization
+  - entorhinal_cortex
+  - spatial_navigation
+key_citations:
+  - boccara2019_grid_goal_attractor
+  - butler2019_reward_locations_entorhinal_maps
 ---
 
 ### One-line summary

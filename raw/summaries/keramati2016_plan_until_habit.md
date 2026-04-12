@@ -1,19 +1,54 @@
 ---
-source_file: "keramati2016_plan_until_habit.md"
-paper_id: "keramati2016_plan_until_habit"
+source_file: keramati2016_plan_until_habit.md
+paper_id: keramati2016_plan_until_habit
 title: "Adaptive integration of habits into depth-limited planning defines a habitual-goal directed spectrum"
-authors: "Mehdi Keramati, Peter Smittenaar, Raymond J. Dolan, Peter Dayan"
+authors:
+  - "Mehdi Keramati"
+  - "Peter Smittenaar"
+  - "Raymond J. Dolan"
+  - "Peter Dayan"
 year: 2016
 journal: "Proceedings of the National Academy of Sciences (PNAS)"
-paper_type: "empirical"
-contribution_type: "theoretical"
-species: ["human"]
-tasks: ["two_step_task"]
-methods: ["behavioral_analysis"]
-brain_regions: ["prefrontal_cortex", "striatum", "dorsomedial_striatum", "amygdala"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
-keywords: ["adaptive", "integration", "habits", "depth", "limited", "planning", "defines", "habitual", "goal", "directed"]
-key_citations: ["daw2011_model_based_striatal_prediction"]
+paper_type: empirical
+contribution_type: theoretical
+species:
+  - human
+tasks:
+  - two_step_task
+methods:
+  - behavioral_analysis
+brain_regions:
+  - prefrontal_cortex
+  - striatum
+  - dorsomedial_striatum
+  - amygdala
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+keywords:
+  - plan_until_habit
+  - depth_limited_planning
+  - model_based_reinforcement_learning
+  - model_free_reinforcement_learning
+  - habitual_decision_making
+  - goal_directed_decision_making
+  - speed_accuracy_trade_off
+  - cognitive_resource_constraints
+  - stay_probability_analysis
+  - markov_decision_process
+  - hybrid_rl_models
+  - decision_making_spectrum
+  - adaptive
+  - integration
+  - habits
+  - depth
+  - limited
+  - planning
+  - defines
+  - habitual
+key_citations:
+  - daw2011_model_based_striatal_prediction
 ---
 
 ### One-line summary

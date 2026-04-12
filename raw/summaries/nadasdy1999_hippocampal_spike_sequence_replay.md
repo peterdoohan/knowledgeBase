@@ -1,16 +1,46 @@
 ---
-source_file: "nadasdy1999_hippocampal_spike_sequence_replay.md"
-paper_id: "nadasdy1999_hippocampal_spike_sequence_replay"
+source_file: nadasdy1999_hippocampal_spike_sequence_replay.md
+paper_id: nadasdy1999_hippocampal_spike_sequence_replay
 title: "Replay and Time Compression of Recurring Spike Sequences in the Hippocampus"
-authors: "Zolt\u00e1n N\u00e1dasdy, Hajime Hirase, Andr\u00e1s Czurk\u00f3, Jozsef Csicsvari, Gy\u00f6rgy Buzs\u00e1ki"
+authors:
+  - "Zoltán Nádasdy"
+  - "Hajime Hirase"
+  - "András Czurkó"
+  - "Jozsef Csicsvari"
+  - "György Buzsáki"
 year: 1999
 journal: "The Journal of Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
-keywords: ["replay", "time", "compression", "recurring", "spike", "sequences", "hippocampus"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+keywords:
+  - hippocampal_replay
+  - spike_sequence_reactivation
+  - time_compression
+  - sharp_wave_ripples
+  - slow_wave_sleep
+  - place_cells
+  - memory_consolidation
+  - theta_oscillations
+  - spatiotemporal_spike_patterns
+  - template_matching
+  - joint_probability_map
+  - two_stage_memory_model
+  - replay
+  - time
+  - compression
+  - recurring
+  - spike
+  - sequences
+  - hippocampus
 ---
 
 ### One-line summary

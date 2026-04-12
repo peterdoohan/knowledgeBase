@@ -1,17 +1,48 @@
 ---
-source_file: "behrens2007_learning_value_information_uncertain.md"
-paper_id: "behrens2007_learning_value_information_uncertain"
+source_file: behrens2007_learning_value_information_uncertain.md
+paper_id: behrens2007_learning_value_information_uncertain
 title: "Learning the value of information in an uncertain world"
-authors: "Timothy E J Behrens, Mark W Woolrich, Mark E Walton, Matthew F S Rushworth"
+authors:
+  - "Timothy E J Behrens"
+  - "Mark W Woolrich"
+  - "Mark E Walton"
+  - "Matthew F S Rushworth"
 year: 2007
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "lesion", "behavioral_analysis"]
-brain_regions: ["anterior_cingulate_cortex", "striatum", "ventral_striatum", "ventral_tegmental_area"]
-frameworks: ["reinforcement_learning", "bayesian_inference"]
-keywords: ["learning", "value", "information", "uncertain", "world"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - lesion
+  - behavioral_analysis
+brain_regions:
+  - anterior_cingulate_cortex
+  - striatum
+  - ventral_striatum
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+  - bayesian_inference
+keywords:
+  - environmental_volatility
+  - adaptive_learning_rate
+  - bayesian_reinforcement_learning
+  - anterior_cingulate_cortex
+  - reward_uncertainty
+  - outcome_monitoring
+  - hierarchical_bayesian_inference
+  - prediction_error
+  - probabilistic_decision_making
+  - fmri
+  - expected_uncertainty_vs_unexpected_uncertainty
+  - individual_differences_in_learning
+  - learning
+  - value
+  - information
+  - uncertain
+  - world
 ---
 
 ### One-line summary

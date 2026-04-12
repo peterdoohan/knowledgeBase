@@ -1,15 +1,57 @@
 ---
-source_file: "vanheukelum2020_cingulate_cortex_cross_species.md"
-paper_id: "vanheukelum2020_cingulate_cortex_cross_species"
+source_file: vanheukelum2020_cingulate_cortex_cross_species.md
+paper_id: vanheukelum2020_cingulate_cortex_cross_species
 title: "Where is Cingulate Cortex? A Cross-Species View"
-authors: "Sabrina van Heukelum, Rogier B. Mars, Martin Guthrie, Jan K. Buitelaar, Christian F. Beckmann, Paul H.E. Tiesinga, Brent A. Vogt, Jeffrey C. Glennon, Martha N. Havenith"
+authors:
+  - "Sabrina van Heukelum"
+  - "Rogier B. Mars"
+  - "Martin Guthrie"
+  - "Jan K. Buitelaar"
+  - "Christian F. Beckmann"
+  - "Paul H.E. Tiesinga"
+  - "Brent A. Vogt"
+  - "Jeffrey C. Glennon"
+  - "Martha N. Havenith"
 year: 2020
 journal: "Trends in Neurosciences"
-paper_type: "review"
-contribution_type: "review"
-species: ["human", "monkey"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "nucleus_accumbens", "retrosplenial_cortex", "thalamus", "amygdala", "periaqueductal_gray"]
-keywords: ["vogt_2005_proposed_the_homologous_acc_mcc_nomenclature_across_species", "vogt_and_paxinos_2014_cytoarchitecture_of_mouse_and_rat_cingulate_cortex_with_human_homologies", "fillinger_et_al_2016_afferent_connectivity_of_acc_and_mcc_areas_in_mouse", "laubach_et_al_2018_review_on_rodent_prefrontal_cortex_definitions", "vogt_2009_cingulate_neurobiology_and_disease_book_establishing_acc_mcc_distinction", "beckmann_et_al_2009_connectivity_based_parcellation_of_human_cingulate_cortex", "mars_et_al_2016_comparing_brains_by_matching_connectivity_profiles", "named_models_or_frameworks", "acc_mcc_nomenclature_homologous_across_mammals", "cg1_cg2_nomenclature_rodent_specific", "non_homologous", "default_mode_network_acc_is_part_of_it", "salience_network_mcc_is_part_of_it", "brodmann_area_parcellation_system", "vogts_four_region_neurobiological_model_of_cingulate_cortex", "brain_regions", "anterior_cingulate_cortex_acc", "midcingulate_cortex_mcc", "subgenual_acc_sacc_a25", "pregenual_acc_pacc"]
+paper_type: review
+contribution_type: review
+species:
+  - monkey
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - nucleus_accumbens
+  - retrosplenial_cortex
+  - thalamus
+  - amygdala
+  - periaqueductal_gray
+keywords:
+  - cingulate_cortex
+  - anterior_cingulate_cortex_acc
+  - midcingulate_cortex_mcc
+  - cross_species_homology
+  - translational_neuroscience
+  - rodent_brain_anatomy
+  - brodmann_areas
+  - connectivity_based_parcellation
+  - prefrontal_cortex
+  - infralimbic_cortex
+  - prelimbic_cortex
+  - neuroanatomical_nomenclature
+  - functional_neuroimaging
+  - tract_tracing
+  - default_mode_network
+  - salience_network
+  - where
+  - cingulate
+  - cortex
+  - cross
 ---
 
 ### One-line summary

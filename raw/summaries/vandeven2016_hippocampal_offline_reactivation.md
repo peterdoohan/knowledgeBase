@@ -1,17 +1,47 @@
 ---
-source_file: "vandeven2016_hippocampal_offline_reactivation.md"
-paper_id: "vandeven2016_hippocampal_offline_reactivation"
+source_file: vandeven2016_hippocampal_offline_reactivation.md
+paper_id: vandeven2016_hippocampal_offline_reactivation
 title: "Hippocampal Offline Reactivation Consolidates Recently Formed Cell Assembly Patterns during Sharp Wave-Ripples"
-authors: "Gido M. van de Ven, St\u00e9phanie Trouche, Colin G. McNamara, Kevin Allen, David Dupret"
+authors:
+  - "Gido M. van de Ven"
+  - "Stéphanie Trouche"
+  - "Colin G. McNamara"
+  - "Kevin Allen"
+  - "David Dupret"
 year: 2016
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["girardeau_et_al", "2009_first_demonstration_that_swr_disruption_impairs_spatial_memory", "ego_stengel_and_wilson", "2010_confirmed_swr_disruption_impairs_spatial_learning", "wilson_and_mcnaughton", "1994_initial_discovery_of_hippocampal_replay_reactivation_during_sleep", "hebb", "1949_cell_assembly_theory_and_hebbian_plasticity", "buzsaki", "2010", "2015a_cell_assembly_framework_and_swr_function", "oneill_et_al", "2008_reactivation_of_experience_dependent_patterns", "harris_et_al", "2003_optimal_timescale_for_cell_assembly_expression", "lopes_dos_santos_et_al", "2013_ica_based_assembly_detection_method", "named_models_or_frameworks", "cell_assembly_theory_hebb", "1949"]
-key_citations: ["girardeau2009_ripples_spatial_memory"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - hippocampus
+  - sharp_wave_ripples_swrs
+  - cell_assemblies
+  - memory_consolidation
+  - offline_reactivation
+  - replay
+  - optogenetics
+  - spatial_memory
+  - ca1
+  - neuronal_co_activation
+  - pattern_reinstatement
+  - hebbian_plasticity
+  - assembly_detection
+  - independent_component_analysis
+  - hippocampal
+  - offline
+  - reactivation
+  - consolidates
+  - recently
+  - formed
+key_citations:
+  - girardeau2009_ripples_spatial_memory
 ---
 
 ### One-line summary

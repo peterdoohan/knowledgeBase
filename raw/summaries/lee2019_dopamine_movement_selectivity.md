@@ -1,18 +1,53 @@
 ---
-source_file: "lee2019_dopamine_movement_selectivity.md"
-paper_id: "lee2019_dopamine_movement_selectivity"
+source_file: lee2019_dopamine_movement_selectivity.md
+paper_id: lee2019_dopamine_movement_selectivity
 title: "Reward prediction error does not explain movement selectivity in DMS-projecting dopamine neurons"
-authors: "Rachel S Lee, Marcelo G Mattar, Nathan F Parker, Ilana B Witten, Nathaniel D Daw"
+authors:
+  - "Rachel S Lee"
+  - "Marcelo G Mattar"
+  - "Nathan F Parker"
+  - "Ilana B Witten"
+  - "Nathaniel D Daw"
 year: 2019
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["probabilistic_reversal_learning"]
-methods: ["calcium_imaging"]
-brain_regions: ["striatum", "dorsomedial_striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra"]
-frameworks: ["reinforcement_learning"]
-keywords: ["reward", "prediction", "error", "does", "not", "explain", "movement", "selectivity", "dms", "projecting"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - probabilistic_reversal_learning
+methods:
+  - calcium_imaging
+brain_regions:
+  - striatum
+  - dorsomedial_striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+keywords:
+  - dopamine_reward_prediction_error
+  - movement_selectivity_dopamine
+  - dorsomedial_striatum
+  - fiber_photometry_gcamp6f
+  - action_specific_rpe
+  - chosen_value_vs_contralateral_value
+  - q_learning_mixed_effects_model
+  - probabilistic_reversal_learning
+  - da_projection_heterogeneity
+  - contralateral_choice_selectivity
+  - actor_critic_basal_ganglia
+  - vta_dopamine_terminals
+  - reward
+  - prediction
+  - error
+  - does
+  - not
+  - explain
+  - movement
+  - selectivity
 ---
 
 ### One-line summary

@@ -1,17 +1,51 @@
 ---
-source_file: "lammel2014_dopamine_reward_aversion_b.md"
-paper_id: "lammel2014_dopamine_reward_aversion_b"
+source_file: lammel2014_dopamine_reward_aversion_b.md
+paper_id: lammel2014_dopamine_reward_aversion_b
 title: "Reward and aversion in a heterogeneous midbrain dopamine system"
-authors: "Stephan Lammel, Byung Kook Lim, Robert C. Malenka"
+authors:
+  - "Stephan Lammel"
+  - "Byung Kook Lim"
+  - "Robert C. Malenka"
 year: 2014
-journal: "Neuropharmacology"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "dorsolateral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala", "basolateral_amygdala"]
-frameworks: ["reinforcement_learning"]
-keywords: ["reward", "aversion", "heterogeneous", "midbrain", "dopamine", "system"]
+journal: Neuropharmacology
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+  - dorsolateral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - amygdala
+  - basolateral_amygdala
+frameworks:
+  - reinforcement_learning
+keywords:
+  - vta_dopamine_neuron_heterogeneity
+  - projection_defined_dopamine_subpopulations
+  - reward_and_aversion_circuits
+  - input_specific_synaptic_plasticity
+  - mesocorticolimbic_dopamine_system
+  - lateral_habenula_aversion_signalling
+  - optogenetic_circuit_dissection
+  - ampar_nmdar_ratio
+  - drug_induced_synaptic_potentiation
+  - social_defeat_stress_and_depression
+  - mesolimbic_vs_mesocortical_dopamine
+  - rostromedial_tegmental_nucleus_rmtg
+  - reward
+  - aversion
+  - heterogeneous
+  - midbrain
+  - dopamine
+  - system
 ---
 
 ### One-line summary

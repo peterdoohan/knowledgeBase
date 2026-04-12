@@ -1,17 +1,47 @@
 ---
-source_file: "haber2016_corticostriatal_circuitry_b.md"
-paper_id: "haber2016_corticostriatal_circuitry_b"
+source_file: haber2016_corticostriatal_circuitry_b.md
+paper_id: haber2016_corticostriatal_circuitry_b
 title: "Corticostriatal circuitry"
-authors: "Suzanne N. Haber"
+authors:
+  - "Suzanne N. Haber"
 year: 2016
 journal: "Dialogues in Clinical Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["human", "macaque", "monkey"]
-methods: ["fmri"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus", "amygdala"]
-frameworks: ["reinforcement_learning"]
-keywords: ["alexander_and_crutcher_1990_parallel_processing_model_of_basal_ganglia_circuits", "haber", "fudge_and_mcfarland_2000", "j_neurosci_striato_nigro_striatal_ascending_spiral", "kim", "mailly_and_calzavara_2006", "j_neurosci_reward_related_cortical_inputs_and_striatal_interface_zones", "averbeck", "lehman", "jacobson_and_haber_2014", "j_neurosci_probabilistic_estimates_of_corticostriatal_projection_overlap", "selemon_and_goldman_rakic_1985_longitudinal_topography_of_corticostriatal_projections_in_rhesus_monkey", "draganski_et_al_2008_human_diffusion_mri_evidence_for_basal_ganglia_connectivity", "schultz_1998_predictive_reward_signal_of_dopamine_neurons", "named_models_or_frameworks", "parallel_cortico_subcortical_channels_model_alexander_and_crutcher", "striato_nigro_striatal_ascending_spiral_haber_et_al", "direct_and_indirect_pathways_of_the_basal_ganglia", "hyperdirect_pathway_frontal_cortex_stn", "brain_regions"]
+paper_type: review
+contribution_type: review
+species:
+  - macaque
+  - monkey
+methods:
+  - fmri
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - thalamus
+  - amygdala
+frameworks:
+  - reinforcement_learning
+keywords:
+  - corticostriatal_topography
+  - striatal_functional_integration
+  - ventral_striatum_reward_circuitry
+  - striato_nigro_striatal_spiral
+  - prefrontal_striatal_convergence
+  - medium_spiny_neurons
+  - midbrain_dopamine_dorsal_ventral_tier
+  - basal_ganglia_parallel_vs_integrative_processing
+  - goal_directed_behavior_neural_architecture
+  - limbic_to_motor_information_transfer
+  - nucleus_accumbens_shell_core
+  - primate_tract_tracing_anatomy
+  - corticostriatal
+  - circuitry
 ---
 
 ### One-line summary

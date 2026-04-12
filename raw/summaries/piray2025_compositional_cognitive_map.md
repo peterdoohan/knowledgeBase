@@ -1,18 +1,54 @@
 ---
-source_file: "piray2025_compositional_cognitive_map.md"
-paper_id: "piray2025_compositional_cognitive_map"
+source_file: piray2025_compositional_cognitive_map.md
+paper_id: piray2025_compositional_cognitive_map
 title: "Reconciling flexibility and efficiency: medial entorhinal cortex represents a compositional cognitive map"
-authors: "Payam Piray, Nathaniel D. Daw"
+authors:
+  - "Payam Piray"
+  - "Nathaniel D. Daw"
 year: 2025
 journal: "Nature Communications"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "attractor_networks", "tolman_eichenbaum_machine", "compositionality"]
-keywords: ["reconciling", "flexibility", "efficiency", "medial", "entorhinal", "cortex", "represents", "compositional", "cognitive", "map"]
-key_citations: ["stachenfeld2017_hippocampus_predictive_map", "whittington2020_tolman_eichenbaum_machine", "dordek2016_grid_cells_pca", "piray2021_linear_reinforcement_planning"]
+paper_type: computational
+contribution_type: theoretical
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - successor_representation
+  - attractor_networks
+  - tolman_eichenbaum_machine
+  - compositionality
+keywords:
+  - cognitive_map
+  - compositionality
+  - reinforcement_learning
+  - predictive_representation
+  - default_representation_dr
+  - successor_representation_sr
+  - medial_entorhinal_cortex
+  - grid_cells
+  - object_vector_cells
+  - linear_rl
+  - planning
+  - model_based_rl
+  - spatial_navigation
+  - basis_functions
+  - eigenvectors
+  - woodbury_identity
+  - reconciling
+  - flexibility
+  - efficiency
+  - medial
+key_citations:
+  - stachenfeld2017_hippocampus_predictive_map
+  - whittington2020_tolman_eichenbaum_machine
+  - dordek2016_grid_cells_pca
+  - piray2021_linear_reinforcement_planning
 ---
 
 ### One-line summary

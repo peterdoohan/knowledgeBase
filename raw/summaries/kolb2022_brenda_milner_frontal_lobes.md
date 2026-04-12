@@ -1,17 +1,44 @@
 ---
-source_file: "kolb2022_brenda_milner_frontal_lobes.md"
-paper_id: "kolb2022_brenda_milner_frontal_lobes"
+source_file: kolb2022_brenda_milner_frontal_lobes.md
+paper_id: kolb2022_brenda_milner_frontal_lobes
 title: "Brenda Milner: Pioneer of the Study of the Human Frontal Lobes"
-authors: "Bryan Kolb"
+authors:
+  - "Bryan Kolb"
 year: 2022
 journal: "Frontiers in Human Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["brenda", "milner", "pioneer", "study", "human", "frontal", "lobes"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - frontal_lobe_lesions
+  - focal_cortical_excision
+  - wisconsin_card_sorting_task
+  - cognitive_set_shifting
+  - temporal_organisation_of_behaviour
+  - recency_memory
+  - verbal_fluency
+  - design_fluency
+  - conditional_associative_learning
+  - hemispheric_specialisation
+  - serial_order_memory
+  - neuropsychological_dissociation
+  - brenda
+  - milner
+  - pioneer
+  - study
+  - human
+  - frontal
+  - lobes
 ---
 
 ### One-line summary

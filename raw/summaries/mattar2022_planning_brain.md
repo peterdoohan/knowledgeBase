@@ -1,18 +1,55 @@
 ---
-source_file: "mattar2022_planning_brain.md"
-paper_id: "mattar2022_planning_brain"
+source_file: mattar2022_planning_brain.md
+paper_id: mattar2022_planning_brain
 title: "Planning in the brain"
-authors: "Marcelo G. Mattar, M\u00e1t\u00e9 Lengyel"
+authors:
+  - "Marcelo G. Mattar"
+  - "Máté Lengyel"
 year: 2022
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-methods: ["electrophysiology", "fmri", "lesion"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "striatum", "dorsomedial_striatum", "medial_temporal_lobe"]
-frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "hierarchical_rl"]
-keywords: ["planning", "brain"]
-key_citations: ["daw2005_uncertainty_prefrontal_striatal", "tolman1948_cognitive_maps_rats", "dayan1993_successor_representation", "balleine1998_goal_directed_instrumental_action", "foster2007_theta_sequences_hippocampus", "johnson2007_hippocampus_decision"]
+journal: Neuron
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - electrophysiology
+  - fmri
+  - lesion
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - striatum
+  - dorsomedial_striatum
+  - medial_temporal_lobe
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - successor_representation
+  - hierarchical_rl
+keywords:
+  - planning_algorithms
+  - model_based_decision_making
+  - goal_directed_behaviour
+  - internal_model
+  - hippocampal_replay
+  - theta_sequences
+  - lookahead
+  - tree_search
+  - cognitive_map
+  - reinforcement_learning
+  - sequential_decision_making
+  - habitual_vs_goal_directed_control
+  - planning
+  - brain
+key_citations:
+  - daw2005_uncertainty_prefrontal_striatal
+  - tolman1948_cognitive_maps_rats
+  - dayan1993_successor_representation
+  - balleine1998_goal_directed_instrumental_action
+  - foster2007_theta_sequences_hippocampus
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

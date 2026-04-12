@@ -1,16 +1,55 @@
 ---
-source_file: "ahmadlou2021_novelty_seeking_behavior.md"
-paper_id: "ahmadlou2021_novelty_seeking_behavior"
-title: "A cell type\u2013specific cortico-subcortical brain circuit for investigatory and novelty-seeking behavior"
-authors: "Mehran Ahmadlou, Janou H. W. Houba, Jacqueline F. M. van Vierbergen, Maria Giannouli, Geoffrey-Alexander Gimenez, Christiaan van Weeghel, Maryam Darbanfouladi, Maryam Yasamin Shirazi, Julia Dziubek, Mejdy Kacem, Fred de Winter, J. Alexander Heimel"
+source_file: ahmadlou2021_novelty_seeking_behavior.md
+paper_id: ahmadlou2021_novelty_seeking_behavior
+title: "A cell type–specific cortico-subcortical brain circuit for investigatory and novelty-seeking behavior"
+authors:
+  - "Mehran Ahmadlou"
+  - "Janou H. W. Houba"
+  - "Jacqueline F. M. van Vierbergen"
+  - "Maria Giannouli"
+  - "Geoffrey-Alexander Gimenez"
+  - "Christiaan van Weeghel"
+  - "Maryam Darbanfouladi"
+  - "Maryam Yasamin Shirazi"
+  - "Julia Dziubek"
+  - "Mejdy Kacem"
+  - "Fred de Winter"
+  - "J. Alexander Heimel"
 year: 2021
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["prefrontal_cortex", "prelimbic_cortex", "zona_incerta", "periaqueductal_gray"]
-keywords: ["zona_incerta", "novelty_seeking_behavior", "investigatory_behavior", "gabaergic_neurons", "tac1_neurons", "optogenetics", "fiber_photometry", "cortico_subcortical_circuit", "prefrontal_cortex", "disinhibition", "deep_investigation", "periaqueductal_gray", "cell", "typespecific", "cortico", "subcortical", "brain", "circuit", "investigatory", "novelty"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - prefrontal_cortex
+  - prelimbic_cortex
+  - zona_incerta
+  - periaqueductal_gray
+keywords:
+  - zona_incerta
+  - novelty_seeking_behavior
+  - investigatory_behavior
+  - gabaergic_neurons
+  - tac1_neurons
+  - optogenetics
+  - fiber_photometry
+  - cortico_subcortical_circuit
+  - prefrontal_cortex
+  - disinhibition
+  - deep_investigation
+  - periaqueductal_gray
+  - cell
+  - typespecific
+  - cortico
+  - subcortical
+  - brain
+  - circuit
+  - investigatory
+  - novelty
 ---
 
 ### One-line summary

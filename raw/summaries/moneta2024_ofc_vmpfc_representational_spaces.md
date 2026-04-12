@@ -1,18 +1,57 @@
 ---
-source_file: "moneta2024_ofc_vmpfc_representational_spaces.md"
-paper_id: "moneta2024_ofc_vmpfc_representational_spaces"
+source_file: moneta2024_ofc_vmpfc_representational_spaces.md
+paper_id: moneta2024_ofc_vmpfc_representational_spaces
 title: "Representational spaces in orbitofrontal and ventromedial prefrontal cortex: task states, values, and beyond"
-authors: "Nir Moneta, Shany Grossman, Nicolas W. Schuck"
+authors:
+  - "Nir Moneta"
+  - "Shany Grossman"
+  - "Nicolas W. Schuck"
 year: 2024
 journal: "Trends in Neurosciences"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["electrophysiology", "fmri", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum"]
-frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "latent_state_inference", "mixed_selectivity"]
-keywords: ["representational", "spaces", "orbitofrontal", "ventromedial", "prefrontal", "cortex", "task", "states", "values", "beyond"]
-key_citations: ["padoaschioppa2006_orbitofrontal_economic_value"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - electrophysiology
+  - fmri
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - successor_representation
+  - latent_state_inference
+  - mixed_selectivity
+keywords:
+  - orbitofrontal_cortex_value_encoding
+  - task_state_representation
+  - partially_observable_markov_decision_process
+  - mixed_selectivity
+  - deep_reinforcement_learning
+  - representational_geometry
+  - cognitive_map
+  - context_dependent_value
+  - vmpfc_multivariate_decoding
+  - goal_dependent_value_signals
+  - hippocampus_ofc_interaction
+  - latent_state_inference
+  - representational
+  - spaces
+  - orbitofrontal
+  - ventromedial
+  - prefrontal
+  - cortex
+  - task
+  - states
+key_citations:
+  - padoaschioppa2006_orbitofrontal_economic_value
 ---
 
 ### One-line summary

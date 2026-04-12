@@ -1,18 +1,48 @@
 ---
-source_file: "ciaramelli2008_vmPFC_wayfinding_navigation.md"
-paper_id: "ciaramelli2008_vmPFC_wayfinding_navigation"
+source_file: ciaramelli2008_vmPFC_wayfinding_navigation.md
+paper_id: ciaramelli2008_vmPFC_wayfinding_navigation
 title: "The role of ventromedial prefrontal cortex in navigation: A case of impaired wayfinding and rehabilitation"
-authors: "Elisa Ciaramelli"
+authors:
+  - "Elisa Ciaramelli"
 year: 2008
-journal: "Neuropsychologia"
-paper_type: "empirical"
-contribution_type: "empirical"
-tasks: ["navigation_task"]
-methods: ["fmri", "lesion"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["role", "ventromedial", "prefrontal", "cortex", "navigation", "case", "impaired", "wayfinding", "rehabilitation"]
-key_citations: ["hartley2003_wayfinding_route"]
+journal: Neuropsychologia
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - ventromedial_prefrontal_cortex
+  - spatial_navigation
+  - topographical_disorientation
+  - goal_maintenance
+  - working_memory
+  - attractor_locations
+  - reversal_learning
+  - wayfinding
+  - lesion_neuropsychology
+  - rehabilitation
+  - prefrontal_goal_representation
+  - interference_suppression
+  - role
+  - ventromedial
+  - prefrontal
+  - cortex
+  - navigation
+  - case
+  - impaired
+key_citations:
+  - hartley2003_wayfinding_route
 ---
 
 ### One-line summary

@@ -1,19 +1,62 @@
 ---
-source_file: "dolan2013_goals_habits_brain_b.md"
-paper_id: "dolan2013_goals_habits_brain_b"
+source_file: dolan2013_goals_habits_brain_b.md
+paper_id: dolan2013_goals_habits_brain_b
 title: "Goals and Habits in the Brain"
-authors: "Ray J. Dolan, Peter Dayan"
+authors:
+  - "Ray J. Dolan"
+  - "Peter Dayan"
 year: 2013
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-tasks: ["two_step_task"]
-methods: ["fmri", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala", "basolateral_amygdala"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
-keywords: ["goals", "habits", "brain"]
-key_citations: ["tolman1948_cognitive_maps_rats", "balleine1998_goal_directed_instrumental_action", "daw2005_uncertainty_prefrontal_striatal"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - human
+tasks:
+  - two_step_task
+methods:
+  - fmri
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - amygdala
+  - basolateral_amygdala
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+  - temporal_difference_learning
+keywords:
+  - goal_directed_behaviour
+  - habitual_behaviour
+  - model_based_reinforcement_learning
+  - model_free_reinforcement_learning
+  - temporal_difference_prediction_error
+  - outcome_devaluation
+  - corticostriatal_circuits
+  - dopamine_neuromodulation
+  - pavlovian_instrumental_transfer
+  - decision_making_arbitration
+  - obsessive_compulsive_disorder
+  - two_step_markov_decision_task
+  - goals
+  - habits
+  - brain
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - balleine1998_goal_directed_instrumental_action
+  - daw2005_uncertainty_prefrontal_striatal
 ---
 
 ### One-line summary

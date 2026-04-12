@@ -1,17 +1,48 @@
 ---
-source_file: "tang2024_learning_grid_cells_predictive.md"
-paper_id: "tang2024_learning_grid_cells_predictive"
+source_file: tang2024_learning_grid_cells_predictive.md
+paper_id: tang2024_learning_grid_cells_predictive
 title: "Learning Grid Cells by Predictive Coding"
-authors: "Mufeng Tang, Helen Barron, Rafal Bogacz"
+authors:
+  - "Mufeng Tang"
+  - "Helen Barron"
+  - "Rafal Bogacz"
 year: 2024
 journal: "Computational Biology / Conference Proceedings (ICLR)"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "visual_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["learning", "grid", "cells", "predictive", "coding"]
-key_citations: ["sorscher2023_grid_cells_unified_theory", "dordek2016_grid_cells_pca", "burak2009_path_integration_grid_cells"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - visual_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - predictive_coding
+  - spatial_navigation
+  - path_integration
+  - medial_entorhinal_cortex
+  - hippocampus
+  - hebbian_plasticity
+  - biologically_plausible_learning
+  - recurrent_neural_networks
+  - temporal_predictive_coding
+  - representation_learning
+  - spatial_memory
+  - entorhinal_cortex
+  - place_cells
+  - eligibility_trace
+  - learning
+  - grid
+  - cells
+  - predictive
+  - coding
+key_citations:
+  - sorscher2023_grid_cells_unified_theory
+  - dordek2016_grid_cells_pca
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

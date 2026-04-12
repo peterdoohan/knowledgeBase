@@ -1,16 +1,59 @@
 ---
-source_file: "tsao2022_neural_bases_timing_durations.md"
-paper_id: "tsao2022_neural_bases_timing_durations"
+source_file: tsao2022_neural_bases_timing_durations.md
+paper_id: tsao2022_neural_bases_timing_durations
 title: "The neural bases for timing of durations"
-authors: "Albert Tsao, S. Aryana Yousefzadeh, Warren H. Meck, May-Britt Moser, Edvard I. Moser"
+authors:
+  - "Albert Tsao"
+  - "S. Aryana Yousefzadeh"
+  - "Warren H. Meck"
+  - "May-Britt Moser"
+  - "Edvard I. Moser"
 year: 2022
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["human", "monkey"]
-methods: ["fmri", "representational_similarity_analysis", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum", "substantia_nigra", "thalamus", "amygdala", "medial_temporal_lobe", "visual_cortex", "primary_auditory_cortex"]
-keywords: ["neural", "bases", "timing", "durations"]
+paper_type: review
+contribution_type: review
+species:
+  - monkey
+methods:
+  - fmri
+  - representational_similarity_analysis
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - striatum
+  - substantia_nigra
+  - thalamus
+  - amygdala
+  - medial_temporal_lobe
+  - visual_cortex
+  - primary_auditory_cortex
+keywords:
+  - prospective_timing
+  - retrospective_timing
+  - interval_timing
+  - neural_trajectories
+  - population_clocks
+  - population_state_dynamics
+  - event_segmentation
+  - event_trajectories
+  - time_cells
+  - sequence_coding
+  - temporal_context
+  - corticostriatal_circuits
+  - lateral_entorhinal_cortex
+  - hippocampal_temporal_hierarchy
+  - medial_temporal_lobe
+  - dopaminergic_trajectory_speed_control
+  - temporal_scaling
+  - episodic_memory
+  - duration_estimation
+  - reconstructive_memory
 ---
 
 ### One-line summary

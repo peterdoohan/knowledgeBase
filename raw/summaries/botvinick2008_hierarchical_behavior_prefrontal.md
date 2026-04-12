@@ -1,18 +1,45 @@
 ---
-source_file: "botvinick2008_hierarchical_behavior_prefrontal.md"
-paper_id: "botvinick2008_hierarchical_behavior_prefrontal"
+source_file: botvinick2008_hierarchical_behavior_prefrontal.md
+paper_id: botvinick2008_hierarchical_behavior_prefrontal
 title: "Hierarchical models of behavior and prefrontal function"
-authors: "Matthew M. Botvinick"
+authors:
+  - "Matthew M. Botvinick"
 year: 2008
 journal: "Trends in Cognitive Sciences"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["fmri"]
-brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["hierarchical", "models", "behavior", "prefrontal", "function"]
-key_citations: ["lashley1951_serial_order_behavior"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - fmri
+brain_regions:
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - hierarchical_action_control
+  - temporal_abstraction
+  - policy_abstraction
+  - state_abstraction
+  - prefrontal_rostro_caudal_gradient
+  - hierarchical_reinforcement_learning
+  - options_framework
+  - working_memory_gating
+  - schema_nodes
+  - correlational_vs_instrumental_hierarchical_structure
+  - habit_system_vs_goal_directed_system
+  - frontopolar_cortex_pending_task_maintenance
+  - hierarchical
+  - models
+  - behavior
+  - prefrontal
+  - function
+key_citations:
+  - lashley1951_serial_order_behavior
 ---
 
 ### One-line summary

@@ -1,18 +1,48 @@
 ---
-source_file: "heindorf2018_motor_cortex_perturbation.md"
-paper_id: "heindorf2018_motor_cortex_perturbation"
+source_file: heindorf2018_motor_cortex_perturbation.md
+paper_id: heindorf2018_motor_cortex_perturbation
 title: "Mouse Motor Cortex Coordinates the Behavioral Response to Unpredicted Sensory Feedback"
-authors: "Matthias Heindorf, Silvia Arber, Georg B. Keller"
+authors:
+  - "Matthias Heindorf"
+  - "Silvia Arber"
+  - "Georg B. Keller"
 year: 2018
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["navigation_task"]
-methods: ["calcium_imaging", "optogenetics", "lesion"]
-brain_regions: ["visual_cortex"]
-frameworks: ["active_inference"]
-keywords: ["mouse", "motor", "cortex", "coordinates", "behavioral", "response", "unpredicted", "sensory", "feedback"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - navigation_task
+methods:
+  - calcium_imaging
+  - optogenetics
+  - lesion
+brain_regions:
+  - visual_cortex
+frameworks:
+  - active_inference
+keywords:
+  - motor_cortex
+  - visually_guided_movement
+  - sensory_perturbation
+  - unexpected_feedback
+  - corrective_turns
+  - layer_2_3_vs_layer_5_pt
+  - calcium_imaging
+  - two_photon_imaging
+  - gcamp6f
+  - optogenetic_inactivation
+  - vgat_chr2
+  - sim1_cre
+  - tlx3_cre
+  - mismatch_detection
+  - predictive_processing
+  - motor_plan_co_activation
+  - response_selection
+  - virtual_reality
+  - spherical_treadmill
+  - mouse_motor_learning
 ---
 
 ### One-line summary

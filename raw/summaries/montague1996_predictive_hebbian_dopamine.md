@@ -1,16 +1,49 @@
 ---
-source_file: "montague1996_predictive_hebbian_dopamine.md"
-paper_id: "montague1996_predictive_hebbian_dopamine"
+source_file: montague1996_predictive_hebbian_dopamine.md
+paper_id: montague1996_predictive_hebbian_dopamine
 title: "A Framework for Mesencephalic Dopamine Systems Based on Predictive Hebbian Learning"
-authors: "P. Read Montague, Peter Dayan, Terrence J. Sejnowski"
+authors:
+  - "P. Read Montague"
+  - "Peter Dayan"
+  - "Terrence J. Sejnowski"
 year: 1996
 journal: "The Journal of Neuroscience"
-paper_type: "computational"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-brain_regions: ["prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala"]
-frameworks: ["reinforcement_learning", "temporal_difference_learning"]
-keywords: ["framework", "mesencephalic", "dopamine", "systems", "based", "predictive", "hebbian", "learning"]
+paper_type: computational
+contribution_type: theoretical
+methods:
+  - computational_modeling
+brain_regions:
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - amygdala
+frameworks:
+  - reinforcement_learning
+  - temporal_difference_learning
+keywords:
+  - dopamine
+  - prediction_error
+  - reinforcement_learning
+  - temporal_difference_learning
+  - reward_prediction
+  - basal_ganglia
+  - ventral_tegmental_area
+  - synaptic_plasticity
+  - hebbian_learning
+  - conditioned_behavior
+  - diffuse_ascending_systems
+  - drug_addiction
+  - decision_making
+  - matching_law
+  - framework
+  - mesencephalic
+  - systems
+  - based
+  - predictive
+  - hebbian
 ---
 
 ### One-line summary

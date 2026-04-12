@@ -1,17 +1,46 @@
 ---
-source_file: "linson2019_ptsd_active_inference.md"
-paper_id: "linson2019_ptsd_active_inference"
+source_file: linson2019_ptsd_active_inference.md
+paper_id: linson2019_ptsd_active_inference
 title: "Reframing PTSD for computational psychiatry with the active inference framework"
-authors: "Adam Linson, Karl Friston"
+authors:
+  - "Adam Linson"
+  - "Karl Friston"
 year: 2019
 journal: "Cognitive Neuropsychiatry"
-paper_type: "review"
-contribution_type: "theoretical"
-tasks: ["foraging_task"]
-methods: ["dynamic_causal_modelling"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "thalamus", "amygdala"]
-frameworks: ["active_inference", "bayesian_inference"]
-keywords: ["friston_2009", "2010_free_energy_principle_and_active_inference", "feldman_and_friston_2010_attention", "uncertainty", "and_free_energy", "precision_control_of_sensory_signals", "brown", "friston_and_bestmann_2011_active_inference", "attention", "and_motor_preparation", "arnsten_2009", "2015_stress_induced_pfc_impairment_via_ca2_camp_signalling", "liberzon_and_abelson_2016_contextual_processing_model_of_ptsd", "nicholson_et_al_2017_dynamic_causal_modelling_of_effective_connectivity_in_ptsd", "peters", "mcewen_and_friston_2017_uncertainty", "stress", "linson", "clark", "ramamoorthy_and_friston_2018_active_inference_for_embodied_ecological_cognition"]
+paper_type: review
+contribution_type: theoretical
+tasks:
+  - foraging_task
+methods:
+  - dynamic_causal_modelling
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - thalamus
+  - amygdala
+frameworks:
+  - active_inference
+  - bayesian_inference
+keywords:
+  - active_inference
+  - free_energy_minimisation
+  - ptsd_pathophysiology
+  - precision_weighted_prediction_errors
+  - epistemic_foraging
+  - sensory_attenuation
+  - threat_prior
+  - fight_flight_freeze
+  - auditory_masking_energetic_and_informational
+  - fear_generalisation_fear_extinction
+  - computational_psychiatry
+  - hierarchical_generative_model
+  - reframing
+  - ptsd
+  - computational
+  - psychiatry
+  - active
+  - inference
+  - framework
 ---
 
 ### One-line summary

@@ -1,16 +1,48 @@
 ---
-source_file: "taylor2024_generalization_transfer_memory.md"
-paper_id: "taylor2024_generalization_transfer_memory"
+source_file: taylor2024_generalization_transfer_memory.md
+paper_id: taylor2024_generalization_transfer_memory
 title: "How do we generalize?"
-authors: "Jessica Elizabeth Taylor, Aurelio Cortese, Helen C Barron, Xiaochuan Pan, Masamichi Sakagami, Dagmar Zeithamova"
+authors:
+  - "Jessica Elizabeth Taylor"
+  - "Aurelio Cortese"
+  - "Helen C Barron"
+  - "Xiaochuan Pan"
+  - "Masamichi Sakagami"
+  - "Dagmar Zeithamova"
 year: 2024
 journal: "Journal of Neuroscience Research"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventromedial_prefrontal_cortex", "striatum"]
-frameworks: ["tolman_eichenbaum_machine"]
-keywords: ["mcclelland", "mcnaughton_and_oreilly_1995_complementary_learning_systems_theory", "eichenbaum_1999_memory_integration_theory", "kumaran_and_mcclelland_2012_remerge_model", "ashby_and_colleagues_covis_model", "decision_bound_theory", "pan", "sakagami_et_al_2008", "2014_functional_category_reward_prediction_task", "zeithamova", "preston_et_al_memory_integration_and_generalization_studies", "barron", "dolan_and_behrens_2013_online_evaluation_of_novel_choices", "schlichting_and_preston_hippocampal_memory_integration", "named_models_or_frameworks", "complementary_learning_systems_theory", "memory_integration_theory", "remerge_recurrency_and_episodic_memory_results_in_generalization", "covis_competition_between_verbal_and_implicit_system", "prototype_models_of_categorization"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+frameworks:
+  - tolman_eichenbaum_machine
+keywords:
+  - generalization
+  - transfer
+  - memory_integration
+  - complementary_learning_systems
+  - episodic_inference
+  - categorization
+  - hippocampus
+  - prefrontal_cortex
+  - prototype
+  - exemplar
+  - relational_generalization
+  - similarity_based_generalization
+  - sharp_wave_ripples
+  - functional_categories
+  - generative_adversarial_collaboration
+  - generalize
+key_citations:
+  - dolan2013_goals_habits_brain_b
 ---
 
 ### One-line summary

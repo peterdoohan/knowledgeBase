@@ -1,17 +1,46 @@
 ---
-source_file: "schultz1997_neural_substrate_reward_pred.md"
-paper_id: "schultz1997_neural_substrate_reward_pred"
+source_file: schultz1997_neural_substrate_reward_pred.md
+paper_id: schultz1997_neural_substrate_reward_pred
 title: "A Neural Substrate of Prediction and Reward"
-authors: "Wolfram Schultz, Peter Dayan, P. Read Montague"
+authors:
+  - "Wolfram Schultz"
+  - "Peter Dayan"
+  - "P. Read Montague"
 year: 1997
-journal: "Science"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["monkey"]
-methods: ["computational_modeling"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra"]
-frameworks: ["reinforcement_learning", "temporal_difference_learning"]
-keywords: ["sutton_and_barto_1981", "1987", "1988_td_learning_algorithm_and_psychological_applications", "rescorla_and_wagner_1972_classical_conditioning_model", "kamin_1969_blocking_phenomenon", "schultz_et_al_1986", "1990", "1992", "1993", "1994", "1996_prior_electrophysiological_recordings_from_dopamine_neurons", "montague", "dayan_and_sejnowski_1996_previous_td_model_of_dopamine_activity", "bellman_1957_dynamic_programming", "gallistel_1990_organization_of_learning", "named_models_or_frameworks", "temporal_difference_td_learning_algorithm", "rescorla_wagner_rule", "dynamic_programming", "complete_serial_compound_stimulus_representation"]
+journal: Science
+paper_type: review
+contribution_type: theoretical
+species:
+  - monkey
+methods:
+  - computational_modeling
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+  - temporal_difference_learning
+keywords:
+  - dopamine
+  - prediction_error
+  - temporal_difference_learning
+  - reinforcement_learning
+  - reward_prediction
+  - ventral_tegmental_area
+  - basal_ganglia
+  - conditioning
+  - blocking
+  - computational_neuroscience
+  - neuromodulation
+  - actor_critic_model
+  - neural
+  - substrate
+  - prediction
+  - reward
 ---
 
 ### One-line summary

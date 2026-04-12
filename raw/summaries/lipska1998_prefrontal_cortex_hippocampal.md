@@ -1,16 +1,48 @@
 ---
-source_file: "lipska1998_prefrontal_cortex_hippocampal.md"
-paper_id: "lipska1998_prefrontal_cortex_hippocampal"
+source_file: lipska1998_prefrontal_cortex_hippocampal.md
+paper_id: lipska1998_prefrontal_cortex_hippocampal
 title: "Excitotoxic Lesions of the Rat Medial Prefrontal Cortex: Effects on Abnormal Behaviors Associated with Neonatal Hippocampal Damage"
-authors: "Barbara K. Lipska, Hassen A. Al-Amin, Daniel R. Weinberger"
+authors:
+  - "Barbara K. Lipska"
+  - "Hassen A. Al-Amin"
+  - "Daniel R. Weinberger"
 year: 1998
-journal: "Neuropsychopharmacology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "infralimbic_cortex", "striatum", "nucleus_accumbens", "ventral_hippocampus"]
-keywords: ["excitotoxic", "lesions", "rat", "medial", "prefrontal", "cortex", "effects", "abnormal", "behaviors", "associated"]
+journal: Neuropsychopharmacology
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - infralimbic_cortex
+  - striatum
+  - nucleus_accumbens
+  - ventral_hippocampus
+keywords:
+  - neonatal_hippocampal_lesion
+  - medial_prefrontal_cortex_lesion
+  - schizophrenia_animal_model
+  - ibotenic_acid_excitotoxic_lesion
+  - postpubertal_behavioral_emergence
+  - subcortical_dopamine_dysregulation
+  - amphetamine_induced_hyperlocomotion
+  - apomorphine_stereotypy
+  - mk_801_hyperlocomotion
+  - hippocampal_prefrontal_circuit
+  - d1_d2_receptor_mrna
+  - neurodevelopmental_schizophrenia
+  - excitotoxic
+  - lesions
+  - rat
+  - medial
+  - prefrontal
+  - cortex
+  - effects
+  - abnormal
 ---
 
 ### One-line summary

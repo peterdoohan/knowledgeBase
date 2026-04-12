@@ -1,16 +1,55 @@
 ---
-source_file: "krishnakumar2019_cannabinoid_receptor.md"
-paper_id: "krishnakumar2019_cannabinoid_receptor"
+source_file: krishnakumar2019_cannabinoid_receptor.md
+paper_id: krishnakumar2019_cannabinoid_receptor
 title: "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex"
-authors: "Kaavya Krishna Kumar, Moran Shalev-Benami, Michael J. Robertson, Hongli Hu, Samuel D. Banister, Scott A. Hollingsworth, Naomi R. Latorraca, Hideaki E. Kato, Daniel Hilger, Shoji Maeda, William I. Weis, David L. Farrens, Ron O. Dror, Sanjay V. Malhotra, Brian K. Kobilka, Georgios Skiniotis"
+authors:
+  - "Kaavya Krishna Kumar"
+  - "Moran Shalev-Benami"
+  - "Michael J. Robertson"
+  - "Hongli Hu"
+  - "Samuel D. Banister"
+  - "Scott A. Hollingsworth"
+  - "Naomi R. Latorraca"
+  - "Hideaki E. Kato"
+  - "Daniel Hilger"
+  - "Shoji Maeda"
+  - "William I. Weis"
+  - "David L. Farrens"
+  - "Ron O. Dror"
+  - "Sanjay V. Malhotra"
+  - "Brian K. Kobilka"
+  - "Georgios Skiniotis"
 year: 2019
-journal: "Cell"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["optogenetics"]
-brain_regions: ["mediodorsal_thalamus"]
-keywords: ["structure", "signaling", "cannabinoid", "receptor", "protein", "complex"]
+journal: Cell
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - optogenetics
+brain_regions:
+  - mediodorsal_thalamus
+keywords:
+  - cannabinoid_receptor_1_cb1
+  - cryo_em
+  - gpcr_g_protein_complex
+  - gi_protein_coupling
+  - mdmb_fubinaca
+  - toggle_twin_switch
+  - synthetic_cannabinoids
+  - receptor_activation_mechanism
+  - g_protein_selectivity
+  - transmembrane_helix_6
+  - molecular_dynamics
+  - quantum_mechanics
+  - orthosteric_binding_pocket
+  - partial_vs_full_agonism
+  - structure
+  - signaling
+  - cannabinoid
+  - receptor
+  - protein
+  - complex
 ---
 
 ### One-line summary

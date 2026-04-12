@@ -1,18 +1,65 @@
 ---
-source_file: "decothi2022_predictive_spatial_navigation.md"
-paper_id: "decothi2022_predictive_spatial_navigation"
+source_file: decothi2022_predictive_spatial_navigation.md
+paper_id: decothi2022_predictive_spatial_navigation
 title: "Predictive maps in rats and humans for spatial navigation"
-authors: "William de Cothi, Nils Nyberg, Eva-Maria Griesbauer, Lydia Fletcher, Coco Newton, Sophie Renaudineau, Daniel Bendor, Carole Ghanam, Roddy Grieves, Fiona Zisch, \u00c9l\u00e9onore Duvelle, Julie M. Lefort, Caswell Barry, Hugo J. Spiers"
+authors:
+  - "William de Cothi"
+  - "Nils Nyberg"
+  - "Eva-Maria Griesbauer"
+  - "Lydia Fletcher"
+  - "Coco Newton"
+  - "Sophie Renaudineau"
+  - "Daniel Bendor"
+  - "Carole Ghanam"
+  - "Roddy Grieves"
+  - "Fiona Zisch"
+  - "Éléonore Duvelle"
+  - "Julie M. Lefort"
+  - "Caswell Barry"
+  - "Hugo J. Spiers"
 year: 2022
 journal: "Current Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat", "human"]
-tasks: ["open_field", "virtual_navigation", "navigation_task"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "striatum"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
-keywords: ["predictive", "maps", "rats", "humans", "spatial", "navigation"]
-key_citations: ["dayan1993_successor_representation", "momennejad2017_successor_representation_humans", "tolman1948_cognitive_maps_rats", "widloski2022_hippocampal_replay_barriers", "stachenfeld2017_hippocampus_predictive_map"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+  - virtual_navigation
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - temporal_difference_learning
+keywords:
+  - successor_representation
+  - spatial_navigation
+  - reinforcement_learning
+  - predictive_map
+  - cognitive_map
+  - cross_species_comparison
+  - model_based_vs_model_free
+  - trajectory_analysis
+  - open_field_maze
+  - virtual_reality_navigation
+  - hippocampus
+  - diffusivity_analysis
+  - predictive
+  - maps
+  - rats
+  - humans
+  - spatial
+  - navigation
+key_citations:
+  - dayan1993_successor_representation
+  - momennejad2017_successor_representation_humans
+  - tolman1948_cognitive_maps_rats
+  - widloski2022_hippocampal_replay_barriers
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

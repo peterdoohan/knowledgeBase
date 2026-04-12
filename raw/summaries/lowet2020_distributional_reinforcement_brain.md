@@ -1,18 +1,53 @@
 ---
-source_file: "lowet2020_distributional_reinforcement_brain.md"
-paper_id: "lowet2020_distributional_reinforcement_brain"
+source_file: lowet2020_distributional_reinforcement_brain.md
+paper_id: lowet2020_distributional_reinforcement_brain
 title: "Distributional Reinforcement Learning in the Brain"
-authors: "Adam S. Lowet, Qiao Zheng, Sara Matias, Jan Drugowitsch, Naoshige Uchida"
+authors:
+  - "Adam S. Lowet"
+  - "Qiao Zheng"
+  - "Sara Matias"
+  - "Jan Drugowitsch"
+  - "Naoshige Uchida"
 year: 2020
 journal: "Trends in Neurosciences"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala"]
-frameworks: ["reinforcement_learning", "temporal_difference_learning"]
-keywords: ["distributional", "reinforcement", "learning", "brain"]
-key_citations: ["schultz1997_neural_substrate_reward_pred"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - amygdala
+frameworks:
+  - reinforcement_learning
+  - temporal_difference_learning
+keywords:
+  - distributional_reinforcement_learning
+  - reward_prediction_error
+  - dopamine_neuron_heterogeneity
+  - expectile_coding
+  - quantile_regression
+  - asymmetric_learning_rates
+  - population_code_reward_distribution
+  - vta_dopamine_neurons
+  - temporal_difference_learning
+  - reward_distribution_decoding
+  - risk_sensitive_decision_making
+  - mesostriatal_dopamine_pathway
+  - distributional
+  - reinforcement
+  - learning
+  - brain
+key_citations:
+  - schultz1997_neural_substrate_reward_pred
 ---
 
 ### One-line summary

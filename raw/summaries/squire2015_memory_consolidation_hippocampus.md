@@ -1,16 +1,47 @@
 ---
-source_file: "squire2015_memory_consolidation_hippocampus.md"
-paper_id: "squire2015_memory_consolidation_hippocampus"
+source_file: squire2015_memory_consolidation_hippocampus.md
+paper_id: squire2015_memory_consolidation_hippocampus
 title: "Memory Consolidation"
-authors: "Larry R. Squire, Lisa Genzel, John T. Wixted, Richard G. Morris"
+authors:
+  - "Larry R. Squire"
+  - "Lisa Genzel"
+  - "John T. Wixted"
+  - "Richard G. Morris"
 year: 2015
 journal: "Cold Spring Harbor Perspectives in Biology"
-paper_type: "review"
-contribution_type: "review"
-species: ["human", "monkey"]
-methods: ["optogenetics", "fmri", "lesion"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "anterior_cingulate_cortex", "retrosplenial_cortex", "medial_temporal_lobe"]
-keywords: ["memory", "consolidation"]
+paper_type: review
+contribution_type: review
+species:
+  - monkey
+methods:
+  - optogenetics
+  - fmri
+  - lesion
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - retrosplenial_cortex
+  - medial_temporal_lobe
+keywords:
+  - systems_consolidation
+  - hippocampus
+  - neocortex
+  - retrograde_amnesia
+  - memory_replay
+  - sharp_wave_ripples
+  - complementary_learning_systems
+  - schema
+  - cortical_tagging
+  - nrem_sleep
+  - optogenetics
+  - temporal_gradient
+  - episodic_memory
+  - semantic_memory
+  - autobiographical_memory
+  - memory
+  - consolidation
 ---
 
 ### One-line summary

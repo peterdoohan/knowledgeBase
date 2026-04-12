@@ -1,13 +1,40 @@
 ---
-source_file: "paulson2000_cyclic_amp_gap_junction.md"
-paper_id: "paulson2000_cyclic_amp_gap_junction"
+source_file: paulson2000_cyclic_amp_gap_junction.md
+paper_id: paulson2000_cyclic_amp_gap_junction
 title: "Cyclic AMP and LDL trigger a rapid enhancement in gap junction assembly through a stimulation of connexin trafficking"
-authors: "Alicia F. Paulson, Paul D. Lampe, Rita A. Meyer, Erica TenBroek, Michael M. Atkinson, Timothy F. Walseth, Ross G. Johnson"
+authors:
+  - "Alicia F. Paulson"
+  - "Paul D. Lampe"
+  - "Rita A. Meyer"
+  - "Erica TenBroek"
+  - "Michael M. Atkinson"
+  - "Timothy F. Walseth"
+  - "Ross G. Johnson"
 year: 2000
 journal: "Journal of Cell Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-keywords: ["cyclic", "amp", "ldl", "trigger", "rapid", "enhancement", "gap", "junction", "assembly", "through"]
+paper_type: empirical
+contribution_type: empirical
+keywords:
+  - gap_junction
+  - connexin43
+  - camp
+  - protein_kinase_a
+  - ldl
+  - membrane_trafficking
+  - brefeldin_a
+  - monensin
+  - nocodazole
+  - cell_cell_communication
+  - intercellular_dye_transfer
+  - freeze_fracture_electron_microscopy
+  - novikoff_hepatoma_cells
+  - intracellular_stores
+  - vesicular_transport
+  - cyclic
+  - amp
+  - trigger
+  - rapid
+  - enhancement
 ---
 
 ### One-line summary

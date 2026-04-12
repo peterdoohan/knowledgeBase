@@ -1,16 +1,57 @@
 ---
-source_file: "mahn2018_optogenetic_silencing_b.md"
-paper_id: "mahn2018_optogenetic_silencing_b"
+source_file: mahn2018_optogenetic_silencing_b.md
+paper_id: mahn2018_optogenetic_silencing_b
 title: "High-efficiency optogenetic silencing with soma-targeted anion-conducting channelrhodopsins"
-authors: "Mathias Mahn, Lihi Gibor, Pritish Patil, Katayun Cohen-Kashi Malina, Shir Oring, Yoav Printz, Rivka Levy, Ilan Lampl, Ofer Yizhar"
+authors:
+  - "Mathias Mahn"
+  - "Lihi Gibor"
+  - "Pritish Patil"
+  - "Katayun Cohen-Kashi Malina"
+  - "Shir Oring"
+  - "Yoav Printz"
+  - "Rivka Levy"
+  - "Ilan Lampl"
+  - "Ofer Yizhar"
 year: 2018
 journal: "Nature Communications"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse", "rat"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex", "medial_prefrontal_cortex", "nucleus_accumbens", "amygdala", "basolateral_amygdala"]
-keywords: ["govorunova_et_al_2015_science_original_description_of_gtacr1_and_gtacr2", "mahn_et_al_2016_nat_neurosci_prior_work_showing_gtacr1_mediated_excitatory_release_at_thalamocortical_axons", "malyshev_et_al_2017_neurosci_lett_concurrent_report_of_antidromic_spiking_in_gtacr2_expressing_cortical_neurons", "gradinaru_et_al_2010_cell_source_of_er_export_trafficking_signal_for_enhanced_membrane_targeting_enphr3_0_strategy", "baker_et_al_2016_elife_soma_targeting_of_chr2_using_kv2_1_motif", "mattis_et_al_2011_nat_methods_comparative_analysis_of_microbial_opsins", "reference_photocurrents_for_earch3_0_and_enphr3_0", "mardinly_et_al_2018_nat_neurosci_contemporaneous_soma_targeted_gtacr1_variant", "sierra_mercado_et_al_bla_muscimol_extinction_precedent_reference_43", "named_models_or_frameworks", "stgtacr2_soma_targeted_gtacr2_the_principal_tool_developed", "stgtacr1_red_shifted_soma_targeted_variant", "egtacr2_er_export_trafficking_signal_variant", "stgtacr2_pest_destabilised_variant_with_pest_degradation_sequence", "kv2_1_somatodendritic_targeting_motif", "kcc2_potassium_chloride_co_transporter_2_chloride_extruder_used_mechanistically", "auditory_fear_conditioning_extinction_paradigm_context_a_b", "cs_us", "extinction_recall", "brain_regions"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+  - rat
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - nucleus_accumbens
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - optogenetic_inhibition
+  - anion_conducting_channelrhodopsin_acr
+  - gtacr2_soma_targeting
+  - antidromic_spiking
+  - axonal_chloride_reversal_potential
+  - kcc2_co_transporter
+  - kv2_1_subcellular_targeting
+  - aav_mediated_opsin_expression
+  - in_vivo_neuronal_silencing
+  - fear_extinction
+  - channelrhodopsin_membrane_trafficking
+  - photocurrent_amplitude
+  - high
+  - efficiency
+  - optogenetic
+  - silencing
+  - soma
+  - targeted
+  - anion
+  - conducting
 ---
 
 ### One-line summary

@@ -1,17 +1,51 @@
 ---
-source_file: "schneider2022_cebra_joint_embeddings.md"
-paper_id: "schneider2022_cebra_joint_embeddings"
+source_file: schneider2022_cebra_joint_embeddings.md
+paper_id: schneider2022_cebra_joint_embeddings
 title: "Learnable latent embeddings for joint behavioral and neural analysis"
-authors: "Steffen Schneider, Jin Hwa Lee, Mackenzie Weygandt Mathis"
+authors:
+  - "Steffen Schneider"
+  - "Jin Hwa Lee"
+  - "Mackenzie Weygandt Mathis"
 year: 2022
 journal: "Nature (manuscript, Oct 6, 2022)"
-paper_type: "computational"
-contribution_type: "methodological"
-species: ["mouse", "rat"]
-tasks: ["linear_track"]
-methods: ["calcium_imaging", "electrophysiology", "neuropixels"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "visual_cortex"]
-keywords: ["zhou_and_wei_2020_pi_vae", "the_primary_benchmark_comparison", "grosmark_and_buzsaki_2016_rat_hippocampus_dataset", "chowdhury_et_al_2020_primate_somatosensory_cortex_dataset", "de_vries_et_al_2020", "siegle_et_al_2021_allen_institute_visual_cortex_datasets", "hyvarinen_et_al_2019_non_linear_ica_using_auxiliary_variables", "oord_et_al_2018_contrastive_predictive_coding", "wang_and_isola_2020_alignment_and_uniformity_on_hypersphere", "zimmermann_et_al_2021_contrastive_learning_inverts_data_generating_process", "named_models_or_frameworks", "cebra_consistent_embeddings_of_high_dimensional_recordings_using_auxiliary_variables", "infonce_contrastive_loss_function", "pi_vae_conv_pi_vae_benchmark_comparison", "umap", "tsne", "pca_baseline_methods", "dino_vision_transformer_for_video_feature_extraction", "persistent_co_homology_topological_validation", "k_nearest_neighbors_knn_decoder"]
+paper_type: computational
+contribution_type: methodological
+species:
+  - mouse
+  - rat
+tasks:
+  - linear_track
+methods:
+  - calcium_imaging
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - visual_cortex
+keywords:
+  - contrastive_learning
+  - dimensionality_reduction
+  - neural_embeddings
+  - representation_learning
+  - self_supervised_learning
+  - infonce_loss
+  - cross_modal_consistency
+  - latent_variable_models
+  - brain_machine_interfaces
+  - population_coding
+  - place_cells
+  - visual_cortex
+  - somatosensory_cortex
+  - topology
+  - identifiability
+  - learnable
+  - latent
+  - embeddings
+  - joint
+  - behavioral
+key_citations:
+  - wang2020_alternating_theta_sequences
 ---
 
 ### One-line summary

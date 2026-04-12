@@ -1,16 +1,48 @@
 ---
-source_file: "zhong2016_astrocytes_electrophysiology.md"
-paper_id: "zhong2016_astrocytes_electrophysiology"
+source_file: zhong2016_astrocytes_electrophysiology.md
+paper_id: zhong2016_astrocytes_electrophysiology
 title: "Electrophysiological behavior of neonatal astrocytes in hippocampal stratum radiatum"
-authors: "Shiying Zhong, Yixing Du, Conrad M. Kiyoshi, Baofeng Ma, Catherine C. Alford, Qi Wang, Yongjie Yang, Xueyuan Liu, Min Zhou"
+authors:
+  - "Shiying Zhong"
+  - "Yixing Du"
+  - "Conrad M. Kiyoshi"
+  - "Baofeng Ma"
+  - "Catherine C. Alford"
+  - "Qi Wang"
+  - "Yongjie Yang"
+  - "Xueyuan Liu"
+  - "Min Zhou"
 year: 2016
 journal: "Molecular Brain"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus_ca1"]
-keywords: ["astrocytes", "electrophysiology", "gap_junctions", "potassium_homeostasis", "kir4_1", "developmental_neurobiology", "hippocampus", "passive_astrocytes", "variably_rectifying_astrocytes", "meclofenamic_acid", "neonatal_development", "syncytial_network", "twik_1", "trek_1", "electrophysiological", "behavior", "neonatal", "hippocampal", "stratum", "radiatum"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus_ca1
+keywords:
+  - astrocytes
+  - electrophysiology
+  - gap_junctions
+  - potassium_homeostasis
+  - kir4_1
+  - developmental_neurobiology
+  - hippocampus
+  - passive_astrocytes
+  - variably_rectifying_astrocytes
+  - meclofenamic_acid
+  - neonatal_development
+  - syncytial_network
+  - twik_1
+  - trek_1
+  - electrophysiological
+  - behavior
+  - neonatal
+  - hippocampal
+  - stratum
+  - radiatum
 ---
 
 ### One-line summary

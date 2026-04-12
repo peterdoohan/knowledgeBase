@@ -1,13 +1,37 @@
 ---
-source_file: "bouhadjar2022_coherent_noise_sequence_replay.md"
-paper_id: "bouhadjar2022_coherent_noise_sequence_replay"
+source_file: bouhadjar2022_coherent_noise_sequence_replay.md
+paper_id: bouhadjar2022_coherent_noise_sequence_replay
 title: "Coherent noise enables probabilistic sequence replay in spiking neuronal networks"
-authors: "Younes Bouhadjar, Dirk J. Wouters, Markus Diesmann, Tom Tetzlaff"
+authors:
+  - "Younes Bouhadjar"
+  - "Dirk J. Wouters"
+  - "Markus Diesmann"
+  - "Tom Tetzlaff"
 year: 2022
 journal: "bioRxiv (preprint, June 2022)"
-paper_type: "computational"
-contribution_type: "theoretical"
-keywords: ["coherent", "noise", "enables", "probabilistic", "sequence", "replay", "spiking", "neuronal", "networks"]
+paper_type: computational
+contribution_type: theoretical
+keywords:
+  - probabilistic_sequence_replay
+  - coherent_noise_correlated_noise
+  - winner_take_all_competition
+  - population_encoding
+  - noise_averaging
+  - exploration_exploitation_trade_off
+  - probability_matching
+  - shared_synaptic_input_correlation
+  - spatiotemporal_oscillations_travelling_cortical_waves
+  - dendritic_action_potentials
+  - spiking_neural_network
+  - decision_strategies_under_ambiguity
+  - coherent
+  - noise
+  - enables
+  - probabilistic
+  - sequence
+  - replay
+  - spiking
+  - neuronal
 ---
 
 ### One-line summary

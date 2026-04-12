@@ -1,16 +1,45 @@
 ---
-source_file: "durstewitz2020_psychiatric_network_dynamics.md"
-paper_id: "durstewitz2020_psychiatric_network_dynamics"
+source_file: durstewitz2020_psychiatric_network_dynamics.md
+paper_id: durstewitz2020_psychiatric_network_dynamics
 title: "Psychiatric Illnesses as Disorders of Network Dynamics"
-authors: "Daniel Durstewitz, Quentin J.M. Huys, Georgia Koppe"
+authors:
+  - "Daniel Durstewitz"
+  - "Quentin J.M. Huys"
+  - "Georgia Koppe"
 year: 2020
 journal: "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
-paper_type: "review"
-contribution_type: "theoretical"
-methods: ["fmri", "dynamic_causal_modelling"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
-frameworks: ["attractor_networks"]
-keywords: ["psychiatric", "illnesses", "disorders", "network", "dynamics"]
+paper_type: review
+contribution_type: theoretical
+methods:
+  - fmri
+  - dynamic_causal_modelling
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+frameworks:
+  - attractor_networks
+keywords:
+  - dynamical_systems_theory
+  - attractor_dynamics
+  - bifurcation
+  - metastability
+  - limit_cycle
+  - heteroclinic_channel
+  - chaotic_itinerancy
+  - recurrent_neural_network
+  - computational_psychiatry
+  - network_dynamics
+  - psychiatric_nosology
+  - working_memory_attractor
+  - psychiatric
+  - illnesses
+  - disorders
+  - network
+  - dynamics
 ---
 
 ### One-line summary

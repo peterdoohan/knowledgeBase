@@ -1,16 +1,44 @@
 ---
-source_file: "adams_delusions_inference_attractors.md"
-paper_id: "adams_delusions_inference_attractors"
+source_file: adams_delusions_inference_attractors.md
+paper_id: adams_delusions_inference_attractors
 title: "Everything is connected: Inference and attractors in delusions"
-authors: "Rick A. Adams, Peter Vincent, David Benrimoh, Karl J. Friston, Thomas Parr"
+authors:
+  - "Rick A. Adams"
+  - "Peter Vincent"
+  - "David Benrimoh"
+  - "Karl J. Friston"
+  - "Thomas Parr"
 year: 2021
 journal: "Schizophrenia Research"
-paper_type: "computational"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "prefrontal_cortex", "striatum"]
-frameworks: ["successor_representation", "active_inference", "bayesian_inference"]
-keywords: ["everything", "connected", "inference", "attractors", "delusions"]
-key_citations: ["stachenfeld2017_hippocampus_predictive_map"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - striatum
+frameworks:
+  - successor_representation
+  - active_inference
+  - bayesian_inference
+keywords:
+  - active_inference
+  - delusions
+  - attractor_dynamics
+  - policy_precision
+  - likelihood_precision
+  - habitual_learning
+  - bayesian_psychiatry
+  - computational_psychiatry
+  - dopamine_d2_receptors
+  - paranoia
+  - schizophrenia
+  - choice_induced_preference_change
+  - everything
+  - connected
+  - inference
+  - attractors
+key_citations:
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

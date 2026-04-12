@@ -1,16 +1,50 @@
 ---
-source_file: "hauser2016_adhd_neural_gain.md"
-paper_id: "hauser2016_adhd_neural_gain"
+source_file: hauser2016_adhd_neural_gain.md
+paper_id: hauser2016_adhd_neural_gain
 title: "Computational Psychiatry of ADHD: Neural Gain Impairments across Marrian Levels of Analysis"
-authors: "Tobias U. Hauser, Vincenzo G. Fiore, Michael Moutoussis, Raymond J. Dolan"
+authors:
+  - "Tobias U. Hauser"
+  - "Vincenzo G. Fiore"
+  - "Michael Moutoussis"
+  - "Raymond J. Dolan"
 year: 2016
 journal: "Trends in Neurosciences"
-paper_type: "computational"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus"]
-frameworks: ["reinforcement_learning", "temporal_difference_learning"]
-keywords: ["computational", "psychiatry", "adhd", "neural", "gain", "impairments", "across", "marrian", "levels", "analysis"]
+paper_type: computational
+contribution_type: theoretical
+methods:
+  - computational_modeling
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - thalamus
+frameworks:
+  - reinforcement_learning
+  - temporal_difference_learning
+keywords:
+  - adhd
+  - neural_gain_modulation
+  - computational_psychiatry
+  - marrs_levels
+  - decision_temperature
+  - reinforcement_learning
+  - corticostriatal_loops
+  - catecholamines
+  - dopamine
+  - noradrenaline
+  - exploitationexploration_trade_off
+  - attractor_dynamics
+  - computational
+  - psychiatry
+  - neural
+  - gain
+  - impairments
+  - across
+  - marrian
+  - levels
 ---
 
 ### One-line summary

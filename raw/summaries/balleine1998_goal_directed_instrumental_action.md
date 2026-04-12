@@ -1,17 +1,45 @@
 ---
-source_file: "balleine1998_goal_directed_instrumental_action.md"
-paper_id: "balleine1998_goal_directed_instrumental_action"
+source_file: balleine1998_goal_directed_instrumental_action.md
+paper_id: balleine1998_goal_directed_instrumental_action
 title: "Goal-directed instrumental action: contingency and incentive learning and their cortical substrates"
-authors: "Bernard W. Balleine, Anthony Dickinson"
+authors:
+  - "Bernard W. Balleine"
+  - "Anthony Dickinson"
 year: 1998
-journal: "Neuropharmacology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex", "prelimbic_cortex", "striatum"]
-frameworks: ["reinforcement_learning"]
-keywords: ["hammond_1980_original_contingency_degradation_procedure", "colwill_and_rescorla_1985a", "1985b", "1986", "1988_reward_devaluation_and_associative_structures_in_instrumental_learning", "adams_and_dickinson_1981", "adams_1982_reinforcer_devaluation_and_overtraining", "dickinson_and_balleine_1994", "1995_motivational_control_and_incentive_learning", "dickinson_et_al_1995_motivational_control_after_extended_training", "dickinson_et_al_1996_bidirectional_instrumental_conditioning", "balleine_and_dickinson_1998_incentive_learning_and_sensory_specific_satiety", "thorndike_1911", "hull_1943_sr_reinforcement_theory", "squire_1992_declarative_vs_procedural_memory", "goldman_rakic_1994", "frith_et_al_1991_prefrontal_cortex_and_voluntary_action", "named_models_or_frameworks", "sr_reinforcement_theory_law_of_effect", "contingency_learning"]
+journal: Neuropharmacology
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - prelimbic_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+keywords:
+  - goal_directed_instrumental_action
+  - habit_learning
+  - contingency_sensitivity
+  - reward_devaluation
+  - incentive_learning
+  - prelimbic_cortex
+  - insular_cortex
+  - action_outcome_association
+  - stimulus_response_reinforcement
+  - motivational_control
+  - specific_satiety
+  - cortical_substrates_of_instrumental_conditioning
+  - goal
+  - directed
+  - instrumental
+  - action
+  - contingency
+  - incentive
+  - learning
+  - their
 ---
 
 ### One-line summary

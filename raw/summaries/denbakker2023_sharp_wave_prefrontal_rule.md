@@ -1,17 +1,58 @@
 ---
-source_file: "denbakker2023_sharp_wave_prefrontal_rule.md"
-paper_id: "denbakker2023_sharp_wave_prefrontal_rule"
+source_file: denbakker2023_sharp_wave_prefrontal_rule.md
+paper_id: denbakker2023_sharp_wave_prefrontal_rule
 title: "Sharp-wave-ripple-associated activity in the medial prefrontal cortex supports spatial rule switching"
-authors: "Hanna den Bakker, Marie Van Dijck, Jyh-Jang Sun, Fabian Kloosterman"
+authors:
+  - "Hanna den Bakker"
+  - "Marie Van Dijck"
+  - "Jyh-Jang Sun"
+  - "Fabian Kloosterman"
 year: 2023
 journal: "Cell Reports"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["optogenetics", "tetrode_recording", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex", "infralimbic_cortex", "thalamus"]
-keywords: ["sharp", "wave", "ripple", "associated", "activity", "medial", "prefrontal", "cortex", "supports", "spatial"]
-key_citations: ["buzsaki2015_hippocampal_sharp_wave_ripple", "fernandez2019_ripples_memory_consolidation", "girardeau2009_ripples_spatial_memory", "jadhav2016_hippocampal_prefrontal_swr", "foster2021_cortico_basal_ganglia"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - optogenetics
+  - tetrode_recording
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - thalamus
+keywords:
+  - sharp_wave_ripples_swrs
+  - hippocampal_prefrontal_interaction
+  - spatial_rule_switching
+  - closed_loop_optogenetics
+  - archt_inhibition
+  - perseverative_behavior
+  - spatial_alternation_task
+  - memory_consolidation_timing
+  - cognitive_flexibility
+  - hippocampal_replay
+  - awake_reactivation
+  - two_stage_memory_model
+  - sharp
+  - wave
+  - ripple
+  - associated
+  - activity
+  - medial
+  - prefrontal
+  - cortex
+key_citations:
+  - buzsaki2015_hippocampal_sharp_wave_ripple
+  - fernandez2019_ripples_memory_consolidation
+  - girardeau2009_ripples_spatial_memory
+  - jadhav2016_hippocampal_prefrontal_swr
+  - foster2021_cortico_basal_ganglia
 ---
 
 ### One-line summary

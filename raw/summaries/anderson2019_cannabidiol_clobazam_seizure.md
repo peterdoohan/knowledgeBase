@@ -1,16 +1,47 @@
 ---
-source_file: "anderson2019_cannabidiol_clobazam_seizure.md"
-paper_id: "anderson2019_cannabidiol_clobazam_seizure"
+source_file: anderson2019_cannabidiol_clobazam_seizure.md
+paper_id: anderson2019_cannabidiol_clobazam_seizure
 title: "Coadministered cannabidiol and clobazam: Preclinical evidence for both pharmacodynamic and pharmacokinetic interactions"
-authors: "Lyndsey L. Anderson, Nathan L. Absalom, Sarah V. Abelev, Ivan K. Low, Peter T. Doohan, Lewis J. Martin, Mary Chebib, Iain S. McGregor, Jonathon C. Arnold"
+authors:
+  - "Lyndsey L. Anderson"
+  - "Nathan L. Absalom"
+  - "Sarah V. Abelev"
+  - "Ivan K. Low"
+  - "Peter T. Doohan"
+  - "Lewis J. Martin"
+  - "Mary Chebib"
+  - "Iain S. McGregor"
+  - "Jonathon C. Arnold"
 year: 2019
-journal: "Epilepsia"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse", "human"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus"]
-keywords: ["coadministered", "cannabidiol", "clobazam", "preclinical", "evidence", "both", "pharmacodynamic", "pharmacokinetic", "interactions"]
+journal: Epilepsia
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus
+keywords:
+  - cannabidiol
+  - clobazam
+  - dravet_syndrome
+  - scn1a
+  - gabaa_receptor_positive_allosteric_modulation
+  - cyp3a4_inhibition
+  - cyp2c19_inhibition
+  - pharmacokinetic_drug_interaction
+  - pharmacodynamic_interaction
+  - n_desmethylclobazam
+  - hyperthermia_induced_seizure
+  - sudep
+  - coadministered
+  - preclinical
+  - evidence
+  - both
+  - pharmacodynamic
+  - pharmacokinetic
+  - interactions
 ---
 
 ### One-line summary

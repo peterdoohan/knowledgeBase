@@ -1,19 +1,62 @@
 ---
-source_file: "comrie2024_hippocampal_representations.md"
-paper_id: "comrie2024_hippocampal_representations"
+source_file: comrie2024_hippocampal_representations.md
+paper_id: comrie2024_hippocampal_representations
 title: "Hippocampal representations of alternative possibilities are flexibly generated to meet cognitive demands"
-authors: "Alison E. Comrie, Emily J. Monroe, Ari E. Kahn, Eric L. Denovellis, Abhilasha Joshi, Jennifer A. Guidera, Timothy A. Krausz, Joshua D. Berke, Nathaniel D. Daw, Loren M. Frank"
+authors:
+  - "Alison E. Comrie"
+  - "Emily J. Monroe"
+  - "Ari E. Kahn"
+  - "Eric L. Denovellis"
+  - "Abhilasha Joshi"
+  - "Jennifer A. Guidera"
+  - "Timothy A. Krausz"
+  - "Joshua D. Berke"
+  - "Nathaniel D. Daw"
+  - "Loren M. Frank"
 year: 2024
 journal: "bioRxiv (preprint, posted September 23, 2024)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["foraging_task"]
-methods: ["tetrode_recording", "computational_modeling", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl"]
-keywords: ["hippocampal", "representations", "alternative", "possibilities", "flexibly", "generated", "meet", "cognitive", "demands"]
-key_citations: ["liu2021_experience_replay_nonlocal"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - foraging_task
+methods:
+  - tetrode_recording
+  - computational_modeling
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+keywords:
+  - hippocampal_non_local_representations
+  - theta_sequences
+  - counterfactual_representations
+  - patch_foraging_task
+  - value_guided_decision_making
+  - non_local_value_updating
+  - bayesian_hidden_markov_model
+  - place_cells
+  - spatial_bandit_task
+  - cognitive_map
+  - model_based_reinforcement_learning
+  - online_replay_during_locomotion
+  - hippocampal
+  - representations
+  - alternative
+  - possibilities
+  - flexibly
+  - generated
+  - meet
+  - cognitive
+key_citations:
+  - liu2021_experience_replay_nonlocal
 ---
 
 ### One-line summary

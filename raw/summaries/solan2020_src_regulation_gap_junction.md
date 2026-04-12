@@ -1,14 +1,37 @@
 ---
-source_file: "solan2020_src_regulation_gap_junction.md"
-paper_id: "solan2020_src_regulation_gap_junction"
+source_file: solan2020_src_regulation_gap_junction.md
+paper_id: solan2020_src_regulation_gap_junction
 title: "Src Regulation of Cx43 Phosphorylation and Gap Junction Turnover"
-authors: "Joell L. Solan, Paul D. Lampe"
+authors:
+  - "Joell L. Solan"
+  - "Paul D. Lampe"
 year: 2020
-journal: "Biomolecules"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-keywords: ["lin_et_al_2001_v_src_phosphorylation_of_cx43", "lampe_et_al_2006_mapk_phosphorylation_sites", "dunn_and_lampe_2012", "2014_akt_phosphorylation_of_cx43", "solan_and_lampe_2007", "2008_cx43_phosphorylation_by_src_and_pkc", "lauf_et_al_2002", "gaietta_et_al_2002_connexin_trafficking_dynamics", "totland_et_al_2017_nedd4_ubiquitin_ligase", "girao_et_al_2007_proteasome_regulation_of_cx43_zo_1_interaction", "named_models_or_frameworks", "cx43_kinome_concept", "gap_junction_life_cycle_model_figure_8", "connexisome_annular_junction_formation_pathway", "gap_junction_scaffold_function_model_channel_dependent_vs_channel_independent_functions", "phospho_specific_subdomain_organization", "brain_regions", "not_applicable_cell_culture_study", "keywords", "connexin43"]
+journal: Biomolecules
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+keywords:
+  - connexin43
+  - gap_junction
+  - src_kinase
+  - phosphorylation
+  - proteasome
+  - connexisome
+  - annular_junction
+  - gap_junction_turnover
+  - zo_1
+  - mapk
+  - live_cell_imaging
+  - lattice_light_sheet_microscopy
+  - pulse_chase_labeling
+  - subdomain_organization
+  - nedd4
+  - ubiquitin
+  - lysosome
+  - intercellular_communication
+  - src
+  - regulation
 ---
 
 ### One-line summary

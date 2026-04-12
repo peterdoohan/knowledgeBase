@@ -1,17 +1,51 @@
 ---
-source_file: "koolschijn2021_memory_recall_excitatory.md"
-paper_id: "koolschijn2021_memory_recall_excitatory"
+source_file: koolschijn2021_memory_recall_excitatory.md
+paper_id: koolschijn2021_memory_recall_excitatory
 title: "Memory recall involves a transient break in excitatory-inhibitory balance"
-authors: "Ren\u00e9e S Koolschijn, Anna Shpektor, William T Clarke, I Betina Ip, David Dupret, Uzay E Emir, Helen C Barron"
+authors:
+  - "Renée S Koolschijn"
+  - "Anna Shpektor"
+  - "William T Clarke"
+  - "I Betina Ip"
+  - "David Dupret"
+  - "Uzay E Emir"
+  - "Helen C Barron"
 year: 2021
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "behavioral_analysis"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "visual_cortex"]
-keywords: ["memory", "recall", "involves", "transient", "break", "excitatory", "inhibitory", "balance"]
-key_citations: ["barron2020_neuronal_computation_inferential"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - visual_cortex
+keywords:
+  - excitatory_inhibitory_balance
+  - hippocampal_indexing
+  - associative_memory_recall
+  - functional_magnetic_resonance_spectroscopy_fmrs
+  - glutamate_gaba_ratio
+  - disinhibition
+  - neocortical_memory_reinstatement
+  - 7t_mri
+  - virtual_reality_inference_task
+  - semi_laser_spectroscopy
+  - hippocampal_neocortical_coordination
+  - transient_ei_perturbation
+  - memory
+  - recall
+  - involves
+  - transient
+  - break
+  - excitatory
+  - inhibitory
+  - balance
+key_citations:
+  - barron2020_neuronal_computation_inferential
 ---
 
 ### One-line summary

@@ -1,17 +1,55 @@
 ---
-source_file: "whittington2022_cognitive_maps_learning.md"
-paper_id: "whittington2022_cognitive_maps_learning"
+source_file: whittington2022_cognitive_maps_learning.md
+paper_id: whittington2022_cognitive_maps_learning
 title: "How to build a cognitive map"
-authors: "James C. R. Whittington, David McCaffary, Jacob J. W. Bakermans, Timothy E. J. Behrens"
+authors:
+  - "James C. R. Whittington"
+  - "David McCaffary"
+  - "Jacob J. W. Bakermans"
+  - "Timothy E. J. Behrens"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-tasks: ["navigation_task"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "attractor_networks", "latent_state_inference", "tolman_eichenbaum_machine"]
-keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map", "tolman_1948_cognitive_maps_in_rats_and_men", "stachenfeld", "botvinick_and_gershman_2017_the_hippocampus_as_a_predictive_map_successor_representation", "whittington_et_al_2020_the_tolman_eichenbaum_machine", "george_et_al_2021_clone_structured_cognitive_graphs", "burak_and_fiete_2009_grid_cells_via_path_integration_in_canns", "named_models_or_frameworks", "successor_representation_sr", "clone_structured_cognitive_graph_cscg", "tolman_eichenbaum_machine_tem", "spatial_memory_pipeline_smp", "continuous_attractor_neural_networks_canns", "default_representation_dr", "reinforcement_learning_rl_state_space_framework", "path_integration_models_velocity_coupled_oscillators", "vcos", "brain_regions", "hippocampus_hpc_place_cells", "splitter_cells"]
+paper_type: review
+contribution_type: review
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - successor_representation
+  - attractor_networks
+  - latent_state_inference
+  - tolman_eichenbaum_machine
+keywords:
+  - cognitive_map
+  - successor_representation
+  - grid_cells
+  - place_cells
+  - latent_state_inference
+  - path_integration
+  - reinforcement_learning
+  - generalization
+  - hippocampal_entorhinal_system
+  - sequence_learning
+  - continuous_attractor_networks
+  - tolman_eichenbaum_machine
+  - compositional_representations
+  - representational_drift
+  - state_space_abstraction
+  - build
+  - cognitive
+  - map
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - whittington2020_tolman_eichenbaum_machine
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

@@ -1,18 +1,54 @@
 ---
-source_file: "peng2023_grid_cells_path_integration.md"
-paper_id: "peng2023_grid_cells_path_integration"
+source_file: peng2023_grid_cells_path_integration.md
+paper_id: peng2023_grid_cells_path_integration
 title: "Grid cells perform path integration in multiple reference frames during self-motion-based navigation"
-authors: "Jing-Jie Peng, Beate Throm, Maryam Najafian Jazi, Ting-Yun Yen, Hannah Monyer, Kevin Allen"
+authors:
+  - "Jing-Jie Peng"
+  - "Beate Throm"
+  - "Maryam Najafian Jazi"
+  - "Ting-Yun Yen"
+  - "Hannah Monyer"
+  - "Kevin Allen"
 year: 2023
-journal: "bioRxiv"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["foraging_task", "navigation_task"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["grid_cells", "path_integration", "reference_frames", "toroidal_manifold", "entorhinal_cortex", "spatial_navigation", "attractor_networks", "deep_learning_decoding", "multiple_reference_frames", "re_anchoring", "orientation_drift", "homing_behavior", "self_motion_cues", "autopi_task", "grid", "cells", "perform", "path", "integration", "multiple"]
-key_citations: ["fyhn2007_remapping_grid_realignment", "jazi2023_hippocampal_path_integration_homing", "burak2009_path_integration_grid_cells"]
+journal: bioRxiv
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - foraging_task
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - path_integration
+  - reference_frames
+  - toroidal_manifold
+  - entorhinal_cortex
+  - spatial_navigation
+  - attractor_networks
+  - deep_learning_decoding
+  - multiple_reference_frames
+  - re_anchoring
+  - orientation_drift
+  - homing_behavior
+  - self_motion_cues
+  - autopi_task
+  - grid
+  - cells
+  - perform
+  - path
+  - integration
+  - multiple
+key_citations:
+  - fyhn2007_remapping_grid_realignment
+  - jazi2023_hippocampal_path_integration_homing
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

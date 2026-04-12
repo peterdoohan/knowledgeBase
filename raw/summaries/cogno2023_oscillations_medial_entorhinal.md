@@ -1,17 +1,56 @@
 ---
-source_file: "cogno2023_oscillations_medial_entorhinal.md"
-paper_id: "cogno2023_oscillations_medial_entorhinal"
+source_file: cogno2023_oscillations_medial_entorhinal.md
+paper_id: cogno2023_oscillations_medial_entorhinal
 title: "Minute-scale oscillatory sequences in medial entorhinal cortex"
-authors: "Soledad Gonzalo Cogno, Horst A. Obenhaus, Ane Lautrup, R. Irene Jacobsen, Claudia Clopath, Sebastian O. Andersson, Flavio Donato, May-Britt Moser, Edvard I. Moser"
+authors:
+  - "Soledad Gonzalo Cogno"
+  - "Horst A. Obenhaus"
+  - "Ane Lautrup"
+  - "R. Irene Jacobsen"
+  - "Claudia Clopath"
+  - "Sebastian O. Andersson"
+  - "Flavio Donato"
+  - "May-Britt Moser"
+  - "Edvard I. Moser"
 year: 2023
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "electrophysiology", "neuropixels", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "visual_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["minute", "scale", "oscillatory", "sequences", "medial", "entorhinal", "cortex"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - electrophysiology
+  - neuropixels
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - visual_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - ultraslow_oscillations
+  - oscillatory_sequences
+  - medial_entorhinal_cortex
+  - population_dynamics
+  - ring_attractor
+  - two_photon_calcium_imaging
+  - neuropixels_electrophysiology
+  - phase_locking
+  - temporal_coding
+  - sequential_neural_activity
+  - low_dimensional_population_code
+  - behavioural_time_scale
+  - minute
+  - scale
+  - oscillatory
+  - sequences
+  - medial
+  - entorhinal
+  - cortex
 ---
 
 ### One-line summary

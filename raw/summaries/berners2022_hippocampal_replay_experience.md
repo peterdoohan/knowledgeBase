@@ -1,19 +1,56 @@
 ---
-source_file: "berners2022_hippocampal_replay_experience.md"
-paper_id: "berners2022_hippocampal_replay_experience"
+source_file: berners2022_hippocampal_replay_experience.md
+paper_id: berners2022_hippocampal_replay_experience
 title: "Hippocampal replays appear after a single experience and incorporate greater detail with more experience"
-authors: "Alice Berners-Lee, Ting Feng, Delia Silva, Xiaojing Wu, Ellen R. Ambrose, Brad E. Pfeiffer, David J. Foster"
+authors:
+  - "Alice Berners-Lee"
+  - "Ting Feng"
+  - "Delia Silva"
+  - "Xiaojing Wu"
+  - "Ellen R. Ambrose"
+  - "Brad E. Pfeiffer"
+  - "David J. Foster"
 year: 2022
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["linear_track"]
-methods: ["optogenetics", "tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "attractor_networks"]
-keywords: ["hippocampal", "replays", "appear", "after", "single", "experience", "incorporate", "greater", "detail", "more"]
-key_citations: ["pfeiffer2015_autoassociative_hippocampal_place_cells"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+methods:
+  - optogenetics
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - attractor_networks
+keywords:
+  - hippocampal_replay
+  - sharp_wave_ripples
+  - place_cells
+  - one_trial_learning
+  - experience_dependent_plasticity
+  - hover_and_jump_dynamics
+  - slow_gamma_oscillations
+  - attractor_network
+  - spatial_memory_consolidation
+  - replay_speed
+  - interneuron_modulation
+  - hippocampal_prefrontal_interaction
+  - hippocampal
+  - replays
+  - appear
+  - after
+  - single
+  - experience
+  - incorporate
+  - greater
+key_citations:
+  - pfeiffer2015_autoassociative_hippocampal_place_cells
 ---
 
 ### One-line summary

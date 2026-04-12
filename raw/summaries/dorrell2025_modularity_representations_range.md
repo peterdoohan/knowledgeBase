@@ -1,16 +1,53 @@
 ---
-source_file: "dorrell2025_modularity_representations_range.md"
-paper_id: "dorrell2025_modularity_representations_range"
+source_file: dorrell2025_modularity_representations_range.md
+paper_id: dorrell2025_modularity_representations_range
 title: "Range, Not Independence, Drives Modularity in Biologically Inspired Representations"
-authors: "Will Dorrell, Kyle Hsu, Luke Hollingsworth, Jin Hwa Lee, Jiajun Wu, Chelsea Finn, Peter E. Latham, Tim Behrens, James C.R. Whittington"
+authors:
+  - "Will Dorrell"
+  - "Kyle Hsu"
+  - "Luke Hollingsworth"
+  - "Jin Hwa Lee"
+  - "Jiajun Wu"
+  - "Chelsea Finn"
+  - "Peter E. Latham"
+  - "Tim Behrens"
+  - "James C.R. Whittington"
 year: 2025
 journal: "International Conference on Learning Representations (ICLR 2025)"
-paper_type: "computational"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex"]
-frameworks: ["mixed_selectivity"]
-keywords: ["range", "not", "independence", "drives", "modularity", "biologically", "inspired", "representations"]
-key_citations: ["whittington2023_disentanglement_constraints", "dorrell2023_actionable_grid_constraints", "butler2019_reward_locations_entorhinal_maps", "boccara2019_grid_goal_attractor"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+frameworks:
+  - mixed_selectivity
+keywords:
+  - modularity
+  - mixed_selectivity
+  - nonnegative_representations
+  - energy_efficiency
+  - range_independence
+  - source_support
+  - disentangled_representations
+  - grid_cells
+  - entorhinal_cortex
+  - recurrent_neural_networks
+  - linear_autoencoder
+  - convex_hull_modularisation_condition
+  - range
+  - not
+  - independence
+  - drives
+  - biologically
+  - inspired
+  - representations
+key_citations:
+  - whittington2023_disentanglement_constraints
+  - dorrell2023_actionable_grid_constraints
+  - butler2019_reward_locations_entorhinal_maps
+  - boccara2019_grid_goal_attractor
 ---
 
 ### One-line summary

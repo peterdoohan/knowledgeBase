@@ -1,16 +1,43 @@
 ---
-source_file: "machado2021_temporal_abstraction_rl.md"
-paper_id: "machado2021_temporal_abstraction_rl"
+source_file: machado2021_temporal_abstraction_rl.md
+paper_id: machado2021_temporal_abstraction_rl
 title: "Temporal Abstraction in Reinforcement Learning with the Successor Representation"
-authors: "Marlos C. Machado, Andr\u00e9 Barreto, Doina Precup"
+authors:
+  - "Marlos C. Machado"
+  - "André Barreto"
+  - "Doina Precup"
 year: 2021
 journal: "Journal of Machine Learning Research"
-paper_type: "computational"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "entorhinal_cortex"]
-frameworks: ["reinforcement_learning", "successor_representation"]
-keywords: ["temporal", "abstraction", "reinforcement", "learning", "successor", "representation"]
-key_citations: ["dayan1993_successor_representation", "momennejad2017_successor_representation_humans"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+keywords:
+  - temporal_abstraction
+  - options_framework
+  - successor_representation
+  - option_discovery
+  - eigenoptions
+  - covering_options
+  - option_keyboard
+  - temporally_extended_exploration
+  - spectral_graph_theory
+  - proto_value_functions
+  - generalised_policy_improvement
+  - diffusion_time
+  - temporal
+  - abstraction
+  - reinforcement
+  - learning
+  - successor
+  - representation
+key_citations:
+  - dayan1993_successor_representation
+  - momennejad2017_successor_representation_humans
 ---
 
 ### One-line summary

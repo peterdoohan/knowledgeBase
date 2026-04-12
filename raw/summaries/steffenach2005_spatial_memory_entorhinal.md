@@ -1,17 +1,47 @@
 ---
-source_file: "steffenach2005_spatial_memory_entorhinal.md"
-paper_id: "steffenach2005_spatial_memory_entorhinal"
+source_file: steffenach2005_spatial_memory_entorhinal.md
+paper_id: steffenach2005_spatial_memory_entorhinal
 title: "Spatial Memory in the Rat Requires the Dorsolateral Band of the Entorhinal Cortex"
-authors: "Hill-Aina Steffenach, Menno Witter, May-Britt Moser, Edvard I. Moser"
+authors:
+  - "Hill-Aina Steffenach"
+  - "Menno Witter"
+  - "May-Britt Moser"
+  - "Edvard I. Moser"
 year: 2005
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["morris_water_maze"]
-methods: ["lesion"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "ventral_hippocampus"]
-keywords: ["spatial", "memory", "rat", "requires", "dorsolateral", "band", "entorhinal", "cortex"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - morris_water_maze
+methods:
+  - lesion
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - ventral_hippocampus
+keywords:
+  - entorhinal_cortex
+  - spatial_memory
+  - morris_water_maze
+  - excitotoxic_lesions
+  - nmda
+  - dorsolateral_band
+  - ventromedial_band
+  - hippocampal_longitudinal_axis
+  - functional_differentiation
+  - modular_organization
+  - elevated_plus_maze
+  - defensive_behavior
+  - visuospatial_input
+  - postrhinal_cortex
+  - place_cells
+  - memory_retention
+  - reversal_learning
+  - spatial
+  - memory
+  - rat
 ---
 
 ### One-line summary

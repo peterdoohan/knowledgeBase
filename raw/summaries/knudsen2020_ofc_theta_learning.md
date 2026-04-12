@@ -1,18 +1,53 @@
 ---
-source_file: "knudsen2020_ofc_theta_learning.md"
-paper_id: "knudsen2020_ofc_theta_learning"
+source_file: knudsen2020_ofc_theta_learning.md
+paper_id: knudsen2020_ofc_theta_learning
 title: "Closed-Loop Theta Stimulation in the Orbitofrontal Cortex Prevents Reward-Based Learning"
-authors: "Eric B. Knudsen, Joni D. Wallis"
+authors:
+  - "Eric B. Knudsen"
+  - "Joni D. Wallis"
 year: 2020
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque"]
-tasks: ["t_maze"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "orbitofrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
-keywords: ["closed", "loop", "theta", "stimulation", "orbitofrontal", "cortex", "prevents", "reward", "based", "learning"]
-key_citations: ["daw2005_uncertainty_prefrontal_striatal", "behrens2018_cognitive_map_organizing_knowledge", "jones2005_theta_hippocampal_prefrontal", "padoaschioppa2006_orbitofrontal_economic_value", "wikenheiser2016_cognitive_maps_hippocampus"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+tasks:
+  - t_maze
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - orbitofrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+keywords:
+  - ofc_theta_oscillations
+  - closed_loop_microstimulation
+  - reward_based_learning
+  - value_encoding
+  - phase_locked_firing
+  - hippocampal_ofc_synchrony
+  - cross_trial_phase_alignment
+  - model_based_reinforcement_learning
+  - primate_neurophysiology
+  - spike_timing_dependent_plasticity
+  - local_field_potential
+  - orbitofrontal_cortex
+  - closed
+  - loop
+  - theta
+  - stimulation
+  - orbitofrontal
+  - cortex
+  - prevents
+  - reward
+key_citations:
+  - daw2005_uncertainty_prefrontal_striatal
+  - behrens2018_cognitive_map_organizing_knowledge
+  - jones2005_theta_hippocampal_prefrontal
+  - padoaschioppa2006_orbitofrontal_economic_value
+  - wikenheiser2016_cognitive_maps_hippocampus
 ---
 
 ### One-line summary

@@ -1,16 +1,42 @@
 ---
-source_file: "howes2016_aberrant_salience_schizophrenia.md"
-paper_id: "howes2016_aberrant_salience_schizophrenia"
+source_file: howes2016_aberrant_salience_schizophrenia.md
+paper_id: howes2016_aberrant_salience_schizophrenia
 title: "Dopamine and the aberrant salience hypothesis of schizophrenia"
-authors: "Oliver D. Howes, Matthew M. Nour"
+authors:
+  - "Oliver D. Howes"
+  - "Matthew M. Nour"
 year: 2016
 journal: "World Psychiatry"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["electrophysiology", "fmri"]
-brain_regions: ["striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area"]
-keywords: ["kapur_s_am_j_psychiatry_2003", "160_13_23_original_aberrant_salience_hypothesis", "fletcher_pc", "frith_cd_nat_rev_neurosci_2009", "10_48_58_predictive_coding_account_of_psychosis", "howes_od", "kambeitz_j", "kim_e_et_al_arch_gen_psychiatry_2012", "69_776_86_pet_meta_analysis_of_dopamine_in_schizophrenia", "bromberg_martin_es", "matsumoto_m", "hikosaka_o_neuron_2010", "68_815_34_dopamine_neuron_heterogeneity", "roiser_jp", "stephan_ke", "den_ouden_hem_et_al_psychol_med_2009", "39_199_209_human_aberrant_salience_task_fmri", "garety_pa", "kuipers_e", "fowler_d_et_al_psychol_med_2001"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - electrophysiology
+  - fmri
+brain_regions:
+  - striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+keywords:
+  - aberrant_salience_hypothesis
+  - mesostriatal_dopamine_dysfunction
+  - psychosis_pathoaetiology
+  - predictive_coding_and_psychosis
+  - dopamine_synthesis_capacity_pet
+  - reward_anticipation_fmri
+  - delusion_formation
+  - prodromal_schizophrenia
+  - d2_d3_receptor_antagonism
+  - prediction_error_precision_weighting
+  - incentive_salience
+  - dopamine_neuron_heterogeneity
+  - dopamine
+  - aberrant
+  - salience
+  - hypothesis
+  - schizophrenia
 ---
 
 ### One-line summary

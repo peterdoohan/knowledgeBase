@@ -1,14 +1,35 @@
 ---
-source_file: "kemp2008_structural_discovery_form.md"
-paper_id: "kemp2008_structural_discovery_form"
+source_file: kemp2008_structural_discovery_form.md
+paper_id: kemp2008_structural_discovery_form
 title: "The discovery of structural form"
-authors: "Charles Kemp, Joshua B. Tenenbaum"
+authors:
+  - "Charles Kemp"
+  - "Joshua B. Tenenbaum"
 year: 2008
 journal: "Proceedings of the National Academy of Sciences (PNAS)"
-paper_type: "computational"
-contribution_type: "theoretical"
-frameworks: ["bayesian_inference", "structural_form_discovery"]
-keywords: ["discovery", "structural", "form"]
+paper_type: computational
+contribution_type: theoretical
+frameworks:
+  - bayesian_inference
+  - structural_form_discovery
+keywords:
+  - structural_form_discovery
+  - graph_grammars
+  - bayesian_structure_learning
+  - hierarchical_generative_model
+  - unsupervised_learning
+  - cognitive_development
+  - inductive_inference
+  - knowledge_representation
+  - relational_structure
+  - partitions
+  - trees
+  - rings
+  - orders
+  - domain_general_learning
+  - discovery
+  - structural
+  - form
 ---
 
 ### One-line summary

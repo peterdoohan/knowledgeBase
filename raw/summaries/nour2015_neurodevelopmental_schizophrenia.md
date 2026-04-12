@@ -1,13 +1,35 @@
 ---
-source_file: "nour2015_neurodevelopmental_schizophrenia.md"
-paper_id: "nour2015_neurodevelopmental_schizophrenia"
+source_file: nour2015_neurodevelopmental_schizophrenia.md
+paper_id: nour2015_neurodevelopmental_schizophrenia
 title: "Interpreting the neurodevelopmental hypothesis of schizophrenia in the context of normal brain development and ageing"
-authors: "Matthew M. Nour, Oliver D. Howes"
+authors:
+  - "Matthew M. Nour"
+  - "Oliver D. Howes"
 year: 2015
 journal: "Proceedings of the National Academy of Sciences (PNAS)"
-paper_type: "review"
-contribution_type: "theoretical"
-keywords: ["douaud_et_al_2014_a_common_brain_network_links_development", "aging", "and_vulnerability_to_disease_pnas_111_49_1764817653_index_paper", "fatemi_and_folsom_2009_the_neurodevelopmental_hypothesis_of_schizophrenia", "revisited_schizophr_bull_35_3_528548", "andreasen_2010_the_lifetime_trajectory_of_schizophrenia_and_the_concept_of_neurodevelopment_dialogues_clin_neurosci_12_3_409415", "chiapponi_et_al_2013_age_related_brain_trajectories_in_schizophrenia_systematic_review_of_structural_mri_studies_psychiatry_res_214_2_8393", "bose_et_al_2009_the_effect_of_ageing_on_grey_and_white_matter_reductions_in_schizophrenia_schizophr_res_112_1_3_713", "bartzokis_et_al_2012_multimodal_mri_assessment_of_white_matter_aging_trajectories_biol_psychiatry_72_12_10261034", "named_models_or_frameworks", "neurodevelopmental_hypothesis_of_schizophrenia", "last_in", "first_out_hypothesis_of_cortical_vulnerability", "independent_component_analysis_ica_applied_to_structural_neuroimaging", "brain_regions", "transmodal_cortical_network_ic4", "frontal_lobe_prefrontal_white_matter", "keywords", "schizophrenia_neurodevelopmental_hypothesis", "transmodal_cortical_network"]
+paper_type: review
+contribution_type: theoretical
+keywords:
+  - schizophrenia_neurodevelopmental_hypothesis
+  - transmodal_cortical_network
+  - gray_matter_volume_trajectory
+  - white_matter_myelination
+  - inverted_u_developmental_trajectory
+  - last_in_first_out_hypothesis
+  - structural_mri_schizophrenia
+  - neuroprogression
+  - brain_ageing_and_schizophrenia
+  - accelerated_brain_tissue_loss
+  - phylogenetically_recent_cortex
+  - alzheimers_disease_overlap
+  - interpreting
+  - neurodevelopmental
+  - hypothesis
+  - schizophrenia
+  - context
+  - normal
+  - brain
+  - development
 ---
 
 ### One-line summary

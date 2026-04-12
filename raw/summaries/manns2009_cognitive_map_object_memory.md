@@ -1,18 +1,48 @@
 ---
-source_file: "manns2009_cognitive_map_object_memory.md"
-paper_id: "manns2009_cognitive_map_object_memory"
+source_file: manns2009_cognitive_map_object_memory.md
+paper_id: manns2009_cognitive_map_object_memory
 title: "A cognitive map for object memory in the hippocampus"
-authors: "Joseph R. Manns, Howard Eichenbaum"
+authors:
+  - "Joseph R. Manns"
+  - "Howard Eichenbaum"
 year: 2009
 journal: "Learning & Memory"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["tetrode_recording", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["hippocampal_ensemble_coding", "cognitive_map", "object_location_binding", "place_cells", "representational_geometry", "nearest_neighbour_classification", "object_recognition_memory", "episodic_memory", "location_primacy", "multivariate_population_analysis", "dorsal_hippocampus", "recognition_memory_task", "cognitive", "map", "object", "memory", "hippocampus"]
-key_citations: ["manns2006_declarative_memory_evolution"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - hippocampal_ensemble_coding
+  - cognitive_map
+  - object_location_binding
+  - place_cells
+  - representational_geometry
+  - nearest_neighbour_classification
+  - object_recognition_memory
+  - episodic_memory
+  - location_primacy
+  - multivariate_population_analysis
+  - dorsal_hippocampus
+  - recognition_memory_task
+  - cognitive
+  - map
+  - object
+  - memory
+  - hippocampus
+key_citations:
+  - manns2006_declarative_memory_evolution
 ---
 
 ### One-line summary

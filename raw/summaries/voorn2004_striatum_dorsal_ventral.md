@@ -1,14 +1,44 @@
 ---
-source_file: "voorn2004_striatum_dorsal_ventral.md"
-paper_id: "voorn2004_striatum_dorsal_ventral"
+source_file: voorn2004_striatum_dorsal_ventral.md
+paper_id: voorn2004_striatum_dorsal_ventral
 title: "Putting a spin on the dorsal-ventral divide of the striatum"
-authors: "Pieter Voorn, Louk J.M.J. Vanderschuren, Henk J. Groenewegen, Trevor W. Robbins, Cyriel M.A. Pennartz"
+authors:
+  - "Pieter Voorn"
+  - "Louk J.M.J. Vanderschuren"
+  - "Henk J. Groenewegen"
+  - "Trevor W. Robbins"
+  - "Cyriel M.A. Pennartz"
 year: 2004
 journal: "Trends in Neurosciences"
-paper_type: "review"
-contribution_type: "review"
-brain_regions: ["striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra"]
-keywords: ["basal_ganglia", "striatum", "nucleus_accumbens", "core", "shell", "dorsal_striatum", "ventral_striatum", "functional_gradient", "topographical_organization", "corticostriatal_projections", "dopamine", "reward", "motivation", "habit_learning", "behavioral_control", "connectivity", "heterarchy", "medium_spiny_neurons", "neurochemical_gradients", "putting"]
+paper_type: review
+contribution_type: review
+brain_regions:
+  - striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+keywords:
+  - basal_ganglia
+  - striatum
+  - nucleus_accumbens
+  - core
+  - shell
+  - dorsal_striatum
+  - ventral_striatum
+  - functional_gradient
+  - topographical_organization
+  - corticostriatal_projections
+  - dopamine
+  - reward
+  - motivation
+  - habit_learning
+  - behavioral_control
+  - connectivity
+  - heterarchy
+  - medium_spiny_neurons
+  - neurochemical_gradients
+  - putting
 ---
 
 ### One-line summary

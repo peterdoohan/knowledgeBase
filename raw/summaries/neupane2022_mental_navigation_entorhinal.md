@@ -1,16 +1,47 @@
 ---
-source_file: "neupane2022_mental_navigation_entorhinal.md"
-paper_id: "neupane2022_mental_navigation_entorhinal"
+source_file: neupane2022_mental_navigation_entorhinal.md
+paper_id: neupane2022_mental_navigation_entorhinal
 title: "Vector production via mental navigation in the entorhinal cortex"
-authors: "Sujaya Neupane, Ila Fiete, Mehrdad Jazayeri"
+authors:
+  - "Sujaya Neupane"
+  - "Ila Fiete"
+  - "Mehrdad Jazayeri"
 year: 2022
 journal: "bioRxiv (preprint)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque", "monkey"]
-brain_regions: ["hippocampus", "entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map_foundational_theory", "hafting_et_al_2005_grid_cells_in_entorhinal_cortex", "burak_and_fiete_2009_continuous_attractor_network_model_of_grid_cells", "yoon_et_al_2013_evidence_for_continuous_attractor_dynamics_in_grid_cells", "behrens_et_al_2018_what_is_a_cognitive_map", "named_models_or_frameworks", "cognitive_map_theory_okeefe_and_nadel", "continuous_attractor_network_can_model", "path_integration", "hebbian_learning_ojas_rule", "bayesian_observer_model", "brain_regions", "entorhinal_cortex_ec", "hippocampus", "medial_entorhinal_cortex_mec", "keywords", "mental_navigation", "cognitive_map", "grid_cells", "entorhinal_cortex"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+  - monkey
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - mental_navigation
+  - cognitive_map
+  - grid_cells
+  - entorhinal_cortex
+  - continuous_attractor_network
+  - path_integration
+  - hebbian_learning
+  - temporal_distance_coding
+  - periodicity
+  - landmark_representation
+  - endogenous_recruitment
+  - vector_production
+  - non_human_primate
+  - macaque_monkey
+  - vector
+  - production
+  - via
+  - mental
+  - navigation
+  - entorhinal
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

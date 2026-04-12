@@ -1,17 +1,52 @@
 ---
-source_file: "park2020_basal_ganglia_action.md"
-paper_id: "park2020_basal_ganglia_action"
+source_file: park2020_basal_ganglia_action.md
+paper_id: park2020_basal_ganglia_action
 title: "Basal Ganglia Circuits for Action Specification"
-authors: "Junchol Park, Luke T. Coddington, Joshua T. Dudman"
+authors:
+  - "Junchol Park"
+  - "Luke T. Coddington"
+  - "Joshua T. Dudman"
 year: 2020
 journal: "Annual Review of Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["monkey"]
-methods: ["calcium_imaging", "optogenetics", "electrophysiology", "computational_modeling", "lesion"]
-brain_regions: ["striatum", "ventral_striatum", "ventral_tegmental_area", "substantia_nigra", "thalamus"]
-frameworks: ["reinforcement_learning"]
-keywords: ["basal", "ganglia", "circuits", "action", "specification"]
+paper_type: review
+contribution_type: review
+species:
+  - monkey
+methods:
+  - calcium_imaging
+  - optogenetics
+  - electrophysiology
+  - computational_modeling
+  - lesion
+brain_regions:
+  - striatum
+  - ventral_striatum
+  - ventral_tegmental_area
+  - substantia_nigra
+  - thalamus
+frameworks:
+  - reinforcement_learning
+keywords:
+  - basal_ganglia
+  - dopamine
+  - reinforcement_learning
+  - motor_control
+  - action_selection
+  - action_specification
+  - gain_modulation
+  - movement_vigor
+  - movement_kinematics
+  - superior_colliculus
+  - striatum
+  - direct_pathway
+  - indirect_pathway
+  - medium_spiny_neurons
+  - thalamocortical_circuits
+  - motor_thalamus
+  - feedforward_inhibition
+  - continuous_control
+  - movement_execution
+  - basal
 ---
 
 ### One-line summary

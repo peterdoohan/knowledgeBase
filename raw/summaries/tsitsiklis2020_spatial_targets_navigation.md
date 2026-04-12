@@ -1,18 +1,56 @@
 ---
-source_file: "tsitsiklis2020_spatial_targets_navigation.md"
-paper_id: "tsitsiklis2020_spatial_targets_navigation"
+source_file: tsitsiklis2020_spatial_targets_navigation.md
+paper_id: tsitsiklis2020_spatial_targets_navigation
 title: "Single-Neuron Representations of Spatial Targets in Humans"
-authors: "Melina Tsitsiklis, Jonathan Miller, Salman E. Qasim, Cory S. Inman, Robert E. Gross, Jon T. Willie, Elliot H. Smith, Sameer A. Sheth, Catherine A. Schevon, Michael R. Sperling, Ashwini Sharan, Joel M. Stein, Joshua Jacobs"
+authors:
+  - "Melina Tsitsiklis"
+  - "Jonathan Miller"
+  - "Salman E. Qasim"
+  - "Cory S. Inman"
+  - "Robert E. Gross"
+  - "Jon T. Willie"
+  - "Elliot H. Smith"
+  - "Sameer A. Sheth"
+  - "Catherine A. Schevon"
+  - "Michael R. Sperling"
+  - "Ashwini Sharan"
+  - "Joel M. Stein"
+  - "Joshua Jacobs"
 year: 2020
 journal: "Current Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_temporal_lobe"]
-keywords: ["single", "neuron", "representations", "spatial", "targets", "humans"]
-key_citations: ["ekstrom2003_spatial_navigation"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_temporal_lobe
+keywords:
+  - spatial_target_cells
+  - head_direction_cells
+  - serial_position_cells
+  - place_cells
+  - medial_temporal_lobe
+  - hippocampus
+  - entorhinal_cortex
+  - spatial_navigation
+  - goal_directed_behavior
+  - single_neuron_recording
+  - virtual_reality
+  - episodic_memory
+  - electrophysiology
+  - human_neuroscience
+  - single
+  - neuron
+  - representations
+  - spatial
+  - targets
+  - humans
+key_citations:
+  - ekstrom2003_spatial_navigation
 ---
 
 ### One-line summary

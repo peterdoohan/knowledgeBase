@@ -1,18 +1,49 @@
 ---
-source_file: "garvert2017_relational_knowledge_maps.md"
-paper_id: "garvert2017_relational_knowledge_maps"
-title: "A map of abstract relational knowledge in the human hippocampal\u2013entorhinal cortex"
-authors: "Mona M Garvert, Raymond J Dolan, Timothy EJ Behrens"
+source_file: garvert2017_relational_knowledge_maps.md
+paper_id: garvert2017_relational_knowledge_maps
+title: "A map of abstract relational knowledge in the human hippocampal–entorhinal cortex"
+authors:
+  - "Mona M Garvert"
+  - "Raymond J Dolan"
+  - "Timothy EJ Behrens"
 year: 2017
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "repetition_suppression"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "orbitofrontal_cortex"]
-frameworks: ["successor_representation"]
-keywords: ["map", "abstract", "relational", "knowledge", "human", "hippocampalentorhinal", "cortex"]
-key_citations: ["dayan1993_successor_representation", "constantinescu2016_gridlike_conceptual_knowledge"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - repetition_suppression
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - orbitofrontal_cortex
+frameworks:
+  - successor_representation
+keywords:
+  - successor_representation
+  - cognitive_map
+  - relational_knowledge
+  - implicit_statistical_learning
+  - fmri_adaptation
+  - hippocampal_entorhinal_system
+  - communicability
+  - graph_structure
+  - predictive_map
+  - non_spatial_relational_coding
+  - discrete_associative_structure
+  - representational_geometry
+  - map
+  - abstract
+  - relational
+  - knowledge
+  - human
+  - hippocampalentorhinal
+  - cortex
+key_citations:
+  - dayan1993_successor_representation
+  - constantinescu2016_gridlike_conceptual_knowledge
 ---
 
 ### One-line summary

@@ -1,18 +1,52 @@
 ---
-source_file: "huang2023_hierarchical_replay_working_memory.md"
-paper_id: "huang2023_hierarchical_replay_working_memory"
+source_file: huang2023_hierarchical_replay_working_memory.md
+paper_id: huang2023_hierarchical_replay_working_memory
 title: "Hierarchical replay of multi-regional sequential spiking associated with working memory"
-authors: "Ermeng Huang, Da Xu, Huangao Zhu, Zhaoqin Chen, Yulei Chen, Xiaoxing Zhang, Chengyu T. Li"
+authors:
+  - "Ermeng Huang"
+  - "Da Xu"
+  - "Huangao Zhu"
+  - "Zhaoqin Chen"
+  - "Yulei Chen"
+  - "Xiaoxing Zhang"
+  - "Chengyu T. Li"
 year: 2023
 journal: "bioRxiv (preprint)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["neuropixels"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "prelimbic_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["hierarchical", "replay", "multi", "regional", "sequential", "spiking", "associated", "working", "memory"]
-key_citations: ["fujisawa2008_assembly_prefrontal_cortex"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - neuropixels
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - prelimbic_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - working_memory
+  - spike_coupling
+  - activity_motifs
+  - synfire_chain
+  - cell_assembly
+  - hierarchical_neural_dynamics
+  - neural_replay
+  - olfactory_delayed_paired_association
+  - neuropixels
+  - hippocampal_prefrontal_circuit
+  - population_activity_waves
+  - nested_loops
+  - hierarchical
+  - replay
+  - multi
+  - regional
+  - sequential
+  - spiking
+  - associated
+  - working
+key_citations:
+  - fujisawa2008_assembly_prefrontal_cortex
 ---
 
 ### One-line summary

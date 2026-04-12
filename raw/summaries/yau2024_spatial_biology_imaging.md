@@ -1,15 +1,53 @@
 ---
-source_file: "yau2024_spatial_biology_imaging.md"
-paper_id: "yau2024_spatial_biology_imaging"
+source_file: yau2024_spatial_biology_imaging.md
+paper_id: yau2024_spatial_biology_imaging
 title: "INSIHGT: an accessible multi-scale, multimodal 3D spatial biology platform"
-authors: "Chun Ngo Yau, Jacky Tin Shing Hung, Robert A. A. Campbell, Thomas Chun Yip Wong, Bei Huang, Ben Tin Yan Wong, Nick King Ngai Chow, Lichun Zhang, Eldric Pui Lam Tsoi, Yuqi Tan, Joshua Jing Xi Li, Yun Kwok Wing, Hei Ming Lai"
+authors:
+  - "Chun Ngo Yau"
+  - "Jacky Tin Shing Hung"
+  - "Robert A. A. Campbell"
+  - "Thomas Chun Yip Wong"
+  - "Bei Huang"
+  - "Ben Tin Yan Wong"
+  - "Nick King Ngai Chow"
+  - "Lichun Zhang"
+  - "Eldric Pui Lam Tsoi"
+  - "Yuqi Tan"
+  - "Joshua Jing Xi Li"
+  - "Yun Kwok Wing"
+  - "Hei Ming Lai"
 year: 2024
 journal: "Nature Communications"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse", "human"]
-brain_regions: ["hippocampus", "striatum", "substantia_nigra", "thalamus"]
-keywords: ["3d_immunohistochemistry", "tissue_clearing", "deep_immunostaining", "host_guest_chemistry", "superchaotrope", "closo_dodecahydrododecaborate", "cyclodextrin", "spatial_transcriptomics", "multi_plex_imaging", "light_sheet_microscopy", "confocal_microscopy", "podocyte", "neurofilament", "dementia_with_lewy_bodies", "cell_type_profiling", "spatial_proteomics", "insihgt", "accessible", "multi", "scale"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - striatum
+  - substantia_nigra
+  - thalamus
+keywords:
+  - 3d_immunohistochemistry
+  - tissue_clearing
+  - deep_immunostaining
+  - host_guest_chemistry
+  - superchaotrope
+  - closo_dodecahydrododecaborate
+  - cyclodextrin
+  - spatial_transcriptomics
+  - multi_plex_imaging
+  - light_sheet_microscopy
+  - confocal_microscopy
+  - podocyte
+  - neurofilament
+  - dementia_with_lewy_bodies
+  - cell_type_profiling
+  - spatial_proteomics
+  - insihgt
+  - accessible
+  - multi
+  - scale
 ---
 
 ### One-line summary

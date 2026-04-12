@@ -1,16 +1,49 @@
 ---
-source_file: "otchy2015_neural_circuit_motor.md"
-paper_id: "otchy2015_neural_circuit_motor"
+source_file: otchy2015_neural_circuit_motor.md
+paper_id: otchy2015_neural_circuit_motor
 title: "Acute off-target effects of neural circuit manipulations"
-authors: "Timothy M. Otchy, Steffen B. E. Wolff, Juliana Y. Rhee, Cengiz Pehlevan, Risa Kawai, Alexandre Kempf, Sharon M. H. Gobes, Bence P. \u00d6lveczky"
+authors:
+  - "Timothy M. Otchy"
+  - "Steffen B. E. Wolff"
+  - "Juliana Y. Rhee"
+  - "Cengiz Pehlevan"
+  - "Risa Kawai"
+  - "Alexandre Kempf"
+  - "Sharon M. H. Gobes"
+  - "Bence P. Ölveczky"
 year: 2015
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["optogenetics", "computational_modeling", "lesion"]
-brain_regions: ["striatum", "thalamus"]
-keywords: ["acute", "off", "target", "effects", "neural", "circuit", "manipulations"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - optogenetics
+  - computational_modeling
+  - lesion
+brain_regions:
+  - striatum
+  - thalamus
+keywords:
+  - transient_circuit_inactivation
+  - optogenetics_off_target_effects
+  - neural_circuit_manipulation_interpretation
+  - homeostatic_plasticity
+  - synfire_chain
+  - zebra_finch_song_learning
+  - hvc_dynamics
+  - diaschisis
+  - permissive_vs_instructive_neural_circuits
+  - motor_skill_learning
+  - spontaneous_recovery_after_brain_lesion
+  - activity_homeostasis
+  - acute
+  - off
+  - target
+  - effects
+  - neural
+  - circuit
+  - manipulations
 ---
 
 ### One-line summary

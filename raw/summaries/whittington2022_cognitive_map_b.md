@@ -1,16 +1,58 @@
 ---
-source_file: "whittington2022_cognitive_map_b.md"
-paper_id: "whittington2022_cognitive_map_b"
+source_file: whittington2022_cognitive_map_b.md
+paper_id: whittington2022_cognitive_map_b
 title: "How to build a cognitive map"
-authors: "James C. R. Whittington, David McCaffary, Jacob J. W. Bakermans, Timothy E. J. Behrens"
+authors:
+  - "James C. R. Whittington"
+  - "David McCaffary"
+  - "Jacob J. W. Bakermans"
+  - "Timothy E. J. Behrens"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "attractor_networks", "latent_state_inference", "tolman_eichenbaum_machine"]
-keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map", "tolman_1948_cognitive_maps_in_rats_and_men", "stachenfeld", "botvinick_and_gershman_2017_the_hippocampus_as_a_predictive_map_successor_representation", "whittington_et_al_2020_the_tolman_eichenbaum_machine_tem", "uria_et_al_2020_the_spatial_memory_pipeline_smp", "george_et_al_2021_clone_structured_cognitive_graph_cscg", "burak_and_fiete_2009_continuous_attractor_network_models_of_grid_cells", "banino_et_al_2018_vector_based_navigation_using_grid_like_representations", "named_models_or_frameworks", "successor_representation_sr", "default_representation_dr", "clone_structured_cognitive_graph_cscg", "tolman_eichenbaum_machine_tem", "spatial_memory_pipeline_smp", "continuous_attractor_neural_networks_canns", "velocity_coupled_oscillators_vcos", "model_free_reinforcement_learning", "model_based_reinforcement_learning", "meta_reinforcement_learning"]
+paper_type: review
+contribution_type: review
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+  - attractor_networks
+  - latent_state_inference
+  - tolman_eichenbaum_machine
+keywords:
+  - cognitive_map
+  - hippocampus
+  - entorhinal_cortex
+  - grid_cells
+  - place_cells
+  - successor_representation
+  - reinforcement_learning
+  - latent_states
+  - path_integration
+  - generalization
+  - sequence_learning
+  - state_space
+  - relational_memory
+  - splitting_cells
+  - vector_cells
+  - model_based_rl
+  - model_free_rl
+  - remapping
+  - replay
+  - representational_drift
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - whittington2020_tolman_eichenbaum_machine
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

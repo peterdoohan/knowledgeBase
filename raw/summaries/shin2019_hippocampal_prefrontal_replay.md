@@ -1,18 +1,49 @@
 ---
-source_file: "shin2019_hippocampal_prefrontal_replay.md"
-paper_id: "shin2019_hippocampal_prefrontal_replay"
+source_file: shin2019_hippocampal_prefrontal_replay.md
+paper_id: shin2019_hippocampal_prefrontal_replay
 title: "Dynamics of Awake Hippocampal-Prefrontal Replay for Spatial Learning and Memory-Guided Decision Making"
-authors: "Justin D. Shin, Wenbo Tang, Shantanu P. Jadhav"
+authors:
+  - "Justin D. Shin"
+  - "Wenbo Tang"
+  - "Shantanu P. Jadhav"
 year: 2019
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl"]
-keywords: ["dynamics", "awake", "hippocampal", "prefrontal", "replay", "spatial", "learning", "memory", "guided", "decision"]
-key_citations: ["ambrose2016_reverse_replay_hippocampal"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+keywords:
+  - hippocampal_replay
+  - sharp_wave_ripples
+  - prefrontal_cortex
+  - spatial_learning
+  - spatial_working_memory
+  - reverse_replay
+  - forward_replay
+  - place_cells
+  - awake_replay
+  - memory_guided_decision_making
+  - trajectory_reactivation
+  - w_maze_alternation_task
+  - reinforcement_learning
+  - cognitive_search
+  - credit_assignment
+  - dynamics
+  - awake
+  - hippocampal
+  - prefrontal
+  - replay
+key_citations:
+  - ambrose2016_reverse_replay_hippocampal
 ---
 
 ### One-line summary

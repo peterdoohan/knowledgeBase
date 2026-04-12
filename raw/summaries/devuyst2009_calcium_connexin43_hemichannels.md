@@ -1,16 +1,51 @@
 ---
-source_file: "devuyst2009_calcium_connexin43_hemichannels.md"
-paper_id: "devuyst2009_calcium_connexin43_hemichannels"
+source_file: devuyst2009_calcium_connexin43_hemichannels.md
+paper_id: devuyst2009_calcium_connexin43_hemichannels
 title: "Ca2+ regulation of connexin 43 hemichannels in C6 glioma and glial cells"
-authors: "Elke De Vuyst, Nan Wang, Elke Decrock, Marijke De Bock, Mathieu Vinken, Marijke Van Moorhem, Charles Lai, Maxime Culot, Vera Rogiers, Romeo Cecchelli, Christian C. Naus, W. Howard Evans, Luc Leybaert"
+authors:
+  - "Elke De Vuyst"
+  - "Nan Wang"
+  - "Elke Decrock"
+  - "Marijke De Bock"
+  - "Mathieu Vinken"
+  - "Marijke Van Moorhem"
+  - "Charles Lai"
+  - "Maxime Culot"
+  - "Vera Rogiers"
+  - "Romeo Cecchelli"
+  - "Christian C. Naus"
+  - "W. Howard Evans"
+  - "Luc Leybaert"
 year: 2009
 journal: "Cell Calcium"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["calcium_imaging"]
-brain_regions: ["primary_auditory_cortex"]
-keywords: ["ca2", "regulation", "connexin", "hemichannels", "glioma", "glial", "cells"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - calcium_imaging
+brain_regions:
+  - primary_auditory_cortex
+keywords:
+  - connexin_43_hemichannels
+  - intracellular_calcium_signalling
+  - atp_release
+  - calmodulin
+  - camk_ii
+  - p38_mapk
+  - phospholipase_a2
+  - arachidonic_acid
+  - reactive_oxygen_species
+  - nitric_oxide
+  - gliotransmission
+  - astrocytes
+  - ca2
+  - regulation
+  - connexin
+  - hemichannels
+  - glioma
+  - glial
+  - cells
 ---
 
 ### One-line summary

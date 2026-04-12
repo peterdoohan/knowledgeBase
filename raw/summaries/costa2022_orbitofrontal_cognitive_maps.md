@@ -1,18 +1,57 @@
 ---
-source_file: "costa2022_orbitofrontal_cognitive_maps.md"
-paper_id: "costa2022_orbitofrontal_cognitive_maps"
+source_file: costa2022_orbitofrontal_cognitive_maps.md
+paper_id: costa2022_orbitofrontal_cognitive_maps
 title: "The role of the lateral orbitofrontal cortex in creating cognitive maps"
-authors: "Kau\u00ea Machado Costa, Robert Scholz, Kevin Lloyd, Perla Moreno-Castilla, Matthew P. H. Gardner, Peter Dayan, Geoffrey Schoenbaum"
+authors:
+  - "Kauê Machado Costa"
+  - "Robert Scholz"
+  - "Kevin Lloyd"
+  - "Perla Moreno-Castilla"
+  - "Matthew P. H. Gardner"
+  - "Peter Dayan"
+  - "Geoffrey Schoenbaum"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["optogenetics", "computational_modeling"]
-brain_regions: ["orbitofrontal_cortex", "amygdala", "basolateral_amygdala", "primary_auditory_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl"]
-keywords: ["role", "lateral", "orbitofrontal", "cortex", "creating", "cognitive", "maps"]
-key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "wilson2014_best_practices_scientific", "schuck2016_orbitofrontal_cortex_state"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - optogenetics
+  - computational_modeling
+brain_regions:
+  - orbitofrontal_cortex
+  - amygdala
+  - basolateral_amygdala
+  - primary_auditory_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+keywords:
+  - cognitive_map_construction
+  - lateral_orbitofrontal_cortex
+  - credit_assignment_precision
+  - state_identity_segmentation
+  - outcome_specific_devaluation
+  - model_based_reinforcement_learning
+  - chemogenetics
+  - dreadd
+  - pavlovian_conditioning
+  - conditioned_taste_aversion
+  - state_space_granularity
+  - orbitofrontal_cartographer
+  - cueoutcome_association_specificity
+  - role
+  - lateral
+  - orbitofrontal
+  - cortex
+  - creating
+  - cognitive
+  - maps
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
+  - wilson2014_best_practices_scientific
+  - schuck2016_orbitofrontal_cortex_state
 ---
 
 ### One-line summary

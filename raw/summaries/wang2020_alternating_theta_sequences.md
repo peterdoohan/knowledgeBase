@@ -1,18 +1,49 @@
 ---
-source_file: "wang2020_alternating_theta_sequences.md"
-paper_id: "wang2020_alternating_theta_sequences"
+source_file: wang2020_alternating_theta_sequences.md
+paper_id: wang2020_alternating_theta_sequences
 title: "Alternating sequences of future and past behavior encoded within hippocampal theta oscillations"
-authors: "Mengni Wang, David J. Foster, Brad E. Pfeiffer"
+authors:
+  - "Mengni Wang"
+  - "David J. Foster"
+  - "Brad E. Pfeiffer"
 year: 2020
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["open_field", "linear_track", "navigation_task"]
-methods: ["bayesian_decoding"]
-brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["theta_oscillations", "phase_precession", "phase_procession", "place_cells", "bimodal_cells", "forward_sequences", "reverse_sequences", "prospective_coding", "retrospective_coding", "spatial_navigation", "hippocampal_ca1", "entorhinal_cortex", "sharp_wave_ripples", "replay", "gamma_oscillations", "beta_oscillations", "multiplexing", "alternating", "sequences", "future"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+  - linear_track
+methods:
+  - bayesian_decoding
+brain_regions:
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - theta_oscillations
+  - phase_precession
+  - phase_procession
+  - place_cells
+  - bimodal_cells
+  - forward_sequences
+  - reverse_sequences
+  - prospective_coding
+  - retrospective_coding
+  - spatial_navigation
+  - hippocampal_ca1
+  - entorhinal_cortex
+  - sharp_wave_ripples
+  - replay
+  - gamma_oscillations
+  - beta_oscillations
+  - multiplexing
+  - alternating
+  - sequences
+  - future
 ---
 
 ### One-line summary

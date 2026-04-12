@@ -1,16 +1,44 @@
 ---
-source_file: "redish2016_vicarious_trial_error.md"
-paper_id: "redish2016_vicarious_trial_error"
+source_file: redish2016_vicarious_trial_error.md
+paper_id: redish2016_vicarious_trial_error
 title: "Vicarious trial and error"
-authors: "A. David Redish"
+authors:
+  - "A. David Redish"
 year: 2016
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat", "human"]
-tasks: ["foraging_task", "navigation_task"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "nucleus_accumbens", "amygdala"]
-keywords: ["vicarious", "trial", "error"]
+paper_type: review
+contribution_type: review
+species:
+  - rat
+tasks:
+  - foraging_task
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - amygdala
+keywords:
+  - vicarious_trial_and_error
+  - hippocampal_theta_sequences
+  - deliberative_decision_making
+  - episodic_future_thinking_mental_time_travel
+  - cognitive_map
+  - place_cells
+  - ventral_striatum_reward_evaluation
+  - task_bracketing
+  - procedural_decision_making
+  - hippocampal_prefrontal_coherence
+  - dual_systems_decision_making
+  - spatial_navigation
+  - vicarious
+  - trial
+  - error
 ---
 
 ### One-line summary

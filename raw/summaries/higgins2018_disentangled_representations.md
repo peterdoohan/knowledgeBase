@@ -1,13 +1,36 @@
 ---
-source_file: "higgins2018_disentangled_representations.md"
-paper_id: "higgins2018_disentangled_representations"
+source_file: higgins2018_disentangled_representations.md
+paper_id: higgins2018_disentangled_representations
 title: "Towards a Definition of Disentangled Representations"
-authors: "Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo Rezende, Alexander Lerchner"
+authors:
+  - "Irina Higgins"
+  - "David Amos"
+  - "David Pfau"
+  - "Sebastien Racaniere"
+  - "Loic Matthey"
+  - "Danilo Rezende"
+  - "Alexander Lerchner"
 year: 2018
 journal: "arXiv preprint (December 2018)"
-paper_type: "computational"
-contribution_type: "theoretical"
-keywords: ["towards", "definition", "disentangled", "representations"]
+paper_type: computational
+contribution_type: theoretical
+keywords:
+  - disentangled_representations
+  - group_theory
+  - representation_theory
+  - symmetry_transformations
+  - equivariant_maps
+  - latent_variable_models
+  - variational_autoencoders
+  - irreducible_representations
+  - direct_product_decomposition
+  - data_generative_factors
+  - unsupervised_representation_learning
+  - active_perception
+  - towards
+  - definition
+  - disentangled
+  - representations
 ---
 
 ### One-line summary

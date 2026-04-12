@@ -1,16 +1,46 @@
 ---
-source_file: "fusi2016_mixed_selectivity_cognition.md"
-paper_id: "fusi2016_mixed_selectivity_cognition"
+source_file: fusi2016_mixed_selectivity_cognition.md
+paper_id: fusi2016_mixed_selectivity_cognition
 title: "Why neurons mix: high dimensionality for higher cognition"
-authors: "Stefano Fusi, Earl K Miller, Mattia Rigotti"
+authors:
+  - "Stefano Fusi"
+  - "Earl K Miller"
+  - "Mattia Rigotti"
 year: 2016
 journal: "Current Opinion in Neurobiology"
-paper_type: "review"
-contribution_type: "theoretical"
-methods: ["fmri", "computational_modeling"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "amygdala"]
-frameworks: ["mixed_selectivity"]
-keywords: ["why", "neurons", "mix", "high", "dimensionality", "higher", "cognition"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - fmri
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - amygdala
+frameworks:
+  - mixed_selectivity
+keywords:
+  - mixed_selectivity
+  - neural_dimensionality
+  - population_coding
+  - linear_readout
+  - nonlinear_mixed_selectivity
+  - cognitive_flexibility
+  - working_memory
+  - dimensionality_expansion
+  - dimensionality_reduction
+  - prefrontal_cortex
+  - neural_geometry
+  - vc_dimension
+  - why
+  - neurons
+  - mix
+  - high
+  - dimensionality
+  - higher
+  - cognition
 ---
 
 ### One-line summary

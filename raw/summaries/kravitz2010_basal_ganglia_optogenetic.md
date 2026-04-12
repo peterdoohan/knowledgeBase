@@ -1,17 +1,52 @@
 ---
-source_file: "kravitz2010_basal_ganglia_optogenetic.md"
-paper_id: "kravitz2010_basal_ganglia_optogenetic"
+source_file: kravitz2010_basal_ganglia_optogenetic.md
+paper_id: kravitz2010_basal_ganglia_optogenetic
 title: "Regulation of parkinsonian motor behaviours by optogenetic control of basal ganglia circuitry"
-authors: "Alexxai V. Kravitz, Benjamin S. Freeze, Philip R. L. Parker, Kenneth Kay, Myo T. Thwin, Karl Deisseroth, Anatol C. Kreitzer"
+authors:
+  - "Alexxai V. Kravitz"
+  - "Benjamin S. Freeze"
+  - "Philip R. L. Parker"
+  - "Kenneth Kay"
+  - "Myo T. Thwin"
+  - "Karl Deisseroth"
+  - "Anatol C. Kreitzer"
 year: 2010
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology", "lesion"]
-brain_regions: ["striatum", "dorsomedial_striatum", "substantia_nigra"]
-frameworks: ["reinforcement_learning"]
-keywords: ["regulation", "parkinsonian", "motor", "behaviours", "optogenetic", "control", "basal", "ganglia", "circuitry"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+  - lesion
+brain_regions:
+  - striatum
+  - dorsomedial_striatum
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+keywords:
+  - optogenetics
+  - channelrhodopsin_2
+  - basal_ganglia_direct_pathway
+  - basal_ganglia_indirect_pathway
+  - medium_spiny_neurons
+  - d1_msn
+  - d2_msn
+  - striatum
+  - dorsomedial_striatum
+  - parkinsons_disease
+  - 6_ohda_model
+  - bradykinesia
+  - freezing
+  - locomotor_initiation
+  - cell_type_specific_circuit_manipulation
+  - deep_brain_stimulation_therapeutic_comparison
+  - regulation
+  - parkinsonian
+  - motor
+  - behaviours
 ---
 
 ### One-line summary

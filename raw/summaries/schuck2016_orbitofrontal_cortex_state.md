@@ -1,18 +1,56 @@
 ---
-source_file: "schuck2016_orbitofrontal_cortex_state.md"
-paper_id: "schuck2016_orbitofrontal_cortex_state"
+source_file: schuck2016_orbitofrontal_cortex_state.md
+paper_id: schuck2016_orbitofrontal_cortex_state
 title: "Human Orbitofrontal Cortex Represents a Cognitive Map of State Space"
-authors: "Nicolas W. Schuck, Ming Bo Cai, Robert C. Wilson, Yael Niv"
+authors:
+  - "Nicolas W. Schuck"
+  - "Ming Bo Cai"
+  - "Robert C. Wilson"
+  - "Yael Niv"
 year: 2016
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "representational_similarity_analysis", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "visual_cortex"]
-frameworks: ["reinforcement_learning", "model_free_rl"]
-keywords: ["wilson_et_al", "2014_theoretical_foundation_ofc_as_cognitive_map_of_task_space", "sutton_and_barto", "1998_reinforcement_learning_framework", "padoa_schioppa_and_assad", "2006", "2008_economic_value_theory_of_ofc", "bechara_et_al", "2000_somatic_marker_hypothesis", "kringelbach", "2005_cue_outcome_associations_in_ofc", "bradfield_et_al", "2015_ofc_lesions_impair_hidden_state_tasks", "kahnt_et_al", "2012_ofc_parcellation_and_imaging", "daw_et_al", "2005_model_based_vs_model_free_rl", "named_models_or_frameworks", "reinforcement_learning_rl_framework", "cognitive_map_of_task_space"]
-key_citations: ["padoaschioppa2006_orbitofrontal_economic_value", "wilson2014_best_practices_scientific"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - representational_similarity_analysis
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+keywords:
+  - orbitofrontal_cortex_ofc
+  - state_representation
+  - hidden_states
+  - cognitive_map
+  - reinforcement_learning
+  - multivariate_pattern_analysis_mvpa
+  - fmri_decoding
+  - representational_similarity_analysis
+  - task_state_space
+  - partially_observable_markov_decision_process
+  - model_based_decision_making
+  - prefrontal_cortex_function
+  - human
+  - orbitofrontal
+  - cortex
+  - represents
+  - cognitive
+  - map
+  - state
+  - space
+key_citations:
+  - wilson2014_best_practices_scientific
+  - daw2005_uncertainty_prefrontal_striatal
+  - padoaschioppa2006_orbitofrontal_economic_value
 ---
 
 ### One-line summary

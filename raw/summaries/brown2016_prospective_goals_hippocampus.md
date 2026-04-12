@@ -1,19 +1,57 @@
 ---
-source_file: "brown2016_prospective_goals_hippocampus.md"
-paper_id: "brown2016_prospective_goals_hippocampus"
+source_file: brown2016_prospective_goals_hippocampus.md
+paper_id: brown2016_prospective_goals_hippocampus
 title: "Prospective representation of navigational goals in the human hippocampus"
-authors: "Thackery I. Brown, Valerie A. Carr, Karen F. LaRocque, Serra E. Favila, Alan M. Gordon, Ben Bowles, Jeremy N. Bailenson, Anthony D. Wagner"
+authors:
+  - "Thackery I. Brown"
+  - "Valerie A. Carr"
+  - "Karen F. LaRocque"
+  - "Serra E. Favila"
+  - "Alan M. Gordon"
+  - "Ben Bowles"
+  - "Jeremy N. Bailenson"
+  - "Anthony D. Wagner"
 year: 2016
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["virtual_navigation"]
-methods: ["fmri"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "striatum", "ventral_striatum", "retrosplenial_cortex", "medial_temporal_lobe"]
-frameworks: ["successor_representation"]
-keywords: ["prospective", "representation", "navigational", "goals", "human", "hippocampus"]
-key_citations: ["johnson2007_hippocampus_decision", "spiers2015_detour_problem_navigation"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - virtual_navigation
+methods:
+  - fmri
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - striatum
+  - ventral_striatum
+  - retrosplenial_cortex
+  - medial_temporal_lobe
+frameworks:
+  - successor_representation
+keywords:
+  - prospective_goal_coding
+  - hippocampus
+  - multi_voxel_pattern_analysis_mvpa
+  - episodic_simulation
+  - virtual_navigation
+  - route_planning
+  - trajectory_replay
+  - hippocampal_prefrontal_interaction
+  - sub_goal_representation
+  - pattern_reinstatement
+  - medial_temporal_lobe
+  - high_resolution_fmri
+  - prospective
+  - representation
+  - navigational
+  - goals
+  - human
+key_citations:
+  - johnson2007_hippocampus_decision
+  - spiers2015_detour_problem_navigation
 ---
 
 ### One-line summary

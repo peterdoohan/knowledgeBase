@@ -1,16 +1,55 @@
 ---
-source_file: "tasaka2023_prefrontal_neural_maternal.md"
-paper_id: "tasaka2023_prefrontal_neural_maternal"
+source_file: tasaka2023_prefrontal_neural_maternal.md
+paper_id: tasaka2023_prefrontal_neural_maternal
 title: "A Prefrontal Neural Circuit for Maternal Behavioural Learning in Mice"
-authors: "Gen-ichi Tasaka, Mitsue Hagihara, Satsuki Irie, Haruna Kobayashi, Kengo Inada, Miho Kihara, Takaya Abe, Kazunari Miyamichi"
+authors:
+  - "Gen-ichi Tasaka"
+  - "Mitsue Hagihara"
+  - "Satsuki Irie"
+  - "Haruna Kobayashi"
+  - "Kengo Inada"
+  - "Miho Kihara"
+  - "Takaya Abe"
+  - "Kazunari Miyamichi"
 year: 2023
-journal: "bioRxiv"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "optogenetics"]
-brain_regions: ["orbitofrontal_cortex", "prelimbic_cortex", "striatum", "ventral_striatum", "ventral_tegmental_area", "thalamus", "mediodorsal_thalamus", "amygdala"]
-keywords: ["prefrontal", "neural", "circuit", "maternal", "behavioural", "learning", "mice"]
+journal: bioRxiv
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - optogenetics
+brain_regions:
+  - orbitofrontal_cortex
+  - prelimbic_cortex
+  - striatum
+  - ventral_striatum
+  - ventral_tegmental_area
+  - thalamus
+  - mediodorsal_thalamus
+  - amygdala
+keywords:
+  - maternal_behaviour
+  - orbitofrontal_cortex
+  - submedius_thalamus
+  - thalamocortical_circuit
+  - ventral_tegmental_area
+  - dopamine
+  - calcium_imaging
+  - microendoscopy
+  - pup_retrieval
+  - alloparental_learning
+  - social_behaviour
+  - innate_representation
+  - top_down_control
+  - oxytocin
+  - tnnt1
+  - prefrontal
+  - neural
+  - circuit
+  - maternal
+  - behavioural
 ---
 
 ### One-line summary

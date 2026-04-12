@@ -1,17 +1,51 @@
 ---
-source_file: "haber2022_prefrontal_connectomics.md"
-paper_id: "haber2022_prefrontal_connectomics"
+source_file: haber2022_prefrontal_connectomics.md
+paper_id: haber2022_prefrontal_connectomics
 title: "Prefrontal connectomics: from anatomy to human imaging"
-authors: "Suzanne N. Haber, Hesheng Liu, Jakob Seidlitz, Ed Bullmore"
+authors:
+  - "Suzanne N. Haber"
+  - "Hesheng Liu"
+  - "Jakob Seidlitz"
+  - "Ed Bullmore"
 year: 2022
-journal: "Neuropsychopharmacology"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["fmri"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "ventral_tegmental_area", "retrosplenial_cortex", "posterior_cingulate_cortex"]
-keywords: ["prefrontal_connectomics", "monosynaptic_connectivity", "tract_tracing", "dmri_tractography", "resting_state_fmri", "graph_theory_hubs", "connector_hubs", "white_matter_pathways", "anterior_limb_internal_capsule", "deep_brain_stimulation", "non_human_primate", "cross_species_translation", "network_modules", "participation_coefficient", "false_positive_streamlines", "prefrontal", "connectomics", "anatomy", "human", "imaging"]
-key_citations: ["haber2014_reward_circuit_incentive_learning"]
+journal: Neuropsychopharmacology
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - fmri
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - ventral_tegmental_area
+  - retrosplenial_cortex
+  - posterior_cingulate_cortex
+keywords:
+  - prefrontal_connectomics
+  - monosynaptic_connectivity
+  - tract_tracing
+  - dmri_tractography
+  - resting_state_fmri
+  - graph_theory_hubs
+  - connector_hubs
+  - white_matter_pathways
+  - anterior_limb_internal_capsule
+  - deep_brain_stimulation
+  - non_human_primate
+  - cross_species_translation
+  - network_modules
+  - participation_coefficient
+  - false_positive_streamlines
+  - prefrontal
+  - connectomics
+  - anatomy
+  - human
+  - imaging
+key_citations:
+  - haber2014_reward_circuit_incentive_learning
 ---
 
 ### One-line summary

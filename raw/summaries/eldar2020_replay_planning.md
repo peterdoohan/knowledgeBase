@@ -1,19 +1,52 @@
 ---
-source_file: "eldar2020_replay_planning.md"
-paper_id: "eldar2020_replay_planning"
+source_file: eldar2020_replay_planning.md
+paper_id: eldar2020_replay_planning
 title: "The roles of online and offline replay in planning"
-authors: "Eran Eldar, Ga\u00eblle Li\u00e8vre, Peter Dayan, Raymond J Dolan"
+authors:
+  - "Eran Eldar"
+  - "Gaëlle Lièvre"
+  - "Peter Dayan"
+  - "Raymond J Dolan"
 year: 2020
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["two_step_task", "navigation_task"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
-keywords: ["roles", "online", "offline", "replay", "planning"]
-key_citations: ["momennejad2018_offline_replay_planning", "daw2011_model_based_striatal_prediction", "kurth_nelson2016_sequences_non_spatial", "liu2019_human_replay_reorganizes", "stachenfeld2017_hippocampus_predictive_map"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - two_step_task
+  - navigation_task
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+keywords:
+  - hippocampal_replay
+  - meg_sequenceness
+  - model_based_planning
+  - model_free_planning
+  - decision_flexibility
+  - offline_replay
+  - online_replay
+  - individual_differences
+  - reinforcement_learning
+  - state_space_navigation
+  - prediction_error
+  - policy_update
+  - roles
+  - online
+  - offline
+  - replay
+  - planning
+key_citations:
+  - momennejad2018_offline_replay_planning
+  - daw2011_model_based_striatal_prediction
+  - kurth_nelson2016_sequences_non_spatial
+  - liu2019_human_replay_reorganizes
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

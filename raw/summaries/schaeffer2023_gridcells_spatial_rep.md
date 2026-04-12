@@ -1,16 +1,47 @@
 ---
-source_file: "schaeffer2023_gridcells_spatial_rep.md"
-paper_id: "schaeffer2023_gridcells_spatial_rep"
+source_file: schaeffer2023_gridcells_spatial_rep.md
+paper_id: schaeffer2023_gridcells_spatial_rep
 title: "Self-Supervised Learning of Representations for Space Generates Multi-Modular Grid Cells"
-authors: "Rylan Schaeffer, Mikail Khona, Tzuhsuan Ma, Crist\u00f3bal Eyzaguirre, Sanmi Koyejo, Ila Rani Fiete"
+authors:
+  - "Rylan Schaeffer"
+  - "Mikail Khona"
+  - "Tzuhsuan Ma"
+  - "Cristóbal Eyzaguirre"
+  - "Sanmi Koyejo"
+  - "Ila Rani Fiete"
 year: 2023
 journal: "NeurIPS 2023"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["hafting_et_al_2005_discovery_of_grid_cells", "fiete_et_al_2008_coding_theory_of_grid_cells", "banino_et_al_2018_supervised_deep_learning_of_grid_cells", "sorscher_et_al_2023_unified_theory_of_grid_cells", "cueva_and_wei_2018_emergence_of_grid_like_representations_in_rnns", "sreenivasan_and_fiete_2011_error_correcting_codes", "named_models_or_frameworks", "self_supervised_learning_ssl", "separation_invariance_capacity_sic_framework", "continuous_attractor_networks", "path_integration", "contrastive_learning", "deep_metric_learning", "brain_regions", "medial_entorhinal_cortex_mec", "keywords", "grid_cells", "self_supervised_learning", "spatial_representation", "continuous_attractor"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - self_supervised_learning
+  - spatial_representation
+  - path_integration
+  - continuous_attractor
+  - recurrent_neural_network
+  - medial_entorhinal_cortex
+  - multi_modular_coding
+  - separation_invariance_capacity
+  - contrastive_learning
+  - spatial_navigation
+  - toroidal_manifold
+  - hexagonal_lattice
+  - self
+  - supervised
+  - learning
+  - representations
+  - space
+  - generates
+  - multi
+key_citations:
+  - fiete2008_grid_cells_position
+  - sorscher2023_grid_cells_unified_theory
 ---
 
 ### One-line summary

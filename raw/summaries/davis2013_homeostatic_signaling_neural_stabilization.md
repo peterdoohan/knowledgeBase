@@ -1,15 +1,42 @@
 ---
-source_file: "davis2013_homeostatic_signaling_neural_stabilization.md"
-paper_id: "davis2013_homeostatic_signaling_neural_stabilization"
+source_file: davis2013_homeostatic_signaling_neural_stabilization.md
+paper_id: davis2013_homeostatic_signaling_neural_stabilization
 title: "Homeostatic Signaling and the Stabilization of Neural Function"
-authors: "Graeme W. Davis"
+authors:
+  - "Graeme W. Davis"
 year: 2013
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-methods: ["calcium_imaging", "optogenetics", "electrophysiology", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "visual_cortex"]
-keywords: ["homeostatic", "signaling", "stabilization", "neural", "function"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - calcium_imaging
+  - optogenetics
+  - electrophysiology
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - visual_cortex
+keywords:
+  - homeostatic_plasticity
+  - synaptic_scaling
+  - presynaptic_homeostasis
+  - intrinsic_excitability
+  - readily_releasable_pool
+  - cav2_1_calcium_channel
+  - deg_enac_sodium_channel
+  - rim_rab3_interacting_molecule
+  - set_point_stabilisation
+  - ion_channel_rebalancing
+  - bmp_permissive_signalling
+  - tor_s6k_synaptic_maintenance
+  - homeostatic
+  - signaling
+  - stabilization
+  - neural
+  - function
 ---
 
 ### One-line summary

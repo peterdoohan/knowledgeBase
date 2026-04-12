@@ -1,18 +1,51 @@
 ---
-source_file: "jackson2006_hippocampal_sharp_waves_reactivation.md"
-paper_id: "jackson2006_hippocampal_sharp_waves_reactivation"
+source_file: jackson2006_hippocampal_sharp_waves_reactivation.md
+paper_id: jackson2006_hippocampal_sharp_waves_reactivation
 title: "Hippocampal Sharp Waves and Reactivation during Awake States Depend on Repeated Sequential Experience"
-authors: "Jadin C. Jackson, Adam Johnson, A. David Redish"
+authors:
+  - "Jadin C. Jackson"
+  - "Adam Johnson"
+  - "A. David Redish"
 year: 2006
 journal: "The Journal of Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["linear_track", "foraging_task"]
-methods: ["tetrode_recording", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["hippocampal", "sharp", "waves", "reactivation", "during", "awake", "states", "depend", "repeated", "sequential"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+  - foraging_task
+methods:
+  - tetrode_recording
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - hippocampal_sharp_waveripple_complexes_swrs
+  - awake_reactivation
+  - place_cells
+  - sequential_experience_dependent_plasticity
+  - ca3_recurrent_collaterals
+  - large_irregular_activity_lia
+  - theta_oscillations
+  - ensemble_cofiring
+  - behavioral_entropy
+  - memory_consolidation
+  - experience_dependent_swr_emission
+  - ca3ca1_interaction
+  - hippocampal
+  - sharp
+  - waves
+  - reactivation
+  - during
+  - awake
+  - states
+  - depend
 ---
 
 ### One-line summary

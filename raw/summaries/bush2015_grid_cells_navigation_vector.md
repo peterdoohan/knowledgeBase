@@ -1,16 +1,40 @@
 ---
-source_file: "bush2015_grid_cells_navigation_vector.md"
-paper_id: "bush2015_grid_cells_navigation_vector"
+source_file: bush2015_grid_cells_navigation_vector.md
+paper_id: bush2015_grid_cells_navigation_vector
 title: "Using Grid Cells for Navigation"
-authors: "Daniel Bush, Caswell Barry, Daniel Manson, Neil Burgess"
+authors:
+  - "Daniel Bush"
+  - "Caswell Barry"
+  - "Daniel Manson"
+  - "Neil Burgess"
 year: 2015
-journal: "Neuron"
-paper_type: "computational"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["grid", "cells", "navigation"]
-key_citations: ["fiete2008_grid_cells_position"]
+journal: Neuron
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - vector_navigation
+  - path_integration
+  - spatial_phase
+  - residue_number_system
+  - fourier_shift_theorem
+  - theta_phase_precession
+  - linear_look_ahead
+  - cognitive_map
+  - hippocampal_formation
+  - distance_cells
+  - neural_network_implementation
+  - grid
+  - cells
+  - navigation
+key_citations:
+  - fiete2008_grid_cells_position
 ---
 
 ### One-line summary

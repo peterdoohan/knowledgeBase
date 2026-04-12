@@ -1,18 +1,51 @@
 ---
-source_file: "boccara2019_grid_goal_attractor.md"
-paper_id: "boccara2019_grid_goal_attractor"
+source_file: boccara2019_grid_goal_attractor.md
+paper_id: boccara2019_grid_goal_attractor
 title: "The entorhinal cognitive map is attracted to goals"
-authors: "Charlotte N. Boccara, Michele Nardin, Federico Stella, Joseph O'Neill, Jozsef Csicsvari"
+authors:
+  - "Charlotte N. Boccara"
+  - "Michele Nardin"
+  - "Federico Stella"
+  - "Joseph O'Neill"
+  - "Jozsef Csicsvari"
 year: 2019
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["open_field"]
-methods: ["electrophysiology", "tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["entorhinal", "cognitive", "map", "attracted", "goals"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+methods:
+  - electrophysiology
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - place_cells
+  - entorhinal_cortex
+  - hippocampus
+  - goal_learning
+  - spatial_memory
+  - cognitive_map
+  - remapping
+  - flickering
+  - reward_encoding
+  - navigation
+  - electrophysiology
+  - cheeseboard_maze
+  - field_attraction
+  - entorhinal
+  - cognitive
+  - map
+  - attracted
+  - goals
 ---
 
 ### One-line summary

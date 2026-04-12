@@ -1,16 +1,58 @@
 ---
-source_file: "whittington2024_build_cognitive_map.md"
-paper_id: "whittington2024_build_cognitive_map"
+source_file: whittington2024_build_cognitive_map.md
+paper_id: whittington2024_build_cognitive_map
 title: "How to build a cognitive map: insights from models of the hippocampal formation"
-authors: "James C.R. Whittington, David McCaffary, Jacob J.W. Bakermans, Timothy E.J. Behrens"
+authors:
+  - "James C.R. Whittington"
+  - "David McCaffary"
+  - "Jacob J.W. Bakermans"
+  - "Timothy E.J. Behrens"
 year: 2024
 journal: "Unknown (preprint/perspective)"
-paper_type: "review"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "striatum"]
-frameworks: ["reinforcement_learning", "successor_representation", "attractor_networks", "latent_state_inference", "tolman_eichenbaum_machine", "compositionality"]
-keywords: ["build", "cognitive", "map", "insights", "models", "hippocampal", "formation"]
-key_citations: ["stachenfeld2017_hippocampus_predictive_map", "whittington2020_tolman_eichenbaum_machine", "dayan1993_successor_representation", "behrens2018_cognitive_map_organizing_knowledge", "burak2009_path_integration_grid_cells"]
+paper_type: review
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - attractor_networks
+  - latent_state_inference
+  - tolman_eichenbaum_machine
+  - compositionality
+keywords:
+  - cognitive_map
+  - hippocampus
+  - entorhinal_cortex
+  - grid_cells
+  - place_cells
+  - successor_representation
+  - latent_states
+  - path_integration
+  - generalisation
+  - reinforcement_learning
+  - continuous_attractor_networks
+  - compositionality
+  - tem
+  - cscg
+  - representational_drift
+  - prefrontal_cortex
+  - replay
+  - credit_assignment
+  - build
+  - cognitive
+key_citations:
+  - stachenfeld2017_hippocampus_predictive_map
+  - whittington2020_tolman_eichenbaum_machine
+  - dayan1993_successor_representation
+  - behrens2018_cognitive_map_organizing_knowledge
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

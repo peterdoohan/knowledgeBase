@@ -1,17 +1,85 @@
 ---
-source_file: "ibl2025_reproducibility_electrophysiology.md"
-paper_id: "ibl2025_reproducibility_electrophysiology"
+source_file: ibl2025_reproducibility_electrophysiology.md
+paper_id: ibl2025_reproducibility_electrophysiology
 title: "Reproducibility of in vivo electrophysiological measurements in mice"
-authors: "International Brain Laboratory, Kush Banga, Julius Benson, Jai Bhagat, Dan Biderman, Daniel Birman, Niccol\u00f2 Bonacchi, Sebastian A Bruijns, Kelly Buchanan, Robert AA Campbell, Matteo Carandini, Ga\u00eblle A Chapuis, Anne K Churchland, M Felicia Davatolhagh, Hyun Dong Lee, Mayo Faulkner, Berk Ger\u00e7ek, Fei Hu, Julia Huntenburg, Cole Hurwitz, Anup Khanal, Christopher Krasniak, Christopher Langfield, Petrina Lau, Nancy Mackenzie, Guido T Meijer, Nathaniel J Miska, Zeinab Mohammadi, Jean-Paul Noel, Liam Paninski, Alejandro Pan-Vazquez, Cyrille Rossant, Noam Roth, Michael Schartner, Karolina Socha, Nicholas A Steinmetz, Karel Svoboda, Marsa Taheri, Anne E Urai, Shuqi Wang, Miles Wells, Steven J West, Matthew R Whiteway, Olivier Winter, Ilana B Witten, Yizi Zhang"
+authors:
+  - "International Brain Laboratory"
+  - "Kush Banga"
+  - "Julius Benson"
+  - "Jai Bhagat"
+  - "Dan Biderman"
+  - "Daniel Birman"
+  - "Niccolò Bonacchi"
+  - "Sebastian A Bruijns"
+  - "Kelly Buchanan"
+  - "Robert AA Campbell"
+  - "Matteo Carandini"
+  - "Gaëlle A Chapuis"
+  - "Anne K Churchland"
+  - "M Felicia Davatolhagh"
+  - "Hyun Dong Lee"
+  - "Mayo Faulkner"
+  - "Berk Gerçek"
+  - "Fei Hu"
+  - "Julia Huntenburg"
+  - "Cole Hurwitz"
+  - "Anup Khanal"
+  - "Christopher Krasniak"
+  - "Christopher Langfield"
+  - "Petrina Lau"
+  - "Nancy Mackenzie"
+  - "Guido T Meijer"
+  - "Nathaniel J Miska"
+  - "Zeinab Mohammadi"
+  - "Jean-Paul Noel"
+  - "Liam Paninski"
+  - "Alejandro Pan-Vazquez"
+  - "Cyrille Rossant"
+  - "Noam Roth"
+  - "Michael Schartner"
+  - "Karolina Socha"
+  - "Nicholas A Steinmetz"
+  - "Karel Svoboda"
+  - "Marsa Taheri"
+  - "Anne E Urai"
+  - "Shuqi Wang"
+  - "Miles Wells"
+  - "Steven J West"
+  - "Matthew R Whiteway"
+  - "Olivier Winter"
+  - "Ilana B Witten"
+  - "Yizi Zhang"
 year: 2025
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse"]
-methods: ["electrophysiology", "neuropixels"]
-brain_regions: ["hippocampus_ca1"]
-keywords: ["reproducibility", "vivo", "electrophysiological", "measurements", "mice"]
-key_citations: ["wang2020_alternating_theta_sequences"]
+journal: eLife
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+methods:
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - hippocampus_ca1
+keywords:
+  - neuropixels_reproducibility
+  - multi_lab_electrophysiology
+  - quality_control_standards
+  - probe_targeting_variability
+  - allen_common_coordinate_framework
+  - single_neuron_modulation
+  - population_decoding
+  - variance_decomposition
+  - spike_sorting
+  - rigor_criteria
+  - systems_neuroscience_replicability
+  - multi_task_neural_network_encoding_model
+  - reproducibility
+  - vivo
+  - electrophysiological
+  - measurements
+  - mice
+key_citations:
+  - wang2020_alternating_theta_sequences
 ---
 
 ### One-line summary

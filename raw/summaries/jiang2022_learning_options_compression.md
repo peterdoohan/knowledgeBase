@@ -1,15 +1,39 @@
 ---
-source_file: "jiang2022_learning_options_compression.md"
-paper_id: "jiang2022_learning_options_compression"
+source_file: jiang2022_learning_options_compression.md
+paper_id: jiang2022_learning_options_compression
 title: "Learning Options via Compression"
-authors: "Yiding Jiang, Evan Zheran Liu, Benjamin Eysenbach, J. Zico Kolter, Chelsea Finn"
+authors:
+  - "Yiding Jiang"
+  - "Evan Zheran Liu"
+  - "Benjamin Eysenbach"
+  - "J. Zico Kolter"
+  - "Chelsea Finn"
 year: 2022
 journal: "NeurIPS 2022 (36th Conference on Neural Information Processing Systems)"
-paper_type: "computational"
-contribution_type: "methodological"
-brain_regions: ["ventral_tegmental_area"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["learning", "options", "via", "compression"]
+paper_type: computational
+contribution_type: methodological
+brain_regions:
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - skill_learning
+  - temporal_abstraction
+  - hierarchical_reinforcement_learning
+  - minimum_description_length
+  - compression_objective
+  - latent_variable_model
+  - options_framework
+  - multi_task_reinforcement_learning
+  - offline_reinforcement_learning
+  - underspecification
+  - variational_inference
+  - sample_efficiency
+  - learning
+  - options
+  - via
+  - compression
 ---
 
 ### One-line summary

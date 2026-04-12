@@ -1,13 +1,36 @@
 ---
-source_file: "meunier2024_nonlinear_metalearning.md"
-paper_id: "meunier2024_nonlinear_metalearning"
+source_file: meunier2024_nonlinear_metalearning.md
+paper_id: meunier2024_nonlinear_metalearning
 title: "Nonlinear Meta-learning Can Guarantee Faster Rates"
-authors: "Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe"
+authors:
+  - "Dimitri Meunier"
+  - "Zhu Li"
+  - "Arthur Gretton"
+  - "Samory Kpotufe"
 year: 2024
 journal: "arXiv preprint (venue not stated in document)"
-paper_type: "computational"
-contribution_type: "theoretical"
-keywords: ["nonlinear", "meta", "learning", "can", "guarantee", "faster", "rates"]
+paper_type: computational
+contribution_type: theoretical
+keywords:
+  - meta_learning
+  - nonlinear_representation_learning
+  - reproducing_kernel_hilbert_space
+  - subspace_estimation
+  - convergence_rates
+  - bias_variance_tradeoff
+  - under_regularization
+  - kernel_ridge_regression
+  - transfer_learning
+  - task_diversity
+  - statistical_learning_theory
+  - operator_perturbation_theory
+  - nonlinear
+  - meta
+  - learning
+  - can
+  - guarantee
+  - faster
+  - rates
 ---
 
 ### One-line summary

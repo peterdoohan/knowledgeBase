@@ -1,19 +1,58 @@
 ---
-source_file: "widloski2022_hippocampal_replay_barriers.md"
-paper_id: "widloski2022_hippocampal_replay_barriers"
+source_file: widloski2022_hippocampal_replay_barriers.md
+paper_id: widloski2022_hippocampal_replay_barriers
 title: "Flexible rerouting of hippocampal replay sequences around changing barriers in the absence of global place field remapping"
-authors: "John Widloski, David J. Foster"
+authors:
+  - "John Widloski"
+  - "David J. Foster"
 year: 2022
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["navigation_task"]
-methods: ["tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "striatum", "ventral_striatum", "ventral_tegmental_area"]
-frameworks: ["successor_representation", "attractor_networks", "tolman_eichenbaum_machine"]
-keywords: ["flexible", "rerouting", "hippocampal", "replay", "sequences", "around", "changing", "barriers", "absence", "global"]
-key_citations: ["gupta2010_replay_not_simple_function", "foster2017_replay_memory_consolidation", "muller1996_bergmann_glial_coupling", "stachenfeld2017_hippocampus_predictive_map"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - ventral_tegmental_area
+frameworks:
+  - successor_representation
+  - attractor_networks
+  - tolman_eichenbaum_machine
+keywords:
+  - hippocampal_replay
+  - place_cells
+  - spatial_navigation
+  - barrier_conformity
+  - cognitive_graph
+  - flexible_behavior
+  - awake_replay
+  - sharp_wave_ripples
+  - sequence_reactivation
+  - spatial_memory
+  - attractor_networks
+  - bayesian_decoding
+  - remapping
+  - trajectory_planning
+  - goal_directed_behavior
+  - rat
+  - ca1
+  - dendritic_computation
+  - synaptic_plasticity
+  - flexible
+key_citations:
+  - gupta2010_replay_not_simple_function
+  - foster2017_replay_memory_consolidation
+  - muller1996_bergmann_glial_coupling
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

@@ -1,18 +1,53 @@
 ---
-source_file: "gupta2012_theta_sequences_experience.md"
-paper_id: "gupta2012_theta_sequences_experience"
+source_file: gupta2012_theta_sequences_experience.md
+paper_id: gupta2012_theta_sequences_experience
 title: "Segmentation of spatial experience by hippocampal theta sequences"
-authors: "Anoopum S Gupta, Matthijs A A van der Meer, David S Touretzky, A David Redish"
+authors:
+  - "Anoopum S Gupta"
+  - "Matthijs A A van der Meer"
+  - "David S Touretzky"
+  - "A David Redish"
 year: 2012
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["t_maze"]
-methods: ["electrophysiology", "tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "striatum", "ventral_striatum"]
-keywords: ["segmentation", "spatial", "experience", "hippocampal", "theta", "sequences"]
-key_citations: ["gupta2010_replay_not_simple_function", "foster2007_theta_sequences_hippocampus", "johnson2007_hippocampus_decision"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - t_maze
+methods:
+  - electrophysiology
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - striatum
+  - ventral_striatum
+keywords:
+  - hippocampal_theta_sequences
+  - phase_precession
+  - spatial_chunking
+  - place_cells
+  - bayesian_decoding
+  - prospective_coding
+  - retrospective_coding
+  - theta_gamma_coupling
+  - landmark_navigation
+  - sequence_compression
+  - episodic_memory_encoding
+  - ca1_ensemble_dynamics
+  - segmentation
+  - spatial
+  - experience
+  - hippocampal
+  - theta
+  - sequences
+key_citations:
+  - gupta2010_replay_not_simple_function
+  - foster2007_theta_sequences_hippocampus
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

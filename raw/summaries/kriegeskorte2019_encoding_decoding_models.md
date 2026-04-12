@@ -1,14 +1,39 @@
 ---
-source_file: "kriegeskorte2019_encoding_decoding_models.md"
-paper_id: "kriegeskorte2019_encoding_decoding_models"
+source_file: kriegeskorte2019_encoding_decoding_models.md
+paper_id: kriegeskorte2019_encoding_decoding_models
 title: "Interpreting encoding and decoding models"
-authors: "Nikolaus Kriegeskorte, Pamela K Douglas"
+authors:
+  - "Nikolaus Kriegeskorte"
+  - "Pamela K Douglas"
 year: 2019
 journal: "Current Opinion in Neurobiology"
-paper_type: "review"
-contribution_type: "methodological"
-methods: ["fmri", "representational_similarity_analysis", "computational_modeling"]
-keywords: ["interpreting", "encoding", "decoding", "models"]
+paper_type: review
+contribution_type: methodological
+methods:
+  - fmri
+  - representational_similarity_analysis
+  - computational_modeling
+keywords:
+  - encoding_model
+  - decoding_model
+  - brain_computational_model
+  - representational_geometry
+  - representational_dissimilarity_matrix
+  - feature_fallacy
+  - single_model_significance_fallacy
+  - linear_decodability
+  - explicit_representation
+  - noise_ceiling
+  - crossvalidation
+  - generalisation
+  - weight_interpretation
+  - regularisation
+  - ridge_regression
+  - multivariate_pattern_analysis_mvpa
+  - fmri_decoding
+  - stimulus_reconstruction
+  - prior
+  - generative_model
 ---
 
 ### One-line summary

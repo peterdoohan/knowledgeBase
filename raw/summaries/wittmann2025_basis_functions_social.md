@@ -1,17 +1,63 @@
 ---
-source_file: "wittmann2025_basis_functions_social.md"
-paper_id: "wittmann2025_basis_functions_social"
+source_file: wittmann2025_basis_functions_social.md
+paper_id: wittmann2025_basis_functions_social
 title: "Basis functions for complex social decisions in dorsomedial frontal cortex"
-authors: "Marco K. Wittmann, Yongling Lin, Deng Pan, Moritz N. Braun, Cormac Dickson, Lisa Spiering, Shuyi Luo, Caroline Harbison, Ayat Abdurahman, Sorcha Hamilton, Nadira S. Faber, Nima Khalighinejad, Patricia L. Lockwood, Matthew F. S. Rushworth"
+authors:
+  - "Marco K. Wittmann"
+  - "Yongling Lin"
+  - "Deng Pan"
+  - "Moritz N. Braun"
+  - "Cormac Dickson"
+  - "Lisa Spiering"
+  - "Shuyi Luo"
+  - "Caroline Harbison"
+  - "Ayat Abdurahman"
+  - "Sorcha Hamilton"
+  - "Nadira S. Faber"
+  - "Nima Khalighinejad"
+  - "Patricia L. Lockwood"
+  - "Matthew F. S. Rushworth"
 year: 2025
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "computational_modeling", "behavioral_analysis"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum"]
-keywords: ["basis_functions", "social_decision_making", "dorsomedial_prefrontal_cortex", "anterior_cingulate_cortex", "multi_agent_interactions", "sequential_coding", "representational_compression", "agent_centric_coding", "group_decisions", "ventromedial_prefrontal_cortex", "drift_diffusion_model", "fmri", "combinatorial_representations", "decision_variables", "cognitive_maps", "self_other_distinction", "basis", "functions", "complex", "social"]
-key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "constantinescu2016_gridlike_conceptual_knowledge", "stachenfeld2017_hippocampus_predictive_map"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - computational_modeling
+  - behavioral_analysis
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+keywords:
+  - basis_functions
+  - social_decision_making
+  - dorsomedial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - multi_agent_interactions
+  - sequential_coding
+  - representational_compression
+  - agent_centric_coding
+  - group_decisions
+  - ventromedial_prefrontal_cortex
+  - drift_diffusion_model
+  - fmri
+  - combinatorial_representations
+  - decision_variables
+  - cognitive_maps
+  - self_other_distinction
+  - basis
+  - functions
+  - complex
+  - social
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
+  - constantinescu2016_gridlike_conceptual_knowledge
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

@@ -1,19 +1,58 @@
 ---
-source_file: "fernandez2019_ripples_memory_consolidation.md"
-paper_id: "fernandez2019_ripples_memory_consolidation"
+source_file: fernandez2019_ripples_memory_consolidation.md
+paper_id: fernandez2019_ripples_memory_consolidation
 title: "Long-duration hippocampal sharp wave ripples improve memory"
-authors: "Antonio Fern\u00e1ndez-Ruiz, Azahara Oliva, Eliezyer Fermino de Oliveira, Florbela Rocha-Almeida, David Tingley, Gy\u00f6rgy Buzs\u00e1ki"
+authors:
+  - "Antonio Fernández-Ruiz"
+  - "Azahara Oliva"
+  - "Eliezyer Fermino de Oliveira"
+  - "Florbela Rocha-Almeida"
+  - "David Tingley"
+  - "György Buzsáki"
 year: 2019
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["open_field", "t_maze"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["long", "duration", "hippocampal", "sharp", "wave", "ripples", "improve", "memory"]
-key_citations: ["girardeau2009_ripples_spatial_memory", "davidson2009_hippocampal_replay_extended", "pfeiffer2015_autoassociative_hippocampal_place_cells"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+  - t_maze
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - hippocampal_sharp_wave_ripples
+  - memory_consolidation
+  - sequence_replay
+  - closed_loop_optogenetics
+  - place_cells
+  - spatial_working_memory
+  - ripple_duration
+  - attractor_dynamics
+  - prospective_coding
+  - ca1_pyramidal_cells
+  - neuronal_diversity
+  - memory_guided_navigation
+  - long
+  - duration
+  - hippocampal
+  - sharp
+  - wave
+  - ripples
+  - improve
+  - memory
+key_citations:
+  - girardeau2009_ripples_spatial_memory
+  - davidson2009_hippocampal_replay_extended
+  - pfeiffer2015_autoassociative_hippocampal_place_cells
 ---
 
 ### One-line summary

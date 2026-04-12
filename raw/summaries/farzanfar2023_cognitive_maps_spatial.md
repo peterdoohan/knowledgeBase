@@ -1,18 +1,51 @@
 ---
-source_file: "farzanfar2023_cognitive_maps_spatial.md"
-paper_id: "farzanfar2023_cognitive_maps_spatial"
+source_file: farzanfar2023_cognitive_maps_spatial.md
+paper_id: farzanfar2023_cognitive_maps_spatial
 title: "From cognitive maps to spatial schemas"
-authors: "Delaram Farzanfar, Hugo J. Spiers, Morris Moscovitch, R. Shayna Rosenbaum"
+authors:
+  - "Delaram Farzanfar"
+  - "Hugo J. Spiers"
+  - "Morris Moscovitch"
+  - "R. Shayna Rosenbaum"
 year: 2023
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-tasks: ["hexmaze", "virtual_navigation", "navigation_task"]
-methods: ["fmri", "lesion"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "retrosplenial_cortex"]
-keywords: ["cognitive", "maps", "spatial", "schemas"]
-key_citations: ["epstein2017_cognitive_maps_humans"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+tasks:
+  - hexmaze
+  - virtual_navigation
+methods:
+  - fmri
+  - lesion
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - retrosplenial_cortex
+keywords:
+  - spatial_schema
+  - cognitive_map
+  - spatial_gist
+  - memory_consolidation
+  - hippocampalneocortical_interaction
+  - geometric_resemblance
+  - pattern_separation
+  - hpc_replay
+  - predictive_coding
+  - space_syntax
+  - street_network_entropy
+  - urban_navigation
+  - cognitive
+  - maps
+  - spatial
+  - schemas
+key_citations:
+  - epstein2017_cognitive_maps_humans
 ---
 
 ### One-line summary

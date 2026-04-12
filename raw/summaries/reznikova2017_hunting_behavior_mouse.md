@@ -1,15 +1,42 @@
 ---
-source_file: "reznikova2017_hunting_behavior_mouse.md"
-paper_id: "reznikova2017_hunting_behavior_mouse"
+source_file: reznikova2017_hunting_behavior_mouse.md
+paper_id: reznikova2017_hunting_behavior_mouse
 title: "Studying hunting behaviour in the striped field mouse using data compression"
-authors: "Zhanna Reznikova, Jan Levenets, Sofia Panteleeva, Boris Ryabko"
+authors:
+  - "Zhanna Reznikova"
+  - "Jan Levenets"
+  - "Sofia Panteleeva"
+  - "Boris Ryabko"
 year: 2017
 journal: "Acta Ethologica"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse", "rat"]
-tasks: ["foraging_task"]
-keywords: ["studying", "hunting", "behaviour", "striped", "field", "mouse", "data", "compression"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+  - rat
+tasks:
+  - foraging_task
+keywords:
+  - hunting_behavior
+  - predatory_behavior
+  - striped_field_mouse
+  - apodemus_agrarius
+  - common_shrew
+  - sorex_araneus
+  - norway_rat
+  - rattus_norvegicus
+  - ethogram
+  - data_compression
+  - kolmogorov_complexity
+  - behavioral_complexity
+  - behavioral_stereotype
+  - foraging_ecology
+  - insect_predation
+  - muridae
+  - soricidae
+  - comparative_ethology
+  - behavioral_sequence_analysis
+  - studying
 ---
 
 ### One-line summary

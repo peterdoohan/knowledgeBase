@@ -1,17 +1,50 @@
 ---
-source_file: "mizes2023_sensorimotor_striatum.md"
-paper_id: "mizes2023_sensorimotor_striatum"
+source_file: mizes2023_sensorimotor_striatum.md
+paper_id: mizes2023_sensorimotor_striatum
 title: "Dissociating the contributions of sensorimotor striatum to automatic and visually guided motor sequences"
-authors: "Kevin G. C. Mizes, Jack Lindsey, G. Sean Escola, Bence P. \u00d6lveczky"
+authors:
+  - "Kevin G. C. Mizes"
+  - "Jack Lindsey"
+  - "G. Sean Escola"
+  - "Bence P. Ölveczky"
 year: 2023
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["electrophysiology", "tetrode_recording", "lesion"]
-brain_regions: ["striatum", "dorsomedial_striatum", "dorsolateral_striatum", "thalamus"]
-frameworks: ["reinforcement_learning"]
-keywords: ["dhawale_et_al_2021_nat_neurosci_prior_work_from_same_lab_establishing_dls_role_in_kinematic_specification", "kawai_et_al_2015_neuron_motor_cortex_not_required_for_execution_of_overtrained_motor_skills_in_rodents", "jin_and_costa_2010_nature_start_stop_signals_in_nigrostriatal_circuits", "chunking_hypothesis", "barnes_et_al_2005_nature_dynamic_encoding_and_recoding_of_procedural_memories_in_striatum", "graybiel_1998_bg_and_chunking_of_action_repertoires", "rueda_orozco_and_robbe_2015_nat_neurosci_striatum_multiplexes_contextual_and_kinematic_information", "desmurget_and_turner_2010_motor_sequences_and_the_bg_kinematics", "not_habits", "redgrave_et_al_2010_goal_directed_and_habitual_control_in_bg", "parkinsons_disease", "mazzoni_et_al_2007_movement_vigor_and_parkinsons_disease", "dudman_and_krakauer_2016_bg_and_control_of_vigor", "named_models_or_frameworks", "discrete_sequence_production_dsp_task_piano_task", "chunking_hypothesis_bg_as_chunk_selector", "kinematic_specification_hypothesis_bg_as_kinematic_controller", "two_population_neural_network_model_dls_downstream_recurrent_motor_circuits", "brain_regions", "dorsolateral_striatum_dls"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - electrophysiology
+  - tetrode_recording
+  - lesion
+brain_regions:
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - thalamus
+frameworks:
+  - reinforcement_learning
+keywords:
+  - motor_sequence_learning
+  - sensorimotor_striatum
+  - basal_ganglia
+  - motor_automaticity
+  - movement_kinematics
+  - chunking
+  - discrete_sequence_production_task
+  - dorsolateral_striatum_lesion
+  - action_selection
+  - neural_population_coding
+  - motor_vigor
+  - internally_generated_sequences
+  - dissociating
+  - contributions
+  - sensorimotor
+  - striatum
+  - automatic
+  - visually
+  - guided
+  - motor
 ---
 
 ### One-line summary

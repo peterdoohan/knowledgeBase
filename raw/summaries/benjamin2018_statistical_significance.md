@@ -1,14 +1,36 @@
 ---
-source_file: "benjamin2018_statistical_significance.md"
-paper_id: "benjamin2018_statistical_significance"
+source_file: benjamin2018_statistical_significance.md
+paper_id: benjamin2018_statistical_significance
 title: "Redefine Statistical Significance"
-authors: "Daniel J. Benjamin, James O. Berger, Magnus Johannesson, Brian A. Nosek, E.-J. Wagenmakers, and 68 additional co-authors"
+authors:
+  - "Daniel J. Benjamin"
+  - "James O. Berger"
+  - "Magnus Johannesson"
+  - "Brian A. Nosek"
+  - "E.-J. Wagenmakers"
+  - "68 additional co-authors"
 year: 2018
 journal: "Nature Human Behaviour"
-paper_type: "review"
-contribution_type: "methodological"
-frameworks: ["bayesian_inference"]
-keywords: ["greenwald_et_al_1996_psychophysiology_earlier_proposal_to_lower_the_threshold", "johnson_2013_pnas_uniformly_most_powerful_bayesian_test_umpbt", "open_science_collaboration_2015_science_psychology_replication_project", "camerer_et_al_2016_science_experimental_economics_replication_project", "kass_and_raftery_1995_j_am_stat_assoc_bayes_factor_classification_conventions", "szucs_and_ioannidis_2017_plos_biology_statistical_power_in_psychology", "wasserstein_and_lazar_2016_am_stat_asa_statement_on_p_values", "fisher_1925_statistical_methods_for_research_workers_origin_of_0_05_threshold", "sellke", "bayarri_and_berger_2001_am_stat_local_h1_bound_on_bayes_factors", "named_models_or_frameworks", "null_hypothesis_significance_testing_nhst", "bayes_factor", "uniformly_most_powerful_bayesian_test_umpbt", "genome_wide_significance_threshold_5_10_8", "five_sigma_rule_high_energy_physics", "brain_regions_not_applicable", "keywords_statistical_significance_threshold", "p_value", "false_positive_rate"]
+paper_type: review
+contribution_type: methodological
+frameworks:
+  - bayesian_inference
+keywords:
+  - statistical_significance_threshold
+  - p_value
+  - bayes_factor
+  - false_positive_rate
+  - reproducibility_crisis
+  - null_hypothesis_significance_testing
+  - type_i_error
+  - replication_rate
+  - prior_odds
+  - statistical_power
+  - p_hacking
+  - open_science
+  - redefine
+  - statistical
+  - significance
 ---
 
 ### One-line summary

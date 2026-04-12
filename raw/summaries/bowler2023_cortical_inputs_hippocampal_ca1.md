@@ -1,19 +1,56 @@
 ---
-source_file: "bowler2023_cortical_inputs_hippocampal_ca1.md"
-paper_id: "bowler2023_cortical_inputs_hippocampal_ca1"
+source_file: bowler2023_cortical_inputs_hippocampal_ca1.md
+paper_id: bowler2023_cortical_inputs_hippocampal_ca1
 title: "Direct cortical inputs to hippocampal area CA1 transmit complementary signals for goal-directed navigation"
-authors: "John C. Bowler, Attila Losonczy"
+authors:
+  - "John C. Bowler"
+  - "Attila Losonczy"
 year: 2023
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["linear_track", "virtual_navigation"]
-methods: ["calcium_imaging", "optogenetics", "behavioral_analysis"]
-brain_regions: ["hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "ventral_tegmental_area"]
-frameworks: ["attractor_networks"]
-keywords: ["direct", "cortical", "inputs", "hippocampal", "area", "ca1", "transmit", "complementary", "signals", "goal"]
-key_citations: ["boccara2019_grid_goal_attractor", "butler2019_reward_locations_entorhinal_maps", "grienberger2022_entorhinal_learning"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - linear_track
+  - virtual_navigation
+methods:
+  - calcium_imaging
+  - optogenetics
+  - behavioral_analysis
+brain_regions:
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - ventral_tegmental_area
+frameworks:
+  - attractor_networks
+keywords:
+  - entorhinal_cortex_axon_imaging
+  - ca1_direct_cortical_input
+  - goal_directed_navigation
+  - reward_vector_coding
+  - place_cell_remapping
+  - context_specific_spatial_map
+  - two_photon_calcium_imaging
+  - virtual_reality_navigation
+  - dreadd_chemogenetics
+  - population_vector_correlation
+  - goal_anticipatory_tuning
+  - mec_lec_functional_dissociation
+  - direct
+  - cortical
+  - inputs
+  - hippocampal
+  - area
+  - ca1
+  - transmit
+  - complementary
+key_citations:
+  - boccara2019_grid_goal_attractor
+  - butler2019_reward_locations_entorhinal_maps
+  - grienberger2022_entorhinal_learning
 ---
 
 ### One-line summary

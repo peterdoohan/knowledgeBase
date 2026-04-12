@@ -1,14 +1,32 @@
 ---
-source_file: "ganguli2022_dimensionality_behavior.md"
-paper_id: "ganguli2022_dimensionality_behavior"
+source_file: ganguli2022_dimensionality_behavior.md
+paper_id: ganguli2022_dimensionality_behavior
 title: "Measuring the dimensionality of behavior"
-authors: "Surya Ganguli"
+authors:
+  - "Surya Ganguli"
 year: 2022
 journal: "PNAS (Proceedings of the National Academy of Sciences), Vol. 119 No. 43"
-paper_type: "review"
-contribution_type: "theoretical"
-keywords: ["measuring", "dimensionality", "behavior"]
-key_citations: ["bialek2022_behavior_dynamics_analysis", "gao2017_neural_dimensionality_dynamics"]
+paper_type: review
+contribution_type: theoretical
+keywords:
+  - behavioral_dimensionality
+  - predictive_mutual_information
+  - information_theory
+  - maximum_entropy
+  - temporal_correlations
+  - power_law_behavior
+  - dynamical_systems
+  - behavioral_phenomenology
+  - scaling_laws
+  - drosophila_behavior
+  - neural_population_dimensionality
+  - quantitative_ethology
+  - measuring
+  - dimensionality
+  - behavior
+key_citations:
+  - bialek2022_behavior_dynamics_analysis
+  - gao2017_neural_dimensionality_dynamics
 ---
 
 ### One-line summary

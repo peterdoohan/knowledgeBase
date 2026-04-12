@@ -1,17 +1,46 @@
 ---
-source_file: "zhou2021_schema_orbitofrontal.md"
-paper_id: "zhou2021_schema_orbitofrontal"
+source_file: zhou2021_schema_orbitofrontal.md
+paper_id: zhou2021_schema_orbitofrontal
 title: "Evolving schema representations in orbitofrontal ensembles during learning"
-authors: "Jingfeng Zhou, Chunying Jia, Marlian Montesinos-Cartagena, Matthew P. H. Gardner, Wenhui Zong, Geoffrey Schoenbaum"
+authors:
+  - "Jingfeng Zhou"
+  - "Chunying Jia"
+  - "Marlian Montesinos-Cartagena"
+  - "Matthew P. H. Gardner"
+  - "Wenhui Zong"
+  - "Geoffrey Schoenbaum"
 year: 2021
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["electrophysiology"]
-brain_regions: ["orbitofrontal_cortex"]
-keywords: ["schema", "orbitofrontal_cortex", "ensemble_coding", "dimensionality_reduction", "manifold_alignment", "learning", "generalization", "neural_manifolds", "canonical_correlation_analysis", "odour_sequence_task", "cognitive_map", "prefrontal_cortex", "rats", "single_unit_recording", "evolving", "representations", "orbitofrontal", "ensembles", "during"]
-key_citations: ["wilson2014_best_practices_scientific"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - electrophysiology
+brain_regions:
+  - orbitofrontal_cortex
+keywords:
+  - schema
+  - orbitofrontal_cortex
+  - ensemble_coding
+  - dimensionality_reduction
+  - manifold_alignment
+  - learning
+  - generalization
+  - neural_manifolds
+  - canonical_correlation_analysis
+  - odour_sequence_task
+  - cognitive_map
+  - prefrontal_cortex
+  - rats
+  - single_unit_recording
+  - evolving
+  - representations
+  - orbitofrontal
+  - ensembles
+  - during
+key_citations:
+  - wilson2014_best_practices_scientific
 ---
 
 ### One-line summary

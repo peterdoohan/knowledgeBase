@@ -1,18 +1,49 @@
 ---
-source_file: "ho2022_mental_representations_planning.md"
-paper_id: "ho2022_mental_representations_planning"
+source_file: ho2022_mental_representations_planning.md
+paper_id: ho2022_mental_representations_planning
 title: "People construct simplified mental representations to plan"
-authors: "Mark K. Ho, David Abel, Carlos G. Correa, Michael L. Littman, Jonathan D. Cohen, Thomas L. Griffiths"
+authors:
+  - "Mark K. Ho"
+  - "David Abel"
+  - "Carlos G. Correa"
+  - "Michael L. Littman"
+  - "Jonathan D. Cohen"
+  - "Thomas L. Griffiths"
 year: 2022
-journal: "Nature"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["mouse", "human"]
-tasks: ["navigation_task"]
-brain_regions: ["prefrontal_cortex"]
-frameworks: ["successor_representation"]
-keywords: ["people", "construct", "simplified", "mental", "representations", "plan"]
-key_citations: ["gershman2018_successor_representation_learning"]
+journal: Nature
+paper_type: computational
+contribution_type: theoretical
+species:
+  - mouse
+tasks:
+  - navigation_task
+brain_regions:
+  - prefrontal_cortex
+frameworks:
+  - successor_representation
+keywords:
+  - value_guided_construal
+  - task_representation
+  - resource_rationality
+  - planning
+  - markov_decision_process
+  - bounded_rationality
+  - cognitive_control
+  - problem_solving
+  - attention_and_memory
+  - maze_navigation
+  - description_length
+  - sparsity
+  - heuristic_search
+  - successor_representation
+  - nested_optimisation
+  - people
+  - construct
+  - simplified
+  - mental
+  - representations
+key_citations:
+  - gershman2018_successor_representation_learning
 ---
 
 ### One-line summary

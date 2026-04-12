@@ -1,15 +1,37 @@
 ---
-source_file: "craver2013_mechanisms_discovery_biology.md"
-paper_id: "craver2013_mechanisms_discovery_biology"
+source_file: craver2013_mechanisms_discovery_biology.md
+paper_id: craver2013_mechanisms_discovery_biology
 title: "In Search of Mechanisms: Discoveries across the Life Sciences"
-authors: "Carl F. Craver, Lindley Darden"
+authors:
+  - "Carl F. Craver"
+  - "Lindley Darden"
 year: 2013
 journal: "University of Chicago Press (book)"
-paper_type: "review"
-contribution_type: "theoretical"
-methods: ["optogenetics"]
-brain_regions: ["hippocampus"]
-keywords: ["search", "mechanisms", "discoveries", "across", "life", "sciences"]
+paper_type: review
+contribution_type: theoretical
+methods:
+  - optogenetics
+brain_regions:
+  - hippocampus
+keywords:
+  - biological_mechanisms
+  - mechanism_discovery
+  - mechanism_schema
+  - new_mechanism_philosophy
+  - interlevel_integration
+  - interfield_integration
+  - discovery_strategies
+  - anomaly_revision
+  - philosophy_of_neuroscience
+  - causal_mechanical_explanation
+  - levels_of_mechanisms
+  - pragmatic_value_of_mechanistic_knowledge
+  - search
+  - mechanisms
+  - discoveries
+  - across
+  - life
+  - sciences
 ---
 
 ### One-line summary

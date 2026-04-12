@@ -1,17 +1,49 @@
 ---
-source_file: "pettersen2024_self_supervised_grid_cells.md"
-paper_id: "pettersen2024_self_supervised_grid_cells"
+source_file: pettersen2024_self_supervised_grid_cells.md
+paper_id: pettersen2024_self_supervised_grid_cells
 title: "Self-Supervised Grid Cells Without Path Integration"
-authors: "Markus Pettersen, Vemund Sigmundson Sch\u00f8yen, Mattis Dals\u00e6tra \u00d8stby, Anders Malthe-S\u00f8renssen, Mikkel Elle Lepper\u00f8d"
+authors:
+  - "Markus Pettersen"
+  - "Vemund Sigmundson Schøyen"
+  - "Mattis Dalsætra Østby"
+  - "Anders Malthe-Sørenssen"
+  - "Mikkel Elle Lepperød"
 year: 2024
 journal: "bioRxiv preprint"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["self", "supervised", "grid", "cells", "without", "path", "integration"]
-key_citations: ["sorscher2022_neural_geometry_few_shot", "schaeffer_grid_cell_pathintegration", "moser2008_place_cells_grid_cells", "burak2009_path_integration_grid_cells"]
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - band_cells
+  - path_integration
+  - self_supervised_learning
+  - distance_preservation
+  - capacity_constraints
+  - recurrent_neural_networks
+  - feedforward_networks
+  - spatial_navigation
+  - toroidal_topology
+  - persistent_homology
+  - normative_models
+  - entorhinal_cortex
+  - metric_learning
+  - self
+  - supervised
+  - grid
+  - cells
+  - without
+  - path
+key_citations:
+  - sorscher2022_neural_geometry_few_shot
+  - schaeffer_grid_cell_pathintegration
+  - moser2008_place_cells_grid_cells
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

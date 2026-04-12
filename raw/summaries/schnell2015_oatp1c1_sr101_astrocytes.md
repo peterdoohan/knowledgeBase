@@ -1,15 +1,49 @@
 ---
-source_file: "schnell2015_oatp1c1_sr101_astrocytes.md"
-paper_id: "schnell2015_oatp1c1_sr101_astrocytes"
+source_file: schnell2015_oatp1c1_sr101_astrocytes.md
+paper_id: schnell2015_oatp1c1_sr101_astrocytes
 title: "The multispecific thyroid hormone transporter OATP1C1 mediates cell-specific sulforhodamine 101-labeling of hippocampal astrocytes"
-authors: "Christian Schnell, Ali Shahmoradi, Sven P. Wichert, Steffen Mayerl, Yohannes Hagos, Heike Heuer, Moritz J. Rossner, Swen H\u00fclsmann"
+authors:
+  - "Christian Schnell"
+  - "Ali Shahmoradi"
+  - "Sven P. Wichert"
+  - "Steffen Mayerl"
+  - "Yohannes Hagos"
+  - "Heike Heuer"
+  - "Moritz J. Rossner"
+  - "Swen Hülsmann"
 year: 2015
 journal: "Brain Structure and Function"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["nimmerjahn_et_al_2004_established_sr101_as_selective_marker_for_cortical_astrocytes", "schnell_et_al_2012_pharmacological_profiling_suggesting_oatp_family_involvement", "pizzagalli_et_al_2002_cloning_and_characterization_of_oatp1c1_as_thyroid_hormone_transporter", "mayerl_et_al_2012_oatp1c1_knockout_mouse_characterization", "pannasch_et_al_2011_ruled_out_gap_junction_involvement_in_sr101_uptake", "named_models_or_frameworks", "oatp1c1_slco1c1_thyroid_hormone_transporter", "sulforhodamine_101_sr101_astrocyte_labeling_paradigm", "facs_based_astrocyte_isolation_and_transcriptome_profiling", "blood_brain_barrier_transport_mechanisms", "brain_regions", "hippocampus_ca1", "stratum_radiatum", "dentate_gyrus", "cerebral_cortex_frontal", "motor", "visual", "brainstem_pontine_reticular_nucleus", "motor_trigeminal_nucleus", "lateral_superior_olive"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - sulforhodamine_101_sr101
+  - astrocyte_identification
+  - oatp1c1_transporter
+  - slco1c1
+  - thyroid_hormone_transport
+  - l_thyroxine_t4
+  - organic_anion_transporting_polypeptide
+  - transcriptome_analysis
+  - rna_sequencing
+  - blood_brain_barrier
+  - astrocyte_heterogeneity
+  - two_photon_microscopy
+  - multispecific
+  - thyroid
+  - hormone
+  - transporter
+  - oatp1c1
+  - mediates
+  - cell
+  - specific
+key_citations:
+  - nimmerjahn2004_sulforhodamine_astroglia
+  - pannasch2011_astroglial_networks_synaptic
 ---
 
 ### One-line summary

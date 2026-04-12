@@ -1,19 +1,54 @@
 ---
-source_file: "akam2015_two_step_task_simple_plans.md"
-paper_id: "akam2015_two_step_task_simple_plans"
+source_file: akam2015_two_step_task_simple_plans.md
+paper_id: akam2015_two_step_task_simple_plans
 title: "Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task"
-authors: "Thomas Akam, Rui Costa, Peter Dayan"
+authors:
+  - "Thomas Akam"
+  - "Rui Costa"
+  - "Peter Dayan"
 year: 2015
 journal: "PLoS Computational Biology"
-paper_type: "computational"
-contribution_type: "methodological"
-species: ["human"]
-tasks: ["two_step_task"]
-methods: ["computational_modeling", "behavioral_analysis"]
-brain_regions: ["striatum", "dorsolateral_striatum"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "latent_state_inference"]
-keywords: ["model_based_reinforcement_learning", "model_free_reinforcement_learning", "two_step_task", "habit", "goal_directed_behaviour", "state_representation", "latent_state_inference", "stay_probability", "logistic_regression", "transition_outcome_interaction", "eligibility_traces", "successor_representation", "basal_ganglia", "outcome_devaluation", "hidden_markov_model", "reward_prediction_error", "automatization", "extended_state_space", "behavioural_neuroscience_methodology", "simple"]
-key_citations: ["daw2011_model_based_striatal_prediction"]
+paper_type: computational
+contribution_type: methodological
+species:
+  - human
+tasks:
+  - two_step_task
+methods:
+  - computational_modeling
+  - behavioral_analysis
+brain_regions:
+  - striatum
+  - dorsolateral_striatum
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+  - latent_state_inference
+keywords:
+  - model_based_reinforcement_learning
+  - model_free_reinforcement_learning
+  - two_step_task
+  - habit
+  - goal_directed_behaviour
+  - state_representation
+  - latent_state_inference
+  - stay_probability
+  - logistic_regression
+  - transition_outcome_interaction
+  - eligibility_traces
+  - successor_representation
+  - basal_ganglia
+  - outcome_devaluation
+  - hidden_markov_model
+  - reward_prediction_error
+  - automatization
+  - extended_state_space
+  - behavioural_neuroscience_methodology
+  - simple
+key_citations:
+  - daw2011_model_based_striatal_prediction
 ---
 
 ### One-line summary

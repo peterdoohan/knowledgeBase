@@ -1,19 +1,66 @@
 ---
-source_file: "nyberg2022_spatial_goal_coding.md"
-paper_id: "nyberg2022_spatial_goal_coding"
+source_file: nyberg2022_spatial_goal_coding.md
+paper_id: nyberg2022_spatial_goal_coding
 title: "Spatial goal coding in the hippocampal formation"
-authors: "Nils Nyberg, \u00c9l\u00e9onore Duvelle, Caswell Barry, Hugo J. Spiers"
+authors:
+  - "Nils Nyberg"
+  - "Éléonore Duvelle"
+  - "Caswell Barry"
+  - "Hugo J. Spiers"
 year: 2022
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-tasks: ["morris_water_maze", "open_field"]
-methods: ["calcium_imaging", "electrophysiology", "tetrode_recording", "fmri"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_tegmental_area"]
-frameworks: ["reinforcement_learning", "successor_representation", "temporal_difference_learning"]
-keywords: ["okeefe_and_nadel_1978_cognitive_map_theory", "hafting_et_al_2005_grid_cells_in_mec", "dupret_et_al_2010_place_field_accumulation_at_goals", "nmda_dependent_memory", "pfeiffer_and_foster_2013_goal_directed_replay_in_open_field", "stachenfeld_et_al_2017_hippocampus_as_predictive_map_successor_representation", "banino_et_al_2018_deep_rl_with_grid_like_representations_for_navigation", "sarel_et_al_2017_goal_distance_and_goal_direction_cells_in_bat_ca1", "boccara_et_al_2019_mec_grid_cell_goal_overrepresentation", "butler_et_al_2019_non_grid_mec_spatial_cells_at_goals", "kaufman_et_al_2020_lcca1_dopamine_controls_place_field_shift", "not_performance", "bush_et_al_2015_grid_cell_vector_computation_for_goal_navigation", "named_models_or_frameworks", "cognitive_map_okeefe_and_nadel", "successor_representation_sr", "dayan_1993", "stachenfeld_et_al_2017", "temporal_difference_td_learning", "dyna_architecture_sutton_1991"]
-key_citations: ["stachenfeld2017_hippocampus_predictive_map", "bush2015_grid_cells_navigation_vector"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - human
+tasks:
+  - morris_water_maze
+  - open_field
+methods:
+  - calcium_imaging
+  - electrophysiology
+  - tetrode_recording
+  - fmri
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - temporal_difference_learning
+keywords:
+  - spatial_goal_coding
+  - hippocampal_formation
+  - place_cells
+  - grid_cells
+  - hippocampal_replay
+  - successor_representation
+  - goal_directed_navigation
+  - theta_sequences
+  - goal_distance_cells
+  - goal_direction_cells
+  - place_field_overrepresentation
+  - cognitive_map
+  - spatial
+  - goal
+  - coding
+  - hippocampal
+  - formation
+key_citations:
+  - stachenfeld2017_hippocampus_predictive_map
+  - boccara2019_grid_goal_attractor
+  - butler2019_reward_locations_entorhinal_maps
+  - bush2015_grid_cells_navigation_vector
 ---
 
 ### One-line summary

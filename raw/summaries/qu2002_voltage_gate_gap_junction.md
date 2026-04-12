@@ -1,14 +1,37 @@
 ---
-source_file: "qu2002_voltage_gate_gap_junction.md"
-paper_id: "qu2002_voltage_gate_gap_junction"
+source_file: qu2002_voltage_gate_gap_junction.md
+paper_id: qu2002_voltage_gate_gap_junction
 title: "Function of the voltage gate of gap junction channels: Selective exclusion of molecules"
-authors: "Yang Qu, Gerhard Dahl"
+authors:
+  - "Yang Qu"
+  - "Gerhard Dahl"
 year: 2002
 journal: "Proceedings of the National Academy of Sciences"
-paper_type: "empirical"
-contribution_type: "empirical"
-methods: ["electrophysiology"]
-keywords: ["function", "voltage", "gate", "gap", "junction", "channels", "selective", "exclusion", "molecules"]
+paper_type: empirical
+contribution_type: empirical
+methods:
+  - electrophysiology
+keywords:
+  - gap_junctions
+  - connexin
+  - cx46
+  - cx43
+  - voltage_gating
+  - subconductance_states
+  - permeability_selectivity
+  - hemichannels
+  - camp
+  - fluorescent_tracers
+  - second_messengers
+  - cell_cell_communication
+  - electrophysiology
+  - xenopus_oocytes
+  - function
+  - voltage
+  - gate
+  - gap
+  - junction
+  - channels
 ---
 
 ### One-line summary

@@ -1,17 +1,41 @@
 ---
-source_file: "baker2022_representation_neuroscience_three_aspects.md"
-paper_id: "baker2022_representation_neuroscience_three_aspects"
+source_file: baker2022_representation_neuroscience_three_aspects.md
+paper_id: baker2022_representation_neuroscience_three_aspects
 title: "Three aspects of representation in neuroscience"
-authors: "Ben Baker, Benjamin Lansdell, Konrad P. Kording"
+authors:
+  - "Ben Baker"
+  - "Benjamin Lansdell"
+  - "Konrad P. Kording"
 year: 2022
 journal: "Trends in Cognitive Sciences"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "visual_cortex"]
-frameworks: ["reinforcement_learning"]
-keywords: ["three", "aspects", "representation", "neuroscience"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+keywords:
+  - neural_representation
+  - teleology
+  - causal_role
+  - correlation
+  - misrepresentation
+  - neural_coding
+  - philosophy_of_neuroscience
+  - mechanistic_explanation
+  - teleosemantics
+  - representation_hunger
+  - c_elegans_chemotaxis
+  - sparse_coding
+  - three
+  - aspects
+  - representation
+  - neuroscience
 ---
 
 ### One-line summary

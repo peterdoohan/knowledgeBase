@@ -1,17 +1,47 @@
 ---
-source_file: "jones2005_theta_hippocampal_prefrontal.md"
-paper_id: "jones2005_theta_hippocampal_prefrontal"
-title: "Theta Rhythms Coordinate Hippocampal\u2013Prefrontal Interactions in a Spatial Memory Task"
-authors: "Matthew W. Jones, Matthew A. Wilson"
+source_file: jones2005_theta_hippocampal_prefrontal.md
+paper_id: jones2005_theta_hippocampal_prefrontal
+title: "Theta Rhythms Coordinate Hippocampal–Prefrontal Interactions in a Spatial Memory Task"
+authors:
+  - "Matthew W. Jones"
+  - "Matthew A. Wilson"
 year: 2005
 journal: "PLoS Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["t_maze"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "infralimbic_cortex"]
-keywords: ["theta_oscillations", "hippocampalprefrontal_synchrony", "spatial_working_memory", "phase_locking", "lfp_coherence", "cross_structural_coordination", "spike_cross_correlation", "decision_making", "place_cells", "prefrontal_cortex", "temporal_coding", "oscillatory_synchrony", "theta", "rhythms", "coordinate", "hippocampalprefrontal", "interactions", "spatial", "memory", "task"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - t_maze
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - infralimbic_cortex
+keywords:
+  - theta_oscillations
+  - hippocampalprefrontal_synchrony
+  - spatial_working_memory
+  - phase_locking
+  - lfp_coherence
+  - cross_structural_coordination
+  - spike_cross_correlation
+  - decision_making
+  - place_cells
+  - prefrontal_cortex
+  - temporal_coding
+  - oscillatory_synchrony
+  - theta
+  - rhythms
+  - coordinate
+  - hippocampalprefrontal
+  - interactions
+  - spatial
+  - memory
+  - task
 ---
 
 ### One-line summary

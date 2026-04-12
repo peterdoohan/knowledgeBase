@@ -1,16 +1,44 @@
 ---
-source_file: "manns2006_declarative_memory_evolution.md"
-paper_id: "manns2006_declarative_memory_evolution"
+source_file: manns2006_declarative_memory_evolution.md
+paper_id: manns2006_declarative_memory_evolution
 title: "Evolution of Declarative Memory"
-authors: "Joseph R. Manns, Howard Eichenbaum"
+authors:
+  - "Joseph R. Manns"
+  - "Howard Eichenbaum"
 year: 2006
-journal: "Hippocampus"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["mouse", "rat", "human", "macaque", "monkey"]
-methods: ["electrophysiology", "lesion"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex"]
-keywords: ["evolution", "declarative", "memory"]
+journal: Hippocampus
+paper_type: review
+contribution_type: theoretical
+species:
+  - mouse
+  - rat
+  - macaque
+  - monkey
+methods:
+  - electrophysiology
+  - lesion
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+keywords:
+  - declarative_memory_evolution
+  - hippocampal_conservation_across_species
+  - dual_stream_convergence_model
+  - item_in_context_memory
+  - perirhinal_cortex_nonspatial_processing
+  - postrhinal_cortex_spatial_context
+  - ca3_pattern_completion
+  - ca1_temporal_order
+  - parahippocampal_region
+  - comparative_neuroanatomy_hippocampus
+  - episodic_memory_cross_species
+  - medial_temporal_lobe_memory_system
+  - evolution
+  - declarative
+  - memory
 ---
 
 ### One-line summary

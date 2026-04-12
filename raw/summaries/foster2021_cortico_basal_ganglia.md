@@ -1,18 +1,92 @@
 ---
-source_file: "foster2021_cortico_basal_ganglia.md"
-paper_id: "foster2021_cortico_basal_ganglia"
-title: "The mouse cortico\u2013basal ganglia\u2013thalamic network"
-authors: "Nicholas N. Foster, Joshua Barry, Laura Korobkova, Luis Garcia, Lei Gao, Marlene Becerra, Yasmine Sherafat, Bo Peng, Xiangning Li, Jun-Hyeok Choi, Lin Gou, Brian Zingg, Sana Azam, Darrick Lo, Neda Khanjani, Bin Zhang, Jim Stanis, Ian Bowman, Kaelan Cotter, Chunru Cao, Seita Yamashita, Amanda Tugangui, Anan Li, Tao Jiang, Xueyan Jia, Zhao Feng, Sarvia Aquino, Hyun-Seung Mun, Muye Zhu, Anthony Santarelli, Nora L. Benavidez, Monica Song, Gordon Dan, Marina Fayzullina, Sarah Ustrell, Tyler Boesen, David L. Johnson, Hanpeng Xu, Michael S. Bienkowski, X. William Yang, Hui Gong, Michael S. Levine, Ian Wickersham, Qingming Luo, Joel D. Hahn, Byung Kook Lim, Li I. Zhang, Carlos Cepeda, Houri Hintiryan, Hong-Wei Dong"
+source_file: foster2021_cortico_basal_ganglia.md
+paper_id: foster2021_cortico_basal_ganglia
+title: "The mouse cortico–basal ganglia–thalamic network"
+authors:
+  - "Nicholas N. Foster"
+  - "Joshua Barry"
+  - "Laura Korobkova"
+  - "Luis Garcia"
+  - "Lei Gao"
+  - "Marlene Becerra"
+  - "Yasmine Sherafat"
+  - "Bo Peng"
+  - "Xiangning Li"
+  - "Jun-Hyeok Choi"
+  - "Lin Gou"
+  - "Brian Zingg"
+  - "Sana Azam"
+  - "Darrick Lo"
+  - "Neda Khanjani"
+  - "Bin Zhang"
+  - "Jim Stanis"
+  - "Ian Bowman"
+  - "Kaelan Cotter"
+  - "Chunru Cao"
+  - "Seita Yamashita"
+  - "Amanda Tugangui"
+  - "Anan Li"
+  - "Tao Jiang"
+  - "Xueyan Jia"
+  - "Zhao Feng"
+  - "Sarvia Aquino"
+  - "Hyun-Seung Mun"
+  - "Muye Zhu"
+  - "Anthony Santarelli"
+  - "Nora L. Benavidez"
+  - "Monica Song"
+  - "Gordon Dan"
+  - "Marina Fayzullina"
+  - "Sarah Ustrell"
+  - "Tyler Boesen"
+  - "David L. Johnson"
+  - "Hanpeng Xu"
+  - "Michael S. Bienkowski"
+  - "X. William Yang"
+  - "Hui Gong"
+  - "Michael S. Levine"
+  - "Ian Wickersham"
+  - "Qingming Luo"
+  - "Joel D. Hahn"
+  - "Byung Kook Lim"
+  - "Li I. Zhang"
+  - "Carlos Cepeda"
+  - "Houri Hintiryan"
+  - "Hong-Wei Dong"
 year: 2021
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics"]
-brain_regions: ["striatum", "nucleus_accumbens", "substantia_nigra", "thalamus"]
-frameworks: ["reinforcement_learning"]
-keywords: ["mouse", "corticobasal", "gangliathalamic", "network"]
-key_citations: ["wang2020_alternating_theta_sequences"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+brain_regions:
+  - striatum
+  - nucleus_accumbens
+  - substantia_nigra
+  - thalamus
+frameworks:
+  - reinforcement_learning
+keywords:
+  - cortico_basal_ganglia_thalamo_cortical_loop
+  - basal_ganglia_subnetworks
+  - direct_pathway_convergence
+  - indirect_pathway_parallelism
+  - striatonigral_pathway
+  - striatopallidal_pathway
+  - mesoscale_connectome
+  - closed_circuit_loop
+  - corticonigral_projection
+  - anterograde_transsynaptic_tracing
+  - mouse_brain_atlas
+  - community_detection_network_analysis
+  - mouse
+  - corticobasal
+  - gangliathalamic
+  - network
+key_citations:
+  - wang2020_alternating_theta_sequences
 ---
 
 ### One-line summary

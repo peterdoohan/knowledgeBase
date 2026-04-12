@@ -1,14 +1,35 @@
 ---
-source_file: "lillicrap2019_neural_network_understanding.md"
-paper_id: "lillicrap2019_neural_network_understanding"
+source_file: lillicrap2019_neural_network_understanding.md
+paper_id: lillicrap2019_neural_network_understanding
 title: "What does it mean to understand a neural network?"
-authors: "Timothy P. Lillicrap, Konrad P. Kording"
+authors:
+  - "Timothy P. Lillicrap"
+  - "Konrad P. Kording"
 year: 2019
 journal: "arXiv preprint (July 2019)"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-keywords: ["krizhevsky", "sutskever_and_hinton_2012_alexnet_imagenet", "silver_et_al_2016", "2017_alphago_alphago_zero", "hinton", "vinyals_and_dean_2015_knowledge_distillation", "han", "mao_and_dally_2015_deep_compression", "li_et_al_2018_intrinsic_dimensionality_of_objective_landscapes", "mollica_and_piantadosi_2019_human_language_information_content", "jonas_and_kording_2017_could_a_neuroscientist_understand_a_microprocessor", "ramaswamy_2019_algorithmic_barrier_to_neural_circuit_understanding", "robinson_1976_vestibuloocular_reflex_cited_as_tractable_simple_case", "frosst_and_hinton_2017_distilling_a_neural_network_into_a_soft_decision_tree", "named_models_or_frameworks", "alexnet", "alphago_alphago_zero", "gpt_2_as_exemplars_of_incompressible_trained_systems", "imagenet_benchmark", "kolmogorov_algorithmic_compressibility_informal"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+keywords:
+  - neural_network_interpretability
+  - compressibility
+  - knowledge_distillation
+  - network_compression
+  - learning_rules
+  - synaptic_plasticity
+  - developmental_neuroscience
+  - algorithmic_complexity
+  - mid_level_models
+  - nature_vs_nurture_in_neural_computation
+  - post_hoc_analysis_limitations
+  - neuroscience_methodology
+  - what
+  - does
+  - mean
+  - understand
+  - neural
+  - network
 ---
 
 ### One-line summary

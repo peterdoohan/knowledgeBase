@@ -1,17 +1,48 @@
 ---
-source_file: "vopheusden2023_expertise_planning_depth.md"
-paper_id: "vopheusden2023_expertise_planning_depth"
+source_file: vopheusden2023_expertise_planning_depth.md
+paper_id: vopheusden2023_expertise_planning_depth
 title: "Expertise increases planning depth in human gameplay"
-authors: "Bas van Opheusden, Ionatan Kuperwajs, Gianni Galbiati, Zahy Bnaya, Yunqi Li, Wei Ji Ma"
+authors:
+  - "Bas van Opheusden"
+  - "Ionatan Kuperwajs"
+  - "Gianni Galbiati"
+  - "Zahy Bnaya"
+  - "Yunqi Li"
+  - "Wei Ji Ma"
 year: 2023
-journal: "Nature"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["human"]
-brain_regions: ["orbitofrontal_cortex"]
-frameworks: ["reinforcement_learning"]
-keywords: ["planning_depth", "expertise", "heuristic_search", "decision_making", "board_games", "computational_cognitive_modeling", "best_first_search", "feature_dropout", "attentional_lapses", "bounded_rationality", "eye_tracking", "response_time", "turing_test", "reinforcement_learning", "pattern_recognition", "working_memory", "four_in_a_row", "game_playing", "elo_rating", "increases"]
-key_citations: ["daw2011_model_based_striatal_prediction", "mattar2022_planning_brain"]
+journal: Nature
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+brain_regions:
+  - orbitofrontal_cortex
+frameworks:
+  - reinforcement_learning
+keywords:
+  - planning_depth
+  - expertise
+  - heuristic_search
+  - decision_making
+  - board_games
+  - computational_cognitive_modeling
+  - best_first_search
+  - feature_dropout
+  - attentional_lapses
+  - bounded_rationality
+  - eye_tracking
+  - response_time
+  - turing_test
+  - reinforcement_learning
+  - pattern_recognition
+  - working_memory
+  - four_in_a_row
+  - game_playing
+  - elo_rating
+  - increases
+key_citations:
+  - daw2011_model_based_striatal_prediction
+  - mattar2022_planning_brain
 ---
 
 ### One-line summary

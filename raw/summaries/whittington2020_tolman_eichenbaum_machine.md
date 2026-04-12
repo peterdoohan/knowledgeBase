@@ -1,18 +1,58 @@
 ---
-source_file: "whittington2020_tolman_eichenbaum_machine.md"
-paper_id: "whittington2020_tolman_eichenbaum_machine"
+source_file: whittington2020_tolman_eichenbaum_machine.md
+paper_id: whittington2020_tolman_eichenbaum_machine
 title: "The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation"
-authors: "James C.R. Whittington, Timothy H. Muller, Shirley Mark, Guifen Chen, Caswell Barry, Neil Burgess, Timothy E.J. Behrens"
+authors:
+  - "James C.R. Whittington"
+  - "Timothy H. Muller"
+  - "Shirley Mark"
+  - "Guifen Chen"
+  - "Caswell Barry"
+  - "Neil Burgess"
+  - "Timothy E.J. Behrens"
 year: 2020
-journal: "Cell"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex"]
-frameworks: ["successor_representation", "bayesian_inference", "attractor_networks", "tolman_eichenbaum_machine", "compositionality"]
-keywords: ["structural_generalization", "relational_memory", "spatial_navigation", "grid_cells", "place_cells", "remapping", "factorized_representations", "conjunctive_coding", "path_integration", "transitive_inference", "social_hierarchy", "object_vector_cells", "border_cells", "attractor_networks", "hebbian_learning", "variational_inference", "cognitive_map", "successor_representations", "latent_states", "lap_specific_cells"]
-key_citations: ["tolman1948_cognitive_maps_rats", "stachenfeld2017_hippocampus_predictive_map", "manns2006_declarative_memory_evolution"]
+journal: Cell
+paper_type: computational
+contribution_type: theoretical
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - prefrontal_cortex
+frameworks:
+  - successor_representation
+  - bayesian_inference
+  - attractor_networks
+  - tolman_eichenbaum_machine
+  - compositionality
+keywords:
+  - structural_generalization
+  - relational_memory
+  - spatial_navigation
+  - grid_cells
+  - place_cells
+  - remapping
+  - factorized_representations
+  - conjunctive_coding
+  - path_integration
+  - transitive_inference
+  - social_hierarchy
+  - object_vector_cells
+  - border_cells
+  - attractor_networks
+  - hebbian_learning
+  - variational_inference
+  - cognitive_map
+  - successor_representations
+  - latent_states
+  - lap_specific_cells
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - stachenfeld2017_hippocampus_predictive_map
+  - manns2006_declarative_memory_evolution
 ---
 
 ### One-line summary

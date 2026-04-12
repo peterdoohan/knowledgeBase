@@ -1,14 +1,42 @@
 ---
-source_file: "dong2018_astrocyte_glutamine_transporter.md"
-paper_id: "dong2018_astrocyte_glutamine_transporter"
+source_file: dong2018_astrocyte_glutamine_transporter.md
+paper_id: dong2018_astrocyte_glutamine_transporter
 title: "PKC-Mediated Modulation of Astrocyte SNAT3 Glutamine Transporter Function at Synapses in Situ"
-authors: "Wuxing Dong, Alison C. Todd, Angelika Br\u00f6er, Sarah R. Hulme, Stefan Br\u00f6er, Brian Billups"
+authors:
+  - "Wuxing Dong"
+  - "Alison C. Todd"
+  - "Angelika Bröer"
+  - "Sarah R. Hulme"
+  - "Stefan Bröer"
+  - "Brian Billups"
 year: 2018
 journal: "International Journal of Molecular Sciences"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse", "rat"]
-keywords: ["pkc", "mediated", "modulation", "astrocyte", "snat3", "glutamine", "transporter", "function", "synapses", "situ"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+  - rat
+keywords:
+  - snat3_sn1
+  - slc38a3
+  - glutamine_transporter
+  - astrocyte_perisynaptic
+  - protein_kinase_c_pkc
+  - transporter_internalisation_endocytosis
+  - glutamateglutamine_cycle
+  - calyx_of_held
+  - surface_biotinylation
+  - fluorescence_ph_imaging
+  - nedd4_2_ubiquitination
+  - phorbol_ester_pma
+  - neurotransmitter_recycling
+  - pkc
+  - mediated
+  - modulation
+  - astrocyte
+  - snat3
+  - glutamine
+  - transporter
 ---
 
 ### One-line summary

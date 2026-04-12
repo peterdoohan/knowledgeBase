@@ -1,17 +1,58 @@
 ---
-source_file: "findlay2021_replay_wake_sleep.md"
-paper_id: "findlay2021_replay_wake_sleep"
+source_file: findlay2021_replay_wake_sleep.md
+paper_id: findlay2021_replay_wake_sleep
 title: "The evolving view of replay and its functions in wake and sleep"
-authors: "Graham Findlay, Giulio Tononi, Chiara Cirelli"
+authors:
+  - "Graham Findlay"
+  - "Giulio Tononi"
+  - "Chiara Cirelli"
 year: 2021
 journal: "Sleep Advances"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat", "human"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "striatum", "ventral_striatum", "thalamus", "visual_cortex"]
-frameworks: ["reinforcement_learning", "model_free_rl", "temporal_difference_learning"]
-keywords: ["evolving", "view", "replay", "its", "functions", "wake", "sleep"]
-key_citations: ["liu2019_human_replay_reorganizes", "gridchyn2020_replay_selective_memory", "stella2019_hippocampal_reactivation_brownian", "gupta2010_replay_not_simple_function", "ambrose2016_reverse_replay_hippocampal"]
+paper_type: review
+contribution_type: review
+species:
+  - rat
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - thalamus
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+  - temporal_difference_learning
+keywords:
+  - hippocampal_replay
+  - sharp_wave_ripples_spw_rs
+  - memory_consolidation
+  - reinforcement_learning
+  - bellman_backup
+  - prioritised_memory_access
+  - forward_and_reverse_replay
+  - cognitive_map
+  - place_cells
+  - awake_vs_sleep_replay
+  - credit_assignment
+  - preplay
+  - evolving
+  - view
+  - replay
+  - its
+  - functions
+  - wake
+  - sleep
+key_citations:
+  - liu2019_human_replay_reorganizes
+  - gridchyn2020_replay_selective_memory
+  - stella2019_hippocampal_reactivation_brownian
+  - gupta2010_replay_not_simple_function
+  - ambrose2016_reverse_replay_hippocampal
 ---
 
 ### One-line summary

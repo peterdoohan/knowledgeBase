@@ -1,15 +1,45 @@
 ---
-source_file: "braun2018_maps_network_mental_disorders.md"
-paper_id: "braun2018_maps_network_mental_disorders"
+source_file: braun2018_maps_network_mental_disorders.md
+paper_id: braun2018_maps_network_mental_disorders
 title: "From Maps to Multi-dimensional Network Mechanisms of Mental Disorders"
-authors: "Urs Braun, Axel Schaefer, Richard F. Betzel, Heike Tost, Andreas Meyer-Lindenberg, Danielle S. Bassett"
+authors:
+  - "Urs Braun"
+  - "Axel Schaefer"
+  - "Richard F. Betzel"
+  - "Heike Tost"
+  - "Andreas Meyer-Lindenberg"
+  - "Danielle S. Bassett"
 year: 2018
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-brain_regions: ["prefrontal_cortex", "striatum", "ventral_striatum"]
-keywords: ["kivela_et_al_2014_multilayer_network_theory", "vertes_et_al_2012_generative_models_of_functional_brain_networks_and_schizophrenia", "betzel_et_al_2016a_generative_models_of_structural_connectome_across_aging", "betzel_et_al_2016b_network_control_theory_and_the_structural_connectome", "gu_et_al_2015_average_and_modal_controllability_in_structural_brain_networks", "gu_et_al_2017_altered_controllability_in_mild_traumatic_brain_injury", "braun_et_al_2015_dynamic_network_reconfiguration_and_working_memory_cognitive_flexibility", "braun_et_al_2016_schizophrenia_genetic_risk", "nmda_receptor_function", "and_network_flexibility", "bassett_and_sporns_2017_network_neuroscience_review", "bullmore_and_sporns_2009", "2012_complex_brain_networks_and_economy_of_organisation", "insel_2010_rdoc_framework", "named_models_or_frameworks", "multi_dimensional_network_neuroscience_coined_by_authors", "research_domain_criteria_rdoc", "nimh", "the_virtual_brain_whole_brain_biophysical_network_modelling_platform", "louvain_community_detection_with_multilayer_extension"]
+journal: Neuron
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+brain_regions:
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+keywords:
+  - network_neuroscience
+  - graph_theory
+  - connectome
+  - multilayer_networks
+  - temporal_network_flexibility
+  - generative_network_models
+  - wiring_rules
+  - wiring_cost
+  - network_control_theory
+  - controllability
+  - control_energy
+  - schizophrenia
+  - dysconnectivity
+  - state_instability
+  - nmda_receptor
+  - glutamate
+  - pharmacological_imaging
+  - trans_diagnostic_psychiatry
+  - rdoc
+  - structure_function_relationships
 ---
 
 ### One-line summary

@@ -1,17 +1,53 @@
 ---
-source_file: "miller2019_retrosplenial_spatial_learning.md"
-paper_id: "miller2019_retrosplenial_spatial_learning"
+source_file: miller2019_retrosplenial_spatial_learning.md
+paper_id: miller2019_retrosplenial_spatial_learning
 title: "Retrosplenial Cortical Representations of Space and Future Goal Locations Develop with Learning"
-authors: "Adam M.P. Miller, William Mau, David M. Smith"
+authors:
+  - "Adam M.P. Miller"
+  - "William Mau"
+  - "David M. Smith"
 year: 2019
 journal: "Current Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["t_maze", "navigation_task"]
-methods: ["optogenetics", "electrophysiology", "tetrode_recording", "bayesian_decoding", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "ventral_striatum", "retrosplenial_cortex", "thalamus"]
-keywords: ["retrosplenial", "cortical", "representations", "space", "future", "goal", "locations", "develop", "learning"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - t_maze
+methods:
+  - optogenetics
+  - electrophysiology
+  - tetrode_recording
+  - bayesian_decoding
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - retrosplenial_cortex
+  - thalamus
+keywords:
+  - retrosplenial_cortex
+  - spatial_navigation
+  - population_coding
+  - bayesian_decoding
+  - prospective_coding_goal_simulation
+  - learning_related_plasticity
+  - systems_consolidation
+  - trial_type_specificity
+  - t_maze_alternation
+  - distributed_population_code
+  - neurotoxic_lesions
+  - navigational_planning
+  - retrosplenial
+  - cortical
+  - representations
+  - space
+  - future
+  - goal
+  - locations
+  - develop
 ---
 
 ### One-line summary

@@ -1,18 +1,48 @@
 ---
-source_file: "butler2019_reward_locations_entorhinal_maps.md"
-paper_id: "butler2019_reward_locations_entorhinal_maps"
+source_file: butler2019_reward_locations_entorhinal_maps.md
+paper_id: butler2019_reward_locations_entorhinal_maps
 title: "Remembered reward locations restructure entorhinal spatial maps"
-authors: "William N. Butler, Kiah Hardcastle, Lisa M. Giocomo"
+authors:
+  - "William N. Butler"
+  - "Kiah Hardcastle"
+  - "Lisa M. Giocomo"
 year: 2019
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["foraging_task"]
-methods: ["tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["mixed_selectivity"]
-keywords: ["remembered", "reward", "locations", "restructure", "entorhinal", "spatial", "maps"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - foraging_task
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - mixed_selectivity
+keywords:
+  - grid_cells
+  - entorhinal_cortex
+  - spatial_remapping
+  - reward_location
+  - goal_directed_navigation
+  - head_direction_cells
+  - border_cells
+  - bayesian_decoding
+  - rate_remapping
+  - spatial_memory
+  - navigational_strategy
+  - cognitive_map
+  - remembered
+  - reward
+  - locations
+  - restructure
+  - entorhinal
+  - spatial
+  - maps
 ---
 
 ### One-line summary

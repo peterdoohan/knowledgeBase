@@ -1,16 +1,44 @@
 ---
-source_file: "rolls2013_pattern_completion_separation.md"
-paper_id: "rolls2013_pattern_completion_separation"
+source_file: rolls2013_pattern_completion_separation.md
+paper_id: rolls2013_pattern_completion_separation
 title: "The mechanisms for pattern completion and pattern separation in the hippocampus"
-authors: "Edmund T. Rolls"
+authors:
+  - "Edmund T. Rolls"
 year: 2013
 journal: "Frontiers in Systems Neuroscience"
-paper_type: "review"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["key_citations_marr_1971", "mcnaughton_and_morris_1987", "okeefe_and_nadel_1978", "treves_and_rolls_1991", "1992", "1994", "mcclelland_et_al_1995", "rolls_and_kesner_2006", "nakazawa_et_al_2002", "2003", "wills_et_al_2005", "leutgeb_et_al_2007", "mchugh_et_al_2007", "kesner_2007", "2013", "hunsaker_and_kesner_2008", "nakashiba_et_al_2012", "clelland_et_al_2009", "day_et_al_2003", "gilbert_et_al_2001"]
+paper_type: review
+contribution_type: theoretical
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - key_citations_marr_1971
+  - mcnaughton_and_morris_1987
+  - okeefe_and_nadel_1978
+  - treves_and_rolls_1991
+  - 1992
+  - 1994
+  - mcclelland_et_al_1995
+  - rolls_and_kesner_2006
+  - nakazawa_et_al_2002
+  - 2003
+  - wills_et_al_2005
+  - leutgeb_et_al_2007
+  - mchugh_et_al_2007
+  - kesner_2007
+  - 2013
+  - hunsaker_and_kesner_2008
+  - nakashiba_et_al_2012
+  - clelland_et_al_2009
+  - day_et_al_2003
+  - gilbert_et_al_2001
 ---
 
 ### One-line summary

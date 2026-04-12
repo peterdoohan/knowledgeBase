@@ -1,16 +1,45 @@
 ---
-source_file: "girardeau2009_ripples_spatial_memory.md"
-paper_id: "girardeau2009_ripples_spatial_memory"
+source_file: girardeau2009_ripples_spatial_memory.md
+paper_id: girardeau2009_ripples_spatial_memory
 title: "Selective suppression of hippocampal ripples impairs spatial memory"
-authors: "Gabrielle Girardeau, Karim Benchenane, Sidney I Wiener, Gy\u00f6rgy Buzs\u00e1ki, Micha\u00ebl B Zugaro"
+authors:
+  - "Gabrielle Girardeau"
+  - "Karim Benchenane"
+  - "Sidney I Wiener"
+  - "György Buzsáki"
+  - "Michaël B Zugaro"
 year: 2009
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex"]
-keywords: ["selective", "suppression", "hippocampal", "ripples", "impairs", "spatial", "memory"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+keywords:
+  - sharp_waveripple_complexes
+  - memory_consolidation
+  - hippocampal_replay
+  - spatial_reference_memory
+  - radial_arm_maze
+  - online_closed_loop_neural_stimulation
+  - sleep_dependent_consolidation
+  - place_cells
+  - hippocampal_neocortical_transfer
+  - spike_timingdependent_plasticity
+  - causal_intervention
+  - post_training_sleep
+  - selective
+  - suppression
+  - hippocampal
+  - ripples
+  - impairs
+  - spatial
+  - memory
 ---
 
 ### One-line summary

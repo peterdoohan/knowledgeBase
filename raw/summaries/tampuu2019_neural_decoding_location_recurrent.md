@@ -1,18 +1,54 @@
 ---
-source_file: "tampuu2019_neural_decoding_location_recurrent.md"
-paper_id: "tampuu2019_neural_decoding_location_recurrent"
+source_file: tampuu2019_neural_decoding_location_recurrent.md
+paper_id: tampuu2019_neural_decoding_location_recurrent
 title: "Efficient neural decoding of self-location with a deep recurrent network"
-authors: "Ardi Tampuu, Tambet Matiisen, H. Freyja \u00d3lafsd\u00f3ttir, Caswell Barry, Raul Vicente"
+authors:
+  - "Ardi Tampuu"
+  - "Tambet Matiisen"
+  - "H. Freyja Ólafsdóttir"
+  - "Caswell Barry"
+  - "Raul Vicente"
 year: 2019
 journal: "PLoS Computational Biology"
-paper_type: "computational"
-contribution_type: "methodological"
-species: ["rat"]
-tasks: ["open_field", "foraging_task", "navigation_task"]
-methods: ["tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["bayesian_inference"]
-keywords: ["key_citations_okeefe_and_dostrovsky_1971_place_cell_discovery", "okeefe_and_nadel_1978_cognitive_map_theory", "wilson_and_mcnaughton_1993_hippocampal_ensemble_coding", "zhang_et_al_1998_bayesian_decoding_framework", "hochreiter_and_schmidhuber_1997_lstm", "goodfellow_et_al_2016_deep_learning", "named_models_or_frameworks_long_short_term_memory_lstm_networks", "recurrent_neural_networks_rnns", "bayesian_decoding_with_flat_priors_mle", "bayesian_decoding_with_memory_continuity_constraint", "backpropagation_through_time_bptt", "rmsprop_optimizer", "brain_regions_hippocampal_ca1", "hippocampal_ca3", "medial_entorhinal_cortex_mec", "keywords_neural_decoding", "recurrent_neural_networks", "lstm", "place_cells", "hippocampus"]
+paper_type: computational
+contribution_type: methodological
+species:
+  - rat
+tasks:
+  - open_field
+  - foraging_task
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - bayesian_inference
+keywords:
+  - neural_decoding
+  - recurrent_neural_networks
+  - lstm
+  - place_cells
+  - hippocampus
+  - spatial_navigation
+  - self_location
+  - bayesian_decoding
+  - deep_learning
+  - sensitivity_analysis
+  - spike_train_analysis
+  - ca1
+  - rodent
+  - cross_validation
+  - efficient
+  - neural
+  - decoding
+  - self
+  - location
+  - deep
 ---
 
 ### One-line summary

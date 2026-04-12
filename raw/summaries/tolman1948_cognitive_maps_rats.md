@@ -1,15 +1,34 @@
 ---
-source_file: "tolman1948_cognitive_maps_rats.md"
-paper_id: "tolman1948_cognitive_maps_rats"
+source_file: tolman1948_cognitive_maps_rats.md
+paper_id: tolman1948_cognitive_maps_rats
 title: "Cognitive Maps in Rats and Men"
-authors: "Edward C. Tolman"
+authors:
+  - "Edward C. Tolman"
 year: 1948
 journal: "Psychological Review"
-paper_type: "empirical"
-contribution_type: "theoretical"
-species: ["rat", "human"]
-tasks: ["y_maze", "navigation_task"]
-keywords: ["cognitive", "maps", "rats", "men"]
+paper_type: empirical
+contribution_type: theoretical
+species:
+  - rat
+tasks:
+  - y_maze
+keywords:
+  - cognitive_map
+  - latent_learning
+  - vicarious_trial_and_error
+  - spatial_navigation
+  - place_learning
+  - stimulus_response_theory
+  - map_breadth
+  - comprehensive_map
+  - strip_map
+  - spatial_orientation
+  - rat_maze_learning
+  - representational_learning
+  - cognitive
+  - maps
+  - rats
+  - men
 ---
 
 ### One-line summary

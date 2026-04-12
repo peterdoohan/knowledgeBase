@@ -1,17 +1,47 @@
 ---
-source_file: "reinert2021_mouse_prefrontal_categorization.md"
-paper_id: "reinert2021_mouse_prefrontal_categorization"
+source_file: reinert2021_mouse_prefrontal_categorization.md
+paper_id: reinert2021_mouse_prefrontal_categorization
 title: "Mouse prefrontal cortex represents learned rules for categorization"
-authors: "Sandra Reinert, Mark H\u00fcbener, Tobias Bonhoeffer, Pieter M. Goltstein"
+authors:
+  - "Sandra Reinert"
+  - "Mark Hübener"
+  - "Tobias Bonhoeffer"
+  - "Pieter M. Goltstein"
 year: 2021
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "bayesian_decoding"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "striatum"]
-frameworks: ["mixed_selectivity"]
-keywords: ["mouse", "prefrontal", "cortex", "represents", "learned", "rules", "categorization"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - bayesian_decoding
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+frameworks:
+  - mixed_selectivity
+keywords:
+  - rule_based_visual_categorization
+  - medial_prefrontal_cortex
+  - two_photon_calcium_imaging
+  - longitudinal_chronic_imaging
+  - category_selective_neurons
+  - mixed_selectivity
+  - go_nogo_task
+  - category_tuning_index
+  - semantic_memory
+  - cognitive_flexibility
+  - rule_switch
+  - mouse_mpfc
+  - mouse
+  - prefrontal
+  - cortex
+  - represents
+  - learned
+  - rules
+  - categorization
 ---
 
 ### One-line summary

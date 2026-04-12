@@ -1,16 +1,43 @@
 ---
-source_file: "mcnaughton2022_route_cognitive_map.md"
-paper_id: "mcnaughton2022_route_cognitive_map"
+source_file: mcnaughton2022_route_cognitive_map.md
+paper_id: mcnaughton2022_route_cognitive_map
 title: "Route selection with a cognitive map"
-authors: "Bruce L. McNaughton, Rajat Saxena"
+authors:
+  - "Bruce L. McNaughton"
+  - "Rajat Saxena"
 year: 2022
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "anterior_cingulate_cortex", "striatum"]
-keywords: ["route", "selection", "cognitive", "map"]
-key_citations: ["tolman1948_cognitive_maps_rats", "widloski2022_hippocampal_replay_barriers", "johnson2007_hippocampus_decision"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - rat
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - anterior_cingulate_cortex
+  - striatum
+keywords:
+  - hippocampal_replay
+  - place_cells
+  - cognitive_map
+  - route_planning
+  - prospective_coding
+  - rate_remapping
+  - theta_phase_precession
+  - hebbian_sequence_learning
+  - hippocampal_indexing
+  - barrier_navigation
+  - spatial_memory
+  - hippocampal_striatal_interaction
+  - route
+  - selection
+  - cognitive
+  - map
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - widloski2022_hippocampal_replay_barriers
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

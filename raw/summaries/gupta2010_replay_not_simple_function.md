@@ -1,18 +1,50 @@
 ---
-source_file: "gupta2010_replay_not_simple_function.md"
-paper_id: "gupta2010_replay_not_simple_function"
+source_file: gupta2010_replay_not_simple_function.md
+paper_id: gupta2010_replay_not_simple_function
 title: "Hippocampal Replay Is Not a Simple Function of Experience"
-authors: "Anoopum S. Gupta, Matthijs A.A. van der Meer, David S. Touretzky, A. David Redish"
+authors:
+  - "Anoopum S. Gupta"
+  - "Matthijs A.A. van der Meer"
+  - "David S. Touretzky"
+  - "A. David Redish"
 year: 2010
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["linear_track", "t_maze"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
-keywords: ["hippocampal", "replay", "not", "simple", "function", "experience"]
-key_citations: ["davidson2009_hippocampal_replay_extended", "jackson2006_hippocampal_sharp_waves_reactivation", "girardeau2009_ripples_spatial_memory"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+  - t_maze
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+keywords:
+  - hippocampal_replay
+  - sharp_wave_ripples
+  - place_cells
+  - cognitive_map
+  - forward_replay
+  - backward_replay
+  - awake_state_reactivation
+  - sequence_generation
+  - novel_trajectory
+  - catastrophic_interference
+  - memory_consolidation
+  - nonlocal_replay
+  - hippocampal
+  - replay
+  - not
+  - simple
+  - function
+  - experience
+key_citations:
+  - davidson2009_hippocampal_replay_extended
+  - jackson2006_hippocampal_sharp_waves_reactivation
+  - girardeau2009_ripples_spatial_memory
 ---
 
 ### One-line summary

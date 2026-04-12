@@ -1,17 +1,49 @@
 ---
-source_file: "dahmani2015_prefrontal_navigation_strategies.md"
-paper_id: "dahmani2015_prefrontal_navigation_strategies"
+source_file: dahmani2015_prefrontal_navigation_strategies.md
+paper_id: dahmani2015_prefrontal_navigation_strategies
 title: "Dissociable contributions of the prefrontal cortex to hippocampus- and caudate nucleus-dependent virtual navigation strategies"
-authors: "Louisa Dahmani, V\u00e9ronique D. Bohbot"
+authors:
+  - "Louisa Dahmani"
+  - "Véronique D. Bohbot"
 year: 2015
 journal: "Neurobiology of Learning and Memory"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["virtual_navigation", "navigation_task"]
-methods: ["fmri", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex"]
-keywords: ["dissociable", "contributions", "prefrontal", "cortex", "hippocampus", "caudate", "nucleus", "dependent", "virtual", "navigation"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - virtual_navigation
+  - navigation_task
+methods:
+  - fmri
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+keywords:
+  - navigation_strategies
+  - spatial_strategy
+  - stimulusresponse_strategy
+  - hippocampuscaudate_competition
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - dorsomedial_prefrontal_cortex
+  - voxel_based_morphometry
+  - fmri
+  - dual_memory_systems
+  - cognitive_map
+  - grey_matter_density
+  - dissociable
+  - contributions
+  - prefrontal
+  - cortex
+  - hippocampus
+  - caudate
+  - nucleus
+  - dependent
 ---
 
 ### One-line summary

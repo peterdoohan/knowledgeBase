@@ -1,16 +1,43 @@
 ---
-source_file: "rolls2021_attractor_neurodynamics_schizophrenia.md"
-paper_id: "rolls2021_attractor_neurodynamics_schizophrenia"
+source_file: rolls2021_attractor_neurodynamics_schizophrenia.md
+paper_id: rolls2021_attractor_neurodynamics_schizophrenia
 title: "Attractor cortical neurodynamics, schizophrenia, and depression"
-authors: "Edmund T. Rolls"
+authors:
+  - "Edmund T. Rolls"
 year: 2021
 journal: "Translational Psychiatry"
-paper_type: "computational"
-contribution_type: "theoretical"
-methods: ["fmri", "computational_modeling"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "thalamus", "posterior_cingulate_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["attractor", "cortical", "neurodynamics", "schizophrenia", "depression"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - fmri
+  - computational_modeling
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - thalamus
+  - posterior_cingulate_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - attractor_networks
+  - computational_psychiatry
+  - cortical_neurodynamics
+  - depression
+  - functional_connectivity
+  - gaba
+  - nmda_receptors
+  - orbitofrontal_cortex
+  - prefrontal_cortex
+  - schizophrenia
+  - short_term_memory
+  - stochastic_dynamics
+  - working_memory
+  - attractor
+  - cortical
+  - neurodynamics
 ---
 
 ### One-line summary

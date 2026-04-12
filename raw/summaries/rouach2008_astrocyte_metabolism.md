@@ -1,15 +1,43 @@
 ---
-source_file: "rouach2008_astrocyte_metabolism.md"
-paper_id: "rouach2008_astrocyte_metabolism"
+source_file: rouach2008_astrocyte_metabolism.md
+paper_id: rouach2008_astrocyte_metabolism
 title: "Astroglial Metabolic Networks Sustain Hippocampal Synaptic Transmission"
-authors: "Nathalie Rouach, Annette Koulakoff, Veronica Abudara, Klaus Willecke, Christian Giaume"
+authors:
+  - "Nathalie Rouach"
+  - "Annette Koulakoff"
+  - "Veronica Abudara"
+  - "Klaus Willecke"
+  - "Christian Giaume"
 year: 2008
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["astroglial", "metabolic", "networks", "sustain", "hippocampal", "synaptic", "transmission"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - astrocytes
+  - gap_junctions
+  - connexin_43
+  - connexin_30
+  - glucose_metabolism
+  - lactate
+  - metabolic_coupling
+  - hippocampus
+  - synaptic_transmission
+  - energy_metabolism
+  - neuroglial_interaction
+  - glut1
+  - ampa_receptors
+  - glutamate
+  - epilepsy
+  - hemichannels
+  - perivascular_endfeet
+  - neuron_astrocyte_metabolic_network
+  - 2_nbdg
+  - astroglial
 ---
 
 ### One-line summary

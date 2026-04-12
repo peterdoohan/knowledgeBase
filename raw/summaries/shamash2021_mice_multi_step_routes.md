@@ -1,17 +1,50 @@
 ---
-source_file: "shamash2021_mice_multi_step_routes.md"
-paper_id: "shamash2021_mice_multi_step_routes"
+source_file: shamash2021_mice_multi_step_routes.md
+paper_id: shamash2021_mice_multi_step_routes
 title: "Mice learn multi-step routes by memorizing subgoal locations"
-authors: "Philip Shamash, Sarah F. Olesen, Panagiota Iordanidou, Dario Campagner, Nabhojit Banerjee, Tiago Branco"
+authors:
+  - "Philip Shamash"
+  - "Sarah F. Olesen"
+  - "Panagiota Iordanidou"
+  - "Dario Campagner"
+  - "Nabhojit Banerjee"
+  - "Tiago Branco"
 year: 2021
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "striatum"]
-frameworks: ["reinforcement_learning", "model_free_rl", "hierarchical_rl"]
-keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map", "tolman_1948_cognitive_maps_in_rats_and_men", "morris_1981_spatial_localization_without_local_cues", "etienne_and_jeffery_2004_path_integration_in_mammals", "vale", "evans_and_branco_2017_rapid_spatial_learning_controls_instinctive_defensive_behavior_in_mice", "stachenfeld", "botvinick_and_gershman_2017_the_hippocampus_as_a_predictive_map", "named_models_or_frameworks", "cognitive_map_theory_okeefe_and_nadel", "taxon_strategies_okeefe_and_nadel", "hierarchical_reinforcement_learning_sutton", "precup_and_singh", "model_based_vs_model_free_reinforcement_learning", "path_integration", "subgoal_memorization_strategy_novel_contribution", "brain_regions", "hippocampus_hypothesized_for_allocentric_spatial_memory", "dorsal_striatum_hypothesized_for_inflexible_route_repetition", "entorhinal_cortex_mentioned_in_context_of_cognitive_maps"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+  - hierarchical_rl
+keywords:
+  - spatial_navigation
+  - escape_behavior
+  - subgoal_learning
+  - multi_step_routes
+  - allocentric_memory
+  - obstacle_avoidance
+  - spatial_memory
+  - rodent_behavior
+  - cognitive_map
+  - defensive_behavior
+  - goal_directed_navigation
+  - practice_homings
+  - spontaneous_exploration
+  - threat_response
+  - behavioral_strategy
+  - mice
+  - learn
+  - multi
+  - step
+  - routes
+key_citations:
+  - tolman1948_cognitive_maps_rats
 ---
 
 ### One-line summary

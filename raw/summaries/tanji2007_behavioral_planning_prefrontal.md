@@ -1,17 +1,47 @@
 ---
-source_file: "tanji2007_behavioral_planning_prefrontal.md"
-paper_id: "tanji2007_behavioral_planning_prefrontal"
+source_file: tanji2007_behavioral_planning_prefrontal.md
+paper_id: tanji2007_behavioral_planning_prefrontal
 title: "Concept-based behavioral planning and the lateral prefrontal cortex"
-authors: "Jun Tanji, Keisetsu Shima, Hajime Mushiake"
+authors:
+  - "Jun Tanji"
+  - "Keisetsu Shima"
+  - "Hajime Mushiake"
 year: 2007
 journal: "Trends in Cognitive Sciences"
-paper_type: "review"
-contribution_type: "review"
-species: ["human", "macaque"]
-methods: ["fmri"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["fuster_1977", "2004_perception_action_cycle_and_hierarchical_organization_of_frontal_function", "saito_et_al_2005_representation_of_immediate_and_final_behavioral_goals_in_lpfc", "shima_et_al_2007_categorization_of_behavioral_sequences_in_prefrontal_cortex", "freedman_et_al_2001_categorical_representation_of_visual_stimuli_in_primate_lpfc", "koechlin_et_al_2007_cascade_model_of_cognitive_control", "miller_and_cohen_2001_integrative_theory_of_prefrontal_cortex_function", "duncan_2001_adaptive_coding_model_of_prefrontal_function", "shima_and_tanji_1998", "tanji_and_shima_1994_role_of_sma_pre_sma_in_temporal_organization_of_multiple_movements", "named_models_or_frameworks", "script_based_action_planning_schank_and_abelson", "1977", "cascade_model_of_cognitive_control_koechlin_et_al", "2007", "perception_action_cycle_fuster", "adaptive_coding_model_duncan", "2001", "hierarchical_model_of_sequential_action_planning_lpfc_categories_sma_sequences_m1_actions", "brain_regions"]
+paper_type: review
+contribution_type: review
+species:
+  - macaque
+methods:
+  - fmri
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - behavioral_planning
+  - lateral_prefrontal_cortex
+  - action_categories
+  - sequential_behavior
+  - goal_representation
+  - abstract_representation
+  - cognitive_control
+  - hierarchical_organization
+  - macaque_neurophysiology
+  - executive_function
+  - concept_formation
+  - script_based_planning
+  - concept
+  - based
+  - behavioral
+  - planning
+  - lateral
+  - prefrontal
+  - cortex
 ---
 
 ### One-line summary

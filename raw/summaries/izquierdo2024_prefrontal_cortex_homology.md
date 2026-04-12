@@ -1,19 +1,60 @@
 ---
-source_file: "izquierdo2024_prefrontal_cortex_homology.md"
-paper_id: "izquierdo2024_prefrontal_cortex_homology"
+source_file: izquierdo2024_prefrontal_cortex_homology.md
+paper_id: izquierdo2024_prefrontal_cortex_homology
 title: "A Cross-Species Analysis of Prefrontal Cortex Homology Based on Anatomical Connectivity, Behavior, and Cell Types"
-authors: "Alicia Izquierdo"
+authors:
+  - "Alicia Izquierdo"
 year: 2024
-journal: "The Frontal Cortex: Organization, Networks, and Function (Str\u00fcngmann Forum Reports, vol. 34, MIT Press)"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse", "rat", "human", "macaque"]
-tasks: ["foraging_task"]
-methods: ["calcium_imaging", "optogenetics"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "thalamus", "mediodorsal_thalamus", "amygdala"]
-frameworks: ["mixed_selectivity"]
-keywords: ["heilbronner_et_al_2016_cortico_striatal_connectivity_homology_in_rat_and_macaque", "van_heukelum_et_al_2020_acc_connectivity_meta_analysis_across_species", "a_p_parcellation", "krienen_et_al_2020_scrna_seq_of_interneurons_across_primates_and_mouse", "hodge_et_al_2019_scrna_seq_comparing_mouse_and_human_cortical_cell_types", "kozlenkov_et_al_2020_gene_regulatory_elements_in_glu_gaba_neurons_across_primates", "rudebeck_and_izquierdo_2022_foraging_innovations_framework", "laubach_et_al_2018_survey_of_rodent_frontal_cortex_nomenclature_and_publication_trends", "kepecs_and_fishell_2014_interneuron_diversity_and_combinatorial_complexity", "rigotti_et_al_2013_mixed_selectivity_and_high_dimensional_representations_in_pfc", "fusi_et_al_2016_mixed_selectivity_in_pfc", "uylings_et_al_2003_five_criteria_framework_for_cross_species_pfc_comparison", "named_models_or_frameworks", "foraging_innovations_framework_rudebeck_and_izquierdo_2022_prediction", "evaluation", "action", "social_cognition", "optimal_foraging_theory_marginal_value_theorem_charnov_1976", "phylogenetic_refinement_cisek_2019", "rose_and_woolsey_cytoarchitectonic_criterion_for_pfc"]
-key_citations: ["fusi2016_mixed_selectivity_cognition"]
+journal: "The Frontal Cortex: Organization, Networks, and Function (Strüngmann Forum Reports, vol. 34, MIT Press)"
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+  - rat
+  - macaque
+tasks:
+  - foraging_task
+methods:
+  - calcium_imaging
+  - optogenetics
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - striatum
+  - thalamus
+  - mediodorsal_thalamus
+  - amygdala
+frameworks:
+  - mixed_selectivity
+keywords:
+  - cross_species_pfc_homology
+  - prefrontal_cortex_cytoarchitecture
+  - agranular_cortex
+  - interneuron_specialisation
+  - single_cell_transcriptomics
+  - cortico_striatal_connectivity
+  - foraging_innovations
+  - phylogenetic_refinement
+  - mixed_selectivity
+  - excitatory_inhibitory_balance
+  - granular_vs_agranular_pfc
+  - rodent_primate_translation
+  - cross
+  - species
+  - analysis
+  - prefrontal
+  - cortex
+  - homology
+  - based
+  - anatomical
+key_citations:
+  - vanheukelum2020_cingulate_cortex_cross_species
+  - fusi2016_mixed_selectivity_cognition
+  - rudebeck2022_foraging_frontal
 ---
 
 ### One-line summary

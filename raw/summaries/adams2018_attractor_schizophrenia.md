@@ -1,16 +1,45 @@
 ---
-source_file: "adams2018_attractor_schizophrenia.md"
-paper_id: "adams2018_attractor_schizophrenia"
+source_file: adams2018_attractor_schizophrenia.md
+paper_id: adams2018_attractor_schizophrenia
 title: "Attractor-like Dynamics in Belief Updating in Schizophrenia"
-authors: "Rick A. Adams, Gary Napier, Jonathan P. Roiser, Christoph Mathys, James Gilleen"
+authors:
+  - "Rick A. Adams"
+  - "Gary Napier"
+  - "Jonathan P. Roiser"
+  - "Christoph Mathys"
+  - "James Gilleen"
 year: 2018
 journal: "The Journal of Neuroscience"
-paper_type: "computational"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-brain_regions: ["prefrontal_cortex", "striatum"]
-frameworks: ["bayesian_inference", "attractor_networks"]
-keywords: ["attractor", "like", "dynamics", "belief", "updating", "schizophrenia"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - computational_modeling
+brain_regions:
+  - prefrontal_cortex
+  - striatum
+frameworks:
+  - bayesian_inference
+  - attractor_networks
+keywords:
+  - attractor_network_instability
+  - schizophrenia
+  - belief_updating
+  - hierarchical_gaussian_filter
+  - probabilistic_inference
+  - beads_task
+  - disconfirmatory_bias
+  - nmda_receptor_hypofunction
+  - computational_psychiatry
+  - response_stochasticity
+  - bayesian_model_comparison
+  - belief_instability_parameter
+  - attractor
+  - like
+  - dynamics
+  - belief
+  - updating
 ---
 
 ### One-line summary

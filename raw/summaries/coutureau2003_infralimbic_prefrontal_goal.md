@@ -1,16 +1,51 @@
 ---
-source_file: "coutureau2003_infralimbic_prefrontal_goal.md"
-paper_id: "coutureau2003_infralimbic_prefrontal_goal"
+source_file: coutureau2003_infralimbic_prefrontal_goal.md
+paper_id: coutureau2003_infralimbic_prefrontal_goal
 title: "Inactivation of the infralimbic prefrontal cortex reinstates goal-directed responding in overtrained rats"
-authors: "Etienne Coutureau, Simon Killcross"
+authors:
+  - "Etienne Coutureau"
+  - "Simon Killcross"
 year: 2003
 journal: "Behavioural Brain Research"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "dorsolateral_striatum", "nucleus_accumbens", "amygdala", "basolateral_amygdala"]
-keywords: ["adams_1982_original_demonstration_of_devaluation_sensitivity_as_function_of_training_extent", "dickinson_1985_foundational_dual_process_a_o_vs_s_r_theory_of_instrumental_action", "dickinson_et_al_1995_motivational_control_after_extended_training", "contingency_based_account_of_habit_formation", "killcross_and_coutureau_2003_prior_lesion_study_establishing_pl_il_double_dissociation", "balleine_and_dickinson_1998_cortical_substrates_of_goal_directed_action", "yin", "knowlton_and_balleine_2002_dorsolateral_striatum_lesion_produces_analogous_reinstatement_of_goal_directedness", "everitt", "dickinson_and_robbins_2001_neuropsychological_basis_of_addiction", "habit_dominance", "named_models_or_frameworks", "dual_process_theory_of_instrumental_action_a_o_vs_s_r", "specific_satiety_devaluation_paradigm", "contention_scheduling_shallice", "1988", "variable_interval_vi_60_schedule_of_reinforcement", "brain_regions", "infralimbic_il_medial_prefrontal_cortex", "prelimbic_pl_medial_prefrontal_cortex"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - striatum
+  - dorsolateral_striatum
+  - nucleus_accumbens
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - habit_formation
+  - goal_directed_behaviour
+  - action_outcome_associations
+  - stimulus_response_associations
+  - reward_devaluation
+  - specific_satiety_devaluation
+  - muscimol_inactivation
+  - infralimbic_cortex
+  - medial_prefrontal_cortex
+  - dual_process_instrumental_learning
+  - behavioural_autonomy
+  - instrumental_overtraining
+  - inactivation
+  - infralimbic
+  - prefrontal
+  - cortex
+  - reinstates
+  - goal
+  - directed
+  - responding
+key_citations:
+  - balleine1998_goal_directed_instrumental_action
 ---
 
 ### One-line summary

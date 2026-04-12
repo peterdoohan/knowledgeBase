@@ -1,19 +1,60 @@
 ---
-source_file: "wientjes2024_successor_representation.md"
-paper_id: "wientjes2024_successor_representation"
+source_file: wientjes2024_successor_representation.md
+paper_id: wientjes2024_successor_representation
 title: "The successor representation subserves hierarchical abstraction for goal-directed behavior"
-authors: "Sven Wientjes, Clay B. Holroyd"
+authors:
+  - "Sven Wientjes"
+  - "Clay B. Holroyd"
 year: 2024
 journal: "PLOS Computational Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["computational_modeling", "behavioral_analysis"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "hierarchical_rl"]
-keywords: ["successor", "representation", "subserves", "hierarchical", "abstraction", "goal", "directed", "behavior"]
-key_citations: ["dayan1993_successor_representation", "stachenfeld2017_hippocampus_predictive_map", "russek2017_model_based_reinforcement", "momennejad2017_successor_representation_humans", "schapiro2013_event_representation_memory", "botvinick2009_hierarchically_organized_behavior", "tomov2020_hierarchical_planning_representation"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - navigation_task
+methods:
+  - computational_modeling
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - successor_representation
+  - hierarchical_rl
+keywords:
+  - successor_representation
+  - hierarchical_reinforcement_learning
+  - goal_directed_behavior
+  - community_structure
+  - predictive_learning
+  - computational_modeling
+  - state_prediction_error
+  - decision_making
+  - cognitive_map
+  - graph_theoretic_abstraction
+  - planning
+  - model_based_rl
+  - behavioral_experiments
+  - museum_navigation_task
+  - statistical_learning
+  - successor
+  - representation
+  - subserves
+  - hierarchical
+  - abstraction
+key_citations:
+  - dayan1993_successor_representation
+  - stachenfeld2017_hippocampus_predictive_map
+  - russek2017_model_based_reinforcement
+  - momennejad2017_successor_representation_humans
+  - schapiro2013_event_representation_memory
+  - botvinick2009_hierarchically_organized_behavior
+  - tomov2020_hierarchical_planning_representation
 ---
 
 ### One-line summary

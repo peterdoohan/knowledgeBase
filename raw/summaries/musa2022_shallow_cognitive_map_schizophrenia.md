@@ -1,18 +1,59 @@
 ---
-source_file: "musa2022_shallow_cognitive_map_schizophrenia.md"
-paper_id: "musa2022_shallow_cognitive_map_schizophrenia"
+source_file: musa2022_shallow_cognitive_map_schizophrenia.md
+paper_id: musa2022_shallow_cognitive_map_schizophrenia
 title: "The shallow cognitive map hypothesis: A hippocampal framework for thought disorder in schizophrenia"
-authors: "Ayesha Musa, Safia Khan, Minahil Mujahid, Mohamady El-Gaby"
+authors:
+  - "Ayesha Musa"
+  - "Safia Khan"
+  - "Minahil Mujahid"
+  - "Mohamady El-Gaby"
 year: 2022
-journal: "Schizophrenia"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["mouse", "human"]
-methods: ["electrophysiology", "fmri"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "superior_temporal_gyrus", "inferior_frontal_gyrus"]
-frameworks: ["bayesian_inference", "attractor_networks"]
-keywords: ["shallow", "cognitive", "map", "hypothesis", "hippocampal", "framework", "thought", "disorder", "schizophrenia"]
-key_citations: ["nour2021_impaired_replay_schizophrenia", "behrens2018_cognitive_map_organizing_knowledge", "suh2013_impaired_ripple", "adams2018_attractor_schizophrenia", "tolman1948_cognitive_maps_rats"]
+journal: Schizophrenia
+paper_type: review
+contribution_type: theoretical
+species:
+  - mouse
+methods:
+  - electrophysiology
+  - fmri
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - superior_temporal_gyrus
+  - inferior_frontal_gyrus
+frameworks:
+  - bayesian_inference
+  - attractor_networks
+keywords:
+  - attractor_dynamics
+  - hippocampal_cognitive_maps
+  - positive_formal_thought_disorder
+  - pattern_separation
+  - pattern_completion
+  - sharp_wave_ripples
+  - hippocampal_replay
+  - schizophrenia_circuit_pathology
+  - pv_interneurons
+  - aberrant_salience
+  - hippocampal_prefrontal_synchrony
+  - relational_memory
+  - shallow
+  - cognitive
+  - map
+  - hypothesis
+  - hippocampal
+  - framework
+  - thought
+  - disorder
+key_citations:
+  - nour2021_impaired_replay_schizophrenia
+  - behrens2018_cognitive_map_organizing_knowledge
+  - suh2013_impaired_ripple
+  - adams2018_attractor_schizophrenia
+  - tolman1948_cognitive_maps_rats
 ---
 
 ### One-line summary

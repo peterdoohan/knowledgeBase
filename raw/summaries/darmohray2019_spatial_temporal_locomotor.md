@@ -1,15 +1,39 @@
 ---
-source_file: "darmohray2019_spatial_temporal_locomotor.md"
-paper_id: "darmohray2019_spatial_temporal_locomotor"
+source_file: darmohray2019_spatial_temporal_locomotor.md
+paper_id: darmohray2019_spatial_temporal_locomotor
 title: "Spatial and Temporal Locomotor Learning in Mouse Cerebellum"
-authors: "Dana M. Darmohray, Jovin R. Jacobs, Hugo G. Marques, Megan R. Carey"
+authors:
+  - "Dana M. Darmohray"
+  - "Jovin R. Jacobs"
+  - "Hugo G. Marques"
+  - "Megan R. Carey"
 year: 2019
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse", "human"]
-methods: ["optogenetics"]
-keywords: ["spatial", "temporal", "locomotor", "learning", "mouse", "cerebellum"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+keywords:
+  - split_belt_treadmill_adaptation
+  - locomotor_learning
+  - interlimb_coordination
+  - spatial_vs_temporal_adaptation
+  - intermediate_cerebellum
+  - interposed_nucleus
+  - purkinje_cells
+  - chemogenetics_dreadd
+  - motor_adaptation
+  - center_of_oscillation
+  - double_support_asymmetry
+  - cerebellar_circuit_dissociation
+  - spatial
+  - temporal
+  - locomotor
+  - learning
+  - mouse
+  - cerebellum
 ---
 
 ### One-line summary

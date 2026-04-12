@@ -1,18 +1,56 @@
 ---
-source_file: "momennejad2018_offline_replay_planning.md"
-paper_id: "momennejad2018_offline_replay_planning"
+source_file: momennejad2018_offline_replay_planning.md
+paper_id: momennejad2018_offline_replay_planning
 title: "Offline replay supports planning in human reinforcement learning"
-authors: "Ida Momennejad, A Ross Otto, Nathaniel D Daw, Kenneth A Norman"
+authors:
+  - "Ida Momennejad"
+  - "A Ross Otto"
+  - "Nathaniel D Daw"
+  - "Kenneth A Norman"
 year: 2018
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "behavioral_analysis"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "ventromedial_prefrontal_cortex", "striatum", "medial_temporal_lobe"]
-frameworks: ["reinforcement_learning", "model_free_rl", "successor_representation"]
-keywords: ["offline", "replay", "supports", "planning", "human", "reinforcement", "learning"]
-key_citations: ["momennejad2017_successor_representation_humans", "russek2017_model_based_reinforcement", "tolman1948_cognitive_maps_rats"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - medial_temporal_lobe
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+  - successor_representation
+keywords:
+  - offline_replay
+  - hippocampal_replay
+  - reward_revaluation
+  - reinforcement_learning
+  - dyna_architecture
+  - prioritized_sweeping
+  - unsigned_prediction_error
+  - mvpa
+  - fmri
+  - sequential_decision_making
+  - memory_integration
+  - goal_directed_behaviour
+  - offline
+  - replay
+  - supports
+  - planning
+  - human
+  - reinforcement
+  - learning
+key_citations:
+  - momennejad2017_successor_representation_humans
+  - russek2017_model_based_reinforcement
+  - tolman1948_cognitive_maps_rats
 ---
 
 ### One-line summary

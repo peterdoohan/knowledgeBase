@@ -1,17 +1,48 @@
 ---
-source_file: "solway2014_optimal_behavioral_hierarchy.md"
-paper_id: "solway2014_optimal_behavioral_hierarchy"
+source_file: solway2014_optimal_behavioral_hierarchy.md
+paper_id: solway2014_optimal_behavioral_hierarchy
 title: "Optimal Behavioral Hierarchy"
-authors: "Alec Solway, Carlos Diuk, Natalia C\u00f3rdova, Debbie Yee, Andrew G. Barto, Yael Niv, Matthew M. Botvinick"
+authors:
+  - "Alec Solway"
+  - "Carlos Diuk"
+  - "Natalia Córdova"
+  - "Debbie Yee"
+  - "Andrew G. Barto"
+  - "Yael Niv"
+  - "Matthew M. Botvinick"
 year: 2014
 journal: "PLoS Computational Biology"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["human"]
-brain_regions: ["striatum"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["sutton", "precup_and_singh_1999_options_framework_for_hierarchical_rl", "simsek_and_barto_2008_betweenness_centrality_for_subgoal_discovery", "van_dijk_and_polani_2011_information_theoretic_approach_to_subgoals", "schapiro_et_al_2013_related_work_on_temporal_community_structure", "botvinick_and_weinstein_2014_hierarchical_models_of_behavior", "sutton_and_barto_1998_reinforcement_learning_textbook", "brandes_et_al_2008_community_detection_via_modularity_clustering", "named_models_or_frameworks", "hierarchical_reinforcement_learning_hrl", "options_framework_sutton_et_al", "1999", "bayesian_model_selection", "markov_decision_processes_mdps", "interaction_graph_betweenness_centrality_simsek_and_barto", "2008", "community_detection_in_networks", "tower_of_hanoi_task_paradigm", "brain_regions", "not_applicable_no_neural_data"]
-key_citations: ["sutton1999_temporal_abstraction_rl"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+brain_regions:
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - hierarchical_reinforcement_learning
+  - behavioral_hierarchy
+  - bayesian_model_selection
+  - options_framework
+  - subgoal_discovery
+  - topological_bottleneck
+  - community_detection
+  - graph_decomposition
+  - task_decomposition
+  - planning
+  - shortest_path_navigation
+  - tower_of_hanoi
+  - statistical_learning
+  - representational_efficiency
+  - learning_efficiency
+  - optimal
+  - behavioral
+  - hierarchy
+key_citations:
+  - schapiro2013_event_representation_memory
+  - sutton1999_temporal_abstraction_rl
 ---
 
 ### One-line summary

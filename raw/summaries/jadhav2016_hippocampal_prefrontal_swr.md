@@ -1,17 +1,50 @@
 ---
-source_file: "jadhav2016_hippocampal_prefrontal_swr.md"
-paper_id: "jadhav2016_hippocampal_prefrontal_swr"
+source_file: jadhav2016_hippocampal_prefrontal_swr.md
+paper_id: jadhav2016_hippocampal_prefrontal_swr
 title: "Coordinated Excitation and Inhibition of Prefrontal Ensembles during Awake Hippocampal Sharp-Wave Ripple Events"
-authors: "Shantanu P. Jadhav, Gideon Rothschild, Demetris K. Roumis, Loren M. Frank"
+authors:
+  - "Shantanu P. Jadhav"
+  - "Gideon Rothschild"
+  - "Demetris K. Roumis"
+  - "Loren M. Frank"
 year: 2016
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "ventral_hippocampus"]
-keywords: ["coordinated", "excitation", "inhibition", "prefrontal", "ensembles", "during", "awake", "hippocampal", "sharp", "wave"]
-key_citations: ["singer2013_hippocampal_swr_decisions", "jones2005_theta_hippocampal_prefrontal"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventral_hippocampus
+keywords:
+  - sharp_wave_ripples_swr
+  - hippocampal_prefrontal_coordination
+  - memory_reactivation
+  - awake_replay
+  - theta_phase_locking
+  - swr_excited_and_swr_inhibited_prefrontal_ensembles
+  - content_specific_inhibition
+  - experience_dependent_coordination
+  - spatial_memory
+  - cross_structure_ensemble_co_activation
+  - glm_ensemble_decoding
+  - hippocampal_place_cells
+  - coordinated
+  - excitation
+  - inhibition
+  - prefrontal
+  - ensembles
+  - during
+  - awake
+  - hippocampal
+key_citations:
+  - singer2013_hippocampal_swr_decisions
+  - jones2005_theta_hippocampal_prefrontal
 ---
 
 ### One-line summary

@@ -1,15 +1,40 @@
 ---
-source_file: "yuan2024_experience_replay_successor.md"
-paper_id: "yuan2024_experience_replay_successor"
+source_file: yuan2024_experience_replay_successor.md
+paper_id: yuan2024_experience_replay_successor
 title: "Improving Experience Replay with Successor Representation"
-authors: "Yizhi Yuan, Marcelo G. Mattar"
+authors:
+  - "Yizhi Yuan"
+  - "Marcelo G. Mattar"
 year: 2024
 journal: "Not specified (conference paper)"
-paper_type: "computational"
-contribution_type: "methodological"
-frameworks: ["reinforcement_learning", "successor_representation"]
-keywords: ["improving", "experience", "replay", "successor", "representation"]
-key_citations: ["dayan1993_successor_representation"]
+paper_type: computational
+contribution_type: methodological
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+keywords:
+  - experience_replay
+  - successor_representation
+  - prioritized_experience_replay
+  - prioritized_sweeping
+  - reinforcement_learning
+  - td_error
+  - need_term
+  - sample_efficiency
+  - deep_reinforcement_learning
+  - q_learning
+  - atari_games
+  - dyna_maze
+  - function_approximation
+  - transfer_learning
+  - replay_prioritization
+  - improving
+  - experience
+  - replay
+  - successor
+  - representation
+key_citations:
+  - dayan1993_successor_representation
 ---
 
 ### One-line summary

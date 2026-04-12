@@ -1,18 +1,51 @@
 ---
-source_file: "schuck2019_hippocampal_replay_nonspatial.md"
-paper_id: "schuck2019_hippocampal_replay_nonspatial"
+source_file: schuck2019_hippocampal_replay_nonspatial.md
+paper_id: schuck2019_hippocampal_replay_nonspatial
 title: "Sequential replay of nonspatial task states in the human hippocampus"
-authors: "Nicolas W. Schuck, Yael Niv"
+authors:
+  - "Nicolas W. Schuck"
+  - "Yael Niv"
 year: 2019
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri"]
-brain_regions: ["hippocampus", "orbitofrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
-keywords: ["sequential", "replay", "nonspatial", "task", "states", "human", "hippocampus"]
-key_citations: ["schuck2016_orbitofrontal_cortex_state", "wilson2014_best_practices_scientific", "russek2017_model_based_reinforcement", "johnson2007_hippocampus_decision"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+brain_regions:
+  - hippocampus
+  - orbitofrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+keywords:
+  - hippocampal_replay
+  - sequence_reactivation
+  - nonspatial_decision_making
+  - multivariate_decoding
+  - fmri
+  - task_states
+  - wakeful_rest
+  - orbitofrontal_cortex
+  - cognitive_map
+  - experience_replay
+  - reinforcement_learning
+  - partially_observable_states
+  - offline_consolidation
+  - sequential
+  - replay
+  - nonspatial
+  - task
+  - states
+  - human
+  - hippocampus
+key_citations:
+  - schuck2016_orbitofrontal_cortex_state
+  - wilson2014_best_practices_scientific
+  - russek2017_model_based_reinforcement
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

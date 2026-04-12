@@ -1,17 +1,42 @@
 ---
-source_file: "fiete2008_grid_cells_position.md"
-paper_id: "fiete2008_grid_cells_position"
+source_file: fiete2008_grid_cells_position.md
+paper_id: fiete2008_grid_cells_position
 title: "What Grid Cells Convey about Rat Location"
-authors: "Ila R. Fiete, Yoram Burak, Ted Brookings"
+authors:
+  - "Ila R. Fiete"
+  - "Yoram Burak"
+  - "Ted Brookings"
 year: 2008
 journal: "Journal of Neuroscience"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["rat"]
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex"]
-keywords: ["what", "grid", "cells", "convey", "about", "rat", "location"]
-key_citations: ["fyhn2007_remapping_grid_realignment"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - rat
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+keywords:
+  - grid_cells
+  - residue_number_system
+  - modulo_code
+  - path_integration
+  - combinatorial_capacity
+  - carry_free_arithmetic
+  - spatial_navigation
+  - place_cells
+  - entorhinal_cortex
+  - neural_coding_theory
+  - cognitive_map
+  - position_representation
+  - what
+  - grid
+  - cells
+  - convey
+  - about
+  - rat
+  - location
+key_citations:
+  - fyhn2007_remapping_grid_realignment
 ---
 
 ### One-line summary

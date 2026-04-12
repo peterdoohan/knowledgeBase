@@ -1,16 +1,45 @@
 ---
-source_file: "carlson2018_hybrid_electrodes_seizure.md"
-paper_id: "carlson2018_hybrid_electrodes_seizure"
+source_file: carlson2018_hybrid_electrodes_seizure.md
+paper_id: carlson2018_hybrid_electrodes_seizure
 title: "Safety and Utility of Hybrid Depth Electrodes for Seizure Localization and Single-Unit Neuronal Recording"
-authors: "April A. Carlson, Ueli Rutishauser, Adam N. Mamelak"
+authors:
+  - "April A. Carlson"
+  - "Ueli Rutishauser"
+  - "Adam N. Mamelak"
 year: 2018
 journal: "Stereotactic and Functional Neurosurgery"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus", "anterior_cingulate_cortex", "orbitofrontal_cortex", "amygdala"]
-keywords: ["safety", "utility", "hybrid", "depth", "electrodes", "seizure", "localization", "single", "unit", "neuronal"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - amygdala
+keywords:
+  - hybrid_depth_electrodes
+  - behnke_fried_electrode
+  - stereoeeg
+  - intracranial_epilepsy_monitoring
+  - medically_refractory_epilepsy
+  - single_unit_recording
+  - seizure_localization
+  - microwire_array
+  - hemorrhage_risk
+  - electrode_complication_rate
+  - epileptogenic_zone
+  - mesial_temporal_lobe
+  - safety
+  - utility
+  - hybrid
+  - depth
+  - electrodes
+  - seizure
+  - localization
+  - single
 ---
 
 ### One-line summary

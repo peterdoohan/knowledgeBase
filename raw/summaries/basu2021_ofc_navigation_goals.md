@@ -1,17 +1,49 @@
 ---
-source_file: "basu2021_ofc_navigation_goals.md"
-paper_id: "basu2021_ofc_navigation_goals"
+source_file: basu2021_ofc_navigation_goals.md
+paper_id: basu2021_ofc_navigation_goals
 title: "The orbitofrontal cortex maps future navigational goals"
-authors: "Raunak Basu, Robert Gebauer, Tim Herfurth, Simon Kolb, Zahra Golipour, Tatjana Tchumatchenko, Hiroshi T. Ito"
+authors:
+  - "Raunak Basu"
+  - "Robert Gebauer"
+  - "Tim Herfurth"
+  - "Simon Kolb"
+  - "Zahra Golipour"
+  - "Tatjana Tchumatchenko"
+  - "Hiroshi T. Ito"
 year: 2021
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["optogenetics", "tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "orbitofrontal_cortex"]
-keywords: ["orbitofrontal", "cortex", "maps", "future", "navigational", "goals"]
-key_citations: ["brown2016_prospective_goals_hippocampus"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - optogenetics
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - orbitofrontal_cortex
+keywords:
+  - orbitofrontal_cortex
+  - navigational_goal_coding
+  - persistent_goal_representation
+  - dynamic_population_coding
+  - orthogonal_subspace
+  - lda_decoding
+  - linear_dynamic_model
+  - goal_directed_navigation
+  - optogenetic_perturbation
+  - spatial_working_memory
+  - destination_specific_ensemble_dynamics
+  - tetrode_recording
+  - orbitofrontal
+  - cortex
+  - maps
+  - future
+  - navigational
+  - goals
+key_citations:
+  - brown2016_prospective_goals_hippocampus
 ---
 
 ### One-line summary

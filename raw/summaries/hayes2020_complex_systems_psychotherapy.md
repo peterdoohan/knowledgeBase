@@ -1,14 +1,35 @@
 ---
-source_file: "hayes2020_complex_systems_psychotherapy.md"
-paper_id: "hayes2020_complex_systems_psychotherapy"
+source_file: hayes2020_complex_systems_psychotherapy.md
+paper_id: hayes2020_complex_systems_psychotherapy
 title: "A complex systems approach to the study of change in psychotherapy"
-authors: "Adele M. Hayes, Leigh A. Andrews"
+authors:
+  - "Adele M. Hayes"
+  - "Leigh A. Andrews"
 year: 2020
 journal: "BMC Medicine"
-paper_type: "review"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-keywords: ["complex", "systems", "approach", "study", "change", "psychotherapy"]
+paper_type: review
+contribution_type: theoretical
+methods:
+  - computational_modeling
+keywords:
+  - complex_adaptive_systems
+  - attractor_dynamics
+  - psychotherapy_change_processes
+  - network_destabilization_and_transition
+  - critical_fluctuations
+  - critical_slowing
+  - early_warning_signals
+  - nonlinear_change
+  - ecological_momentary_assessment
+  - network_psychopathology
+  - inhibitory_learning
+  - process_based_psychotherapy
+  - complex
+  - systems
+  - approach
+  - study
+  - change
+  - psychotherapy
 ---
 
 ### One-line summary

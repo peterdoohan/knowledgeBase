@@ -1,14 +1,39 @@
 ---
-source_file: "muller1996_bergmann_glial_coupling.md"
-paper_id: "muller1996_bergmann_glial_coupling"
+source_file: muller1996_bergmann_glial_coupling.md
+paper_id: muller1996_bergmann_glial_coupling
 title: "Electrical Coupling Among Bergmann Glial Cells and Its Modulation by Glutamate Receptor Activation"
-authors: "Thomas M\u00fcller, Thomas M\u00f6ller, Jochen Neuhaus, Helmut Kettenmann"
+authors:
+  - "Thomas Müller"
+  - "Thomas Möller"
+  - "Jochen Neuhaus"
+  - "Helmut Kettenmann"
 year: 1996
-journal: "GLIA"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-keywords: ["bergmann_glial_cells", "gap_junctions", "electrical_coupling", "connexin_43", "glutamate_receptors", "ampa_receptors", "kainate", "calcium_signaling", "cerebellum", "patch_clamp", "lucifer_yellow", "developmental_regulation", "ph_modulation", "spatial_buffering", "astrocyte_syncytium", "neuron_glia_interactions", "passive_conductance", "voltage_independent_coupling", "electrical", "coupling"]
+journal: GLIA
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+keywords:
+  - bergmann_glial_cells
+  - gap_junctions
+  - electrical_coupling
+  - connexin_43
+  - glutamate_receptors
+  - ampa_receptors
+  - kainate
+  - calcium_signaling
+  - cerebellum
+  - patch_clamp
+  - lucifer_yellow
+  - developmental_regulation
+  - ph_modulation
+  - spatial_buffering
+  - astrocyte_syncytium
+  - neuron_glia_interactions
+  - passive_conductance
+  - voltage_independent_coupling
+  - electrical
+  - coupling
 ---
 
 ### One-line summary

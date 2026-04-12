@@ -1,18 +1,61 @@
 ---
-source_file: "long2024_border_cells_prefrontal.md"
-paper_id: "long2024_border_cells_prefrontal"
+source_file: long2024_border_cells_prefrontal.md
+paper_id: long2024_border_cells_prefrontal
 title: "Border cells without theta rhythmicity in the medial prefrontal cortex"
-authors: "Xiaoyang Long, Bin Deng, Rui Shen, Lin Yang, Liping Chen, Qingxia Ran, Xin Du, Sheng-Jia Zhang"
+authors:
+  - "Xiaoyang Long"
+  - "Bin Deng"
+  - "Rui Shen"
+  - "Lin Yang"
+  - "Liping Chen"
+  - "Qingxia Ran"
+  - "Xin Du"
+  - "Sheng-Jia Zhang"
 year: 2024
 journal: "PNAS (Proceedings of the National Academy of Sciences)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["virtual_navigation", "foraging_task", "navigation_task"]
-methods: ["electrophysiology", "tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "infralimbic_cortex"]
-keywords: ["border", "cells", "without", "theta", "rhythmicity", "medial", "prefrontal", "cortex"]
-key_citations: ["zielinski2019_theta_hippocampus_prefrontal", "sauer2022_prefrontal_spatial_representation"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - virtual_navigation
+  - foraging_task
+methods:
+  - electrophysiology
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - infralimbic_cortex
+keywords:
+  - border_cells
+  - boundary_representation
+  - medial_prefrontal_cortex
+  - spatial_navigation
+  - allocentric_coding
+  - egocentric_coding
+  - theta_rhythmicity
+  - hippocampalprefrontal_interaction
+  - coordinate_transformation
+  - free_foraging
+  - extracellular_recording
+  - spatial_tuning
+  - border
+  - cells
+  - without
+  - theta
+  - rhythmicity
+  - medial
+  - prefrontal
+  - cortex
+key_citations:
+  - zielinski2019_theta_hippocampus_prefrontal
+  - sauer2022_prefrontal_spatial_representation
 ---
 
 ### One-line summary

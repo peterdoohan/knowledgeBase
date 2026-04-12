@@ -1,18 +1,57 @@
 ---
-source_file: "daw2005_uncertainty_prefrontal_striatal.md"
-paper_id: "daw2005_uncertainty_prefrontal_striatal"
+source_file: daw2005_uncertainty_prefrontal_striatal.md
+paper_id: daw2005_uncertainty_prefrontal_striatal
 title: "Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control"
-authors: "Nathaniel D Daw, Yael Niv, Peter Dayan"
+authors:
+  - "Nathaniel D Daw"
+  - "Yael Niv"
+  - "Peter Dayan"
 year: 2005
 journal: "Nature Neuroscience"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["rat"]
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "infralimbic_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "amygdala", "basolateral_amygdala"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "temporal_difference_learning"]
-keywords: ["uncertainty", "based", "competition", "between", "prefrontal", "dorsolateral", "striatal", "systems", "behavioral", "control"]
-key_citations: ["coutureau2003_infralimbic_prefrontal_goal"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - rat
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - infralimbic_cortex
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - amygdala
+  - basolateral_amygdala
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - temporal_difference_learning
+keywords:
+  - model_based_reinforcement_learning
+  - model_free_reinforcement_learning
+  - habitual_control
+  - goal_directed_control
+  - outcome_devaluation
+  - bayesian_arbitration
+  - uncertainty_based_competition
+  - dual_controller_architecture
+  - corticostriatal_systems
+  - temporal_difference_learning
+  - prefrontal_striatal_competition
+  - instrumental_conditioning
+  - uncertainty
+  - based
+  - competition
+  - between
+  - prefrontal
+  - dorsolateral
+  - striatal
+  - systems
+key_citations:
+  - coutureau2003_infralimbic_prefrontal_goal
 ---
 
 ### One-line summary

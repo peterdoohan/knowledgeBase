@@ -1,16 +1,54 @@
 ---
-source_file: "mahn2018_soma_targeted_gtacr.md"
-paper_id: "mahn2018_soma_targeted_gtacr"
+source_file: mahn2018_soma_targeted_gtacr.md
+paper_id: mahn2018_soma_targeted_gtacr
 title: "High-efficiency optogenetic silencing with soma-targeted anion-conducting channelrhodopsins"
-authors: "Mathias Mahn, Lihi Gibor, Pritish Patil, Katayun Cohen-Kashi Malina, Shir Oring, Yoav Printz, Rivka Levy, Ilan Lampl, Ofer Yizhar"
+authors:
+  - "Mathias Mahn"
+  - "Lihi Gibor"
+  - "Pritish Patil"
+  - "Katayun Cohen-Kashi Malina"
+  - "Shir Oring"
+  - "Yoav Printz"
+  - "Rivka Levy"
+  - "Ilan Lampl"
+  - "Ofer Yizhar"
 year: 2018
 journal: "Nature Communications"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse", "rat"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "nucleus_accumbens", "amygdala", "basolateral_amygdala"]
-keywords: ["high", "efficiency", "optogenetic", "silencing", "soma", "targeted", "anion", "conducting", "channelrhodopsins"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+  - rat
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - nucleus_accumbens
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - optogenetics
+  - channelrhodopsin
+  - gtacr2
+  - neuronal_silencing
+  - soma_targeting
+  - anion_channel
+  - chloride_conductance
+  - antidromic_spiking
+  - fear_extinction
+  - basolateral_amygdala
+  - medial_prefrontal_cortex
+  - kcc2
+  - kv2_1_trafficking_motif
+  - high
+  - efficiency
+  - optogenetic
+  - silencing
+  - soma
+  - targeted
+  - anion
 ---
 
 ### One-line summary

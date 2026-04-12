@@ -1,15 +1,42 @@
 ---
-source_file: "pachitariu2023_kilosort_spike_sorting.md"
-paper_id: "pachitariu2023_kilosort_spike_sorting"
+source_file: pachitariu2023_kilosort_spike_sorting.md
+paper_id: pachitariu2023_kilosort_spike_sorting
 title: "Solving the spike sorting problem with Kilosort"
-authors: "Marius Pachitariu, Shashwat Sridhar, Carsen Stringer"
+authors:
+  - "Marius Pachitariu"
+  - "Shashwat Sridhar"
+  - "Carsen Stringer"
 year: 2023
 journal: "bioRxiv (preprint, posted January 7, 2023)"
-paper_type: "computational"
-contribution_type: "methodological"
-methods: ["electrophysiology", "neuropixels"]
-keywords: ["solving", "spike", "sorting", "problem", "kilosort"]
-key_citations: ["buccino2020_spikeinterface_spike_sorting"]
+paper_type: computational
+contribution_type: methodological
+species:
+  - human
+methods:
+  - electrophysiology
+  - neuropixels
+keywords:
+  - spike_sorting
+  - extracellular_electrophysiology
+  - neuropixels
+  - probe_drift
+  - drift_correction
+  - template_deconvolution
+  - matching_pursuit
+  - graph_based_clustering
+  - modularity_optimization
+  - refractory_period
+  - spike_waveform
+  - gpu_acceleration
+  - pytorch
+  - simulation_benchmark
+  - solving
+  - spike
+  - sorting
+  - problem
+  - kilosort
+key_citations:
+  - buccino2020_spikeinterface_spike_sorting
 ---
 
 ### One-line summary

@@ -1,14 +1,40 @@
 ---
-source_file: "weber2004_gap_junction_permeability.md"
-paper_id: "weber2004_gap_junction_permeability"
+source_file: weber2004_gap_junction_permeability.md
+paper_id: weber2004_gap_junction_permeability
 title: "The Permeability of Gap Junction Channels to Probes of Different Size Is Dependent on Connexin Composition and Permeant-Pore Affinities"
-authors: "Paul A. Weber, Hou-Chien Chang, Kris E. Spaeth, Johannes M. Nitsche, Bruce J. Nicholson"
+authors:
+  - "Paul A. Weber"
+  - "Hou-Chien Chang"
+  - "Kris E. Spaeth"
+  - "Johannes M. Nitsche"
+  - "Bruce J. Nicholson"
 year: 2004
 journal: "Biophysical Journal"
-paper_type: "empirical"
-contribution_type: "empirical"
-methods: ["calcium_imaging"]
-keywords: ["permeability", "gap", "junction", "channels", "probes", "different", "size", "dependent", "connexin", "composition"]
+paper_type: empirical
+contribution_type: empirical
+methods:
+  - calcium_imaging
+keywords:
+  - gap_junctions
+  - connexins_cx26
+  - cx32
+  - cx37
+  - cx40
+  - cx43
+  - cx45
+  - size_selectivity
+  - dye_permeability
+  - alexa_fluorophores
+  - single_channel_permeability
+  - permeant_pore_affinity
+  - heterotypic_channels
+  - hindered_diffusion
+  - xenopus_oocytes
+  - permeability
+  - gap
+  - junction
+  - channels
+  - probes
 ---
 
 ### One-line summary

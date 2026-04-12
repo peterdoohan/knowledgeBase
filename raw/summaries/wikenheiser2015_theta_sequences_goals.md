@@ -1,17 +1,50 @@
 ---
-source_file: "wikenheiser2015_theta_sequences_goals.md"
-paper_id: "wikenheiser2015_theta_sequences_goals"
+source_file: wikenheiser2015_theta_sequences_goals.md
+paper_id: wikenheiser2015_theta_sequences_goals
 title: "Hippocampal theta sequences reflect current goals"
-authors: "Andrew M Wikenheiser, A David Redish"
+authors:
+  - "Andrew M Wikenheiser"
+  - "A David Redish"
 year: 2015
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["foraging_task", "navigation_task"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "striatum", "ventral_striatum"]
-keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map", "skaggs_et_al_1996_theta_phase_precession_and_sequence_compression", "dragoi_and_buzsaki_2006_temporal_encoding_of_place_sequences", "gupta_et_al_2012_segmentation_of_spatial_experience_by_theta_sequences", "johnson_and_redish_2007_ca3_ensemble_representations_of_forward_paths", "pfeiffer_and_foster_2013_hippocampal_place_cell_sequences_depict_future_paths_to_goals", "jadhav_et_al_2012_awake_hippocampal_sharp_wave_ripples_support_spatial_memory", "named_models_or_frameworks", "theta_sequences_phase_precession", "cognitive_map_theory", "prospective_coding_planning", "value_guided_decision_making", "brain_regions", "hippocampus_ca1_dorsal", "hippocampus_ca3", "ventral_striatum", "prefrontal_cortex_pfc", "keywords", "hippocampus", "theta_oscillations"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - foraging_task
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+keywords:
+  - hippocampus
+  - theta_oscillations
+  - theta_sequences
+  - place_cells
+  - phase_precession
+  - goal_directed_behavior
+  - spatial_navigation
+  - prospective_coding
+  - decision_making
+  - volitional_behavior
+  - ensemble_activity
+  - cognitive_map
+  - foraging
+  - ca1
+  - spatial_planning
+  - hippocampal
+  - theta
+  - sequences
+  - reflect
+  - current
+key_citations:
+  - gupta2012_theta_sequences_experience
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

@@ -1,18 +1,48 @@
 ---
-source_file: "binz2024_meta_learning_cognition.md"
-paper_id: "binz2024_meta_learning_cognition"
+source_file: binz2024_meta_learning_cognition.md
+paper_id: binz2024_meta_learning_cognition
 title: "Meta-Learned Models of Cognition"
-authors: "Marcel Binz, Ishita Dasgupta, Akshay Jagadish, Matthew Botvinick, Jane X. Wang, Eric Schulz"
+authors:
+  - "Marcel Binz"
+  - "Ishita Dasgupta"
+  - "Akshay Jagadish"
+  - "Matthew Botvinick"
+  - "Jane X. Wang"
+  - "Eric Schulz"
 year: 2024
 journal: "Psychological Review (preprint / in press)"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-tasks: ["two_step_task"]
-brain_regions: ["hippocampus", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "bayesian_inference"]
-keywords: ["meta", "learned", "models", "cognition"]
-key_citations: ["kemp2008_structural_discovery_form"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+tasks:
+  - two_step_task
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - bayesian_inference
+keywords:
+  - meta_learning
+  - rational_analysis_of_cognition
+  - bayes_optimal_inference
+  - resource_rationality
+  - recurrent_neural_networks
+  - cognitive_biases_and_heuristics
+  - model_based_reinforcement_learning
+  - algorithmic_complexity
+  - computational_complexity
+  - prefrontal_cortex_meta_rl
+  - in_context_learning
+  - domain_general_cognitive_model
+  - meta
+  - learned
+  - models
+  - cognition
+key_citations:
+  - kemp2008_structural_discovery_form
 ---
 
 ### One-line summary

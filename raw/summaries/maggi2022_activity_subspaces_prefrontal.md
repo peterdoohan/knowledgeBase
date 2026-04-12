@@ -1,19 +1,54 @@
 ---
-source_file: "maggi2022_activity_subspaces_prefrontal.md"
-paper_id: "maggi2022_activity_subspaces_prefrontal"
+source_file: maggi2022_activity_subspaces_prefrontal.md
+paper_id: maggi2022_activity_subspaces_prefrontal
 title: "Activity Subspaces in Medial Prefrontal Cortex Distinguish States of the World"
-authors: "Silvia Maggi, Mark D. Humphries"
+authors:
+  - "Silvia Maggi"
+  - "Mark D. Humphries"
 year: 2022
 journal: "The Journal of Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["y_maze"]
-methods: ["tetrode_recording", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "infralimbic_cortex"]
-frameworks: ["reinforcement_learning", "mixed_selectivity"]
-keywords: ["activity", "subspaces", "medial", "prefrontal", "cortex", "distinguish", "states", "world"]
-key_citations: ["fusi2016_mixed_selectivity_cognition", "ito2015_prefrontal_thalamic_hippocampus"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - y_maze
+methods:
+  - tetrode_recording
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - infralimbic_cortex
+frameworks:
+  - reinforcement_learning
+  - mixed_selectivity
+keywords:
+  - activity_subspaces
+  - population_geometry
+  - linear_decoding
+  - orthogonal_coding_axes
+  - medial_prefrontal_cortex
+  - world_state_representation
+  - interference_problem
+  - intertrial_interval
+  - sleep_reactivation
+  - rule_learning
+  - mixed_selectivity
+  - working_memory
+  - activity
+  - subspaces
+  - medial
+  - prefrontal
+  - cortex
+  - distinguish
+  - states
+  - world
+key_citations:
+  - fusi2016_mixed_selectivity_cognition
+  - ito2015_prefrontal_thalamic_hippocampus
 ---
 
 ### One-line summary

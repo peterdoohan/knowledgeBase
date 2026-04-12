@@ -1,13 +1,32 @@
 ---
-source_file: "barlow1959_sensory_transformations.md"
-paper_id: "barlow1959_sensory_transformations"
+source_file: barlow1959_sensory_transformations.md
+paper_id: barlow1959_sensory_transformations
 title: "Possible Principles Underlying the Transformations of Sensory Messages"
-authors: "H. B. Barlow"
+authors:
+  - "H. B. Barlow"
 year: 1959
 journal: "In W. A. Rosenblith (Ed.), Sensory Communication (MIT Press chapter)"
-paper_type: "review"
-contribution_type: "theoretical"
-keywords: ["possible", "principles", "underlying", "transformations", "sensory", "messages"]
+paper_type: review
+contribution_type: theoretical
+keywords:
+  - redundancy_reduction
+  - efficient_coding
+  - information_theory
+  - sensory_relay
+  - neural_coding
+  - sparse_coding
+  - receptive_field
+  - feature_detection
+  - password_hypothesis
+  - neural_recoding
+  - sensory_transformation
+  - predictive_coding_precursor
+  - possible
+  - principles
+  - underlying
+  - transformations
+  - sensory
+  - messages
 ---
 
 ### One-line summary

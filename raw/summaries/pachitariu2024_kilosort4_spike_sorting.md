@@ -1,16 +1,44 @@
 ---
-source_file: "pachitariu2024_kilosort4_spike_sorting.md"
-paper_id: "pachitariu2024_kilosort4_spike_sorting"
+source_file: pachitariu2024_kilosort4_spike_sorting.md
+paper_id: pachitariu2024_kilosort4_spike_sorting
 title: "Spike sorting with Kilosort4"
-authors: "Marius Pachitariu, Shashwat Sridhar, Jacob Pennington, Carsen Stringer"
+authors:
+  - "Marius Pachitariu"
+  - "Shashwat Sridhar"
+  - "Jacob Pennington"
+  - "Carsen Stringer"
 year: 2024
 journal: "Nature Methods"
-paper_type: "computational"
-contribution_type: "methodological"
-methods: ["electrophysiology", "neuropixels"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "anterior_cingulate_cortex", "prelimbic_cortex", "striatum", "thalamus", "visual_cortex"]
-keywords: ["spike", "sorting", "kilosort4"]
-key_citations: ["buccino2020_spikeinterface_spike_sorting"]
+paper_type: computational
+contribution_type: methodological
+methods:
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - anterior_cingulate_cortex
+  - prelimbic_cortex
+  - striatum
+  - thalamus
+  - visual_cortex
+keywords:
+  - spike_sorting
+  - kilosort4
+  - graph_based_clustering
+  - modularity_optimisation
+  - merging_tree
+  - template_deconvolution
+  - matching_pursuit
+  - probe_drift_correction
+  - neuropixels
+  - extracellular_electrophysiology
+  - ground_truth_simulation
+  - benchmark
+  - spike
+  - sorting
+key_citations:
+  - buccino2020_spikeinterface_spike_sorting
 ---
 
 ### One-line summary

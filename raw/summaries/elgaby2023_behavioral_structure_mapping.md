@@ -1,17 +1,60 @@
 ---
-source_file: "elgaby2023_behavioral_structure_mapping.md"
-paper_id: "elgaby2023_behavioral_structure_mapping"
+source_file: elgaby2023_behavioral_structure_mapping.md
+paper_id: elgaby2023_behavioral_structure_mapping
 title: "A Cellular Basis for Mapping Behavioural Structure"
-authors: "Mohamady El-Gaby, Adam Loyd Harris, James C. R. Whittington, William Dorrell, Arya Bhomick, Mark E. Walton, Thomas Akam, Tim E. J. Behrens"
+authors:
+  - "Mohamady El-Gaby"
+  - "Adam Loyd Harris"
+  - "James C. R. Whittington"
+  - "William Dorrell"
+  - "Arya Bhomick"
+  - "Mark E. Walton"
+  - "Thomas Akam"
+  - "Tim E. J. Behrens"
 year: 2023
 journal: "bioRxiv (preprint, doi: 10.1101/2023.11.04.565609)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["electrophysiology", "behavioral_analysis"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "striatum", "thalamus"]
-frameworks: ["attractor_networks", "tolman_eichenbaum_machine"]
-keywords: ["hafting_et_al_2005_nature_grid_cells_in_entorhinal_cortex", "modular_organisation", "behrens_et_al_2018_neuron_cognitive_maps_and_flexible_behaviour", "whittington_et_al_2020_cell_tolman_eichenbaum_machine", "tse_et_al_2007_science_schemas_and_memory_consolidation", "wallis", "anderson_and_miller_2001_nature_abstract_rule_coding_in_pfc", "samborska_et_al_2021_biorxiv_complementary_task_representations_in_hippocampus_and_pfc", "chiang_and_wallis_2018_pnas_spatiotemporal_encoding_of_search_strategies_by_pfc_neurons", "basu_et_al_2021_nature_orbitofrontal_cortex_maps_future_navigational_goals", "bernardi_et_al_2020_cell_geometry_of_abstraction_in_hippocampus_and_pfc", "named_models_or_frameworks", "structured_memory_buffer_smb_model", "abcd_paradigm_task", "ring_attractor_dynamics", "goal_progress_cells", "brain_regions", "medial_frontal_cortex_mfc_prelimbic_cortex", "hippocampus", "medial_entorhinal_cortex_mec"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - electrophysiology
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - prelimbic_cortex
+  - striatum
+  - thalamus
+frameworks:
+  - attractor_networks
+  - tolman_eichenbaum_machine
+keywords:
+  - goal_progress_cells
+  - structured_memory_buffers
+  - behavioural_schema
+  - task_space_mapping
+  - ring_attractor
+  - modular_organisation
+  - zero_shot_inference
+  - abstract_task_structure
+  - prelimbic_cortex
+  - sequence_memory
+  - mnemonic_fields
+  - cognitive_map
+  - cellular
+  - basis
+  - mapping
+  - behavioural
+  - structure
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
+  - whittington2020_tolman_eichenbaum_machine
+  - samborska2021_hippocampus_prefrontal_gen_b
+  - basu2021_ofc_navigation_goals
 ---
 
 ### One-line summary

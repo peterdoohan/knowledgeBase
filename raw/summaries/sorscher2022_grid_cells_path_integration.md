@@ -1,16 +1,45 @@
 ---
-source_file: "sorscher2022_grid_cells_path_integration.md"
-paper_id: "sorscher2022_grid_cells_path_integration"
+source_file: sorscher2022_grid_cells_path_integration.md
+paper_id: sorscher2022_grid_cells_path_integration
 title: "When and why grid cells appear in trained path integrators"
-authors: "Ben Sorscher, Gabriel C. Mel, Aran Nayebi, Lisa Giocomo, Daniel Yamins, Surya Ganguli"
+authors:
+  - "Ben Sorscher"
+  - "Gabriel C. Mel"
+  - "Aran Nayebi"
+  - "Lisa Giocomo"
+  - "Daniel Yamins"
+  - "Surya Ganguli"
 year: 2022
-journal: "bioRxiv"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-keywords: ["cueva_and_wei_2018_emergence_of_grid_like_representations_by_training_rnns_to_perform_spatial_localization", "banino_et_al_2018_vector_based_navigation_using_grid_like_representations_in_artificial_agents", "sorscher_et_al_2019_a_unified_theory_for_the_origin_of_grid_cells_through_the_lens_of_pattern_formation", "sorscher_et_al_2020_a_unified_theory_for_the_computational_and_mechanistic_origins_of_grid_cells_neuron", "hafting_et_al_2005_microstructure_of_a_spatial_map_in_the_entorhinal_cortex_discovery_of_grid_cells", "schaeffer_et_al_2022_no_free_lunch_from_deep_learning_in_neuroscience_the_work_being_critiqued", "named_models_or_frameworks", "path_integrator_circuits_position_encoding_problem", "pattern_formation_theory", "difference_of_softmaxes_dos_place_cell_structure", "difference_of_gaussians_dog_place_cell_structure", "fourier_spectral_analysis_of_place_cell_correlation_matrices", "nonnegative_firing_rate_constraints", "brain_regions", "medial_entorhinal_cortex_mec", "hippocampus", "entorhinal_hippocampal_circuit", "keywords", "grid_cells", "path_integration"]
-key_citations: ["schaeffer2022_no_free_lunch_deep_learning_neuroscience"]
+journal: bioRxiv
+paper_type: computational
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+keywords:
+  - grid_cells
+  - path_integration
+  - pattern_formation
+  - place_cells
+  - neural_network_training
+  - entorhinal_cortex
+  - spatial_navigation
+  - fourier_analysis
+  - correlation_structure
+  - computational_neuroscience
+  - deep_learning
+  - spectral_theory
+  - receptive_fields
+  - dorsoventral_organization
+  - when
+  - why
+  - grid
+  - cells
+  - appear
+  - trained
+key_citations:
+  - schaeffer2022_no_free_lunch_deep_learning_neuroscience
 ---
 
 ### One-line summary

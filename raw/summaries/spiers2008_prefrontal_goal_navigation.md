@@ -1,17 +1,50 @@
 ---
-source_file: "spiers2008_prefrontal_goal_navigation.md"
-paper_id: "spiers2008_prefrontal_goal_navigation"
+source_file: spiers2008_prefrontal_goal_navigation.md
+paper_id: spiers2008_prefrontal_goal_navigation
 title: "Keeping the goal in mind: Prefrontal contributions to spatial navigation"
-authors: "Hugo J. Spiers"
+authors:
+  - "Hugo J. Spiers"
 year: 2008
-journal: "Neuropsychologia"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["electrophysiology", "lesion"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "infralimbic_cortex", "retrosplenial_cortex"]
-keywords: ["ciaramelli_2008_primary_case_study_discussed", "spiers_and_maguire_2006", "2007b_neuroimaging_studies_with_london_taxi_drivers", "shallice_and_burgess_1991_supervisory_attentional_system_and_goal_maintenance", "burgess_et_al_2000_multitasking_and_prefrontal_function", "fellows_and_farah_2003_reversal_learning_and_vmpfc", "feierstein_et_al_2006_spatial_goal_coding_in_rodent_orbitofrontal_cortex", "hok_et_al_2005_spatial_goal_coding_in_rodent_prelimbic_infralimbic_cortex", "named_models_or_frameworks", "working_memory_model_baddeley", "cited_implicitly", "supervisory_attentional_system_shallice_and_burgess", "1991", "attractor_dynamics_used_descriptively", "not_formally_modeled", "navigation_network_hippocampal_cortical_system", "brain_regions", "ventromedial_prefrontal_cortex_vmpfc", "rostral_anterior_cingulate_cortex", "anterior_ba10_frontopolar_cortex"]
+journal: Neuropsychologia
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - electrophysiology
+  - lesion
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - infralimbic_cortex
+  - retrosplenial_cortex
+keywords:
+  - spatial_navigation
+  - wayfinding
+  - ventromedial_prefrontal_cortex
+  - goal_maintenance
+  - working_memory
+  - inhibition
+  - attractor_states
+  - topographical_disorientation
+  - spatial_memory
+  - neuropsychology
+  - prefrontal_cortex
+  - intention
+  - keeping
+  - goal
+  - mind
+  - prefrontal
+  - contributions
+  - spatial
+  - navigation
+key_citations:
+  - ciaramelli2008_vmPFC_wayfinding_navigation
+  - hok2005_goal_coding_prefrontal
 ---
 
 ### One-line summary

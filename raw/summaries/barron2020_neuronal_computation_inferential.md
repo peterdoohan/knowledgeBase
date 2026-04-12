@@ -1,18 +1,67 @@
 ---
-source_file: "barron2020_neuronal_computation_inferential.md"
-paper_id: "barron2020_neuronal_computation_inferential"
+source_file: barron2020_neuronal_computation_inferential.md
+paper_id: barron2020_neuronal_computation_inferential
 title: "Neuronal Computation Underlying Inferential Reasoning in Humans and Mice"
-authors: "Helen C. Barron, Hayley M. Reeve, Ren\u00e9e S. Koolschijn, Pavel V. Perestenko, Anna Shpektor, Hamed Nili, Roman Rothaermel, Natalia Campo-Urriza, Jill X. O'Reilly, David M. Bannerman, Timothy E.J. Behrens, David Dupret"
+authors:
+  - "Helen C. Barron"
+  - "Hayley M. Reeve"
+  - "Renée S. Koolschijn"
+  - "Pavel V. Perestenko"
+  - "Anna Shpektor"
+  - "Hamed Nili"
+  - "Roman Rothaermel"
+  - "Natalia Campo-Urriza"
+  - "Jill X. O'Reilly"
+  - "David M. Bannerman"
+  - "Timothy E.J. Behrens"
+  - "David Dupret"
 year: 2020
-journal: "Cell"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse", "human"]
-methods: ["optogenetics", "electrophysiology", "tetrode_recording", "fmri", "representational_similarity_analysis", "lesion", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "retrosplenial_cortex", "visual_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
-keywords: ["neuronal", "computation", "underlying", "inferential", "reasoning", "humans", "mice"]
-key_citations: ["daw2005_uncertainty_prefrontal_striatal"]
+journal: Cell
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+  - tetrode_recording
+  - fmri
+  - representational_similarity_analysis
+  - lesion
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - retrosplenial_cortex
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+keywords:
+  - inferential_reasoning
+  - hippocampal_prospective_code
+  - sharp_wave_ripples
+  - sensory_preconditioning
+  - representational_similarity_analysis
+  - model_based_reinforcement_learning
+  - cognitive_map
+  - memory_replay
+  - optogenetics
+  - cross_species_approach
+  - mnemonic_short_cut
+  - reverse_replay
+  - neuronal
+  - computation
+  - underlying
+  - inferential
+  - reasoning
+  - humans
+  - mice
+key_citations:
+  - daw2005_uncertainty_prefrontal_striatal
 ---
 
 ### One-line summary

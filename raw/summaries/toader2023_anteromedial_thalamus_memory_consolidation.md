@@ -1,16 +1,57 @@
 ---
-source_file: "toader2023_anteromedial_thalamus_memory_consolidation.md"
-paper_id: "toader2023_anteromedial_thalamus_memory_consolidation"
+source_file: toader2023_anteromedial_thalamus_memory_consolidation.md
+paper_id: toader2023_anteromedial_thalamus_memory_consolidation
 title: "Anteromedial thalamus gates the selection and stabilization of long-term memories"
-authors: "Andrew C. Toader, Josue M. Regalado, Yan Ran Li, Andrea Terceros, Nakul Yadav, Suraj Kumar, Sloane Satow, Florian Hollunder, Alessandra Bonito-Oliva, Priya Rajasethupathy"
+authors:
+  - "Andrew C. Toader"
+  - "Josue M. Regalado"
+  - "Yan Ran Li"
+  - "Andrea Terceros"
+  - "Nakul Yadav"
+  - "Suraj Kumar"
+  - "Sloane Satow"
+  - "Florian Hollunder"
+  - "Alessandra Bonito-Oliva"
+  - "Priya Rajasethupathy"
 year: 2023
-journal: "Cell"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "optogenetics"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "anterior_cingulate_cortex", "retrosplenial_cortex", "thalamus", "amygdala", "basolateral_amygdala"]
-keywords: ["anteromedial", "thalamus", "gates", "selection", "stabilization", "long", "term", "memories"]
+journal: Cell
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - optogenetics
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - anterior_cingulate_cortex
+  - retrosplenial_cortex
+  - thalamus
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - systems_memory_consolidation
+  - anteromedial_thalamus
+  - thalamo_cortical_circuit
+  - memory_selection_and_stabilisation
+  - longitudinal_calcium_imaging
+  - multi_region_imaging
+  - optogenetic_projection_manipulation
+  - inter_regional_functional_coupling
+  - cortical_ensemble_synchrony
+  - salience_encoding
+  - remote_memory_retrieval
+  - virtual_reality_memory_task
+  - anteromedial
+  - thalamus
+  - gates
+  - selection
+  - stabilization
+  - long
+  - term
+  - memories
 ---
 
 ### One-line summary

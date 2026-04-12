@@ -1,17 +1,43 @@
 ---
-source_file: "mcnamara2017_dopamine_hippocampus.md"
-paper_id: "mcnamara2017_dopamine_hippocampus"
+source_file: mcnamara2017_dopamine_hippocampus.md
+paper_id: mcnamara2017_dopamine_hippocampus
 title: "Two sources of dopamine for the hippocampus"
-authors: "Colin G. McNamara, David Dupret"
+authors:
+  - "Colin G. McNamara"
+  - "David Dupret"
 year: 2017
 journal: "Trends in Neurosciences"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["mouse"]
-methods: ["optogenetics"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex", "ventral_tegmental_area"]
-frameworks: ["reinforcement_learning"]
-keywords: ["two", "sources", "dopamine", "hippocampus"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - mouse
+methods:
+  - optogenetics
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - prefrontal_cortex
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+keywords:
+  - dopamine_co_release_from_noradrenergic_terminals
+  - locus_coeruleus_hippocampus_dopamine
+  - hippocampal_memory_consolidation
+  - novelty_dependent_plasticity
+  - d1_d5_receptor_dependent_ltp
+  - vta_hippocampus_projection
+  - optogenetic_circuit_dissection
+  - catecholamine_co_transmission
+  - spatial_memory_persistence
+  - hippocampal_offline_reactivation
+  - dual_dopaminergic_pathways
+  - neuromodulatory_gating_of_plasticity
+  - two
+  - sources
+  - dopamine
+  - hippocampus
 ---
 
 ### One-line summary

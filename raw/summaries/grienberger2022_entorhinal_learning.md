@@ -1,16 +1,46 @@
 ---
-source_file: "grienberger2022_entorhinal_learning.md"
-paper_id: "grienberger2022_entorhinal_learning"
+source_file: grienberger2022_entorhinal_learning.md
+paper_id: grienberger2022_entorhinal_learning
 title: "Entorhinal cortex directs learning-related changes in CA1 representations"
-authors: "Christine Grienberger, Jeffrey C. Magee"
+authors:
+  - "Christine Grienberger"
+  - "Jeffrey C. Magee"
 year: 2022
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging", "optogenetics", "computational_modeling"]
-brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
-keywords: ["entorhinal", "cortex", "directs", "learning", "related", "changes", "ca1", "representations"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - optogenetics
+  - computational_modeling
+brain_regions:
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+keywords:
+  - behavioural_timescale_synaptic_plasticity_btsp
+  - ca1_place_cell_over_representation
+  - dendritic_plateau_potentials
+  - entorhinal_cortex_layer_3_instructive_signal
+  - target_signal_vs_error_signal_learning
+  - spatial_reward_learning
+  - two_photon_calcium_imaging
+  - optogenetic_circuit_dissection
+  - markov_chain_model_of_persistent_firing
+  - cav2_3_plateau_initiation
+  - hippocampal_map_formation
+  - supervised_synaptic_plasticity
+  - entorhinal
+  - cortex
+  - directs
+  - learning
+  - related
+  - changes
+  - ca1
+  - representations
 ---
 
 ### One-line summary

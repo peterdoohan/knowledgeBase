@@ -1,15 +1,38 @@
 ---
-source_file: "dayan1993_successor_representation.md"
-paper_id: "dayan1993_successor_representation"
+source_file: dayan1993_successor_representation.md
+paper_id: dayan1993_successor_representation
 title: "Improving Generalisation for Temporal Difference Learning: The Successor Representation"
-authors: "Peter Dayan"
+authors:
+  - "Peter Dayan"
 year: 1993
 journal: "Neural Computation"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-frameworks: ["reinforcement_learning", "successor_representation", "temporal_difference_learning"]
-keywords: ["improving", "generalisation", "temporal", "difference", "learning", "successor", "representation"]
+paper_type: computational
+contribution_type: theoretical
+tasks:
+  - navigation_task
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - temporal_difference_learning
+keywords:
+  - successor_representation
+  - temporal_difference_learning
+  - function_approximation
+  - state_representation
+  - markov_chain
+  - future_state_occupancy
+  - latent_learning
+  - generalisation
+  - distributed_representations
+  - reinforcement_learning
+  - navigation
+  - policy_dependent_representation
+  - improving
+  - temporal
+  - difference
+  - learning
+  - successor
+  - representation
 ---
 
 ### One-line summary

@@ -1,17 +1,43 @@
 ---
-source_file: "lee2002_memory_sequential_experience.md"
-paper_id: "lee2002_memory_sequential_experience"
+source_file: lee2002_memory_sequential_experience.md
+paper_id: lee2002_memory_sequential_experience
 title: "Memory of Sequential Experience in the Hippocampus during Slow Wave Sleep"
-authors: "Albert K. Lee, Matthew A. Wilson"
+authors:
+  - "Albert K. Lee"
+  - "Matthew A. Wilson"
 year: 2002
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat", "human"]
-tasks: ["navigation_task"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
-keywords: ["memory", "sequential", "experience", "hippocampus", "during", "slow", "wave", "sleep"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+keywords:
+  - hippocampal_replay
+  - slow_wave_sleep
+  - place_cells
+  - sequential_memory
+  - temporal_compression
+  - sharp_wave_ripples
+  - spike_timing_dependent_plasticity
+  - sequence_decoding
+  - memory_consolidation
+  - spatial_navigation
+  - population_bursts
+  - combinatorial_sequence_analysis
+  - memory
+  - sequential
+  - experience
+  - hippocampus
+  - during
+  - slow
+  - wave
+  - sleep
 ---
 
 ### One-line summary

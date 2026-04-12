@@ -1,13 +1,34 @@
 ---
-source_file: "greenacre2022_principal_component_analysis.md"
-paper_id: "greenacre2022_principal_component_analysis"
+source_file: greenacre2022_principal_component_analysis.md
+paper_id: greenacre2022_principal_component_analysis
 title: "Principal component analysis"
-authors: "Michael Greenacre, Patrick J. F. Groenen, Trevor Hastie, Alfonso Iodice D'Enza, Angelos Markos, Elena Tuzhilina"
+authors:
+  - "Michael Greenacre"
+  - "Patrick J. F. Groenen"
+  - "Trevor Hastie"
+  - "Alfonso Iodice D'Enza"
+  - "Angelos Markos"
+  - "Elena Tuzhilina"
 year: 2022
 journal: "Nature Reviews Methods Primers"
-paper_type: "review"
-contribution_type: "methodological"
-keywords: ["principal", "component", "analysis"]
+paper_type: review
+contribution_type: methodological
+keywords:
+  - principal_component_analysis
+  - singular_value_decomposition
+  - biplot
+  - dimensionality_reduction
+  - low_rank_matrix_approximation
+  - sparse_pca
+  - correspondence_analysis
+  - logratio_analysis
+  - functional_pca
+  - matrix_completion
+  - missing_data_imputation
+  - multivariate_statistics
+  - principal
+  - component
+  - analysis
 ---
 
 ### One-line summary

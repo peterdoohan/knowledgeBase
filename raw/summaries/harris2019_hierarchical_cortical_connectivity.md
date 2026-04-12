@@ -1,15 +1,83 @@
 ---
-source_file: "harris2019_hierarchical_cortical_connectivity.md"
-paper_id: "harris2019_hierarchical_cortical_connectivity"
+source_file: harris2019_hierarchical_cortical_connectivity.md
+paper_id: harris2019_hierarchical_cortical_connectivity
 title: "Hierarchical organization of cortical and thalamic connectivity"
-authors: "Julie A. Harris, Stefan Mihalas, Karla E. Hirokawa, Jennifer D. Whitesell, Hannah Choi, Amy Bernard, Phillip Bohn, Shiella Caldejon, Linzy Casal, Andrew Cho, Aaron Feiner, David Feng, Nathalie Gaudreault, Charles R. Gerfen, Nile Graddis, Peter A. Groblewski, Alex M. Henry, Anh Ho, Robert Howard, Joseph E. Knox, Leonard Kuan, Xiuli Kuang, Jerome Lecoq, Phil Lesnar, Yaoyao Li, Jennifer Luviano, Stephen McConoughey, Marty T. Mortrud, Maitham Naeemi, Lydia Ng, Seung Wook Oh, Benjamin Ouellette, Elise Shen, Staci A. Sorensen, Wayne Wakeman, Quanxin Wang, Yun Wang, Ali Williford, John W. Phillips, Allan R. Jones, Christof Koch, Hongkui Zeng"
+authors:
+  - "Julie A. Harris"
+  - "Stefan Mihalas"
+  - "Karla E. Hirokawa"
+  - "Jennifer D. Whitesell"
+  - "Hannah Choi"
+  - "Amy Bernard"
+  - "Phillip Bohn"
+  - "Shiella Caldejon"
+  - "Linzy Casal"
+  - "Andrew Cho"
+  - "Aaron Feiner"
+  - "David Feng"
+  - "Nathalie Gaudreault"
+  - "Charles R. Gerfen"
+  - "Nile Graddis"
+  - "Peter A. Groblewski"
+  - "Alex M. Henry"
+  - "Anh Ho"
+  - "Robert Howard"
+  - "Joseph E. Knox"
+  - "Leonard Kuan"
+  - "Xiuli Kuang"
+  - "Jerome Lecoq"
+  - "Phil Lesnar"
+  - "Yaoyao Li"
+  - "Jennifer Luviano"
+  - "Stephen McConoughey"
+  - "Marty T. Mortrud"
+  - "Maitham Naeemi"
+  - "Lydia Ng"
+  - "Seung Wook Oh"
+  - "Benjamin Ouellette"
+  - "Elise Shen"
+  - "Staci A. Sorensen"
+  - "Wayne Wakeman"
+  - "Quanxin Wang"
+  - "Yun Wang"
+  - "Ali Williford"
+  - "John W. Phillips"
+  - "Allan R. Jones"
+  - "Christof Koch"
+  - "Hongkui Zeng"
 year: 2019
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-brain_regions: ["prelimbic_cortex", "retrosplenial_cortex", "thalamus", "mediodorsal_thalamus", "visual_cortex"]
-keywords: ["hierarchical", "organization", "cortical", "thalamic", "connectivity"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+brain_regions:
+  - prelimbic_cortex
+  - retrosplenial_cortex
+  - thalamus
+  - mediodorsal_thalamus
+  - visual_cortex
+keywords:
+  - mesoscale_connectome
+  - cortical_hierarchy
+  - feedforward_feedback
+  - laminar_termination_patterns
+  - cre_driver_lines
+  - thalamocortical_connectivity
+  - corticothalamic_connectivity
+  - allen_mouse_brain_connectivity_atlas
+  - cortical_modules
+  - projection_neuron_classes
+  - it_pt_ct_neurons
+  - global_hierarchy_score
+  - mouse_cortex
+  - shallow_hierarchy
+  - anterograde_viral_tracing
+  - hierarchical
+  - organization
+  - cortical
+  - thalamic
+  - connectivity
 ---
 
 ### One-line summary

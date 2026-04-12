@@ -1,17 +1,52 @@
 ---
-source_file: "knudsen2022_ofc_cognitive_map.md"
-paper_id: "knudsen2022_ofc_cognitive_map"
+source_file: knudsen2022_ofc_cognitive_map.md
+paper_id: knudsen2022_ofc_cognitive_map
 title: "Taking stock of value in the orbitofrontal cortex"
-authors: "Eric B. Knudsen, Joni D. Wallis"
+authors:
+  - "Eric B. Knudsen"
+  - "Joni D. Wallis"
 year: 2022
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["optogenetics", "lesion"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_striatum", "amygdala"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation"]
-keywords: ["taking", "stock", "value", "orbitofrontal", "cortex"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - optogenetics
+  - lesion
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - amygdala
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+keywords:
+  - orbitofrontal_cortex_value_coding
+  - cognitive_map_state_transition_graph
+  - model_based_reinforcement_learning
+  - successor_representation_hippocampus
+  - ofchippocampal_interaction
+  - reward_contingency_reversal_learning
+  - theta_oscillation_reward_learning
+  - hypothetical_outcome_coding
+  - value_place_fields
+  - prefrontal_decision_making
+  - goal_directed_behaviour
+  - stimulus_outcome_associations
+  - taking
+  - stock
+  - value
+  - orbitofrontal
+  - cortex
 ---
 
 ### One-line summary

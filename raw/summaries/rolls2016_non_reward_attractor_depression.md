@@ -1,17 +1,47 @@
 ---
-source_file: "rolls2016_non_reward_attractor_depression.md"
-paper_id: "rolls2016_non_reward_attractor_depression"
+source_file: rolls2016_non_reward_attractor_depression.md
+paper_id: rolls2016_non_reward_attractor_depression
 title: "A non-reward attractor theory of depression"
-authors: "Edmund T. Rolls"
+authors:
+  - "Edmund T. Rolls"
 year: 2016
 journal: "Neuroscience and Biobehavioral Reviews"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human", "macaque"]
-methods: ["fmri", "lesion"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "amygdala", "medial_temporal_lobe"]
-frameworks: ["attractor_networks"]
-keywords: ["non", "reward", "attractor", "theory", "depression"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - macaque
+methods:
+  - fmri
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - amygdala
+  - medial_temporal_lobe
+frameworks:
+  - attractor_networks
+keywords:
+  - depression
+  - mania
+  - bipolar_disorder
+  - orbitofrontal_cortex
+  - attractor_networks
+  - non_reward
+  - punishment
+  - reward_reversal
+  - nmda_receptors
+  - ketamine
+  - resting_state_functional_connectivity
+  - systems_neuroscience
+  - computational_psychiatry
+  - top_down_cognitive_effects
+  - ruminative_thoughts
+  - non
+  - reward
+  - attractor
+  - theory
 ---
 
 ### One-line summary

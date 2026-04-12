@@ -1,15 +1,48 @@
 ---
-source_file: "coutrot2022_entropy_street_navigation.md"
-paper_id: "coutrot2022_entropy_street_navigation"
+source_file: coutrot2022_entropy_street_navigation.md
+paper_id: coutrot2022_entropy_street_navigation
 title: "Entropy of city street networks linked to future spatial navigation ability"
-authors: "A. Coutrot, E. Manley, S. Goodroe, C. Gahnstrom, G. Filomena, D. Yesiltepe, R. C. Dalton, J. M. Wiener, C. H\u00f6lscher, M. Hornberger, H. J. Spiers"
+authors:
+  - "A. Coutrot"
+  - "E. Manley"
+  - "S. Goodroe"
+  - "C. Gahnstrom"
+  - "G. Filomena"
+  - "D. Yesiltepe"
+  - "R. C. Dalton"
+  - "J. M. Wiener"
+  - "C. Hölscher"
+  - "M. Hornberger"
+  - "H. J. Spiers"
 year: 2022
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-keywords: ["entropy", "city", "street", "networks", "linked", "future", "spatial", "navigation", "ability"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - navigation_task
+keywords:
+  - spatial_navigation
+  - wayfinding
+  - street_network_entropy
+  - urban_design
+  - environmental_enrichment
+  - cognitive_development
+  - sea_hero_quest
+  - shannon_entropy
+  - city_topology
+  - hippocampus
+  - cross_cultural
+  - mobile_game
+  - citizen_science
+  - entropy
+  - city
+  - street
+  - networks
+  - linked
+  - future
+  - spatial
 ---
 
 ### One-line summary

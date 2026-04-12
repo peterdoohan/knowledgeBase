@@ -1,16 +1,51 @@
 ---
-source_file: "roseberry2016_basal_ganglia_motor.md"
-paper_id: "roseberry2016_basal_ganglia_motor"
+source_file: roseberry2016_basal_ganglia_motor.md
+paper_id: roseberry2016_basal_ganglia_motor
 title: "Cell-Type-Specific Control of Brainstem Locomotor Circuits by Basal Ganglia"
-authors: "Thomas K. Roseberry, A. Moses Lee, Arnaud L. Lalive, Linda Wilbrecht, Antonello Bonci, Anatol C. Kreitzer"
+authors:
+  - "Thomas K. Roseberry"
+  - "A. Moses Lee"
+  - "Arnaud L. Lalive"
+  - "Linda Wilbrecht"
+  - "Antonello Bonci"
+  - "Anatol C. Kreitzer"
 year: 2016
-journal: "Cell"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["striatum", "substantia_nigra", "amygdala", "periaqueductal_gray"]
-keywords: ["key_citations_kravitz_et_al_2010_bg_pathways_and_locomotion", "lee_et_al_2014_mlr_and_cortical_state", "shik_et_al_1966_mlr_discovery", "hikosaka_et_al_2000_bg_and_saccades", "grillner_et_al_2005", "2008_locomotor_control", "albin_et_al_1989", "delong_1990_canonical_bg_model", "named_models_or_frameworks_canonical_bg_direct_indirect_pathway_model", "mlr_mesencephalic_locomotor_region", "disynaptic_disinhibition", "cell_type_specific_optogenetics", "brain_regions_basal_ganglia", "striatum", "substantia_nigra_pars_reticulata_snr", "mesencephalic_locomotor_region_mlr", "cuneiform_nucleus_cun", "pedunculopontine_tegmental_nucleus_pptg", "mesencephalic_reticular_nucleus_mrn", "spinal_cord"]
+journal: Cell
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - striatum
+  - substantia_nigra
+  - amygdala
+  - periaqueductal_gray
+keywords:
+  - basal_ganglia
+  - mesencephalic_locomotor_region
+  - mlr
+  - direct_pathway
+  - indirect_pathway
+  - dmsn
+  - imsn
+  - optogenetics
+  - cell_type_specific
+  - glutamatergic_neurons
+  - gabaergic_neurons
+  - cholinergic_neurons
+  - locomotion
+  - motor_control
+  - brainstem
+  - snr
+  - striatum
+  - rabies_tracing
+  - electrophysiology
+  - action_selection
+key_citations:
+  - kravitz2010_basal_ganglia_optogenetic
 ---
 
 ### One-line summary

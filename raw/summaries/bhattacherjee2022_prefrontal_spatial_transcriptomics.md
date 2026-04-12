@@ -1,16 +1,52 @@
 ---
-source_file: "bhattacherjee2022_prefrontal_spatial_transcriptomics.md"
-paper_id: "bhattacherjee2022_prefrontal_spatial_transcriptomics"
+source_file: bhattacherjee2022_prefrontal_spatial_transcriptomics.md
+paper_id: bhattacherjee2022_prefrontal_spatial_transcriptomics
 title: "Understanding prefrontal cortex functions by decoding its molecular, cellular and circuit organization"
-authors: "Aritra Bhattacherjee, Chao Zhang, Brianna Watson, Mohamed Nadhir Djekidel, Jeffrey R. Moffitt, Yi Zhang"
+authors:
+  - "Aritra Bhattacherjee"
+  - "Chao Zhang"
+  - "Brianna Watson"
+  - "Mohamed Nadhir Djekidel"
+  - "Jeffrey R. Moffitt"
+  - "Yi Zhang"
 year: 2022
 journal: "bioRxiv (preprint, posted December 29, 2022)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["behavioral_analysis"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "nucleus_accumbens", "amygdala", "periaqueductal_gray"]
-keywords: ["understanding", "prefrontal", "cortex", "functions", "decoding", "its", "molecular", "cellular", "circuit", "organization"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - behavioral_analysis
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - striatum
+  - nucleus_accumbens
+  - amygdala
+  - periaqueductal_gray
+keywords:
+  - spatial_transcriptomics
+  - merfish
+  - prefrontal_cortex
+  - cell_type_atlas
+  - projection_circuits
+  - chronic_pain
+  - descending_pain_inhibition
+  - l5_extra_telencephalic_neurons
+  - ion_channel_expression
+  - spared_nerve_injury
+  - activity_regulated_genes
+  - cortical_cell_composition
+  - understanding
+  - prefrontal
+  - cortex
+  - functions
+  - decoding
+  - its
+  - molecular
+  - cellular
 ---
 
 ### One-line summary

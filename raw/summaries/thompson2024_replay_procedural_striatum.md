@@ -1,17 +1,55 @@
 ---
-source_file: "thompson2024_replay_procedural_striatum.md"
-paper_id: "thompson2024_replay_procedural_striatum"
+source_file: thompson2024_replay_procedural_striatum.md
+paper_id: thompson2024_replay_procedural_striatum
 title: "Replay of procedural experience is independent of the hippocampus"
-authors: "Emmett J. Thompson, Lars Rollik, Benjamin Waked, Georgina Mills, Jasvin Kaur, Ben Geva, Rodrigo Carrasco-Davis, Tom George, Clementine Domine, William Dorrell, Marcus Stephenson-Jones"
+authors:
+  - "Emmett J. Thompson"
+  - "Lars Rollik"
+  - "Benjamin Waked"
+  - "Georgina Mills"
+  - "Jasvin Kaur"
+  - "Ben Geva"
+  - "Rodrigo Carrasco-Davis"
+  - "Tom George"
+  - "Clementine Domine"
+  - "William Dorrell"
+  - "Marcus Stephenson-Jones"
 year: 2024
-journal: "bioRxiv"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["bayesian_decoding", "lesion"]
-brain_regions: ["hippocampus", "striatum", "dorsomedial_striatum", "dorsolateral_striatum"]
-keywords: ["replay", "procedural", "experience", "independent", "hippocampus"]
-key_citations: ["girardeau2009_ripples_spatial_memory"]
+journal: bioRxiv
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - bayesian_decoding
+  - lesion
+brain_regions:
+  - hippocampus
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+keywords:
+  - procedural_memory
+  - motor_skill_learning
+  - replay
+  - sleep
+  - consolidation
+  - dorsolateral_striatum
+  - hippocampus
+  - neural_sequences
+  - point_process_model
+  - nmda_receptor
+  - offline_reactivation
+  - time_compressed_replay
+  - unsupervised_learning
+  - multiple_memory_systems
+  - neuropixel
+  - pp_seq
+  - procedural
+  - experience
+  - independent
+key_citations:
+  - girardeau2009_ripples_spatial_memory
 ---
 
 ### One-line summary

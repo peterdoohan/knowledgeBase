@@ -1,15 +1,44 @@
 ---
-source_file: "xing2019_connexin_hemichannels.md"
-paper_id: "xing2019_connexin_hemichannels"
+source_file: xing2019_connexin_hemichannels.md
+paper_id: xing2019_connexin_hemichannels
 title: "Connexin Hemichannels in Astrocytes: Role in CNS Disorders"
-authors: "LingYan Xing, Tuo Yang, ShuSen Cui, Gang Chen"
+authors:
+  - "LingYan Xing"
+  - "Tuo Yang"
+  - "ShuSen Cui"
+  - "Gang Chen"
 year: 2019
 journal: "Frontiers in Molecular Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse", "rat", "human"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "substantia_nigra"]
-keywords: ["connexin", "hemichannels", "astrocytes", "role", "cns", "disorders"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+  - rat
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - substantia_nigra
+keywords:
+  - astrocyte
+  - connexin_43_cx43
+  - hemichannel
+  - gap_junction
+  - gliotransmitter
+  - atp
+  - glutamate
+  - chemokine
+  - neuroinflammation
+  - alzheimers_disease
+  - glioma
+  - brain_ischemia
+  - chronic_pain
+  - temozolomide_resistance
+  - neuropathic_pain
+  - cx43_mimetic_peptide
+  - astrogliosis
+  - neurodegeneration
+  - connexin
+  - hemichannels
 ---
 
 ### One-line summary

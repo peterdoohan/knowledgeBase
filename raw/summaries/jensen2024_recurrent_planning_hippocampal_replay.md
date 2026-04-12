@@ -1,19 +1,53 @@
 ---
-source_file: "jensen2024_recurrent_planning_hippocampal_replay.md"
-paper_id: "jensen2024_recurrent_planning_hippocampal_replay"
+source_file: jensen2024_recurrent_planning_hippocampal_replay.md
+paper_id: jensen2024_recurrent_planning_hippocampal_replay
 title: "A recurrent network model of planning explains hippocampal replay and human behavior"
-authors: "Kristopher T. Jensen, Guillaume Hennequin, Marcelo G. Mattar"
+authors:
+  - "Kristopher T. Jensen"
+  - "Guillaume Hennequin"
+  - "Marcelo G. Mattar"
 year: 2024
 journal: "Nature Neuroscience"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["rat", "human"]
-tasks: ["navigation_task"]
-methods: ["tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl"]
-keywords: ["recurrent", "network", "model", "planning", "explains", "hippocampal", "replay", "human", "behavior"]
-key_citations: ["foster2017_replay_memory_consolidation", "jadhav2016_hippocampal_prefrontal_swr", "widloski2022_hippocampal_replay_barriers"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - rat
+tasks:
+  - navigation_task
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+keywords:
+  - meta_reinforcement_learning
+  - hippocampal_replay
+  - prefrontal_cortex
+  - policy_rollouts
+  - planning
+  - recurrent_neural_network
+  - hidden_state_optimisation
+  - thinking_time
+  - model_based_reinforcement_learning
+  - spatial_navigation
+  - forward_replay
+  - sharp_wave_ripples
+  - recurrent
+  - network
+  - model
+  - explains
+  - hippocampal
+  - replay
+  - human
+  - behavior
+key_citations:
+  - foster2017_replay_memory_consolidation
+  - jadhav2016_hippocampal_prefrontal_swr
+  - widloski2022_hippocampal_replay_barriers
 ---
 
 ### One-line summary

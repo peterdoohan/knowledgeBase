@@ -1,15 +1,40 @@
 ---
-source_file: "nimmerjahn2004_sulforhodamine_astroglia.md"
-paper_id: "nimmerjahn2004_sulforhodamine_astroglia"
+source_file: nimmerjahn2004_sulforhodamine_astroglia.md
+paper_id: nimmerjahn2004_sulforhodamine_astroglia
 title: "Sulforhodamine 101 as a specific marker of astroglia in the neocortex in vivo"
-authors: "Axel Nimmerjahn, Frank Kirchhoff, Jason N D Kerr, Fritjof Helmchen"
+authors:
+  - "Axel Nimmerjahn"
+  - "Frank Kirchhoff"
+  - "Jason N D Kerr"
+  - "Fritjof Helmchen"
 year: 2004
 journal: "Nature Methods"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse", "rat"]
-methods: ["calcium_imaging"]
-keywords: ["sulforhodamine", "101", "specific", "marker", "astroglia", "neocortex", "vivo"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+  - rat
+methods:
+  - calcium_imaging
+keywords:
+  - sulforhodamine_101_sr101
+  - astrocyte_labelling
+  - in_vivo_two_photon_microscopy
+  - protoplasmic_astrocytes
+  - calcium_imaging
+  - neuron_glia_communication
+  - gap_junction_coupling
+  - gliovascular_interface
+  - astrocyte_calcium_waves
+  - neocortex
+  - astroglia_specificity
+  - fluorescent_dye_marker
+  - sulforhodamine
+  - 101
+  - specific
+  - marker
+  - astroglia
+  - vivo
 ---
 
 ### One-line summary

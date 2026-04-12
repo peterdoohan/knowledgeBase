@@ -1,15 +1,50 @@
 ---
-source_file: "sahinovic2022_cbd_exercise_physiology.md"
-paper_id: "sahinovic2022_cbd_exercise_physiology"
+source_file: sahinovic2022_cbd_exercise_physiology.md
+paper_id: sahinovic2022_cbd_exercise_physiology
 title: "Effects of Cannabidiol on Exercise Physiology and Bioenergetics: A Randomised Controlled Pilot Trial"
-authors: "Ayshe Sahinovic, Christopher Irwin, Peter T. Doohan, Richard C. Kevin, Amanda J. Cox, Namson S. Lau, Ben Desbrow, Nathan A. Johnson, Angelo Sabag, Matthew Hislop, Paul S. Haber, Iain S. McGregor, Danielle McCartney"
+authors:
+  - "Ayshe Sahinovic"
+  - "Christopher Irwin"
+  - "Peter T. Doohan"
+  - "Richard C. Kevin"
+  - "Amanda J. Cox"
+  - "Namson S. Lau"
+  - "Ben Desbrow"
+  - "Nathan A. Johnson"
+  - "Angelo Sabag"
+  - "Matthew Hislop"
+  - "Paul S. Haber"
+  - "Iain S. McGregor"
+  - "Danielle McCartney"
 year: 2022
 journal: "Sports Medicine - Open"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-brain_regions: ["infralimbic_cortex"]
-keywords: ["lee_et_al_2014_statistical_interpretation_of_pilot_trials", "leweke_et_al_2012_cbd_enhances_anandamide_signaling_in_schizophrenia", "jadoon_et_al_2017_cbd_reduces_blood_pressure_in_healthy_volunteers", "raichlen_et_al_2012", "2013_exercise_induced_endocannabinoid_signaling_and_runners_high", "millar_et_al_2018_pharmacokinetics_of_cbd_in_humans", "mccartney_et_al_2020_cbd_and_sports_performance_narrative_review", "named_models_or_frameworks", "cohens_dz_effect_size_calculation_with_85_confidence_intervals_lee_et_al_2014_approach_for_pilot_trials", "feelings_scale_for_pleasure_displeasure_ratings_during_exercise", "borg_rpe_scale_6_20", "frayn_equations_for_substrate_oxidation_calculations", "brain_regions_not_applicable_peripheral_physiological_study", "keywords_cannabidiol", "cbd", "exercise_physiology", "aerobic_exercise", "vo2max", "endocannabinoid", "anandamide"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+brain_regions:
+  - infralimbic_cortex
+keywords:
+  - cannabidiol
+  - cbd
+  - exercise_physiology
+  - aerobic_exercise
+  - vo2max
+  - endocannabinoid
+  - anandamide
+  - inflammation
+  - cytokines
+  - runners_high
+  - sports_performance
+  - randomized_controlled_trial
+  - pilot_study
+  - endurance_exercise
+  - substrate_metabolism
+  - effects
+  - exercise
+  - physiology
+  - bioenergetics
+  - randomised
 ---
 
 ### One-line summary

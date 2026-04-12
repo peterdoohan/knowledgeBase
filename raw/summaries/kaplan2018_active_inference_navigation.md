@@ -1,18 +1,49 @@
 ---
-source_file: "kaplan2018_active_inference_navigation.md"
-paper_id: "kaplan2018_active_inference_navigation"
+source_file: kaplan2018_active_inference_navigation.md
+paper_id: kaplan2018_active_inference_navigation
 title: "Planning and navigation as active inference"
-authors: "Raphael Kaplan, Karl J. Friston"
+authors:
+  - "Raphael Kaplan"
+  - "Karl J. Friston"
 year: 2018
 journal: "Biological Cybernetics"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-methods: ["fmri"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventral_tegmental_area", "substantia_nigra"]
-frameworks: ["reinforcement_learning", "model_free_rl", "successor_representation", "active_inference", "bayesian_inference", "hierarchical_rl"]
-keywords: ["planning", "navigation", "active", "inference"]
-key_citations: ["stachenfeld2017_hippocampus_predictive_map"]
+paper_type: computational
+contribution_type: theoretical
+methods:
+  - fmri
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventral_tegmental_area
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+  - successor_representation
+  - active_inference
+  - bayesian_inference
+  - hierarchical_rl
+keywords:
+  - active_inference
+  - free_energy_minimisation
+  - epistemic_value
+  - novelty_and_salience
+  - spatial_navigation
+  - planning_under_uncertainty
+  - subgoal_decomposition
+  - explorationexploitation
+  - place_cells_vs_path_cells
+  - thetagamma_coupling
+  - dopamine_precision_updating
+  - markov_decision_process
+  - planning
+  - navigation
+  - active
+  - inference
+key_citations:
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

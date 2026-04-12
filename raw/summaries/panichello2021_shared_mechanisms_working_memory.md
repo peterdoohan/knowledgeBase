@@ -1,17 +1,43 @@
 ---
-source_file: "panichello2021_shared_mechanisms_working_memory.md"
-paper_id: "panichello2021_shared_mechanisms_working_memory"
+source_file: panichello2021_shared_mechanisms_working_memory.md
+paper_id: panichello2021_shared_mechanisms_working_memory
 title: "Shared mechanisms underlie the control of working memory and attention"
-authors: "Matthew F. Panichello, Timothy J. Buschman"
+authors:
+  - "Matthew F. Panichello"
+  - "Timothy J. Buschman"
 year: 2021
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque"]
-methods: ["electrophysiology", "behavioral_analysis"]
-brain_regions: ["prefrontal_cortex"]
-frameworks: ["mixed_selectivity"]
-keywords: ["shared", "mechanisms", "underlie", "control", "working", "memory", "attention"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+methods:
+  - electrophysiology
+  - behavioral_analysis
+brain_regions:
+  - prefrontal_cortex
+frameworks:
+  - mixed_selectivity
+keywords:
+  - working_memory_selection
+  - retrospective_cueing
+  - spatial_attention
+  - prefrontal_cortex_population_geometry
+  - neural_subspace_decomposition
+  - orthogonal_item_encoding
+  - representational_transformation
+  - domain_general_control
+  - mixed_selectivity
+  - cross_task_generalisation
+  - colour_wheel_delayed_estimation
+  - non_human_primate_electrophysiology
+  - shared
+  - mechanisms
+  - underlie
+  - control
+  - working
+  - memory
+  - attention
 ---
 
 ### One-line summary

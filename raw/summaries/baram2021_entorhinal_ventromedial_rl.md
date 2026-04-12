@@ -1,18 +1,64 @@
 ---
-source_file: "baram2021_entorhinal_ventromedial_rl.md"
-paper_id: "baram2021_entorhinal_ventromedial_rl"
+source_file: baram2021_entorhinal_ventromedial_rl.md
+paper_id: baram2021_entorhinal_ventromedial_rl
 title: "Entorhinal and ventromedial prefrontal cortices abstract and generalize the structure of reinforcement learning problems"
-authors: "Alon Boaz Baram, Timothy Howard Muller, Hamed Nili, Mona Maria Garvert, Timothy Edward John Behrens"
+authors:
+  - "Alon Boaz Baram"
+  - "Timothy Howard Muller"
+  - "Hamed Nili"
+  - "Mona Maria Garvert"
+  - "Timothy Edward John Behrens"
 year: 2021
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["fmri", "representational_similarity_analysis"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum", "amygdala", "posterior_cingulate_cortex"]
-frameworks: ["reinforcement_learning", "tolman_eichenbaum_machine"]
-keywords: ["entorhinal", "ventromedial", "prefrontal", "cortices", "abstract", "generalize", "structure", "reinforcement", "learning", "problems"]
-key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "garvert2017_relational_knowledge_maps", "whittington2020_tolman_eichenbaum_machine", "stachenfeld2017_hippocampus_predictive_map", "fyhn2007_remapping_grid_realignment", "niv2019_representation_learning_task_states", "wilson2014_best_practices_scientific"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+  - representational_similarity_analysis
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - amygdala
+  - posterior_cingulate_cortex
+frameworks:
+  - reinforcement_learning
+  - tolman_eichenbaum_machine
+keywords:
+  - entorhinal_cortex
+  - structural_generalisation
+  - reinforcement_learning
+  - task_structure
+  - representational_similarity_analysis
+  - fmri
+  - cognitive_map
+  - abstract_state_space
+  - prediction_error
+  - credit_assignment
+  - relational_structure
+  - serial_bandits
+  - vmpfc
+  - schema_representations
+  - task_remapping
+  - cross_stimulus_learning
+  - entorhinal
+  - ventromedial
+  - prefrontal
+  - cortices
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
+  - garvert2017_relational_knowledge_maps
+  - whittington2020_tolman_eichenbaum_machine
+  - stachenfeld2017_hippocampus_predictive_map
+  - fyhn2007_remapping_grid_realignment
+  - niv2019_representation_learning_task_states
+  - wilson2014_best_practices_scientific
 ---
 
 ### One-line summary

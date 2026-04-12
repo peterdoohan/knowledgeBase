@@ -1,19 +1,53 @@
 ---
-source_file: "ambrose2016_reverse_replay_hippocampal.md"
-paper_id: "ambrose2016_reverse_replay_hippocampal"
+source_file: ambrose2016_reverse_replay_hippocampal.md
+paper_id: ambrose2016_reverse_replay_hippocampal
 title: "Reverse Replay of Hippocampal Place Cells Is Uniquely Modulated by Changing Reward"
-authors: "R. Ellen Ambrose, Brad E. Pfeiffer, David J. Foster"
+authors:
+  - "R. Ellen Ambrose"
+  - "Brad E. Pfeiffer"
+  - "David J. Foster"
 year: 2016
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["linear_track"]
-methods: ["tetrode_recording", "bayesian_decoding", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "ventral_tegmental_area"]
-frameworks: ["reinforcement_learning"]
-keywords: ["reverse", "replay", "hippocampal", "place", "cells", "uniquely", "modulated", "changing", "reward"]
-key_citations: ["singer2009_reward_reactivation_hippocampus"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+keywords:
+  - hippocampal_replay
+  - sharp_wave_ripples_swrs
+  - reverse_replay
+  - forward_replay
+  - place_cells
+  - reward_modulation
+  - temporal_credit_assignment
+  - memory_consolidation
+  - awake_replay_directionality
+  - dopamine_hippocampus_interaction
+  - adaptive_reward_coding
+  - bayesian_sequence_decoding
+  - reverse
+  - replay
+  - hippocampal
+  - place
+  - cells
+  - uniquely
+  - modulated
+  - changing
+key_citations:
+  - singer2009_reward_reactivation_hippocampus
 ---
 
 ### One-line summary

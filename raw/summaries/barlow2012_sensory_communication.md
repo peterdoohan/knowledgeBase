@@ -1,15 +1,36 @@
 ---
-source_file: "barlow2012_sensory_communication.md"
-paper_id: "barlow2012_sensory_communication"
+source_file: barlow2012_sensory_communication.md
+paper_id: barlow2012_sensory_communication
 title: "Possible Principles Underlying the Transformations of Sensory Messages"
-authors: "H. B. Barlow"
+authors:
+  - "H. B. Barlow"
 year: 2012
-journal: "Sensory Communication (MIT Press, ed. W. A. Rosenblith) \u2014 Chapter 13"
-paper_type: "review"
-contribution_type: "theoretical"
-brain_regions: ["visual_cortex"]
-frameworks: ["bayesian_inference"]
-keywords: ["possible", "principles", "underlying", "transformations", "sensory", "messages"]
+journal: "Sensory Communication (MIT Press, ed. W. A. Rosenblith) — Chapter 13"
+paper_type: review
+contribution_type: theoretical
+brain_regions:
+  - visual_cortex
+frameworks:
+  - bayesian_inference
+keywords:
+  - efficient_coding_hypothesis
+  - redundancy_reduction
+  - sensory_relay_function
+  - information_theory_in_neuroscience
+  - neural_coding
+  - sparse_coding
+  - channel_capacity
+  - prior_probability_and_neural_response
+  - feature_selectivity
+  - internal_model_of_environment
+  - predictive_coding_precursor
+  - economy_of_impulses
+  - possible
+  - principles
+  - underlying
+  - transformations
+  - sensory
+  - messages
 ---
 
 ### One-line summary

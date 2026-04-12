@@ -1,15 +1,45 @@
 ---
-source_file: "barreto2017_successor_features_transfer_c.md"
-paper_id: "barreto2017_successor_features_transfer_c"
+source_file: barreto2017_successor_features_transfer_c.md
+paper_id: barreto2017_successor_features_transfer_c
 title: "Successor Features for Transfer in Reinforcement Learning"
-authors: "Andr\u00e9 Barreto, Will Dabney, R\u00e9mi Munos, Jonathan J. Hunt, Tom Schaul, Hado van Hasselt, David Silver"
+authors:
+  - "André Barreto"
+  - "Will Dabney"
+  - "Rémi Munos"
+  - "Jonathan J. Hunt"
+  - "Tom Schaul"
+  - "Hado van Hasselt"
+  - "David Silver"
 year: 2017
 journal: "Advances in Neural Information Processing Systems (NIPS 2017)"
-paper_type: "computational"
-contribution_type: "theoretical"
-frameworks: ["reinforcement_learning", "successor_representation"]
-keywords: ["successor", "features", "transfer", "reinforcement", "learning"]
-key_citations: ["dayan1993_successor_representation", "sutton1999_temporal_abstraction_rl"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+keywords:
+  - successor_features
+  - successor_representation
+  - transfer_learning
+  - reinforcement_learning
+  - generalized_policy_improvement
+  - reward_decomposition
+  - task_generalisation
+  - multi_task_rl
+  - value_function_factorisation
+  - deep_reinforcement_learning
+  - policy_reuse
+  - performance_guarantees
+  - successor
+  - features
+  - transfer
+  - reinforcement
+  - learning
+key_citations:
+  - dayan1993_successor_representation
+  - sutton1999_temporal_abstraction_rl
 ---
 
 ### One-line summary

@@ -1,17 +1,52 @@
 ---
-source_file: "rudebeck2022_foraging_frontal.md"
-paper_id: "rudebeck2022_foraging_frontal"
+source_file: rudebeck2022_foraging_frontal.md
+paper_id: rudebeck2022_foraging_frontal
 title: "Foraging with the frontal cortex: A cross-species evaluation of reward-guided behavior"
-authors: "Peter H. Rudebeck, Alicia Izquierdo"
+authors:
+  - "Peter H. Rudebeck"
+  - "Alicia Izquierdo"
 year: 2022
-journal: "Neuropsychopharmacology"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat", "human", "macaque"]
-tasks: ["foraging_task"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "amygdala", "basolateral_amygdala"]
-keywords: ["foraging", "cross_species_translation", "reward_guided_behavior", "frontal_cortex", "orbitofrontal_cortex", "anterior_cingulate_cortex", "prediction", "evaluation", "action_selection", "probabilistic_learning", "reversal_learning", "reinforcer_devaluation", "neuroethology", "macaque", "rat", "granular_cortex", "agranular_cortex", "frontal", "cortex", "cross"]
-key_citations: ["rushworth2011_prefrontal_reward_decision", "behrens2007_learning_value_information_uncertain"]
+journal: Neuropsychopharmacology
+paper_type: review
+contribution_type: review
+species:
+  - rat
+  - macaque
+tasks:
+  - foraging_task
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - prelimbic_cortex
+  - infralimbic_cortex
+  - striatum
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - foraging
+  - cross_species_translation
+  - reward_guided_behavior
+  - frontal_cortex
+  - orbitofrontal_cortex
+  - anterior_cingulate_cortex
+  - prediction
+  - evaluation
+  - action_selection
+  - probabilistic_learning
+  - reversal_learning
+  - reinforcer_devaluation
+  - neuroethology
+  - macaque
+  - rat
+  - granular_cortex
+  - agranular_cortex
+  - frontal
+  - cortex
+  - cross
+key_citations:
+  - rushworth2011_prefrontal_reward_decision
+  - behrens2007_learning_value_information_uncertain
 ---
 
 ### One-line summary

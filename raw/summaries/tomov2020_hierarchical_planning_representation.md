@@ -1,19 +1,58 @@
 ---
-source_file: "tomov2020_hierarchical_planning_representation.md"
-paper_id: "tomov2020_hierarchical_planning_representation"
+source_file: tomov2020_hierarchical_planning_representation.md
+paper_id: tomov2020_hierarchical_planning_representation
 title: "Discovery of hierarchical representations for efficient planning"
-authors: "Momchil S. Tomov, Samyukta Yagati, Agni Kumar, Wanqian Yang, Samuel J. Gershman"
+authors:
+  - "Momchil S. Tomov"
+  - "Samyukta Yagati"
+  - "Agni Kumar"
+  - "Wanqian Yang"
+  - "Samuel J. Gershman"
 year: 2020
 journal: "PLOS Computational Biology"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["human"]
-tasks: ["virtual_navigation"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "bayesian_inference", "hierarchical_rl"]
-keywords: ["discovery", "hierarchical", "representations", "efficient", "planning"]
-key_citations: ["schapiro2013_event_representation_memory", "solway2014_optimal_behavioral_hierarchy", "botvinick2009_hierarchically_organized_behavior"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+tasks:
+  - virtual_navigation
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+  - bayesian_inference
+  - hierarchical_rl
+keywords:
+  - hierarchical_planning
+  - state_abstraction
+  - structure_learning
+  - bayesian_inference
+  - hierarchy_discovery
+  - reinforcement_learning
+  - chunking
+  - community_structure
+  - bottleneck_states
+  - task_distribution
+  - reward_generalization
+  - markov_chain_monte_carlo
+  - graph_theory
+  - option_discovery
+  - behavioral_hierarchy
+  - working_memory
+  - computational_efficiency
+  - discovery
+  - hierarchical
+  - representations
+key_citations:
+  - schapiro2013_event_representation_memory
+  - solway2014_optimal_behavioral_hierarchy
+  - botvinick2009_hierarchically_organized_behavior
 ---
 
 ### One-line summary

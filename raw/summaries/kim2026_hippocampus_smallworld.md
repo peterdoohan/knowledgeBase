@@ -1,19 +1,52 @@
 ---
-source_file: "kim2026_hippocampus_smallworld.md"
-paper_id: "kim2026_hippocampus_smallworld"
+source_file: kim2026_hippocampus_smallworld.md
+paper_id: kim2026_hippocampus_smallworld
 title: "The hippocampus as a small-world cognitive map"
-authors: "Jason Z. Kim, James P. Sethna, Itai Cohen, Weinan Sun"
+authors:
+  - "Jason Z. Kim"
+  - "James P. Sethna"
+  - "Itai Cohen"
+  - "Weinan Sun"
 year: 2026
 journal: "bioRxiv (preprint, posted February 8, 2026)"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["mouse"]
-tasks: ["virtual_navigation", "navigation_task"]
-methods: ["calcium_imaging"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex"]
-frameworks: ["successor_representation", "neural_manifold"]
-keywords: ["hippocampus", "small", "world", "cognitive", "map"]
-key_citations: ["liu2022_hippocampal_sharp_wave"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - mouse
+tasks:
+  - virtual_navigation
+  - navigation_task
+methods:
+  - calcium_imaging
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+frameworks:
+  - successor_representation
+  - neural_manifold
+keywords:
+  - hippocampal_cognitive_map
+  - small_world_network
+  - representational_geometry
+  - geometry_regularized_autoencoder
+  - place_cells_generalized_state_fields
+  - representational_drift
+  - successor_representation
+  - synchronized_calcium_events_sharp_wave_ripples
+  - helical_population_dynamics
+  - multi_field_co_firing
+  - longitudinal_calcium_imaging
+  - mental_navigation_offline_replay
+  - hippocampus
+  - small
+  - world
+  - cognitive
+  - map
+key_citations:
+  - liu2022_hippocampal_sharp_wave
 ---
 
 ### One-line summary

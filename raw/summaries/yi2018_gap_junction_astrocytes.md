@@ -1,16 +1,46 @@
 ---
-source_file: "yi2018_gap_junction_astrocytes.md"
-paper_id: "yi2018_gap_junction_astrocytes"
+source_file: yi2018_gap_junction_astrocytes.md
+paper_id: yi2018_gap_junction_astrocytes
 title: "Monitoring gap junctional communication in astrocytes from acute adult mouse brain slices using the gap-FRAP technique"
-authors: "Chenju Yi, J\u00e9r\u00e9my Teillon, Annette Koulakoff, Hugues Berry, Christian Giaume"
+authors:
+  - "Chenju Yi"
+  - "Jérémy Teillon"
+  - "Annette Koulakoff"
+  - "Hugues Berry"
+  - "Christian Giaume"
 year: 2018
 journal: "Journal of Neuroscience Methods"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["monitoring", "gap", "junctional", "communication", "astrocytes", "acute", "adult", "mouse", "brain", "slices"]
-key_citations: ["rouach2008_astrocyte_metabolism", "nimmerjahn2004_sulforhodamine_astroglia"]
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - gap_junctions
+  - astrocytes
+  - connexins
+  - fluorescence_recovery_after_photobleaching
+  - sulforhodamine_101
+  - intercellular_communication
+  - hippocampus
+  - glial_networks
+  - cx43
+  - cx30
+  - mathematical_modeling
+  - diffusion
+  - acute_brain_slices
+  - monitoring
+  - gap
+  - junctional
+  - communication
+  - acute
+  - adult
+  - mouse
+key_citations:
+  - rouach2008_astrocyte_metabolism
+  - nimmerjahn2004_sulforhodamine_astroglia
 ---
 
 ### One-line summary

@@ -1,13 +1,34 @@
 ---
-source_file: "waskom2021_seaborn_statistical.md"
-paper_id: "waskom2021_seaborn_statistical"
+source_file: waskom2021_seaborn_statistical.md
+paper_id: waskom2021_seaborn_statistical
 title: "seaborn: statistical data visualization"
-authors: "Michael L. Waskom"
+authors:
+  - "Michael L. Waskom"
 year: 2021
 journal: "Journal of Open Source Software"
-paper_type: "computational"
-contribution_type: "methodological"
-keywords: ["key_citations_tukey_1977", "hunter_2007", "mckinney_2010", "wickham_2014", "2016", "harris_et_al_2020", "cumming_and_finch_2005", "waskom_and_wagner_2017", "named_models_or_frameworks_matplotlib", "pandas", "numpy", "grammar_of_graphics_ggplot2", "tidy_data", "brain_regions_not_applicable", "keywords_data_visualization", "statistical_graphics", "python", "matplotlib", "declarative_api", "exploratory_data_analysis"]
+paper_type: computational
+contribution_type: methodological
+keywords:
+  - key_citations_tukey_1977
+  - hunter_2007
+  - mckinney_2010
+  - wickham_2014
+  - 2016
+  - harris_et_al_2020
+  - cumming_and_finch_2005
+  - waskom_and_wagner_2017
+  - named_models_or_frameworks_matplotlib
+  - pandas
+  - numpy
+  - grammar_of_graphics_ggplot2
+  - tidy_data
+  - brain_regions_not_applicable
+  - keywords_data_visualization
+  - statistical_graphics
+  - python
+  - matplotlib
+  - declarative_api
+  - exploratory_data_analysis
 ---
 
 ### One-line summary

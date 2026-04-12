@@ -1,15 +1,49 @@
 ---
-source_file: "khona2022_attractor_integrator.md"
-paper_id: "khona2022_attractor_integrator"
+source_file: khona2022_attractor_integrator.md
+paper_id: khona2022_attractor_integrator
 title: "Attractor and integrator networks in the brain"
-authors: "Mikail Khona, Ila R. Fiete"
+authors:
+  - "Mikail Khona"
+  - "Ila R. Fiete"
 year: 2022
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "striatum", "thalamus", "visual_cortex"]
-frameworks: ["attractor_networks", "neural_manifold"]
-keywords: ["hopfield_1982", "1984_hopfield_network_models", "amari_1977_continuous_attractor_neural_fields", "zhang_1996_ring_attractor_model_of_hd_cells", "burak_and_fiete_2009_continuous_attractor_model_of_grid_cells", "taube", "muller_and_ranck_1990_head_direction_cells", "hafting_et_al_2005_grid_cells", "chaudhuri_et_al_2019_direct_visualisation_of_ring_attractor_in_adn", "gardner_et_al_2021_2022_toroidal_topology_of_grid_cell_population_activity", "yoon_et_al_2013_low_dimensional_continuous_attractor_dynamics_in_grid_cells", "aksay_et_al_2001_oculomotor_integrator_in_vivo", "inagaki_et_al_2019_discrete_attractor_dynamics_in_frontal_cortex", "wimmer_et_al_2014_bump_attractor_in_pfc_working_memory", "fiete_et_al_2008_grid_cells_and_error_correcting_codes", "sreenivasan_and_fiete_2011_modular_grid_codes", "khona_and_fiete_cited_internally_as_229_mixed_modular_coding_and_zero_shot_learning", "turner_evans_et_al_2020_drosophila_ring_attractor_anatomy_and_function", "kim_et_al_2017_ring_attractor_dynamics_in_drosophila", "trettel_et_al_2019"]
+paper_type: review
+contribution_type: review
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - striatum
+  - thalamus
+  - visual_cortex
+frameworks:
+  - attractor_networks
+  - neural_manifold
+keywords:
+  - attractor_neural_networks
+  - continuous_attractor_dynamics
+  - ring_attractor
+  - toroidal_attractor
+  - neural_integration
+  - head_direction_cells
+  - grid_cells
+  - working_memory_persistent_activity
+  - low_dimensional_manifold
+  - population_dynamics
+  - modular_neural_codes
+  - mixed_modular_representation
+  - zero_shot_generalisation
+  - topological_data_analysis_in_neuroscience
+  - attractor
+  - integrator
+  - networks
+  - brain
+key_citations:
+  - fiete2008_grid_cells_position
+  - burak2009_path_integration_grid_cells
 ---
 
 ### One-line summary

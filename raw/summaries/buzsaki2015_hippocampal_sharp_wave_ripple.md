@@ -1,17 +1,56 @@
 ---
-source_file: "buzsaki2015_hippocampal_sharp_wave_ripple.md"
-paper_id: "buzsaki2015_hippocampal_sharp_wave_ripple"
+source_file: buzsaki2015_hippocampal_sharp_wave_ripple.md
+paper_id: buzsaki2015_hippocampal_sharp_wave_ripple
 title: "Hippocampal Sharp Wave-Ripple: A Cognitive Biomarker for Episodic Memory and Planning"
-authors: "Gyorgy Buzsaki"
+authors:
+  - "Gyorgy Buzsaki"
 year: 2015
-journal: "Hippocampus"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse", "human"]
-methods: ["optogenetics", "computational_modeling", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "ventral_striatum", "thalamus", "amygdala"]
-frameworks: ["attractor_networks"]
-keywords: ["wilson_and_mcnaughton_1994_first_demonstration_of_experience_dependent_post_sleep_replay", "buzsaki_1989_two_stage_memory_model", "spw_rs_as_replay_mechanism", "lee_and_wilson_2002_time_compressed_sequence_replay_during_spw_rs", "foster_and_wilson_2006_reverse_replay_during_waking_spw_rs", "diba_and_buzsaki_2007_simultaneous_forward_and_reverse_replay", "prospective_planning_hypothesis", "girardeau_et_al_2009_causal_disruption_of_spw_rs_impairs_memory", "stark_et_al_2014_optogenetic_dissection_of_ripple_generation", "pv_interneurons_as_pacemakers", "schlingloff_et_al_2014_in_vitro_optogenetic_confirmation_of_int_int_ripple_pacing", "pfeiffer_and_foster_2013_forward_spw_r_sequences_predict_goal_directed_navigation_in_2d", "dragoi_and_tonegawa_2011_preplay_of_novel_place_sequences", "bragin_et_al_1999a", "b_p_ripples_as_biomarkers_of_epileptogenic_tissue", "klausberger_et_al_2003", "2004", "2005_interneuron_type_specific_firing_during_spw_rs", "traub_and_wong_1982_first_computational_model_of_ca3_population_burst", "brunel_and_wang_2003_int_int_model_of_ripple_oscillations"]
+journal: Hippocampus
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - optogenetics
+  - computational_modeling
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - thalamus
+  - amygdala
+frameworks:
+  - attractor_networks
+keywords:
+  - sharp_wave_ripple_spw_r
+  - hippocampal_replay
+  - memory_consolidation
+  - sequence_replay
+  - theta_spw_dichotomy
+  - pv_interneurons
+  - ripple_oscillation
+  - ca3_recurrent_network
+  - offline_consolidation
+  - pathological_ripples_p_ripples
+  - cognitive_biomarker
+  - preplay
+  - forward_reverse_replay
+  - interneuron_choreography
+  - gabaa_pacemaker
+  - lognormal_dynamics
+  - hippocampal
+  - sharp
+  - wave
+  - ripple
+key_citations:
+  - girardeau2009_ripples_spatial_memory
+  - lee2002_memory_sequential_experience
 ---
 
 ### One-line summary

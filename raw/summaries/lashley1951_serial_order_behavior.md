@@ -1,14 +1,32 @@
 ---
-source_file: "lashley1951_serial_order_behavior.md"
-paper_id: "lashley1951_serial_order_behavior"
+source_file: lashley1951_serial_order_behavior.md
+paper_id: lashley1951_serial_order_behavior
 title: "The Problem of Serial Order in Behavior"
-authors: "K. S. Lashley"
+authors:
+  - "K. S. Lashley"
 year: 1951
 journal: "Cerebral Mechanisms in Behavior: The Hixon Symposium (ed. L. A. Jeffress)"
-paper_type: "review"
-contribution_type: "theoretical"
-brain_regions: ["visual_cortex"]
-keywords: ["problem", "serial", "order", "behavior"]
+paper_type: review
+contribution_type: theoretical
+brain_regions:
+  - visual_cortex
+keywords:
+  - serial_order_in_behaviour
+  - hierarchical_motor_control
+  - associative_chain_theory_critique
+  - central_pattern_generation
+  - pre_activation_priming_of_motor_elements
+  - spatial_to_temporal_transformation
+  - reverberatory_neural_circuits
+  - subthreshold_facilitation
+  - schema_of_action
+  - anticipation_errors_speech_contaminations
+  - temporal_integration
+  - dynamic_nervous_system
+  - problem
+  - serial
+  - order
+  - behavior
 ---
 
 ### One-line summary

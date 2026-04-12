@@ -1,15 +1,42 @@
 ---
-source_file: "monaco2021_dynamical_intelligence.md"
-paper_id: "monaco2021_dynamical_intelligence"
+source_file: monaco2021_dynamical_intelligence.md
+paper_id: monaco2021_dynamical_intelligence
 title: "A brain basis of dynamical intelligence for AI and computational neuroscience"
-authors: "Joseph D. Monaco, Kanaka Rajan, Grace M. Hwang"
+authors:
+  - "Joseph D. Monaco"
+  - "Kanaka Rajan"
+  - "Grace M. Hwang"
 year: 2021
 journal: "Frontiers in Computational Neuroscience (perspective article)"
-paper_type: "review"
-contribution_type: "theoretical"
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_temporal_lobe"]
-frameworks: ["successor_representation", "active_inference"]
-keywords: ["brain", "basis", "dynamical", "intelligence", "computational", "neuroscience"]
+paper_type: review
+contribution_type: theoretical
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_temporal_lobe
+frameworks:
+  - successor_representation
+  - active_inference
+keywords:
+  - dynamical_systems_neuroscience
+  - neural_oscillations
+  - cross_frequency_coupling
+  - quasiattractor_dynamics
+  - cell_assembly
+  - temporal_coding
+  - sparse_connectivity
+  - small_world_networks
+  - rich_club_organisation
+  - computational_neuroscience_ai_convergence
+  - agentic_learning
+  - token_based_neural_computation
+  - brain
+  - basis
+  - dynamical
+  - intelligence
+  - computational
+  - neuroscience
 ---
 
 ### One-line summary

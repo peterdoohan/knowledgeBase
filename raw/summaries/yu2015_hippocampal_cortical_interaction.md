@@ -1,19 +1,58 @@
 ---
-source_file: "yu2015_hippocampal_cortical_interaction.md"
-paper_id: "yu2015_hippocampal_cortical_interaction"
-title: "Hippocampal\u2013cortical interaction in decision making"
-authors: "Jai Y. Yu, Loren M. Frank"
+source_file: yu2015_hippocampal_cortical_interaction.md
+paper_id: yu2015_hippocampal_cortical_interaction
+title: "Hippocampal–cortical interaction in decision making"
+authors:
+  - "Jai Y. Yu"
+  - "Loren M. Frank"
 year: 2015
 journal: "Neurobiology of Learning and Memory"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat"]
-tasks: ["open_field", "foraging_task", "navigation_task"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "prelimbic_cortex", "striatum", "ventral_striatum", "thalamus"]
-frameworks: ["reinforcement_learning"]
-keywords: ["sharp_wave_ripples", "theta_oscillations", "vicarious_trial_and_error", "memory_replay", "prefrontal_cortex", "hippocampus", "deliberation", "decision_making", "spatial_navigation", "working_memory", "place_cells", "trajectory_encoding", "w_track_alternation_task", "awake_replay", "swr_disruption", "hippocampal_cortical_coherence", "hippocampalcortical", "interaction", "decision", "making"]
-key_citations: ["singer2013_hippocampal_swr_decisions", "gupta2010_replay_not_simple_function", "johnson2007_hippocampus_decision"]
+paper_type: review
+contribution_type: review
+species:
+  - rat
+tasks:
+  - open_field
+  - foraging_task
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - prelimbic_cortex
+  - striatum
+  - ventral_striatum
+  - thalamus
+frameworks:
+  - reinforcement_learning
+keywords:
+  - sharp_wave_ripples
+  - theta_oscillations
+  - vicarious_trial_and_error
+  - memory_replay
+  - prefrontal_cortex
+  - hippocampus
+  - deliberation
+  - decision_making
+  - spatial_navigation
+  - working_memory
+  - place_cells
+  - trajectory_encoding
+  - w_track_alternation_task
+  - awake_replay
+  - swr_disruption
+  - hippocampal_cortical_coherence
+  - hippocampalcortical
+  - interaction
+  - decision
+  - making
+key_citations:
+  - singer2013_hippocampal_swr_decisions
+  - gupta2010_replay_not_simple_function
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

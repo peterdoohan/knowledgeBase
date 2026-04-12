@@ -1,15 +1,36 @@
 ---
-source_file: "hill2014_oligodendrocytes_sulforhodamine.md"
-paper_id: "hill2014_oligodendrocytes_sulforhodamine"
+source_file: hill2014_oligodendrocytes_sulforhodamine.md
+paper_id: hill2014_oligodendrocytes_sulforhodamine
 title: "In vivo imaging of oligodendrocytes with sulforhodamine 101"
-authors: "Robert A. Hill, Jaime Grutzendler"
+authors:
+  - "Robert A. Hill"
+  - "Jaime Grutzendler"
 year: 2014
 journal: "Nature Methods"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["calcium_imaging"]
-keywords: ["vivo", "imaging", "oligodendrocytes", "sulforhodamine", "101"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - calcium_imaging
+keywords:
+  - sulforhodamine_101_sr101
+  - oligodendrocyte_labelling
+  - astrocyte_specificity
+  - gap_junctions
+  - in_vivo_two_photon_microscopy
+  - glial_imaging
+  - myelin_sheath_labelling
+  - carbenoxolone
+  - spectral_confocal_reflectance_microscopy
+  - cell_type_identification
+  - astrocyte_oligodendrocyte_coupling
+  - in_vivo_brain_imaging
+  - vivo
+  - imaging
+  - oligodendrocytes
+  - sulforhodamine
+  - 101
 ---
 
 ### One-line summary

@@ -1,18 +1,56 @@
 ---
-source_file: "mark2020_structural_knowledge_transfer.md"
-paper_id: "mark2020_structural_knowledge_transfer"
+source_file: mark2020_structural_knowledge_transfer.md
+paper_id: mark2020_structural_knowledge_transfer
 title: "Transferring structural knowledge across cognitive maps in humans and models"
-authors: "Shirley Mark, Rani Moran, Thomas Parr, Steve W. Kennerley, Timothy E. J. Behrens"
+authors:
+  - "Shirley Mark"
+  - "Rani Moran"
+  - "Thomas Parr"
+  - "Steve W. Kennerley"
+  - "Timothy E. J. Behrens"
 year: 2020
 journal: "Nature Communications"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["human"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "entorhinal_cortex"]
-frameworks: ["reinforcement_learning", "successor_representation", "bayesian_inference", "structural_form_discovery"]
-keywords: ["transferring", "structural", "knowledge", "across", "cognitive", "maps", "humans", "models"]
-key_citations: ["dayan1993_successor_representation", "behrens2018_cognitive_map_organizing_knowledge", "schapiro2013_event_representation_memory", "kemp2008_structural_discovery_form", "stachenfeld2017_hippocampus_predictive_map"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - bayesian_inference
+  - structural_form_discovery
+keywords:
+  - structural_knowledge_transfer
+  - cognitive_maps
+  - graph_learning
+  - basis_set_representations
+  - successor_representation
+  - hidden_markov_model
+  - spectral_graph_theory
+  - graph_laplacian_eigenvectors
+  - community_structure
+  - hexagonal_grid
+  - abstract_relational_knowledge
+  - connecting_nodes
+  - transferring
+  - structural
+  - knowledge
+  - across
+  - cognitive
+  - maps
+  - humans
+  - models
+key_citations:
+  - dayan1993_successor_representation
+  - behrens2018_cognitive_map_organizing_knowledge
+  - schapiro2013_event_representation_memory
+  - kemp2008_structural_discovery_form
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

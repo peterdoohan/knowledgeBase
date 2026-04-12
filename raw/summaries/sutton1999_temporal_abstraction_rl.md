@@ -1,14 +1,39 @@
 ---
-source_file: "sutton1999_temporal_abstraction_rl.md"
-paper_id: "sutton1999_temporal_abstraction_rl"
+source_file: sutton1999_temporal_abstraction_rl.md
+paper_id: sutton1999_temporal_abstraction_rl
 title: "Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning"
-authors: "Richard S. Sutton, Doina Precup, Satinder Singh"
+authors:
+  - "Richard S. Sutton"
+  - "Doina Precup"
+  - "Satinder Singh"
 year: 1999
 journal: "Artificial Intelligence"
-paper_type: "computational"
-contribution_type: "theoretical"
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["bradtke_and_duff_1995_smdp_methods_for_continuous_time_mdps", "parr_1998_hierarchical_control_and_learning_for_mdps", "mahadevan_et_al_1997_continuous_time_average_reward_rl", "kaelbling_1993_hierarchical_learning_in_stochastic_domains", "dietterich_1998_maxq_method_for_hierarchical_rl", "dean_and_lin_1995_decomposition_techniques_for_planning_in_stochastic_domains", "singh_1992_abstract_models_and_variable_temporal_resolution_in_rl", "sutton_1995_td_models_at_multiple_time_scales", "hauskrecht_et_al_1998_hierarchical_solution_of_mdps_using_macro_actions", "named_models_or_frameworks", "options_framework", "semi_markov_decision_processes_smdps", "multi_time_models", "smdp_q_learning", "intra_option_q_learning", "intra_option_model_learning", "interruption_theorem", "rooms_example_gridworld_environment", "hallway_options", "brain_regions"]
+paper_type: computational
+contribution_type: theoretical
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - temporal_abstraction
+  - reinforcement_learning
+  - options
+  - semi_markov_decision_processes
+  - hierarchical_reinforcement_learning
+  - macro_actions
+  - intra_option_learning
+  - multi_time_models
+  - planning
+  - smdp_q_learning
+  - subgoals
+  - interruption
+  - between
+  - mdps
+  - semi
+  - framework
+  - temporal
+  - abstraction
+  - reinforcement
+  - learning
 ---
 
 ### One-line summary

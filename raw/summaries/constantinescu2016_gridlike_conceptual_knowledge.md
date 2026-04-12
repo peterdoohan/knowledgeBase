@@ -1,18 +1,49 @@
 ---
-source_file: "constantinescu2016_gridlike_conceptual_knowledge.md"
-paper_id: "constantinescu2016_gridlike_conceptual_knowledge"
+source_file: constantinescu2016_gridlike_conceptual_knowledge.md
+paper_id: constantinescu2016_gridlike_conceptual_knowledge
 title: "Organizing conceptual knowledge in humans with a gridlike code"
-authors: "Alexandra O. Constantinescu, Jill X. O'Reilly, Timothy E. J. Behrens"
+authors:
+  - "Alexandra O. Constantinescu"
+  - "Jill X. O'Reilly"
+  - "Timothy E. J. Behrens"
 year: 2016
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["fmri"]
-brain_regions: ["entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "retrosplenial_cortex", "posterior_cingulate_cortex"]
-keywords: ["organizing", "conceptual", "knowledge", "humans", "gridlike", "code"]
-key_citations: ["tolman1948_cognitive_maps_rats", "dolan2013_goals_habits_brain_b"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - fmri
+brain_regions:
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - retrosplenial_cortex
+  - posterior_cingulate_cortex
+keywords:
+  - grid_cells
+  - cognitive_map
+  - conceptual_knowledge_representation
+  - hexagonal_symmetry
+  - entorhinal_cortex
+  - ventromedial_prefrontal_cortex
+  - fmri
+  - abstract_space_navigation
+  - default_mode_network
+  - relational_coding
+  - generalisation
+  - path_integration
+  - organizing
+  - conceptual
+  - knowledge
+  - humans
+  - gridlike
+  - code
+key_citations:
+  - tolman1948_cognitive_maps_rats
+  - dolan2013_goals_habits_brain_b
 ---
 
 ### One-line summary

@@ -1,14 +1,41 @@
 ---
-source_file: "jauhar2022_schizophrenia.md"
-paper_id: "jauhar2022_schizophrenia"
-title: "Schizophrenia"
-authors: "Sameer Jauhar, Mandy Johnstone, Peter J McKenna"
+source_file: jauhar2022_schizophrenia.md
+paper_id: jauhar2022_schizophrenia
+title: Schizophrenia
+authors:
+  - "Sameer Jauhar"
+  - "Mandy Johnstone"
+  - "Peter J McKenna"
 year: 2022
 journal: "The Lancet"
-paper_type: "review"
-contribution_type: "review"
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_tegmental_area", "thalamus", "amygdala", "superior_temporal_gyrus"]
-keywords: ["schizophrenia"]
+paper_type: review
+contribution_type: review
+species:
+  - human
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+  - ventral_tegmental_area
+  - thalamus
+  - amygdala
+  - superior_temporal_gyrus
+keywords:
+  - schizophrenia_review
+  - dopamine_synthesis_capacity
+  - nmda_receptor_hypofunction
+  - default_mode_network_deactivation
+  - hypofrontality
+  - polygenic_risk_schizophrenia
+  - cognitive_impairment_schizophrenia
+  - clozapine_treatment_resistance
+  - cbt_psychosis_effect_size
+  - neurodevelopmental_model
+  - aberrant_salience_delusions
+  - cannabis_psychosis_risk
+  - schizophrenia
 ---
 
 ### One-line summary

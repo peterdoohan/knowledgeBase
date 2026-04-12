@@ -1,19 +1,59 @@
 ---
-source_file: "ito2015_prefrontal_thalamic_hippocampus.md"
-paper_id: "ito2015_prefrontal_thalamic_hippocampus"
-title: "A prefrontal\u2013thalamo\u2013hippocampal circuit for goal-directed spatial navigation"
-authors: "Hiroshi T. Ito, Sheng-Jia Zhang, Menno P. Witter, Edvard I. Moser, May-Britt Moser"
+source_file: ito2015_prefrontal_thalamic_hippocampus.md
+paper_id: ito2015_prefrontal_thalamic_hippocampus
+title: "A prefrontal–thalamo–hippocampal circuit for goal-directed spatial navigation"
+authors:
+  - "Hiroshi T. Ito"
+  - "Sheng-Jia Zhang"
+  - "Menno P. Witter"
+  - "Edvard I. Moser"
+  - "May-Britt Moser"
 year: 2015
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["open_field", "t_maze", "foraging_task", "navigation_task"]
-methods: ["optogenetics", "tetrode_recording", "lesion"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "thalamus"]
-frameworks: ["reinforcement_learning"]
-keywords: ["prefrontalthalamohippocampal", "circuit", "goal", "directed", "spatial", "navigation"]
-key_citations: ["moser2008_place_cells_grid_cells"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+  - t_maze
+  - foraging_task
+methods:
+  - optogenetics
+  - tetrode_recording
+  - lesion
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - prelimbic_cortex
+  - thalamus
+frameworks:
+  - reinforcement_learning
+keywords:
+  - trajectory_dependent_place_cells
+  - nucleus_reuniens
+  - medial_prefrontal_cortex
+  - hippocampal_ca1
+  - goal_directed_spatial_navigation
+  - prospective_coding
+  - thalamocortical_relay
+  - optogenetic_silencing
+  - population_decoding
+  - spatial_working_memory
+  - place_cell_rate_remapping
+  - cortico_hippocampal_circuit
+  - prefrontalthalamohippocampal
+  - circuit
+  - goal
+  - directed
+  - spatial
+  - navigation
+key_citations:
+  - moser2008_place_cells_grid_cells
 ---
 
 ### One-line summary

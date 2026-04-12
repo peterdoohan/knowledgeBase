@@ -1,15 +1,49 @@
 ---
-source_file: "akam2022_pycontrol_behavioral_experiments.md"
-paper_id: "akam2022_pycontrol_behavioral_experiments"
+source_file: akam2022_pycontrol_behavioral_experiments.md
+paper_id: akam2022_pycontrol_behavioral_experiments
 title: "Open-source, Python-based, hardware and software for controlling behavioural neuroscience experiments"
-authors: "Thomas Akam, Andy Lustig, James M Rowland, Sampath KT Kapanaiah, Joan Esteve-Agraz, Mariangela Panniello, Cristina M\u00e1rquez, Michael M Kohl, Dennis K\u00e4tzel, Rui M Costa, Mark E Walton"
+authors:
+  - "Thomas Akam"
+  - "Andy Lustig"
+  - "James M Rowland"
+  - "Sampath KT Kapanaiah"
+  - "Joan Esteve-Agraz"
+  - "Mariangela Panniello"
+  - "Cristina Márquez"
+  - "Michael M Kohl"
+  - "Dennis Kätzel"
+  - "Rui M Costa"
+  - "Mark E Walton"
 year: 2022
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "methodological"
-species: ["mouse"]
-tasks: ["t_maze", "five_choice_serial_reaction_time_task"]
-keywords: ["open", "source", "python", "based", "hardware", "software", "controlling", "behavioural", "neuroscience", "experiments"]
+journal: eLife
+paper_type: empirical
+contribution_type: methodological
+species:
+  - mouse
+tasks:
+  - t_maze
+  - five_choice_serial_reaction_time_task
+keywords:
+  - open_source_behavioural_neuroscience_tools
+  - extended_state_machine
+  - micropython_microcontroller
+  - pycontrol
+  - high_throughput_behavioural_testing
+  - task_reproducibility
+  - timing_accuracy
+  - 5_choice_serial_reaction_time_task
+  - vibrissae_object_localisation
+  - social_decision_making
+  - operant_behaviour
+  - behavioural_hardware
+  - open
+  - source
+  - python
+  - based
+  - hardware
+  - software
+  - controlling
+  - behavioural
 ---
 
 ### One-line summary

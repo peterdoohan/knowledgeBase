@@ -1,19 +1,57 @@
 ---
-source_file: "brunec2022_predictive_representations_hierarchies.md"
-paper_id: "brunec2022_predictive_representations_hierarchies"
+source_file: brunec2022_predictive_representations_hierarchies.md
+paper_id: brunec2022_predictive_representations_hierarchies
 title: "Predictive Representations in Hippocampal and Prefrontal Hierarchies"
-authors: "Iva K. Brunec, Ida Momennejad"
+authors:
+  - "Iva K. Brunec"
+  - "Ida Momennejad"
 year: 2022
 journal: "The Journal of Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["virtual_navigation"]
-methods: ["fmri", "representational_similarity_analysis"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation"]
-keywords: ["predictive", "representations", "hippocampal", "prefrontal", "hierarchies"]
-key_citations: ["momennejad2017_successor_representation_humans", "dayan1993_successor_representation", "behrens2018_cognitive_map_organizing_knowledge", "schuck2016_orbitofrontal_cortex_state", "momennejad2018_offline_replay_planning", "stachenfeld2017_hippocampus_predictive_map"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - virtual_navigation
+methods:
+  - fmri
+  - representational_similarity_analysis
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - successor_representation
+keywords:
+  - successor_representation
+  - predictive_representations
+  - hippocampal_long_axis
+  - prefrontal_hierarchy
+  - cognitive_maps
+  - naturalistic_navigation
+  - representational_similarity_analysis
+  - discount_factor_predictive_horizon
+  - model_based_fmri
+  - goal_directed_navigation
+  - spatial_scale_gradient
+  - hierarchical_planning
+  - predictive
+  - representations
+  - hippocampal
+  - prefrontal
+  - hierarchies
+key_citations:
+  - momennejad2017_successor_representation_humans
+  - dayan1993_successor_representation
+  - behrens2018_cognitive_map_organizing_knowledge
+  - schuck2016_orbitofrontal_cortex_state
+  - momennejad2018_offline_replay_planning
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

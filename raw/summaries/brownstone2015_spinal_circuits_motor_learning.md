@@ -1,14 +1,34 @@
 ---
-source_file: "brownstone2015_spinal_circuits_motor_learning.md"
-paper_id: "brownstone2015_spinal_circuits_motor_learning"
+source_file: brownstone2015_spinal_circuits_motor_learning.md
+paper_id: brownstone2015_spinal_circuits_motor_learning
 title: "Spinal circuits for motor learning"
-authors: "Robert M Brownstone, Tuan V Bui, Nicolas Stifani"
+authors:
+  - "Robert M Brownstone"
+  - "Tuan V Bui"
+  - "Nicolas Stifani"
 year: 2015
 journal: "Current Opinion in Neurobiology"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-keywords: ["wolpert_dm", "miall_rc", "kawato_m_1998_internal_models_in_the_cerebellum", "oleary_t", "williams_ah", "franci_a", "marder_e_2014_calcium_based_neuronal_homeostasis_model", "takeoka_a_et_al_2014_proprioceptive_feedback_necessary_for_locomotor_recovery_after_sci", "akay_t_et_al_2014_proprioceptive_feedback_required_for_normal_locomotor_circuit_development", "thompson_ak", "pomerantz_fr", "wolpaw_jr_2013_operant_h_reflex_conditioning_improves_locomotion_in_humans_with_sci", "chopek_jw_et_al_2015_instructive_input_drives_mn_gene_expression_changes_after_sci", "kennedy_a_et_al_2014_negative_image_predictive_coding_in_electric_fish_electrosensory_system", "rossignol_s", "frigon_a_2011_locomotor_recovery_after_sci_review", "freeman_jh", "steinmetz_ab_2011_cerebellar_eyeblink_conditioning_circuit", "named_models_or_frameworks", "internal_model_forward_model_framework_wolpert"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+keywords:
+  - spinal_motor_learning
+  - forward_model
+  - internal_model
+  - comparator_circuit
+  - renshaw_cell
+  - ia_proprioceptive_afferent
+  - neuronal_homeostasis
+  - sensory_prediction_error
+  - spinal_cord_injury_rehabilitation
+  - central_pattern_generator_plasticity
+  - efference_copy
+  - hierarchical_motor_control
+  - spinal
+  - circuits
+  - motor
+  - learning
 ---
 
 ### One-line summary

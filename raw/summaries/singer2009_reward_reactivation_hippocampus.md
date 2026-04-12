@@ -1,18 +1,48 @@
 ---
-source_file: "singer2009_reward_reactivation_hippocampus.md"
-paper_id: "singer2009_reward_reactivation_hippocampus"
+source_file: singer2009_reward_reactivation_hippocampus.md
+paper_id: singer2009_reward_reactivation_hippocampus
 title: "Rewarded Outcomes Enhance Reactivation of Experience in the Hippocampus"
-authors: "Annabelle C. Singer, Loren M. Frank"
+authors:
+  - "Annabelle C. Singer"
+  - "Loren M. Frank"
 year: 2009
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["navigation_task"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex", "striatum", "ventral_striatum"]
-frameworks: ["reinforcement_learning", "attractor_networks"]
-keywords: ["foster_and_wilson_2006_reverse_replay_in_hippocampal_place_cells", "diba_and_buzsaki_2007_forward_and_reverse_replay_sequences", "karlsson_and_frank_2009_awake_replay_of_remote_experiences", "csicsvari_et_al_2000_ca3_origin_of_swrs", "wilson_and_mcnaughton_1994_memory_reactivation_during_sleep", "cheng_and_frank_2008_coordinated_neural_activity_in_novel_environments", "named_models_or_frameworks", "sharp_wave_ripples_swrs_as_memory_reactivation_mechanism", "hippocampal_replay_reactivation", "attractor_network_dynamics_referenced_in_discussion", "reinforcement_learning_credit_assignment_problem", "brain_regions", "hippocampus_ca3_primary_recording_site", "hippocampus_ca1_downstream_target", "corpus_callosum_reference_electrode", "ventral_striatum_coherent_reactivation", "prefrontal_cortex_coherent_activity", "keywords", "hippocampus", "sharp_wave_ripples"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - prefrontal_cortex
+  - striatum
+  - ventral_striatum
+frameworks:
+  - reinforcement_learning
+  - attractor_networks
+keywords:
+  - hippocampus
+  - sharp_wave_ripples
+  - swr
+  - replay
+  - reactivation
+  - reward
+  - place_cells
+  - ca3
+  - memory_consolidation
+  - spatial_navigation
+  - sequence_learning
+  - awake_replay
+  - neural_oscillations
+  - credit_assignment
+  - reinforcement_learning
+  - rewarded
+  - outcomes
+  - enhance
+  - experience
 ---
 
 ### One-line summary

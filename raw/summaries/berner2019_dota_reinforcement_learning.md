@@ -1,15 +1,62 @@
 ---
-source_file: "berner2019_dota_reinforcement_learning.md"
-paper_id: "berner2019_dota_reinforcement_learning"
+source_file: berner2019_dota_reinforcement_learning.md
+paper_id: berner2019_dota_reinforcement_learning
 title: "Dota 2 with Large Scale Deep Reinforcement Learning"
-authors: "Christopher Berner, Greg Brockman, Brooke Chan, Vicki Cheung, Przemys\u0142aw D\u0119biak, Christy Dennison, David Farhi, Quirin Fischer, Shariq Hashme, Chris Hesse, Rafal J\u00f3zefowicz, Scott Gray, Catherine Olsson, Jakub Pachocki, Michael Petrov, Henrique Pond\u00e9 de Oliveira Pinto, Jonathan Raiman, Tim Salimans, Jeremy Schlatter, Jonas Schneider, Szymon Sidor, Ilya Sutskever, Jie Tang, Filip Wolski, Susan Zhang (OpenAI)"
+authors:
+  - "Christopher Berner"
+  - "Greg Brockman"
+  - "Brooke Chan"
+  - "Vicki Cheung"
+  - "Przemysław Dębiak"
+  - "Christy Dennison"
+  - "David Farhi"
+  - "Quirin Fischer"
+  - "Shariq Hashme"
+  - "Chris Hesse"
+  - "Rafal Józefowicz"
+  - "Scott Gray"
+  - "Catherine Olsson"
+  - "Jakub Pachocki"
+  - "Michael Petrov"
+  - "Henrique Pondé de Oliveira Pinto"
+  - "Jonathan Raiman"
+  - "Tim Salimans"
+  - "Jeremy Schlatter"
+  - "Jonas Schneider"
+  - "Szymon Sidor"
+  - "Ilya Sutskever"
+  - "Jie Tang"
+  - "Filip Wolski"
+  - "Susan Zhang (OpenAI)"
 year: 2021
 journal: "arXiv preprint (posted March 2021; describes April 2019 results)"
-paper_type: "computational"
-contribution_type: "empirical"
-species: ["human"]
-frameworks: ["reinforcement_learning"]
-keywords: ["dota", "large", "scale", "deep", "reinforcement", "learning"]
+paper_type: computational
+contribution_type: empirical
+species:
+  - human
+frameworks:
+  - reinforcement_learning
+keywords:
+  - large_scale_reinforcement_learning
+  - self_play
+  - distributed_training
+  - ppo
+  - lstm_policy
+  - long_horizon_credit_assignment
+  - data_staleness
+  - sample_reuse
+  - batch_size_scaling
+  - continual_training
+  - model_surgery
+  - esports_ai
+  - partial_observability
+  - multi_agent_coordination
+  - dota
+  - large
+  - scale
+  - deep
+  - reinforcement
+  - learning
 ---
 
 ### One-line summary

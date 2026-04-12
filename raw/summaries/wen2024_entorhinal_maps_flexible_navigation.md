@@ -1,19 +1,56 @@
 ---
-source_file: "wen2024_entorhinal_maps_flexible_navigation.md"
-paper_id: "wen2024_entorhinal_maps_flexible_navigation"
+source_file: wen2024_entorhinal_maps_flexible_navigation.md
+paper_id: wen2024_entorhinal_maps_flexible_navigation
 title: "One-shot entorhinal maps enable flexible navigation in novel environments"
-authors: "John H. Wen, Ben Sorscher, Emily A. Aery Jones, Surya Ganguli, Lisa M. Giocomo"
+authors:
+  - "John H. Wen"
+  - "Ben Sorscher"
+  - "Emily A. Aery Jones"
+  - "Surya Ganguli"
+  - "Lisa M. Giocomo"
 year: 2024
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["navigation_task"]
-methods: ["neuropixels", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "visual_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["one", "shot", "entorhinal", "maps", "enable", "flexible", "navigation", "novel", "environments"]
-key_citations: ["fyhn2007_remapping_grid_realignment"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+tasks:
+  - navigation_task
+methods:
+  - neuropixels
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - visual_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - entorhinal_cortex
+  - spatial_navigation
+  - continuous_attractor_networks
+  - landmark_pinning
+  - remapping
+  - toroidal_attractor
+  - virtual_reality
+  - one_shot_learning
+  - behavioral_timescale_synaptic_plasticity_btsp
+  - path_integration
+  - neural_coding
+  - spatial_memory
+  - one
+  - shot
+  - entorhinal
+  - maps
+  - enable
+  - flexible
+  - navigation
+key_citations:
+  - fyhn2007_remapping_grid_realignment
 ---
 
 ### One-line summary

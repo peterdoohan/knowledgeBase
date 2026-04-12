@@ -1,18 +1,57 @@
 ---
-source_file: "janssen2022_hierarchical_rl_motor_sequences.md"
-paper_id: "janssen2022_hierarchical_rl_motor_sequences"
+source_file: janssen2022_hierarchical_rl_motor_sequences.md
+paper_id: janssen2022_hierarchical_rl_motor_sequences
 title: "Hierarchical Reinforcement Learning, Sequential Behavior, and the Dorsal Frontostriatal System"
-authors: "Miriam Janssen, Christopher LeWarne, Diana Burk, Bruno B. Averbeck"
+authors:
+  - "Miriam Janssen"
+  - "Christopher LeWarne"
+  - "Diana Burk"
+  - "Bruno B. Averbeck"
 year: 2022
 journal: "Journal of Cognitive Neuroscience"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human", "monkey"]
-methods: ["optogenetics", "electrophysiology"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_striatum", "thalamus"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["hierarchical", "reinforcement", "learning", "sequential", "behavior", "dorsal", "frontostriatal", "system"]
-key_citations: ["tomov2020_hierarchical_planning_representation", "badre2018_frontal_cortex_hierarchical_control", "ito2015_prefrontal_thalamic_hippocampus"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - monkey
+methods:
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - thalamus
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - hierarchical_reinforcement_learning
+  - options_framework
+  - motor_chunking
+  - action_sequences
+  - option_discovery_problem
+  - dorsal_frontostriatal_circuit
+  - task_bracketing
+  - pseudo_reward_prediction_error
+  - sequence_learning
+  - discrete_sequence_production_task
+  - direct_and_indirect_pathway_striatum
+  - temporal_abstraction
+  - hierarchical
+  - reinforcement
+  - learning
+  - sequential
+  - behavior
+  - dorsal
+  - frontostriatal
+  - system
+key_citations:
+  - tomov2020_hierarchical_planning_representation
+  - badre2018_frontal_cortex_hierarchical_control
+  - ito2015_prefrontal_thalamic_hippocampus
 ---
 
 ### One-line summary

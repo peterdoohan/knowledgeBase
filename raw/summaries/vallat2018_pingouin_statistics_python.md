@@ -1,13 +1,26 @@
 ---
-source_file: "vallat2018_pingouin_statistics_python.md"
-paper_id: "vallat2018_pingouin_statistics_python"
+source_file: vallat2018_pingouin_statistics_python.md
+paper_id: vallat2018_pingouin_statistics_python
 title: "Pingouin: statistics in Python"
-authors: "Raphael Vallat"
+authors:
+  - "Raphael Vallat"
 year: 2018
 journal: "Journal of Open Source Software"
-paper_type: "methodological"
-contribution_type: "methodological"
-keywords: ["python", "statistics", "open_source_software", "data_analysis", "anova", "correlation", "bayesian_statistics", "effect_size", "non_parametric_tests", "scientific_computing", "statistical_software_package", "pingouin"]
+paper_type: methodological
+contribution_type: methodological
+keywords:
+  - python
+  - statistics
+  - open_source_software
+  - data_analysis
+  - anova
+  - correlation
+  - bayesian_statistics
+  - effect_size
+  - non_parametric_tests
+  - scientific_computing
+  - statistical_software_package
+  - pingouin
 ---
 
 ### One-line summary

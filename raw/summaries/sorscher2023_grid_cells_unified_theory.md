@@ -1,19 +1,51 @@
 ---
-source_file: "sorscher2023_grid_cells_unified_theory.md"
-paper_id: "sorscher2023_grid_cells_unified_theory"
+source_file: sorscher2023_grid_cells_unified_theory.md
+paper_id: sorscher2023_grid_cells_unified_theory
 title: "A unified theory for the computational and mechanistic origins of grid cells"
-authors: "Ben Sorscher, Gabriel C. Mel, Samuel A. Ocko, Lisa M. Giocomo, Surya Ganguli"
+authors:
+  - "Ben Sorscher"
+  - "Gabriel C. Mel"
+  - "Samuel A. Ocko"
+  - "Lisa M. Giocomo"
+  - "Surya Ganguli"
 year: 2023
-journal: "Neuron"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["rat"]
-tasks: ["navigation_task"]
-methods: ["electrophysiology"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["unified", "theory", "computational", "mechanistic", "origins", "grid", "cells"]
-key_citations: ["dordek2016_grid_cells_pca", "stachenfeld2017_hippocampus_predictive_map"]
+journal: Neuron
+paper_type: computational
+contribution_type: theoretical
+species:
+  - rat
+methods:
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - path_integration
+  - recurrent_neural_networks
+  - pattern_formation
+  - attractor_dynamics
+  - toroidal_manifold
+  - hexagonal_lattice
+  - spatial_navigation
+  - entorhinal_cortex
+  - place_cells
+  - nonnegative_firing_rates
+  - continuous_attractor_networks
+  - fourier_analysis
+  - eigenvalue_decomposition
+  - neural_manifolds
+  - computational_neuroscience
+  - representation_learning
+  - unified
+  - theory
+  - computational
+key_citations:
+  - dordek2016_grid_cells_pca
+  - stachenfeld2017_hippocampus_predictive_map
 ---
 
 ### One-line summary

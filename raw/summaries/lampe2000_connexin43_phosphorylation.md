@@ -1,15 +1,44 @@
 ---
-source_file: "lampe2000_connexin43_phosphorylation.md"
-paper_id: "lampe2000_connexin43_phosphorylation"
+source_file: lampe2000_connexin43_phosphorylation.md
+paper_id: lampe2000_connexin43_phosphorylation
 title: "Phosphorylation of Connexin43 on Serine368 by Protein Kinase C Regulates Gap Junctional Communication"
-authors: "Paul D. Lampe, Erica M. TenBroek, Janis M. Burt, Wendy E. Kurata, Ross G. Johnson, Alan F. Lau"
+authors:
+  - "Paul D. Lampe"
+  - "Erica M. TenBroek"
+  - "Janis M. Burt"
+  - "Wendy E. Kurata"
+  - "Ross G. Johnson"
+  - "Alan F. Lau"
 year: 2000
 journal: "The Journal of Cell Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse", "rat"]
-methods: ["electrophysiology"]
-keywords: ["phosphorylation", "connexin43", "serine368", "protein", "kinase", "regulates", "gap", "junctional", "communication"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+  - rat
+methods:
+  - electrophysiology
+keywords:
+  - connexin43
+  - gap_junction
+  - protein_kinase_c
+  - serine_phosphorylation
+  - s368
+  - tpa
+  - phorbol_ester
+  - single_channel_conductance
+  - intercellular_communication
+  - tumor_promotion
+  - phosphotryptic_mapping
+  - cx43_gating
+  - phosphorylation
+  - serine368
+  - protein
+  - kinase
+  - regulates
+  - gap
+  - junctional
+  - communication
 ---
 
 ### One-line summary

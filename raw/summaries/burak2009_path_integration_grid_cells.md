@@ -1,16 +1,43 @@
 ---
-source_file: "burak2009_path_integration_grid_cells.md"
-paper_id: "burak2009_path_integration_grid_cells"
+source_file: burak2009_path_integration_grid_cells.md
+paper_id: burak2009_path_integration_grid_cells
 title: "Accurate Path Integration in Continuous Attractor Network Models of Grid Cells"
-authors: "Yoram Burak, Ila R. Fiete"
+authors:
+  - "Yoram Burak"
+  - "Ila R. Fiete"
 year: 2009
 journal: "PLoS Computational Biology"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["rat"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["accurate", "path", "integration", "continuous", "attractor", "network", "models", "grid", "cells"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - rat
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - path_integration
+  - continuous_attractor_network
+  - dead_reckoning
+  - velocity_integration
+  - entorhinal_cortex
+  - attractor_manifold
+  - neural_noise
+  - sub_poisson_spiking
+  - periodic_boundary_conditions
+  - population_coding
+  - pattern_formation
+  - accurate
+  - path
+  - integration
+  - continuous
+  - attractor
+  - network
+  - models
+  - grid
 ---
 
 ### One-line summary

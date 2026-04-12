@@ -1,18 +1,46 @@
 ---
-source_file: "mckenzie2022_hippocampal_replay.md"
-paper_id: "mckenzie2022_hippocampal_replay"
+source_file: mckenzie2022_hippocampal_replay.md
+paper_id: mckenzie2022_hippocampal_replay
 title: "Once is enough for hippocampal replay"
-authors: "Sam McKenzie"
+authors:
+  - "Sam McKenzie"
 year: 2022
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat"]
-tasks: ["linear_track"]
-methods: ["tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex"]
-keywords: ["hippocampal_replay", "sharp_wave_ripples_spw_r", "place_cells", "one_shot_learning", "episodic_memory", "memory_consolidation", "complementary_learning_systems", "preplay", "interneuron_plasticity", "bayesian_decoding", "experience_dependent_plasticity", "spatial_sequences", "once", "enough", "hippocampal", "replay"]
-key_citations: ["berners2022_hippocampal_replay_experience", "buzsaki2015_hippocampal_sharp_wave_ripple", "fernandez2019_ripples_memory_consolidation", "pfeiffer2015_autoassociative_hippocampal_place_cells"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - rat
+tasks:
+  - linear_track
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+keywords:
+  - hippocampal_replay
+  - sharp_wave_ripples_spw_r
+  - place_cells
+  - one_shot_learning
+  - episodic_memory
+  - memory_consolidation
+  - complementary_learning_systems
+  - preplay
+  - interneuron_plasticity
+  - bayesian_decoding
+  - experience_dependent_plasticity
+  - spatial_sequences
+  - once
+  - enough
+  - hippocampal
+  - replay
+key_citations:
+  - berners2022_hippocampal_replay_experience
+  - buzsaki2015_hippocampal_sharp_wave_ripple
+  - fernandez2019_ripples_memory_consolidation
+  - pfeiffer2015_autoassociative_hippocampal_place_cells
 ---
 
 ### One-line summary

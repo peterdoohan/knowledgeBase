@@ -13,7 +13,6 @@ from __future__ import annotations
 
 import argparse
 import ast
-import json
 import re
 import sys
 import unicodedata
@@ -84,6 +83,44 @@ TITLE_STOPWORDS = {
     "with",
 }
 
+SUBSECTION_LABELS = [
+    "Key citations",
+    "Named models or frameworks",
+    "Brain regions",
+    "Keywords",
+]
+
+
+def subsection_header_pattern(label: str) -> str:
+    # Support "**Label**", "**Label**:", and "**Label:**" styles.
+    escaped = re.escape(label)
+    return rf"(?:\*\*{escaped}\*\*:|\*\*{escaped}:\*\*|\*\*{escaped}\*\*)"
+
+
+def subsection_match(label: str, text: str) -> Optional[re.Match[str]]:
+    pattern = rf"(?m)^(?:- )?{subsection_header_pattern(label)}\s*(.*)$"
+    return re.search(pattern, text)
+
+
+def has_structured_subsections(text: str) -> bool:
+    pattern = "|".join(subsection_header_pattern(label) for label in SUBSECTION_LABELS)
+    return bool(re.search(rf"(?m)^(?:- )?(?:{pattern})\s*", text))
+
+
+def extract_structured_subsection(text: str, label: str) -> str:
+    match = subsection_match(label, text)
+    if not match:
+        return ""
+    block = text[match.start() :]
+    header_pattern = rf"(?m)^(?:- )?{subsection_header_pattern(label)}\s*"
+    block = re.sub(header_pattern, "", block, count=1)
+    stop_labels = [candidate for candidate in SUBSECTION_LABELS if candidate != label]
+    stop_pattern = "|".join(subsection_header_pattern(candidate) for candidate in stop_labels)
+    stop_match = re.search(rf"(?m)^(?:- )?(?:{stop_pattern})\s*", block)
+    if stop_match:
+        block = block[: stop_match.start()]
+    return block.strip()
+
 
 @dataclass
 class Summary:
@@ -115,7 +152,7 @@ def parse_args() -> argparse.Namespace:
 
 
 def read_alias_map(path: Path) -> Dict[str, Dict[str, List[str]]]:
-    return json.loads(path.read_text())
+    return parse_simple_yaml(path.read_text())
 
 
 def split_frontmatter(text: str) -> Tuple[str, str]:
@@ -134,19 +171,13 @@ def parse_inline_value(value: str) -> Any:
         return ""
     if value.startswith("[") or value.startswith("{"):
         try:
-            return json.loads(value)
-        except json.JSONDecodeError:
-            try:
-                return ast.literal_eval(value)
-            except Exception:
-                return value
+            return ast.literal_eval(value)
+        except Exception:
+            return value
     if value.startswith('"') and value.endswith('"'):
-        try:
-            return json.loads(value)
-        except json.JSONDecodeError:
-            return value.strip('"')
+        return ast.literal_eval(value)
     if value.startswith("'") and value.endswith("'"):
-        return value[1:-1]
+        return ast.literal_eval(value)
     if re.fullmatch(r"-?\d+", value):
         return int(value)
     if value.lower() in {"true", "false"}:
@@ -158,16 +189,95 @@ def parse_inline_value(value: str) -> Any:
 
 def parse_frontmatter(frontmatter_block: str) -> OrderedDict:
     data: "OrderedDict[str, Any]" = OrderedDict()
-    for raw_line in frontmatter_block.splitlines():
-        line = raw_line.rstrip()
+    lines = frontmatter_block.splitlines()
+    idx = 0
+    while idx < len(lines):
+        line = lines[idx].rstrip()
+        idx += 1
         if not line.strip():
             continue
         match = re.match(r"^([A-Za-z0-9_]+):\s*(.*)$", line)
         if not match:
             continue
         key, value = match.groups()
-        data[key] = parse_inline_value(value)
+        if value.strip():
+            data[key] = parse_inline_value(value)
+            continue
+        items: List[Any] = []
+        while idx < len(lines):
+            item_line = lines[idx].rstrip()
+            if not item_line.strip():
+                idx += 1
+                continue
+            item_match = re.match(r"^\s*-\s+(.*)$", item_line)
+            if not item_match:
+                break
+            items.append(parse_inline_value(item_match.group(1)))
+            idx += 1
+        data[key] = items if items else ""
     return data
+
+
+def parse_simple_yaml(text: str) -> Any:
+    lines = text.splitlines()
+
+    def nonempty(index: int) -> int:
+        while index < len(lines) and not lines[index].strip():
+            index += 1
+        return index
+
+    def line_indent(line: str) -> int:
+        return len(line) - len(line.lstrip(" "))
+
+    def parse_block(index: int, indent: int) -> Tuple[Any, int]:
+        index = nonempty(index)
+        if index >= len(lines):
+            return OrderedDict(), index
+        stripped = lines[index].strip()
+        if stripped.startswith("- "):
+            items: List[Any] = []
+            while index < len(lines):
+                index = nonempty(index)
+                if index >= len(lines):
+                    break
+                line = lines[index]
+                current_indent = line_indent(line)
+                if current_indent != indent or not line.strip().startswith("- "):
+                    break
+                content = line.strip()[2:].strip()
+                index += 1
+                if content:
+                    items.append(parse_inline_value(content))
+                    continue
+                nested, index = parse_block(index, indent + 2)
+                items.append(nested)
+            return items, index
+
+        mapping: "OrderedDict[str, Any]" = OrderedDict()
+        while index < len(lines):
+            index = nonempty(index)
+            if index >= len(lines):
+                break
+            line = lines[index]
+            current_indent = line_indent(line)
+            if current_indent != indent or line.strip().startswith("- "):
+                break
+            match = re.match(r"^\s*([^:]+):\s*(.*)$", line)
+            if not match:
+                index += 1
+                continue
+            key, value = match.groups()
+            index += 1
+            key = key.strip()
+            if value.strip():
+                mapping[key] = parse_inline_value(value.strip())
+                continue
+            nested, index = parse_block(index, indent + 2)
+            mapping[key] = nested
+        return mapping, index
+
+    parsed, _ = parse_block(0, 0)
+    return parsed
 
 
 def parse_sections(body: str) -> Dict[str, str]:
@@ -229,15 +339,18 @@ def split_authors(raw_authors: Any) -> List[str]:
 
 
 def inline_yaml_value(value: Any) -> str:
-    if isinstance(value, list):
-        return json.dumps(value, ensure_ascii=True)
     if isinstance(value, bool):
         return "true" if value else "false"
     if isinstance(value, int):
         return str(value)
     if value is None:
         return "null"
-    return json.dumps(str(value), ensure_ascii=True)
+    if isinstance(value, str):
+        if re.fullmatch(r"[A-Za-z0-9_./+-]+", value):
+            return value
+        escaped = value.replace("\\", "\\\\").replace('"', '\\"')
+        return f'"{escaped}"'
+    return str(value)
 
 
 def dump_frontmatter(frontmatter: OrderedDict) -> str:
@@ -250,34 +363,35 @@ def dump_frontmatter(frontmatter: OrderedDict) -> str:
             ordered[key] = value
     lines = ["---"]
     for key, value in ordered.items():
-        lines.append(f"{key}: {inline_yaml_value(value)}")
+        if isinstance(value, list):
+            lines.append(f"{key}:")
+            for item in value:
+                lines.append(f"  - {inline_yaml_value(item)}")
+        else:
+            lines.append(f"{key}: {inline_yaml_value(value)}")
     lines.append("---")
     return "\n".join(lines) + "\n\n"
 
 
 def extract_keyword_block(text: str) -> str:
     block = text.strip()
-    if block.startswith("**Key citations**:"):
-        return ""
-    keyword_match = re.search(r"(?m)^(?:- )?\*\*Keywords\*\*:\s*(.*)$", block)
-    if keyword_match:
-        block = block[keyword_match.start() :]
-        block = re.sub(r"(?m)^(?:- )?\*\*Keywords\*\*:\s*", "", block, count=1)
-        stop_match = re.search(
-            r"(?m)^(?:- )?\*\*(?:Key citations|Named models or frameworks|Brain regions)\*\*:",
-            block,
-        )
-        if stop_match:
-            block = block[: stop_match.start()]
-        return block.strip()
+    if has_structured_subsections(block):
+        return extract_structured_subsection(block, "Keywords")
     for stopper in (
         "\n**Key citations**:",
+        "\n**Key citations:**",
         "\n**Named models or frameworks**:",
+        "\n**Named models or frameworks:**",
         "\n**Brain regions**:",
+        "\n**Brain regions:**",
         "\n**Keywords**:",
+        "\n**Keywords:**",
         "\n- **Named models or frameworks**:",
+        "\n- **Named models or frameworks:**",
         "\n- **Brain regions**:",
+        "\n- **Brain regions:**",
         "\n- **Keywords**:",
+        "\n- **Keywords:**",
     ):
         if stopper in block:
             block = block.split(stopper, 1)[0]
@@ -321,18 +435,10 @@ def match_aliases(text: str, patterns: Iterable[Tuple[str, re.Pattern]]) -> List
 
 
 def extract_citation_block(summary: Summary) -> str:
-    body = summary.body
-    marker = "**Key citations**:"
-    if marker not in body:
-        return ""
-    block = body.split(marker, 1)[1]
-    stop_match = re.search(
-        r"(?m)^(?:- )?\*\*(?:Named models or frameworks|Brain regions|Keywords)\*\*:",
-        block,
-    )
-    if stop_match:
-        block = block[: stop_match.start()]
-    return block.strip()
+    section_text = summary.sections.get("Connections & keywords", "")
+    if section_text:
+        return extract_structured_subsection(section_text, "Key citations")
+    return ""
 
 
 def first_author_surname(authors_value: Any, paper_id: str) -> str:
@@ -455,6 +561,8 @@ def extract_semantic_fields(
     extracted: Dict[str, Any] = {}
     for category, text in category_text.items():
         extracted[category] = match_aliases(text, patterns[category])
+    if any(species in extracted["species"] for species in ("mouse", "rat", "macaque", "monkey")):
+        extracted["species"] = [species for species in extracted["species"] if species != "human"]
 
     keyword_candidates = extract_keywords(summary)
     for item in normalized_title_keywords(title):
@@ -525,7 +633,7 @@ def build_paper_index(summaries: List[Summary], extracted_by_id: Dict[str, Dict[
                     ("brain_regions", extracted.get("brain_regions", [])),
                     ("frameworks", extracted.get("frameworks", [])),
                     ("keywords", extracted.get("keywords", [])),
-                    ("one_line_summary", summary.sections.get("One-line summary", "").strip()),
+                    ("one_line_summary", clean_one_line_summary(summary.sections.get("One-line summary", ""))),
                     ("key_citations", extracted.get("key_citations", [])),
                     ("open_question_count", count_open_questions(summary)),
                     ("summary_quality", summary_quality(summary, extracted)),
@@ -541,18 +649,56 @@ def build_paper_index(summaries: List[Summary], extracted_by_id: Dict[str, Dict[
     )
 
 
-def write_json_yaml(path: Path, payload: Any) -> None:
+def dump_yaml(value: Any, indent: int = 0) -> List[str]:
+    prefix = " " * indent
+    if isinstance(value, (dict, OrderedDict)):
+        lines: List[str] = []
+        for key, item in value.items():
+            if isinstance(item, list) and not item:
+                lines.append(f"{prefix}{key}: []")
+            elif isinstance(item, (dict, OrderedDict, list)):
+                lines.append(f"{prefix}{key}:")
+                lines.extend(dump_yaml(item, indent + 2))
+            else:
+                lines.append(f"{prefix}{key}: {inline_yaml_value(item)}")
+        return lines
+    if isinstance(value, list):
+        lines = []
+        for item in value:
+            if isinstance(item, (dict, OrderedDict)):
+                lines.append(f"{prefix}-")
+                lines.extend(dump_yaml(item, indent + 2))
+            elif isinstance(item, list):
+                lines.append(f"{prefix}-")
+                lines.extend(dump_yaml(item, indent + 2))
+            else:
+                lines.append(f"{prefix}- {inline_yaml_value(item)}")
+        return lines
+    return [f"{prefix}{inline_yaml_value(value)}"]
+
+
+def write_yaml(path: Path, payload: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    text = json.dumps(payload, indent=2, ensure_ascii=True) + "\n"
+    text = "\n".join(dump_yaml(payload)) + "\n"
     tmp_path = path.with_suffix(path.suffix + ".tmp")
     tmp_path.write_text(text)
     tmp_path.replace(path)
+
+
+def clean_one_line_summary(text: str) -> str:
+    lines = []
+    for line in text.strip().splitlines():
+        if line.strip() == "---":
+            continue
+        lines.append(line.rstrip())
+    return "\n".join(lines).strip()
 
 
 def write_normalized_frontmatter(summary: Summary, extracted: Dict[str, Any]) -> None:
     updated = OrderedDict(summary.frontmatter)
     updated["source_file"] = summary.path.name
     updated["paper_id"] = paper_id_from_path(summary.path)
+    updated["authors"] = split_authors(updated.get("authors", ""))
     for key in ("species", "tasks", "methods", "brain_regions", "frameworks", "keywords", "key_citations"):
         updated[key] = extracted.get(key, [])
     new_text = dump_frontmatter(updated) + summary.body.lstrip("\n")
@@ -582,7 +728,7 @@ def main() -> int:
 
     if args.write_index:
         index_payload = build_paper_index(summaries, extracted_by_id)
-        write_json_yaml(PAPER_INDEX_PATH, index_payload)
+        write_yaml(PAPER_INDEX_PATH, index_payload)
 
     print(
         f"Processed {len(summaries)} summaries"

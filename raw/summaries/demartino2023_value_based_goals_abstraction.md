@@ -1,17 +1,54 @@
 ---
-source_file: "demartino2023_value_based_goals_abstraction.md"
-paper_id: "demartino2023_value_based_goals_abstraction"
+source_file: demartino2023_value_based_goals_abstraction.md
+paper_id: demartino2023_value_based_goals_abstraction
 title: "Goals, usefulness and abstraction in value-based choice"
-authors: "Benedetto De Martino, Aurelio Cortese"
+authors:
+  - "Benedetto De Martino"
+  - "Aurelio Cortese"
 year: 2023
 journal: "Trends in Cognitive Sciences"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-methods: ["fmri", "representational_similarity_analysis"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "thalamus", "visual_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "hierarchical_rl", "mixed_selectivity"]
-keywords: ["cortese", "a_et_al_2021_value_signals_guide_abstraction_during_learning_elife", "10", "e68943", "castegnetti", "g_et_al_2021_how_usefulness_shapes_neural_representations_during_goal_directed_behavior_science_advances", "7", "eabd5363", "fromer", "r_and_shenhav", "a_2022_filling_the_gaps_cognitive_control_as_a_critical_lens_for_understanding_mechanisms_of_value_based_decision_making_neurosci_biobehav_rev", "niv", "y_2019_learning_task_state_representations_nature_neuroscience", "22", "15441553", "rigotti", "m_et_al_2013_the_importance_of_mixed_selectivity_in_complex_cognitive_tasks_nature", "497", "585590", "fusi"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - fmri
+  - representational_similarity_analysis
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - thalamus
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - model_free_rl
+  - successor_representation
+  - hierarchical_rl
+  - mixed_selectivity
+keywords:
+  - goal_dependent_value_representation
+  - usefulness_vs_reward
+  - abstraction_and_dimensionality_reduction
+  - mixed_selectivity
+  - ventromedial_prefrontal_cortex
+  - cognitive_maps_and_schemas
+  - metacognition_and_confidence_in_value
+  - attention_value_interaction
+  - hierarchical_reinforcement_learning
+  - multi_objective_reinforcement_learning
+  - representational_geometry
+  - information_selection_in_decision_making
+  - goals
+  - usefulness
+  - abstraction
+  - value
+  - based
+  - choice
 ---
 
 ### One-line summary

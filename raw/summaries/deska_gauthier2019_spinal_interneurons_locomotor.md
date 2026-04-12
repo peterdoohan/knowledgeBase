@@ -1,15 +1,39 @@
 ---
-source_file: "deska_gauthier2019_spinal_interneurons_locomotor.md"
-paper_id: "deska_gauthier2019_spinal_interneurons_locomotor"
+source_file: deska_gauthier2019_spinal_interneurons_locomotor.md
+paper_id: deska_gauthier2019_spinal_interneurons_locomotor
 title: "The functional diversity of spinal interneurons and locomotor control"
-authors: "Dylan Deska-Gauthier, Ying Zhang"
+authors:
+  - "Dylan Deska-Gauthier"
+  - "Ying Zhang"
 year: 2019
 journal: "Current Opinion in Physiology"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology", "computational_modeling"]
-keywords: ["functional", "diversity", "spinal", "interneurons", "locomotor", "control"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+  - computational_modeling
+keywords:
+  - spinal_interneuron_diversity
+  - central_pattern_generator
+  - locomotor_rhythm_generation
+  - locomotor_pattern_formation
+  - speed_dependent_gait_transitions
+  - cardinal_interneuron_classes
+  - v0_v1_v2a_v2b_v3_di6_interneurons
+  - flexorextensor_alternation
+  - leftright_coordination
+  - motor_neuron_gain_control
+  - recurrent_spinal_feedback_circuits
+  - fictive_locomotion
+  - functional
+  - diversity
+  - spinal
+  - interneurons
+  - locomotor
+  - control
 ---
 
 ### One-line summary

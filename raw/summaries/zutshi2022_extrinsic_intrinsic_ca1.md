@@ -1,17 +1,50 @@
 ---
-source_file: "zutshi2022_extrinsic_intrinsic_ca1.md"
-paper_id: "zutshi2022_extrinsic_intrinsic_ca1"
+source_file: zutshi2022_extrinsic_intrinsic_ca1.md
+paper_id: zutshi2022_extrinsic_intrinsic_ca1
 title: "Extrinsic control and intrinsic computation in the hippocampal CA1 circuit"
-authors: "Ipshita Zutshi, Manuel Valero, Antonio Fern\u00e1ndez-Ruiz, Gy\u00f6rgy Buzs\u00e1ki"
+authors:
+  - "Ipshita Zutshi"
+  - "Manuel Valero"
+  - "Antonio Fernández-Ruiz"
+  - "György Buzsáki"
 year: 2022
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics", "lesion"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["extrinsic", "control", "intrinsic", "computation", "hippocampal", "ca1", "circuit"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - lesion
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - hippocampus
+  - ca1
+  - place_cells
+  - theta_oscillations
+  - medial_entorhinal_cortex
+  - ca3
+  - optogenetics
+  - pharmacogenetics
+  - cell_assemblies
+  - remapping
+  - current_source_density
+  - local_field_potential
+  - intrinsic_computation
+  - functional_deafferentation
+  - spatial_memory
+  - neuronal_silencing
+  - extrinsic
+  - control
+  - intrinsic
+  - computation
 ---
 
 ### One-line summary

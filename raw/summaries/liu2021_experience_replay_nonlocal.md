@@ -1,17 +1,56 @@
 ---
-source_file: "liu2021_experience_replay_nonlocal.md"
-paper_id: "liu2021_experience_replay_nonlocal"
+source_file: liu2021_experience_replay_nonlocal.md
+paper_id: liu2021_experience_replay_nonlocal
 title: "Experience replay is associated with efficient nonlocal learning"
-authors: "Yunzhe Liu, Marcelo G. Mattar, Timothy E. J. Behrens, Nathaniel D. Daw, Raymond J. Dolan"
+authors:
+  - "Yunzhe Liu"
+  - "Marcelo G. Mattar"
+  - "Timothy E. J. Behrens"
+  - "Nathaniel D. Daw"
+  - "Raymond J. Dolan"
 year: 2021
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["computational_modeling"]
-brain_regions: ["hippocampus", "ventral_tegmental_area", "medial_temporal_lobe", "visual_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "temporal_difference_learning"]
-keywords: ["mattar_and_daw_2018_nat_neurosci_normative_theory_of_prioritised_replay_need_gain_utility", "liu_et_al_2019_cell_prior_human_meg_replay_study_3050_ms_lag", "post_task_rest", "wimmer_et_al_2020_nat_neurosci_episodic_memory_replay_at_similar_160_ms_speed", "foster_and_wilson_2006_nature_reverse_replay_of_hippocampal_place_cells_in_rodents", "ambrose_et_al_2016_neuron_reverse_replay_modulated_by_changing_reward_in_rodents", "barron_et_al_2020_cell_inferential_reasoning_and_replay_in_humans_and_mice", "daw_et_al_2011_neuron_model_based_influences_on_striatal_prediction_errors_in_humans", "schuck_and_niv_2019_science_sequential_replay_of_nonspatial_task_states_in_human_hippocampus", "gomperts_et_al_2015_elife_vta_co_activation_during_hippocampal_swr", "liu_et_al_2022", "biorxiv_tdlm_method_for_measuring_sequences_in_meg", "named_models_or_frameworks", "temporally_delayed_linear_modelling_tdlm_meg_replay_detection_method", "modified_q_learning_model_with_separate_local_nonlocal_learning_rates_and_replay_regressor", "prioritised_memory_access_mattar_and_daw", "2018_normative_framework_for_replay_priority", "brain_regions", "hippocampus_medial_temporal_lobe", "visual_cortex"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - ventral_tegmental_area
+  - medial_temporal_lobe
+  - visual_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - temporal_difference_learning
+keywords:
+  - experience_replay
+  - nonlocal_learning
+  - model_based_reinforcement_learning
+  - credit_assignment
+  - backward_replay
+  - hippocampal_replay
+  - meg_decoding
+  - prioritised_replay
+  - need_gain_utility
+  - q_learning
+  - sequential_reactivation
+  - temporal_difference_learning
+  - experience
+  - replay
+  - associated
+  - efficient
+  - nonlocal
+  - learning
+key_citations:
+  - liu2019_human_replay_reorganizes
+  - ambrose2016_reverse_replay_hippocampal
+  - barron2020_neuronal_computation_inferential
+  - daw2011_model_based_striatal_prediction
+  - niv2019_representation_learning_task_states
+  - schuck2019_hippocampal_replay_nonspatial
 ---
 
 ### One-line summary

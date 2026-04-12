@@ -1,16 +1,50 @@
 ---
-source_file: "stoianov2020_hierarchical_generative_model.md"
-paper_id: "stoianov2020_hierarchical_generative_model"
+source_file: stoianov2020_hierarchical_generative_model.md
+paper_id: stoianov2020_hierarchical_generative_model
 title: "The hippocampal formation as a hierarchical generative model supporting generative replay and continual learning"
-authors: "Ivilin Stoianov, Domenico Maisto, Giovanni Pezzulo"
+authors:
+  - "Ivilin Stoianov"
+  - "Domenico Maisto"
+  - "Giovanni Pezzulo"
 year: 2020
 journal: "bioRxiv (preprint)"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "ventral_striatum"]
-keywords: ["hippocampal", "formation", "hierarchical", "generative", "model", "supporting", "replay", "continual", "learning"]
-key_citations: ["stella2019_hippocampal_reactivation_brownian", "liu2019_human_replay_reorganizes"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+keywords:
+  - hippocampus
+  - generative_model
+  - generative_replay
+  - cognitive_map
+  - sequence_generation
+  - continual_learning
+  - catastrophic_forgetting
+  - hierarchical_bayesian_model
+  - mixture_model
+  - spatial_navigation
+  - place_cells
+  - theta_sequences
+  - preplay
+  - episodic_memory
+  - prospective_imagination
+  - hippocampal
+  - formation
+  - hierarchical
+  - generative
+  - model
+key_citations:
+  - stella2019_hippocampal_reactivation_brownian
+  - liu2019_human_replay_reorganizes
 ---
 
 ### One-line summary

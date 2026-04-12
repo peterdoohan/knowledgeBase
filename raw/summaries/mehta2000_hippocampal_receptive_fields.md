@@ -1,17 +1,46 @@
 ---
-source_file: "mehta2000_hippocampal_receptive_fields.md"
-paper_id: "mehta2000_hippocampal_receptive_fields"
+source_file: mehta2000_hippocampal_receptive_fields.md
+paper_id: mehta2000_hippocampal_receptive_fields
 title: "Experience-Dependent Asymmetric Shape of Hippocampal Receptive Fields"
-authors: "Mayank R. Mehta, Michael C. Quirk, Matthew A. Wilson"
+authors:
+  - "Mayank R. Mehta"
+  - "Michael C. Quirk"
+  - "Matthew A. Wilson"
 year: 2000
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["linear_track"]
-methods: ["tetrode_recording", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
-keywords: ["experience", "dependent", "asymmetric", "shape", "hippocampal", "receptive", "fields"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+methods:
+  - tetrode_recording
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+keywords:
+  - place_cells
+  - place_field_asymmetry
+  - receptive_field_skewness
+  - spike_timing_dependent_plasticity_stdp
+  - nmda_dependent_ltp_ltd
+  - experience_dependent_plasticity
+  - theta_phase_precession
+  - firing_rate_asymmetry_index_frai
+  - ca3ca1_feedforward_synapses
+  - sequence_learning
+  - spatial_memory
+  - hippocampal_map
+  - experience
+  - dependent
+  - asymmetric
+  - shape
+  - hippocampal
+  - receptive
+  - fields
 ---
 
 ### One-line summary

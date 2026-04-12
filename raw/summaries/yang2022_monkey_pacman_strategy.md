@@ -1,17 +1,55 @@
 ---
-source_file: "yang2022_monkey_pacman_strategy.md"
-paper_id: "yang2022_monkey_pacman_strategy"
+source_file: yang2022_monkey_pacman_strategy.md
+paper_id: yang2022_monkey_pacman_strategy
 title: "Monkey plays Pac-Man with compositional strategies and hierarchical decision-making"
-authors: "Qianli Yang, Zhongqiao Lin, Wenyi Zhang, Jianshu Li, Xiyuan Chen, Jiaqi Zhang, Tianming Yang"
+authors:
+  - "Qianli Yang"
+  - "Zhongqiao Lin"
+  - "Wenyi Zhang"
+  - "Jianshu Li"
+  - "Xiyuan Chen"
+  - "Jiaqi Zhang"
+  - "Tianming Yang"
 year: 2022
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human", "macaque", "monkey"]
-methods: ["computational_modeling"]
-brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "hierarchical_rl"]
-keywords: ["botvinick_et_al_2009", "botvinick_and_weinstein_2014_hierarchical_rl_and_human_action_control", "sutton_et_al_1999_temporal_abstraction_in_rl", "dezfouli_and_balleine_2013", "ostlund_et_al_2009_hierarchical_organization_of_behavior", "mnih_et_al_2015_deep_q_network_flat_rl_comparison", "van_seijen_et_al_2017_multi_agent_hierarchical_rl_for_pac_man", "nassar_et_al_2012", "urai_et_al_2017_pupil_linked_arousal_and_decision_making", "leong_et_al_2017", "wilson_and_niv_2011_selective_attention_in_decision_making", "named_models_or_frameworks", "dynamic_compositional_strategy_model_the_papers_main_model", "take_the_best_ttb_heuristic", "six_basis_strategies_local", "global", "evade_blinky", "evade_clyde", "approach", "energizer"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+  - monkey
+methods:
+  - computational_modeling
+brain_regions:
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - hierarchical_rl
+keywords:
+  - hierarchical_decision_making
+  - compositional_strategies
+  - take_the_best_heuristic
+  - strategy_switching
+  - reinforcement_learning
+  - complex_behavior_paradigm
+  - non_human_primate_cognition
+  - eye_movements
+  - pupil_dilation
+  - computational_modeling
+  - pac_man_game
+  - macaque_monkeys
+  - monkey
+  - plays
+  - pac
+  - man
+  - compositional
+  - strategies
+  - hierarchical
+  - decision
+key_citations:
+  - botvinick2009_hierarchically_organized_behavior
+  - sutton1999_temporal_abstraction_rl
 ---
 
 ### One-line summary

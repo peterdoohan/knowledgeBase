@@ -1,17 +1,52 @@
 ---
-source_file: "vicente2020_cortico_basal_ganglia_motor.md"
-paper_id: "vicente2020_cortico_basal_ganglia_motor"
+source_file: vicente2020_cortico_basal_ganglia_motor.md
+paper_id: vicente2020_cortico_basal_ganglia_motor
 title: "Cortico-basal ganglia circuits underlying dysfunctional control of motor behaviors in neuropsychiatric disorders"
-authors: "Ana Mafalda Vicente, Gabriela J Martins, Rui M Costa"
+authors:
+  - "Ana Mafalda Vicente"
+  - "Gabriela J Martins"
+  - "Rui M Costa"
 year: 2020
 journal: "Current Opinion in Genetics and Development"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-methods: ["optogenetics"]
-brain_regions: ["orbitofrontal_cortex", "prelimbic_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "nucleus_accumbens", "substantia_nigra"]
-frameworks: ["reinforcement_learning", "model_free_rl"]
-keywords: ["cortico", "basal", "ganglia", "circuits", "underlying", "dysfunctional", "control", "motor", "behaviors", "neuropsychiatric"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - optogenetics
+brain_regions:
+  - orbitofrontal_cortex
+  - prelimbic_cortex
+  - striatum
+  - dorsomedial_striatum
+  - dorsolateral_striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+  - model_free_rl
+keywords:
+  - cortico_basal_ganglia_circuits
+  - restricted_repetitive_behaviors_rrbs
+  - obsessive_compulsive_disorder
+  - autism_spectrum_disorder
+  - direct_pathway_spiny_projection_neurons_dspns
+  - indirect_pathway_spiny_projection_neurons_ispns
+  - goal_directed_behavior
+  - habitual_behavior
+  - metabotropic_glutamate_receptor_5_mglur5
+  - striatal_synaptic_plasticity
+  - cortico
+  - basal
+  - ganglia
+  - circuits
+  - underlying
+  - dysfunctional
+  - control
+  - motor
+  - behaviors
+  - neuropsychiatric
 ---
 
 ### One-line summary

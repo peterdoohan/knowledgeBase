@@ -1,14 +1,66 @@
 ---
-source_file: "degrave2022_reinforcement_tokamak_control.md"
-paper_id: "degrave2022_reinforcement_tokamak_control"
+source_file: degrave2022_reinforcement_tokamak_control.md
+paper_id: degrave2022_reinforcement_tokamak_control
 title: "Magnetic control of tokamak plasmas through deep reinforcement learning"
-authors: "Jonas Degrave, Federico Felici, Jonas Buchli, Michael Neunert, Brendan Tracey, Francesco Carpanese, Timo Ewalds, Roland Hafner, Abbas Abdolmaleki, Diego de las Casas, Craig Donner, Leslie Fritz, Cristian Galperti, Andrea Huber, James Keeling, Maria Tsimpoukelli, Jackie Kay, Antoine Merle, Jean-Marc Moret, Seb Noury, Federico Pesamosca, David Pfau, Olivier Sauter, Cristian Sommariva, Stefano Coda, Basil Duval, Ambrogio Fasoli, Pushmeet Kohli, Koray Kavukcuoglu, Demis Hassabis, Martin Riedmiller"
+authors:
+  - "Jonas Degrave"
+  - "Federico Felici"
+  - "Jonas Buchli"
+  - "Michael Neunert"
+  - "Brendan Tracey"
+  - "Francesco Carpanese"
+  - "Timo Ewalds"
+  - "Roland Hafner"
+  - "Abbas Abdolmaleki"
+  - "Diego de las Casas"
+  - "Craig Donner"
+  - "Leslie Fritz"
+  - "Cristian Galperti"
+  - "Andrea Huber"
+  - "James Keeling"
+  - "Maria Tsimpoukelli"
+  - "Jackie Kay"
+  - "Antoine Merle"
+  - "Jean-Marc Moret"
+  - "Seb Noury"
+  - "Federico Pesamosca"
+  - "David Pfau"
+  - "Olivier Sauter"
+  - "Cristian Sommariva"
+  - "Stefano Coda"
+  - "Basil Duval"
+  - "Ambrogio Fasoli"
+  - "Pushmeet Kohli"
+  - "Koray Kavukcuoglu"
+  - "Demis Hassabis"
+  - "Martin Riedmiller"
 year: 2022
-journal: "Nature"
-paper_type: "computational"
-contribution_type: "methodological"
-frameworks: ["reinforcement_learning"]
-keywords: ["magnetic", "control", "tokamak", "plasmas", "through", "deep", "reinforcement", "learning"]
+journal: Nature
+paper_type: computational
+contribution_type: methodological
+frameworks:
+  - reinforcement_learning
+keywords:
+  - deep_reinforcement_learning
+  - tokamak_magnetic_control
+  - plasma_shape_control
+  - actor_critic
+  - mpo
+  - sim_to_real_transfer
+  - free_boundary_plasma_model
+  - grad_shafranov_equation
+  - domain_randomization
+  - zero_shot_transfer
+  - nuclear_fusion
+  - real_time_control
+  - snowflake_divertor
+  - negative_triangularity
+  - magnetic
+  - control
+  - tokamak
+  - plasmas
+  - through
+  - deep
 ---
 
 ### One-line summary

@@ -1,16 +1,44 @@
 ---
-source_file: "padoaschioppa2006_orbitofrontal_economic_value.md"
-paper_id: "padoaschioppa2006_orbitofrontal_economic_value"
+source_file: padoaschioppa2006_orbitofrontal_economic_value.md
+paper_id: padoaschioppa2006_orbitofrontal_economic_value
 title: "Neurons in the orbitofrontal cortex encode economic value"
-authors: "Camillo Padoa-Schioppa, John A. Assad"
+authors:
+  - "Camillo Padoa-Schioppa"
+  - "John A. Assad"
 year: 2006
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque", "monkey"]
-methods: ["electrophysiology"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "posterior_cingulate_cortex"]
-keywords: ["neurons", "orbitofrontal", "cortex", "encode", "economic", "value"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+  - monkey
+methods:
+  - electrophysiology
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - posterior_cingulate_cortex
+keywords:
+  - economic_choice
+  - orbitofrontal_cortex
+  - subjective_value_coding
+  - offer_value
+  - chosen_value
+  - good_based_decision_making
+  - action_based_decision_making
+  - neuroeconomics
+  - single_unit_electrophysiology
+  - macaque
+  - visuomotor_independence
+  - value_representation
+  - neurons
+  - orbitofrontal
+  - cortex
+  - encode
+  - economic
+  - value
 ---
 
 ### One-line summary

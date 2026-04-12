@@ -1,16 +1,51 @@
 ---
-source_file: "rosen2025_distributed_cognition.md"
-paper_id: "rosen2025_distributed_cognition"
+source_file: rosen2025_distributed_cognition.md
+paper_id: rosen2025_distributed_cognition
 title: "How distributed is the brain-wide network that is recruited for cognition?"
-authors: "Matthew C. Rosen, David J. Freedman"
+authors:
+  - "Matthew C. Rosen"
+  - "David J. Freedman"
 year: 2025
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse", "macaque", "monkey"]
-methods: ["calcium_imaging", "optogenetics", "electrophysiology", "neuropixels"]
-brain_regions: ["prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "visual_cortex"]
-keywords: ["fritsch_and_hitzig_1870_foundational_electrical_stimulation_studies_establishing_localization_of_function", "hubel_and_wiesel_1962_localized_sensory_processing_in_visual_cortex", "shadlen", "newsome_and_colleagues_classic_motion_discrimination_task_and_decision_making_studies", "romo_and_colleagues_vibrotactile_discrimination_task_studies_revealing_working_memory_encoding", "stringer_et_al_2019_widespread_movement_related_activity_in_mouse_cortex", "international_brain_laboratory_2025_brain_wide_survey_of_neural_activity_during_decision_making", "freedman_and_assad_2006_and_subsequent_studies_categorization_in_parietal_cortex", "named_models_or_frameworks", "localization_of_function_classical_view", "distributed_encoding_everything", "everywhere", "all_at_once_alternative_view", "deep_task_sampling_methodological_approach", "representational_geometry_theoretical_framework", "marrs_three_levels_computational", "algorithmic", "implementational_discussed_indirectly", "null_space_encoding_hypothesis", "demand_dependent_recruitment_framework"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+  - macaque
+  - monkey
+methods:
+  - calcium_imaging
+  - optogenetics
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - prefrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+  - visual_cortex
+keywords:
+  - distributed_cognition
+  - brain_wide_encoding
+  - cognitive_demand
+  - uninstructed_movements
+  - premotor_cortex
+  - decision_making
+  - working_memory
+  - neural_encoding
+  - representational_geometry
+  - task_dependent_recruitment
+  - category_learning
+  - superior_colliculus
+  - parietal_cortex
+  - deep_task_sampling
+  - neuromodulation
+  - distributed
+  - brain
+  - wide
+  - network
+  - that
+key_citations:
+  - ibl2025_reproducibility_electrophysiology
 ---
 
 ### One-line summary

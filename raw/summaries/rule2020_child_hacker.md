@@ -1,16 +1,36 @@
 ---
-source_file: "rule2020_child_hacker.md"
-paper_id: "rule2020_child_hacker"
+source_file: rule2020_child_hacker.md
+paper_id: rule2020_child_hacker
 title: "The Child as Hacker"
-authors: "Joshua S. Rule, Joshua B. Tenenbaum, Steven T. Piantadosi"
+authors:
+  - "Joshua S. Rule"
+  - "Joshua B. Tenenbaum"
+  - "Steven T. Piantadosi"
 year: 2020
 journal: "Trends in Cognitive Sciences"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-methods: ["computational_modeling"]
-frameworks: ["bayesian_inference"]
-keywords: ["fodor_1975_language_of_thought", "goodman_et_al_2008_church_probabilistic_programming_language", "goodman_et_al_2015_probabilistic_language_of_thought", "lake_et_al_2017_building_machines_that_learn_and_think_like_people", "siegler_and_jenkins_1989_how_children_discover_new_strategies", "siegler_1996_emerging_minds_overlapping_waves_evolutionary_metaphors", "schulz_2012_the_origins_of_inquiry", "gopnik_2012_scientific_thinking_in_young_children", "tenenbaum_et_al_2011_how_to_grow_a_mind", "baum_2004_what_is_thought", "named_models_or_frameworks", "child_as_hacker_novel_contribution", "learning_as_programming", "language_of_thought_lot", "probabilistic_language_of_thought", "child_as_scientist", "rational_constructivism", "overlapping_waves_siegler", "workshop_metaphor_siegler", "evolutionary_metaphor_siegler"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+methods:
+  - computational_modeling
+frameworks:
+  - bayesian_inference
+keywords:
+  - cognitive_development
+  - program_induction
+  - language_of_thought
+  - computational_modeling
+  - symbolic_representations
+  - arithmetic_learning
+  - strategy_discovery
+  - intuitive_theories
+  - bayesian_learning
+  - software_engineering
+  - intrinsic_motivation
+  - cognitive_architecture
+  - child
+  - hacker
 ---
 
 ### One-line summary

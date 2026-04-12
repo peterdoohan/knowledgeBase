@@ -1,15 +1,45 @@
 ---
-source_file: "manjarrez2016_gap_junction_blockers.md"
-paper_id: "manjarrez2016_gap_junction_blockers"
+source_file: manjarrez2016_gap_junction_blockers.md
+paper_id: manjarrez2016_gap_junction_blockers
 title: "Gap Junction Blockers: An Overview of their Effects on Induced Seizures in Animal Models"
-authors: "Joaqu\u00edn Manjarrez-Marmolejo, Javier Franco-P\u00e9rez"
+authors:
+  - "Joaquín Manjarrez-Marmolejo"
+  - "Javier Franco-Pérez"
 year: 2016
 journal: "Current Neuropharmacology"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat", "human"]
-brain_regions: ["hippocampus", "hippocampus_ca3", "entorhinal_cortex", "substantia_nigra", "thalamus", "amygdala", "basolateral_amygdala"]
-keywords: ["gap_junctions", "connexins", "electrical_synapses", "seizures", "epilepsy", "anticonvulsants", "carbenoxolone", "neuronal_synchronisation", "cx36", "astrocytic_hemichannels", "cx43", "gap_junction_blockers", "gap", "junction", "blockers", "overview", "their", "effects", "induced", "animal"]
+paper_type: review
+contribution_type: review
+species:
+  - rat
+brain_regions:
+  - hippocampus
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - substantia_nigra
+  - thalamus
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - gap_junctions
+  - connexins
+  - electrical_synapses
+  - seizures
+  - epilepsy
+  - anticonvulsants
+  - carbenoxolone
+  - neuronal_synchronisation
+  - cx36
+  - astrocytic_hemichannels
+  - cx43
+  - gap_junction_blockers
+  - gap
+  - junction
+  - blockers
+  - overview
+  - their
+  - effects
+  - induced
+  - animal
 ---
 
 ### One-line summary

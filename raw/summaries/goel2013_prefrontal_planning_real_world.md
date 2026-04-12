@@ -1,17 +1,50 @@
 ---
-source_file: "goel2013_prefrontal_planning_real_world.md"
-paper_id: "goel2013_prefrontal_planning_real_world"
+source_file: goel2013_prefrontal_planning_real_world.md
+paper_id: goel2013_prefrontal_planning_real_world
 title: "Lesions to right prefrontal cortex impair real-world planning through premature commitments"
-authors: "Vinod Goel, Oshin Vartanian, Angela Bartolo, Lila Hakim, Anna Maria Ferraro, Valeria Isella, Ildebrando Appollonio, Silvia Drei, Paolo Nichelli"
+authors:
+  - "Vinod Goel"
+  - "Oshin Vartanian"
+  - "Angela Bartolo"
+  - "Lila Hakim"
+  - "Anna Maria Ferraro"
+  - "Valeria Isella"
+  - "Ildebrando Appollonio"
+  - "Silvia Drei"
+  - "Paolo Nichelli"
 year: 2013
-journal: "Neuropsychologia"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["lesion"]
-brain_regions: ["prefrontal_cortex"]
-frameworks: ["successor_representation"]
-keywords: ["lesions", "right", "prefrontal", "cortex", "impair", "real", "world", "planning", "through", "premature"]
+journal: Neuropsychologia
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - lesion
+brain_regions:
+  - prefrontal_cortex
+frameworks:
+  - successor_representation
+keywords:
+  - right_prefrontal_cortex
+  - ill_structured_problem_solving
+  - real_world_planning
+  - lateral_transformations
+  - vertical_transformations
+  - abstract_representations
+  - premature_commitment
+  - verbal_protocol_analysis
+  - frontal_lobe_lesions
+  - planning_phases
+  - concrete_to_abstract_ratio
+  - problem_space
+  - lesions
+  - right
+  - prefrontal
+  - cortex
+  - impair
+  - real
+  - world
+  - planning
 ---
 
 ### One-line summary

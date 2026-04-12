@@ -1,18 +1,54 @@
 ---
-source_file: "wen2024_entorhinal_maps_navigation_b.md"
-paper_id: "wen2024_entorhinal_maps_navigation_b"
+source_file: wen2024_entorhinal_maps_navigation_b.md
+paper_id: wen2024_entorhinal_maps_navigation_b
 title: "One-shot entorhinal maps enable flexible navigation in novel environments"
-authors: "John H. Wen, Ben Sorscher, Emily A. Aery Jones, Surya Ganguli, Lisa M. Giocomo"
+authors:
+  - "John H. Wen"
+  - "Ben Sorscher"
+  - "Emily A. Aery Jones"
+  - "Surya Ganguli"
+  - "Lisa M. Giocomo"
 year: 2024
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-tasks: ["navigation_task"]
-methods: ["neuropixels", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "visual_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["hafting_et_al_2005_foundational_discovery_of_grid_cells", "fyhn_et_al_2007_hippocampal_remapping_and_grid_realignment", "mcnaughton_et_al_2006_path_integration_and_cognitive_maps", "bittner_et_al_2017_behavioural_timescale_synaptic_plasticity_btsp", "gu_et_al_2018_map_like_micro_organization_of_grid_cells", "gardner_et_al_2022_toroidal_topology_of_grid_cell_population_activity", "yoon_et_al_2013_evidence_for_continuous_attractor_dynamics_in_grid_cells", "kim_et_al_2019_and_fisher_et_al_2019_landmark_plasticity_in_drosophila_heading_system", "ocko_et_al_2018_emergent_elasticity_in_neural_code_for_space", "named_models_or_frameworks", "continuous_attractor_network_can_model_of_grid_cells", "toroidal_attractor_manifold_framework", "2d_dynamical_model_with_weak_landmark_pinning", "path_integration_system", "behavioural_timescale_synaptic_plasticity_btsp", "hebbian_learning_as_comparator", "brain_regions", "medial_entorhinal_cortex_mec_primary_focus", "contains_grid_cells", "non_grid_spatial_cells"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - neuropixels
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - visual_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - entorhinal_cortex
+  - spatial_navigation
+  - continuous_attractor_networks
+  - toroidal_manifold
+  - remapping
+  - visual_landmarks
+  - path_integration
+  - behavioural_timescale_synaptic_plasticity_btsp
+  - virtual_reality
+  - neuropixels
+  - one_shot_learning
+  - neural_population_dynamics
+  - hippocampus
+  - cognitive_map
+  - one
+  - shot
+  - entorhinal
+  - maps
+  - enable
+key_citations:
+  - fyhn2007_remapping_grid_realignment
 ---
 
 ### One-line summary

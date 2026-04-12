@@ -1,16 +1,42 @@
 ---
-source_file: "schaeffer2022_no_free_lunch_deep_learning_neuroscience.md"
-paper_id: "schaeffer2022_no_free_lunch_deep_learning_neuroscience"
+source_file: schaeffer2022_no_free_lunch_deep_learning_neuroscience.md
+paper_id: schaeffer2022_no_free_lunch_deep_learning_neuroscience
 title: "No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit"
-authors: "Rylan Schaeffer, Mikail Khona, Ila Rani Fiete"
+authors:
+  - "Rylan Schaeffer"
+  - "Mikail Khona"
+  - "Ila Rani Fiete"
 year: 2022
 journal: "bioRxiv (preprint, posted August 7, 2022)"
-paper_type: "computational"
-contribution_type: "methodological"
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["grid_cells", "place_cells", "medial_entorhinal_cortex", "hippocampus", "path_integration", "deep_learning", "recurrent_neural_networks", "continuous_attractor_networks", "turing_instability", "pattern_formation", "difference_of_gaussians", "difference_of_softmaxes", "hyperparameter_sensitivity", "inductive_bias", "no_free_lunch", "gridness_score", "spatial_navigation", "neural_coding", "representational_geometry", "model_criticism"]
+paper_type: computational
+contribution_type: methodological
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - place_cells
+  - medial_entorhinal_cortex
+  - hippocampus
+  - path_integration
+  - deep_learning
+  - recurrent_neural_networks
+  - continuous_attractor_networks
+  - turing_instability
+  - pattern_formation
+  - difference_of_gaussians
+  - difference_of_softmaxes
+  - hyperparameter_sensitivity
+  - inductive_bias
+  - no_free_lunch
+  - gridness_score
+  - spatial_navigation
+  - neural_coding
+  - representational_geometry
+  - model_criticism
 ---
 
 ### One-line summary

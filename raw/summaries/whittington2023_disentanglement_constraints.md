@@ -1,17 +1,50 @@
 ---
-source_file: "whittington2023_disentanglement_constraints.md"
-paper_id: "whittington2023_disentanglement_constraints"
+source_file: whittington2023_disentanglement_constraints.md
+paper_id: whittington2023_disentanglement_constraints
 title: "Disentanglement with Biological Constraints: A Theory of Functional Cell Types"
-authors: "James C.R. Whittington, William Dorrell, Surya Ganguli, Timothy E.J. Behrens"
+authors:
+  - "James C.R. Whittington"
+  - "William Dorrell"
+  - "Surya Ganguli"
+  - "Timothy E.J. Behrens"
 year: 2023
 journal: "ICLR (International Conference on Learning Representations)"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["human"]
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "visual_cortex"]
-keywords: ["disentanglement", "nonnegativity", "energy_efficiency", "biological_constraints", "functional_cell_types", "grid_cells", "object_vector_cells", "independent_component_analysis", "neural_representation", "variational_autoencoder", "mixed_selectivity", "factorised_representations", "neural_manifolds", "path_integration", "pattern_formation", "hebbian_learning", "interpretability", "compositional_generalization", "biological", "constraints"]
-key_citations: ["boccara2019_grid_goal_attractor", "butler2019_reward_locations_entorhinal_maps"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - human
+tasks:
+  - navigation_task
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - visual_cortex
+keywords:
+  - disentanglement
+  - nonnegativity
+  - energy_efficiency
+  - biological_constraints
+  - functional_cell_types
+  - grid_cells
+  - object_vector_cells
+  - independent_component_analysis
+  - neural_representation
+  - variational_autoencoder
+  - mixed_selectivity
+  - factorised_representations
+  - neural_manifolds
+  - path_integration
+  - pattern_formation
+  - hebbian_learning
+  - interpretability
+  - compositional_generalization
+  - biological
+  - constraints
+key_citations:
+  - boccara2019_grid_goal_attractor
+  - butler2019_reward_locations_entorhinal_maps
 ---
 
 ### One-line summary

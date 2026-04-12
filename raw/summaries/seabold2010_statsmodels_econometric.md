@@ -1,14 +1,37 @@
 ---
-source_file: "seabold2010_statsmodels_econometric.md"
-paper_id: "seabold2010_statsmodels_econometric"
+source_file: seabold2010_statsmodels_econometric.md
+paper_id: seabold2010_statsmodels_econometric
 title: "Statsmodels: Econometric and Statistical Modeling with Python"
-authors: "Skipper Seabold, Josef Perktold"
+authors:
+  - "Skipper Seabold"
+  - "Josef Perktold"
 year: 2010
 journal: "Proceedings of the 9th Python in Science Conference (SciPy 2010)"
-paper_type: "methodological"
-contribution_type: "methodological"
-methods: ["behavioral_analysis"]
-keywords: ["statsmodels", "econometric", "statistical", "modeling", "python"]
+paper_type: methodological
+contribution_type: methodological
+methods:
+  - behavioral_analysis
+keywords:
+  - python
+  - statistics
+  - econometrics
+  - statsmodels
+  - open_source_software
+  - statistical_modeling
+  - generalized_linear_models
+  - ordinary_least_squares
+  - maximum_likelihood_estimation
+  - regression_analysis
+  - software_library
+  - reproducibility
+  - numerical_accuracy
+  - scipy
+  - numpy
+  - time_series_analysis
+  - statistical_computing
+  - econometric
+  - statistical
+  - modeling
 ---
 
 ### One-line summary

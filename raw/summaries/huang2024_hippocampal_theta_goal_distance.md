@@ -1,18 +1,50 @@
 ---
-source_file: "huang2024_hippocampal_theta_goal_distance.md"
-paper_id: "huang2024_hippocampal_theta_goal_distance"
+source_file: huang2024_hippocampal_theta_goal_distance.md
+paper_id: huang2024_hippocampal_theta_goal_distance
 title: "Human Hippocampal Theta Oscillations Organise Distance to Goal Coding"
-authors: "Zimo Huang, James A Bisby, Neil Burgess, Daniel Bush"
+authors:
+  - "Zimo Huang"
+  - "James A Bisby"
+  - "Neil Burgess"
+  - "Daniel Bush"
 year: 2024
 journal: "bioRxiv (preprint)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["fmri"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_temporal_lobe"]
-keywords: ["hippocampal_theta_oscillations", "goal_distance_coding", "theta_gamma_phase_amplitude_coupling", "spatial_navigation", "meg_source_localisation", "fast_gamma", "slow_gamma", "entorhinal_cortex", "theta_sequences", "working_memory", "abstract_state_space", "path_distance", "human", "hippocampal", "theta", "oscillations", "organise", "distance", "goal", "coding"]
-key_citations: ["liu2023_hippocampus_amygdala_memory_formation"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - navigation_task
+methods:
+  - fmri
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_temporal_lobe
+keywords:
+  - hippocampal_theta_oscillations
+  - goal_distance_coding
+  - theta_gamma_phase_amplitude_coupling
+  - spatial_navigation
+  - meg_source_localisation
+  - fast_gamma
+  - slow_gamma
+  - entorhinal_cortex
+  - theta_sequences
+  - working_memory
+  - abstract_state_space
+  - path_distance
+  - human
+  - hippocampal
+  - theta
+  - oscillations
+  - organise
+  - distance
+  - goal
+  - coding
+key_citations:
+  - liu2023_hippocampus_amygdala_memory_formation
 ---
 
 ### One-line summary

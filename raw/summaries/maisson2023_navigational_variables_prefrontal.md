@@ -1,18 +1,54 @@
 ---
-source_file: "maisson2023_navigational_variables_prefrontal.md"
-paper_id: "maisson2023_navigational_variables_prefrontal"
+source_file: maisson2023_navigational_variables_prefrontal.md
+paper_id: maisson2023_navigational_variables_prefrontal
 title: "Widespread coding of navigational variables in prefrontal cortex"
-authors: "David J.-N. Maisson, Roberto Lopez Cervera, Benjamin Voloh, Indirah Conover, Mrunal Zambre, Jan Zimmermann, Benjamin Y. Hayden"
+authors:
+  - "David J.-N. Maisson"
+  - "Roberto Lopez Cervera"
+  - "Benjamin Voloh"
+  - "Indirah Conover"
+  - "Mrunal Zambre"
+  - "Jan Zimmermann"
+  - "Benjamin Y. Hayden"
 year: 2023
 journal: "Current Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque"]
-tasks: ["open_field", "foraging_task", "navigation_task"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
-frameworks: ["mixed_selectivity"]
-keywords: ["widespread", "coding", "navigational", "variables", "prefrontal", "cortex"]
-key_citations: ["behrens2018_cognitive_map_organizing_knowledge"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+tasks:
+  - open_field
+  - foraging_task
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+frameworks:
+  - mixed_selectivity
+keywords:
+  - spatial_navigation
+  - prefrontal_cortex
+  - macaque
+  - mixed_selectivity
+  - distributed_coding
+  - place_cells
+  - head_direction_cells
+  - boundary_distance
+  - allocentric_position_encoding
+  - ventral_to_dorsal_gradient
+  - pfc_hierarchy
+  - freely_moving_primates
+  - open_field_foraging
+  - ln_gam_encoding_model
+  - navigational_variables
+  - non_modular_navigation
+  - widespread
+  - coding
+  - navigational
+  - variables
+key_citations:
+  - behrens2018_cognitive_map_organizing_knowledge
 ---
 
 ### One-line summary

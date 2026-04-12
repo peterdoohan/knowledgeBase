@@ -1,17 +1,46 @@
 ---
-source_file: "bakermans2020_reinforcement_learning_dopamine.md"
-paper_id: "bakermans2020_reinforcement_learning_dopamine"
-title: "Reinforcement Learning: Full Glass or Empty \u2014 Depends Who You Ask"
-authors: "Jacob J.W. Bakermans, Timothy H. Muller, Timothy E.J. Behrens"
+source_file: bakermans2020_reinforcement_learning_dopamine.md
+paper_id: bakermans2020_reinforcement_learning_dopamine
+title: "Reinforcement Learning: Full Glass or Empty — Depends Who You Ask"
+authors:
+  - "Jacob J.W. Bakermans"
+  - "Timothy H. Muller"
+  - "Timothy E.J. Behrens"
 year: 2020
 journal: "Current Biology"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-brain_regions: ["ventral_tegmental_area"]
-frameworks: ["reinforcement_learning", "temporal_difference_learning"]
-keywords: ["reinforcement", "learning", "full", "glass", "empty", "depends", "who", "you", "ask"]
-key_citations: ["schultz1997_neural_substrate_reward_pred", "lammel2014_dopamine_reward_aversion_b"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+brain_regions:
+  - ventral_tegmental_area
+frameworks:
+  - reinforcement_learning
+  - temporal_difference_learning
+keywords:
+  - distributional_reinforcement_learning
+  - temporal_difference_learning
+  - reward_prediction_error
+  - dopamine_neurons
+  - ventral_tegmental_area
+  - optimistic_pessimistic_neurons
+  - quantile_coding
+  - reward_distribution
+  - rpe_asymmetry
+  - reversal_point
+  - risk_sensitive_decision_making
+  - neuroscience_ai_interaction
+  - reinforcement
+  - learning
+  - full
+  - glass
+  - empty
+  - depends
+  - who
+  - you
+key_citations:
+  - schultz1997_neural_substrate_reward_pred
+  - lammel2014_dopamine_reward_aversion_b
 ---
 
 ### One-line summary

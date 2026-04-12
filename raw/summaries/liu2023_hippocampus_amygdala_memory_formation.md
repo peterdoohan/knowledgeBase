@@ -1,17 +1,53 @@
 ---
-source_file: "liu2023_hippocampus_amygdala_memory_formation.md"
-paper_id: "liu2023_hippocampus_amygdala_memory_formation"
+source_file: liu2023_hippocampus_amygdala_memory_formation.md
+paper_id: liu2023_hippocampus_amygdala_memory_formation
 title: "Emerging many-to-one weighted mapping in hippocampus-amygdala network underlies memory formation"
-authors: "Jun Liu, Arron F Hall, Dong V Wang"
+authors:
+  - "Jun Liu"
+  - "Arron F Hall"
+  - "Dong V Wang"
 year: 2023
 journal: "bioRxiv (preprint)"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics", "electrophysiology", "tetrode_recording", "behavioral_analysis"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "amygdala", "basolateral_amygdala"]
-keywords: ["emerging", "many", "one", "weighted", "mapping", "hippocampus", "amygdala", "network", "underlies", "memory"]
-key_citations: ["fernandez2019_ripples_memory_consolidation", "girardeau2009_ripples_spatial_memory", "buzsaki2015_hippocampal_sharp_wave_ripple"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+  - electrophysiology
+  - tetrode_recording
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - amygdala
+  - basolateral_amygdala
+keywords:
+  - hippocampusamygdala_communication
+  - sharp_wave_ripples
+  - memory_consolidation
+  - contextual_fear_conditioning
+  - many_to_one_weighted_mapping
+  - bla_cell_assemblies
+  - independent_component_analysis
+  - glm_population_decoding
+  - closed_loop_optogenetics
+  - sleep_dependent_consolidation
+  - episodic_memory_indexing
+  - dual_site_electrophysiology
+  - emerging
+  - many
+  - one
+  - weighted
+  - mapping
+  - hippocampus
+  - amygdala
+  - network
+key_citations:
+  - fernandez2019_ripples_memory_consolidation
+  - girardeau2009_ripples_spatial_memory
+  - buzsaki2015_hippocampal_sharp_wave_ripple
 ---
 
 ### One-line summary

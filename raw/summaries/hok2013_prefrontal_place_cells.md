@@ -1,18 +1,52 @@
 ---
-source_file: "hok2013_prefrontal_place_cells.md"
-paper_id: "hok2013_prefrontal_place_cells"
+source_file: hok2013_prefrontal_place_cells.md
+paper_id: hok2013_prefrontal_place_cells
 title: "Prefrontal Cortex Focally Modulates Hippocampal Place Cell Firing Patterns"
-authors: "Vincent Hok, Ehsan Chah, Etienne Save, Bruno Poucet"
+authors:
+  - "Vincent Hok"
+  - "Ehsan Chah"
+  - "Etienne Save"
+  - "Bruno Poucet"
 year: 2013
 journal: "The Journal of Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["navigation_task"]
-methods: ["electrophysiology", "lesion"]
-brain_regions: ["hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventral_tegmental_area"]
-keywords: ["prefrontal", "cortex", "focally", "modulates", "hippocampal", "place", "cell", "firing", "patterns"]
-key_citations: ["hok2005_goal_coding_prefrontal"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - navigation_task
+methods:
+  - electrophysiology
+  - lesion
+brain_regions:
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - ventral_tegmental_area
+keywords:
+  - hippocampal_place_cells
+  - medial_prefrontal_cortex_inactivation
+  - goal_related_firing
+  - overdispersion
+  - place_field_firing_variability
+  - lidocaine_reversible_inactivation
+  - hippocampal_prefrontal_interaction
+  - spatial_navigation
+  - attentional_state_switching
+  - ca1_ensemble_dynamics
+  - theta_oscillations
+  - behavioral_flexibility
+  - prefrontal
+  - cortex
+  - focally
+  - modulates
+  - hippocampal
+  - place
+  - cell
+  - firing
+key_citations:
+  - hok2005_goal_coding_prefrontal
 ---
 
 ### One-line summary

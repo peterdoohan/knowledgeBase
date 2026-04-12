@@ -1,17 +1,45 @@
 ---
-source_file: "meisenhelter2022_human_brain_recording.md"
-paper_id: "meisenhelter2022_human_brain_recording"
+source_file: meisenhelter2022_human_brain_recording.md
+paper_id: meisenhelter2022_human_brain_recording
 title: "Probing the human brain at single-neuron resolution with high-density cortical recordings"
-authors: "Stephen Meisenhelter, Ueli Rutishauser"
+authors:
+  - "Stephen Meisenhelter"
+  - "Ueli Rutishauser"
 year: 2022
-journal: "Neuron"
-paper_type: "review"
-contribution_type: "review"
-species: ["human"]
-methods: ["electrophysiology", "neuropixels"]
-brain_regions: ["prefrontal_cortex"]
-keywords: ["probing", "human", "brain", "single", "neuron", "resolution", "high", "density", "cortical", "recordings"]
-key_citations: ["chung2022_neural_recording_neuropixels", "paulk2022_neuropixels_human_cortex"]
+journal: Neuron
+paper_type: review
+contribution_type: review
+species:
+  - human
+methods:
+  - electrophysiology
+  - neuropixels
+brain_regions:
+  - prefrontal_cortex
+keywords:
+  - neuropixels_probe
+  - human_intracranial_recording
+  - intraoperative_electrophysiology
+  - single_unit_recording
+  - high_density_silicon_electrode
+  - spike_sorting
+  - cortical_laminar_recording
+  - local_field_potential
+  - brain_pulsation_motion_correction
+  - epilepsy_surgery
+  - extracellular_action_potential
+  - neural_population_recording
+  - probing
+  - human
+  - brain
+  - single
+  - neuron
+  - resolution
+  - high
+  - density
+key_citations:
+  - chung2022_neural_recording_neuropixels
+  - paulk2022_neuropixels_human_cortex
 ---
 
 ### One-line summary

@@ -1,19 +1,55 @@
 ---
-source_file: "tsutsui2016_dynamic_object_valuation_dlpfc.md"
-paper_id: "tsutsui2016_dynamic_object_valuation_dlpfc"
+source_file: tsutsui2016_dynamic_object_valuation_dlpfc.md
+paper_id: tsutsui2016_dynamic_object_valuation_dlpfc
 title: "A dynamic code for economic object valuation in prefrontal cortex neurons"
-authors: "Ken-Ichiro Tsutsui, Fabian Grabenhorst, Shunsuke Kobayashi, Wolfram Schultz"
+authors:
+  - "Ken-Ichiro Tsutsui"
+  - "Fabian Grabenhorst"
+  - "Shunsuke Kobayashi"
+  - "Wolfram Schultz"
 year: 2016
 journal: "Nature Communications"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["macaque", "monkey"]
-tasks: ["foraging_task"]
-methods: ["behavioral_analysis"]
-brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
-frameworks: ["reinforcement_learning", "attractor_networks"]
-keywords: ["dynamic", "code", "economic", "object", "valuation", "prefrontal", "cortex", "neurons"]
-key_citations: ["padoaschioppa2006_orbitofrontal_economic_value"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - macaque
+  - monkey
+tasks:
+  - foraging_task
+methods:
+  - behavioral_analysis
+brain_regions:
+  - prefrontal_cortex
+  - anterior_cingulate_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+frameworks:
+  - reinforcement_learning
+  - attractor_networks
+keywords:
+  - object_value
+  - economic_decision_making
+  - dorsolateral_prefrontal_cortex
+  - matching_law
+  - reinforcement_learning
+  - single_neuron_recording
+  - population_decoding
+  - value_construction
+  - credit_assignment
+  - attractor_dynamics
+  - decision_variable
+  - foraging_behaviour
+  - macaque_monkey
+  - principal_sulcus
+  - dynamic
+  - code
+  - economic
+  - object
+  - valuation
+  - prefrontal
+key_citations:
+  - padoaschioppa2006_orbitofrontal_economic_value
 ---
 
 ### One-line summary

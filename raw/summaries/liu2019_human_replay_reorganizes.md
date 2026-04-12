@@ -1,18 +1,54 @@
 ---
-source_file: "liu2019_human_replay_reorganizes.md"
-paper_id: "liu2019_human_replay_reorganizes"
+source_file: liu2019_human_replay_reorganizes.md
+paper_id: liu2019_human_replay_reorganizes
 title: "Human Replay Spontaneously Reorganizes Experience"
-authors: "Yunzhe Liu, Raymond J. Dolan, Zeb Kurth-Nelson, Timothy E.J. Behrens"
+authors:
+  - "Yunzhe Liu"
+  - "Raymond J. Dolan"
+  - "Zeb Kurth-Nelson"
+  - "Timothy E.J. Behrens"
 year: 2019
-journal: "Cell"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-methods: ["behavioral_analysis"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum", "visual_cortex"]
-frameworks: ["compositionality"]
-keywords: ["human", "replay", "spontaneously", "reorganizes", "experience"]
-key_citations: ["kurth_nelson2016_sequences_non_spatial", "ambrose2016_reverse_replay_hippocampal", "behrens2018_cognitive_map_organizing_knowledge", "gupta2010_replay_not_simple_function"]
+journal: Cell
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+methods:
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - prefrontal_cortex
+  - ventromedial_prefrontal_cortex
+  - striatum
+  - ventral_striatum
+  - visual_cortex
+frameworks:
+  - compositionality
+keywords:
+  - hippocampal_replay
+  - non_spatial_replay
+  - sequential_reactivation
+  - factorized_representations
+  - structural_generalisation
+  - sharp_wave_ripples
+  - meg_decoding
+  - sequenceness
+  - abstract_sequence_learning
+  - transfer_replay
+  - reward_triggered_reverse_replay
+  - cognitive_map
+  - human
+  - replay
+  - spontaneously
+  - reorganizes
+  - experience
+key_citations:
+  - kurth_nelson2016_sequences_non_spatial
+  - ambrose2016_reverse_replay_hippocampal
+  - behrens2018_cognitive_map_organizing_knowledge
+  - gupta2010_replay_not_simple_function
 ---
 
 ### One-line summary

@@ -1,19 +1,52 @@
 ---
-source_file: "tang2021_multiple_timescales_decision_making.md"
-paper_id: "tang2021_multiple_timescales_decision_making"
+source_file: tang2021_multiple_timescales_decision_making.md
+paper_id: tang2021_multiple_timescales_decision_making
 title: "Multiple time-scales of decision-making in the hippocampus and prefrontal cortex"
-authors: "Wenbo Tang, Justin D Shin, Shantanu P Jadhav"
+authors:
+  - "Wenbo Tang"
+  - "Justin D Shin"
+  - "Shantanu P Jadhav"
 year: 2021
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["navigation_task"]
-methods: ["tetrode_recording", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex"]
-frameworks: ["reinforcement_learning", "model_based_rl", "bayesian_inference"]
-keywords: ["theta_oscillations", "theta_sequences", "prefrontal_cortex", "hippocampus", "sharp_wave_ripples", "replay", "decision_making", "working_memory", "spatial_navigation", "ensemble_dynamics", "population_coding", "sequence_coding", "cycle_skipping", "vicarious_memory_recall", "multi_timescale_dynamics", "bayesian_decoding", "theta_phase_precession", "attractor_dynamics", "memory_guided_behavior", "multiple"]
-key_citations: ["shin2019_hippocampal_prefrontal_replay_b", "johnson2007_hippocampus_decision"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - prefrontal_cortex
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - bayesian_inference
+keywords:
+  - theta_oscillations
+  - theta_sequences
+  - prefrontal_cortex
+  - hippocampus
+  - sharp_wave_ripples
+  - replay
+  - decision_making
+  - working_memory
+  - spatial_navigation
+  - ensemble_dynamics
+  - population_coding
+  - sequence_coding
+  - cycle_skipping
+  - vicarious_memory_recall
+  - multi_timescale_dynamics
+  - bayesian_decoding
+  - theta_phase_precession
+  - attractor_dynamics
+  - memory_guided_behavior
+  - multiple
+key_citations:
+  - shin2019_hippocampal_prefrontal_replay_b
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

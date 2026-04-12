@@ -1,19 +1,58 @@
 ---
-source_file: "vollan2024_theta_sweeps_entorhinal.md"
-paper_id: "vollan2024_theta_sweeps_entorhinal"
-title: "Left\u2013right-alternating theta sweeps in entorhinal\u2013hippocampal maps of space"
-authors: "Abraham Z. Vollan, Richard J. Gardner, May-Britt Moser, Edvard I. Moser"
+source_file: vollan2024_theta_sweeps_entorhinal.md
+paper_id: vollan2024_theta_sweeps_entorhinal
+title: "Left–right-alternating theta sweeps in entorhinal–hippocampal maps of space"
+authors:
+  - "Abraham Z. Vollan"
+  - "Richard J. Gardner"
+  - "May-Britt Moser"
+  - "Edvard I. Moser"
 year: 2024
-journal: "Nature"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["open_field", "linear_track", "t_maze", "foraging_task", "navigation_task"]
-methods: ["neuropixels", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
-frameworks: ["attractor_networks"]
-keywords: ["leftright", "alternating", "theta", "sweeps", "entorhinalhippocampal", "maps", "space"]
-key_citations: ["burak2009_path_integration_grid_cells", "johnson2007_hippocampus_decision"]
+journal: Nature
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - open_field
+  - linear_track
+  - t_maze
+  - foraging_task
+methods:
+  - neuropixels
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+frameworks:
+  - attractor_networks
+keywords:
+  - grid_cells
+  - place_cells
+  - theta_oscillations
+  - theta_sweeps
+  - theta_sequences
+  - internal_direction_cells
+  - head_direction_cells
+  - conjunctive_cells
+  - continuous_attractor_networks
+  - path_integration
+  - spatial_navigation
+  - toroidal_topology
+  - population_coding
+  - neuropixels
+  - rem_sleep
+  - slow_wave_sleep
+  - latent_manifold_tuning
+  - spatial_sampling
+  - vector_navigation
+  - theta_phase_precession
+key_citations:
+  - burak2009_path_integration_grid_cells
+  - johnson2007_hippocampus_decision
 ---
 
 ### One-line summary

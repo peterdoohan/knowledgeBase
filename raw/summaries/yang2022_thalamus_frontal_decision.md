@@ -1,17 +1,46 @@
 ---
-source_file: "yang2022_thalamus_frontal_decision.md"
-paper_id: "yang2022_thalamus_frontal_decision"
+source_file: yang2022_thalamus_frontal_decision.md
+paper_id: yang2022_thalamus_frontal_decision
 title: "Thalamus-driven functional populations in frontal cortex support decision-making"
-authors: "Weiguo Yang, Sri Laasya Tipparaju, Guang Chen, Nuo Li"
+authors:
+  - "Weiguo Yang"
+  - "Sri Laasya Tipparaju"
+  - "Guang Chen"
+  - "Nuo Li"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["optogenetics"]
-brain_regions: ["prefrontal_cortex", "thalamus"]
-frameworks: ["mixed_selectivity"]
-keywords: ["thalamus", "driven", "functional", "populations", "frontal", "cortex", "support", "decision", "making"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - optogenetics
+brain_regions:
+  - prefrontal_cortex
+  - thalamus
+frameworks:
+  - mixed_selectivity
+keywords:
+  - thalamus
+  - frontal_cortex
+  - decision_making
+  - motor_cortex
+  - mixed_selectivity
+  - population_coding
+  - optogenetics
+  - working_memory
+  - tactile_discrimination
+  - activity_modes
+  - cortico_cortical_connectivity
+  - thalamocortical_loop
+  - persistent_activity
+  - dimensionality_reduction
+  - driven
+  - functional
+  - populations
+  - frontal
+  - cortex
+  - support
 ---
 
 ### One-line summary

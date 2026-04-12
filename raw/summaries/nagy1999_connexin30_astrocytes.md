@@ -1,15 +1,43 @@
 ---
-source_file: "nagy1999_connexin30_astrocytes.md"
-paper_id: "nagy1999_connexin30_astrocytes"
+source_file: nagy1999_connexin30_astrocytes.md
+paper_id: nagy1999_connexin30_astrocytes
 title: "Connexin30 in Rodent, Cat and Human Brain: Selective Expression in Gray Matter Astrocytes, Co-localization with Connexin43 at Gap Junctions and Late Developmental Appearance"
-authors: "J. I. Nagy, D. Patel, P. A. Y. Ochalski, G. L. Stelmack"
+authors:
+  - "J. I. Nagy"
+  - "D. Patel"
+  - "P. A. Y. Ochalski"
+  - "G. L. Stelmack"
 year: 1999
-journal: "Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse", "rat", "human"]
-brain_regions: ["substantia_nigra", "thalamus"]
-keywords: ["connexin30", "rodent", "cat", "human", "brain", "selective", "expression", "gray", "matter", "astrocytes"]
+journal: Neuroscience
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+  - rat
+brain_regions:
+  - substantia_nigra
+  - thalamus
+keywords:
+  - connexin30
+  - connexin43
+  - astrocytic_gap_junctions
+  - glial_syncytium
+  - gray_matter_astrocytes
+  - white_matter_astrocytes
+  - perivascular_endfeet
+  - astrocyte_oligodendrocyte_coupling
+  - connexin_heterotypy
+  - postnatal_brain_development
+  - immunohistochemistry
+  - electron_microscopy_immunogold
+  - rodent
+  - cat
+  - human
+  - brain
+  - selective
+  - expression
+  - gray
+  - matter
 ---
 
 ### One-line summary

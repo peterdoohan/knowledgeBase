@@ -1,14 +1,38 @@
 ---
-source_file: "servan1990_network_catecholamine_gain.md"
-paper_id: "servan1990_network_catecholamine_gain"
+source_file: servan1990_network_catecholamine_gain.md
+paper_id: servan1990_network_catecholamine_gain
 title: "A Network Model of Catecholamine Effects: Gain, Signal-to-Noise Ratio, and Behavior"
-authors: "David Servan-Schreiber, Harry Printz, Jonathan D. Cohen"
+authors:
+  - "David Servan-Schreiber"
+  - "Harry Printz"
+  - "Jonathan D. Cohen"
 year: 1990
 journal: "Science 249(4971)"
-paper_type: "computational"
-contribution_type: "theoretical"
-methods: ["computational_modeling"]
-keywords: ["network", "model", "catecholamine", "effects", "gain", "signal", "noise", "ratio", "behavior"]
+paper_type: computational
+contribution_type: theoretical
+methods:
+  - computational_modeling
+keywords:
+  - catecholamines
+  - norepinephrine
+  - dopamine
+  - gain_modulation
+  - signal_detection_theory
+  - neural_networks
+  - continuous_performance_test
+  - attention
+  - neuromodulation
+  - signal_to_noise_ratio
+  - backpropagation
+  - logistic_activation_function
+  - chain_effect
+  - cns_stimulants
+  - methylphenidate
+  - amphetamine
+  - network
+  - model
+  - catecholamine
+  - effects
 ---
 
 ### One-line summary

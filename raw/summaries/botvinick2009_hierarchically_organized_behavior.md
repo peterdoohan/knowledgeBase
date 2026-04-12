@@ -1,16 +1,52 @@
 ---
-source_file: "botvinick2009_hierarchically_organized_behavior.md"
-paper_id: "botvinick2009_hierarchically_organized_behavior"
+source_file: botvinick2009_hierarchically_organized_behavior.md
+paper_id: botvinick2009_hierarchically_organized_behavior
 title: "Hierarchically organized behavior and its neural foundations: A reinforcement-learning perspective"
-authors: "Matthew M. Botvinick, Yael Niv, Andrew C. Barto"
+authors:
+  - "Matthew M. Botvinick"
+  - "Yael Niv"
+  - "Andrew C. Barto"
 year: 2009
-journal: "Cognition"
-paper_type: "computational"
-contribution_type: "theoretical"
-tasks: ["navigation_task"]
-brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "dorsolateral_striatum", "ventral_striatum", "ventral_tegmental_area", "substantia_nigra"]
-frameworks: ["reinforcement_learning", "model_based_rl", "hierarchical_rl", "temporal_difference_learning"]
-keywords: ["sutton", "precup_and_singh_1999_options_framework_foundational", "barto_and_mahadevan_2003_overview_of_hrl_paradigms", "parr_and_russell_1998_ham_framework", "dietterich_2000_maxq_framework", "schultz", "dayan_and_montague_1997_dopamine_and_td_learning", "daw", "niv_and_dayan_2005_model_free_vs_model_based_rl_and_basal_ganglia", "oreilly_and_frank_2006_da_and_prefrontal_working_memory_learning", "miller_and_cohen_2001_guided_activation_theory_of_pfc", "koechlin", "ody_and_kouneiher_2003_rostro_caudal_hierarchy_in_frontal_cortex", "botvinick_and_plaut_2004_connectionist_model_of_routine_sequential_action", "singh", "barto_and_chentanez_2005_intrinsic_motivation_for_option_discovery", "named_models_or_frameworks", "options_framework_sutton_et_al", "1999", "actor_critic_architecture"]
+journal: Cognition
+paper_type: computational
+contribution_type: theoretical
+tasks:
+  - navigation_task
+brain_regions:
+  - prefrontal_cortex
+  - orbitofrontal_cortex
+  - dorsolateral_prefrontal_cortex
+  - striatum
+  - dorsolateral_striatum
+  - ventral_striatum
+  - ventral_tegmental_area
+  - substantia_nigra
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+  - hierarchical_rl
+  - temporal_difference_learning
+keywords:
+  - hierarchical_reinforcement_learning
+  - options_framework
+  - temporal_abstraction
+  - actor_critic_architecture
+  - option_discovery_subgoal_identification
+  - pseudo_reward
+  - semi_markov_decision_process
+  - prefrontal_cortex_task_set_representations
+  - orbitofrontal_cortex_option_specific_value
+  - dorsolateral_striatum_option_specific_policy
+  - positive_and_negative_transfer
+  - intrinsic_motivation
+  - hierarchically
+  - organized
+  - behavior
+  - its
+  - neural
+  - foundations
+  - reinforcement
+  - learning
 ---
 
 ### One-line summary

@@ -1,14 +1,43 @@
 ---
-source_file: "mccartney2022_cannabidiol_driving.md"
-paper_id: "mccartney2022_cannabidiol_driving"
+source_file: mccartney2022_cannabidiol_driving.md
+paper_id: mccartney2022_cannabidiol_driving
 title: "Effects of cannabidiol on simulated driving and cognitive performance: A dose-ranging randomised controlled trial"
-authors: "Danielle McCartney, Anastasia S Suraev, Peter T Doohan, Christopher Irwin, Richard C Kevin, Ronald R Grunstein, Camilla M Hoyos, Iain S McGregor"
+authors:
+  - "Danielle McCartney"
+  - "Anastasia S Suraev"
+  - "Peter T Doohan"
+  - "Christopher Irwin"
+  - "Richard C Kevin"
+  - "Ronald R Grunstein"
+  - "Camilla M Hoyos"
+  - "Iain S McGregor"
 year: 2022
 journal: "Journal of Psychopharmacology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-keywords: ["effects", "cannabidiol", "simulated", "driving", "cognitive", "performance", "dose", "ranging", "randomised", "controlled"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+keywords:
+  - cannabidiol
+  - cbd
+  - simulated_driving
+  - sdlp
+  - non_inferiority_trial
+  - driving_impairment
+  - oral_cannabinoid_pharmacokinetics
+  - psychomotor_performance
+  - dose_ranging_rct
+  - medicinal_cannabis
+  - drug_impaired_driving
+  - cbd_pharmacokinetics
+  - effects
+  - simulated
+  - driving
+  - cognitive
+  - performance
+  - dose
+  - ranging
+  - randomised
 ---
 
 ### One-line summary

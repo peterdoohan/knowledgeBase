@@ -1,19 +1,49 @@
 ---
-source_file: "bendor2012_biasing_hippocampal_replay_sleep.md"
-paper_id: "bendor2012_biasing_hippocampal_replay_sleep"
+source_file: bendor2012_biasing_hippocampal_replay_sleep.md
+paper_id: bendor2012_biasing_hippocampal_replay_sleep
 title: "Biasing the content of hippocampal replay during sleep"
-authors: "Daniel Bendor, Matthew A. Wilson"
+authors:
+  - "Daniel Bendor"
+  - "Matthew A. Wilson"
 year: 2012
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat", "human"]
-tasks: ["linear_track"]
-methods: ["tetrode_recording", "computational_modeling", "bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex"]
-frameworks: ["bayesian_inference"]
-keywords: ["biasing", "content", "hippocampal", "replay", "during", "sleep"]
-key_citations: ["girardeau2009_ripples_spatial_memory"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+methods:
+  - tetrode_recording
+  - computational_modeling
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+frameworks:
+  - bayesian_inference
+keywords:
+  - hippocampal_replay
+  - memory_consolidation
+  - non_rem_sleep
+  - targeted_memory_reactivation
+  - place_cells
+  - sharp_wave_ripples
+  - auditory_spatial_association
+  - bayesian_decoding
+  - sensory_cueing_during_sleep
+  - sleep_replay_content
+  - cortico_hippocampal_interaction
+  - reactivation_events
+  - biasing
+  - content
+  - hippocampal
+  - replay
+  - during
+  - sleep
+key_citations:
+  - girardeau2009_ripples_spatial_memory
 ---
 
 ### One-line summary

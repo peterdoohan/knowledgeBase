@@ -1,17 +1,50 @@
 ---
-source_file: "eichenbaum2017_prefrontal_hippocampal_episodic.md"
-paper_id: "eichenbaum2017_prefrontal_hippocampal_episodic"
-title: "Prefrontal\u2013hippocampal interactions in episodic memory"
-authors: "Howard Eichenbaum"
+source_file: eichenbaum2017_prefrontal_hippocampal_episodic.md
+paper_id: eichenbaum2017_prefrontal_hippocampal_episodic
+title: "Prefrontal–hippocampal interactions in episodic memory"
+authors:
+  - "Howard Eichenbaum"
 year: 2017
 journal: "Nature Reviews Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse", "rat", "human"]
-methods: ["optogenetics", "electrophysiology", "lesion"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "thalamus", "ventral_hippocampus"]
-keywords: ["prefrontalhippocampal", "interactions", "episodic", "memory"]
-key_citations: ["jadhav2016_hippocampal_prefrontal_swr"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+  - rat
+methods:
+  - optogenetics
+  - electrophysiology
+  - lesion
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+  - medial_entorhinal_cortex
+  - lateral_entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - orbitofrontal_cortex
+  - thalamus
+  - ventral_hippocampus
+keywords:
+  - prefrontalhippocampal_interactions
+  - episodic_memory_retrieval
+  - theta_oscillatory_synchrony
+  - nucleus_reuniens
+  - ventral_hippocampus
+  - context_guided_memory
+  - bidirectional_information_flow
+  - top_down_memory_control
+  - oscillatory_coherence
+  - memory_interference_suppression
+  - hippocampal_conjunctive_coding
+  - remote_memory_consolidation
+  - prefrontalhippocampal
+  - interactions
+  - episodic
+  - memory
+key_citations:
+  - jadhav2016_hippocampal_prefrontal_swr
 ---
 
 ### One-line summary

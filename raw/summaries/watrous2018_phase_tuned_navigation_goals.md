@@ -1,17 +1,50 @@
 ---
-source_file: "watrous2018_phase_tuned_navigation_goals.md"
-paper_id: "watrous2018_phase_tuned_navigation_goals"
+source_file: watrous2018_phase_tuned_navigation_goals.md
+paper_id: watrous2018_phase_tuned_navigation_goals
 title: "Phase-tuned neuronal firing encodes human contextual representations for navigational goals"
-authors: "Andrew J Watrous, Jonathan Miller, Salman E Qasim, Itzhak Fried, Joshua Jacobs"
+authors:
+  - "Andrew J Watrous"
+  - "Jonathan Miller"
+  - "Salman E Qasim"
+  - "Itzhak Fried"
+  - "Joshua Jacobs"
 year: 2018
-journal: "eLife"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus", "entorhinal_cortex", "orbitofrontal_cortex", "amygdala", "medial_temporal_lobe"]
-keywords: ["phase", "tuned", "neuronal", "firing", "encodes", "human", "contextual", "representations", "navigational", "goals"]
-key_citations: ["ekstrom2003_spatial_navigation"]
+journal: eLife
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - navigation_task
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+  - orbitofrontal_cortex
+  - amygdala
+  - medial_temporal_lobe
+keywords:
+  - phase_coding
+  - rate_coding
+  - theta_oscillations
+  - slow_theta
+  - human_hippocampus
+  - medial_temporal_lobe
+  - navigation
+  - spatial_memory
+  - goal_directed_behavior
+  - single_neuron_recordings
+  - intracranial_recordings
+  - virtual_reality
+  - oscillatory_phase
+  - spike_lfp_coupling
+  - scert
+  - modal
+  - phase_locking
+  - navigational_planning
+  - episodic_memory
+  - phase
+key_citations:
+  - ekstrom2003_spatial_navigation
 ---
 
 ### One-line summary

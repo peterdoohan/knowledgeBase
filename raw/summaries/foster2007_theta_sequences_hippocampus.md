@@ -1,18 +1,40 @@
 ---
-source_file: "foster2007_theta_sequences_hippocampus.md"
-paper_id: "foster2007_theta_sequences_hippocampus"
+source_file: foster2007_theta_sequences_hippocampus.md
+paper_id: foster2007_theta_sequences_hippocampus
 title: "Hippocampal Theta Sequences"
-authors: "David J. Foster, Matthew A. Wilson"
+authors:
+  - "David J. Foster"
+  - "Matthew A. Wilson"
 year: 2007
-journal: "Hippocampus"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["navigation_task"]
-methods: ["tetrode_recording"]
-brain_regions: ["hippocampus", "hippocampus_ca1"]
-keywords: ["hippocampal", "theta", "sequences"]
-key_citations: ["mehta2000_hippocampal_receptive_fields", "lee2002_memory_sequential_experience"]
+journal: Hippocampus
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - tetrode_recording
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+keywords:
+  - theta_sequences
+  - theta_phase_precession
+  - place_cells
+  - hippocampal_population_sequences
+  - temporal_compression
+  - spike_timing_dependent_plasticity
+  - sequential_reactivation
+  - spatial_navigation
+  - ca1_ensemble_activity
+  - phase_jitter_analysis
+  - forward_replay
+  - theta_oscillations
+  - hippocampal
+  - theta
+  - sequences
+key_citations:
+  - mehta2000_hippocampal_receptive_fields
+  - lee2002_memory_sequential_experience
 ---
 
 ### One-line summary

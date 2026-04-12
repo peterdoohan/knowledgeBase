@@ -1,16 +1,80 @@
 ---
-source_file: "liu2022_hippocampal_sharp_wave.md"
-paper_id: "liu2022_hippocampal_sharp_wave"
+source_file: liu2022_hippocampal_sharp_wave.md
+paper_id: liu2022_hippocampal_sharp_wave
 title: "A consensus statement on detection of hippocampal sharp wave ripples and differentiation from other fast oscillations"
-authors: "Anli A. Liu, Simon Henin, Saman Abbaspoor, Anatol Bragin, Elizabeth A. Buffalo, Jordan S. Farrell, David J. Foster, Loren M. Frank, Tamara Gedankien, Jean Gotman, Jennifer A. Guidera, Kari L. Hoffman, Joshua Jacobs, Michael J. Kahana, Lin Li, Zhenrui Liao, Jack J. Lin, Attila Losonczy, Rafael Malach, Matthijs A. van der Meer, Kathryn McClain, Bruce L. McNaughton, Yitzhak Norman, Andrea Navas-Olive, Liset M. de la Prida, Jon W. Rueckemann, John J. Sakon, Ivan Skelin, Ivan Soltesz, Bernhard P. Staresina, Shennan A. Weiss, Matthew A. Wilson, Kareem A. Zaghloul, Micha\u00ebl Zugaro, Gy\u00f6rgy Buzs\u00e1ki"
+authors:
+  - "Anli A. Liu"
+  - "Simon Henin"
+  - "Saman Abbaspoor"
+  - "Anatol Bragin"
+  - "Elizabeth A. Buffalo"
+  - "Jordan S. Farrell"
+  - "David J. Foster"
+  - "Loren M. Frank"
+  - "Tamara Gedankien"
+  - "Jean Gotman"
+  - "Jennifer A. Guidera"
+  - "Kari L. Hoffman"
+  - "Joshua Jacobs"
+  - "Michael J. Kahana"
+  - "Lin Li"
+  - "Zhenrui Liao"
+  - "Jack J. Lin"
+  - "Attila Losonczy"
+  - "Rafael Malach"
+  - "Matthijs A. van der Meer"
+  - "Kathryn McClain"
+  - "Bruce L. McNaughton"
+  - "Yitzhak Norman"
+  - "Andrea Navas-Olive"
+  - "Liset M. de la Prida"
+  - "Jon W. Rueckemann"
+  - "John J. Sakon"
+  - "Ivan Skelin"
+  - "Ivan Soltesz"
+  - "Bernhard P. Staresina"
+  - "Shennan A. Weiss"
+  - "Matthew A. Wilson"
+  - "Kareem A. Zaghloul"
+  - "Michaël Zugaro"
+  - "György Buzsáki"
 year: 2022
 journal: "Nature Communications"
-paper_type: "review"
-contribution_type: "methodological"
-species: ["human"]
-brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "amygdala"]
-keywords: ["consensus", "statement", "detection", "hippocampal", "sharp", "wave", "ripples", "differentiation", "other", "fast"]
-key_citations: ["fernandez2019_ripples_memory_consolidation", "girardeau2009_ripples_spatial_memory"]
+paper_type: review
+contribution_type: methodological
+species:
+  - human
+brain_regions:
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - amygdala
+keywords:
+  - sharp_wave_ripple_spw_r
+  - high_frequency_oscillation_hfo
+  - hippocampal_memory_consolidation
+  - pathological_ripple_p_ripple
+  - interictal_epileptiform_discharge_ied
+  - laminar_electrode_recording
+  - closed_loop_stimulation
+  - gamma_oscillation_broadband_high_frequency_activity
+  - ripple_detection_threshold
+  - machine_learning_event_classification
+  - translational_neurophysiology
+  - cholinergic_modulation_of_oscillations
+  - consensus
+  - statement
+  - detection
+  - hippocampal
+  - sharp
+  - wave
+  - ripples
+  - differentiation
+key_citations:
+  - fernandez2019_ripples_memory_consolidation
+  - girardeau2009_ripples_spatial_memory
 ---
 
 ### One-line summary

@@ -1,96 +1,317 @@
-{
-  "species": {
-    "mouse": ["mouse", "mice", "murine"],
-    "rat": ["rat", "rats", "long-evans rat", "long-evans rats", "sprague-dawley rat", "sprague-dawley rats"],
-    "human": ["human", "humans", "participants", "healthy adults", "healthy participants"],
-    "macaque": ["macaque", "macaques", "rhesus macaque", "rhesus macaques"],
-    "monkey": ["monkey", "monkeys", "nonhuman primate", "nonhuman primates"]
-  },
-  "tasks": {
-    "two_step_task": ["two-step task", "2-step task", "two step task"],
-    "probabilistic_reversal_learning": ["probabilistic reversal learning", "reversal learning task", "probabilistic reversal task"],
-    "morris_water_maze": ["morris water maze", "water maze"],
-    "open_field": ["open field", "open-field"],
-    "linear_track": ["linear track"],
-    "t_maze": ["t-maze", "t maze"],
-    "y_maze": ["y-maze", "y maze"],
-    "five_choice_serial_reaction_time_task": ["5-csrtt", "five-choice serial reaction time task", "five choice serial reaction time task"],
-    "hexmaze": ["hexmaze", "hex maze"],
-    "virtual_navigation": ["virtual navigation", "virtual reality navigation", "virtual maze"],
-    "hidden_graph_task": ["hidden graph", "graph task", "hidden graph task"],
-    "detour_task": ["detour task", "detour problem", "forced detour"],
-    "foraging_task": ["foraging task", "restaurant row", "foraging"],
-    "object_location_task": ["object location memory", "object-location memory"],
-    "navigation_task": ["spatial navigation", "navigation task", "wayfinding"]
-  },
-  "methods": {
-    "calcium_imaging": ["calcium imaging", "gcamp", "gcamp6", "gcamp6f", "miniscope", "fluorescence imaging"],
-    "optogenetics": ["optogenetic", "optogenetics", "jaw", "jaws", "channelrhodopsin", "dreadd", "dreadds"],
-    "electrophysiology": ["electrophysiology", "single-unit recording", "single unit recording", "extracellular recording", "unit recording"],
-    "tetrode_recording": ["tetrode", "tetrodes", "tetrode recording"],
-    "neuropixels": ["neuropixels"],
-    "fmri": ["fmri", "functional mri", "functional magnetic resonance imaging"],
-    "representational_similarity_analysis": ["representational similarity analysis", "rsa"],
-    "repetition_suppression": ["repetition suppression", "fMRI repetition suppression", "fmri repetition suppression"],
-    "dynamic_causal_modelling": ["dynamic causal modelling", "dynamic causal modeling", "dcm"],
-    "parametric_empirical_bayes": ["parametric empirical bayes", "peb"],
-    "computational_modeling": ["computational model", "computational modelling", "computational modeling", "rl model comparison", "model comparison"],
-    "bayesian_decoding": ["bayesian decoding"],
-    "lesion": ["lesion", "lesions", "excitotoxic lesion", "excitotoxic lesions"],
-    "behavioral_analysis": ["logistic regression", "glm", "glmm", "behavioural analysis", "behavioral analysis"]
-  },
-  "brain_regions": {
-    "hippocampus": ["hippocampus", "hippocampal formation"],
-    "hippocampus_ca1": ["ca1", "hippocampus ca1"],
-    "hippocampus_ca3": ["ca3", "hippocampus ca3"],
-    "entorhinal_cortex": ["entorhinal cortex", "ec"],
-    "medial_entorhinal_cortex": ["medial entorhinal cortex", "mec"],
-    "lateral_entorhinal_cortex": ["lateral entorhinal cortex", "lec"],
-    "prefrontal_cortex": ["prefrontal cortex", "pfc", "frontal cortex"],
-    "medial_prefrontal_cortex": ["medial prefrontal cortex", "mpfc", "medial frontal cortex"],
-    "anterior_cingulate_cortex": ["anterior cingulate cortex", "acc"],
-    "orbitofrontal_cortex": ["orbitofrontal cortex", "ofc"],
-    "ventromedial_prefrontal_cortex": ["ventromedial prefrontal cortex", "vmpfc", "vmPFC"],
-    "dorsolateral_prefrontal_cortex": ["dorsolateral prefrontal cortex", "dlpfc", "dorsolateral pfc"],
-    "prelimbic_cortex": ["prelimbic cortex", "pl"],
-    "infralimbic_cortex": ["infralimbic cortex", "il"],
-    "striatum": ["striatum", "basal ganglia"],
-    "dorsomedial_striatum": ["dorsomedial striatum", "dms"],
-    "dorsolateral_striatum": ["dorsolateral striatum", "dls"],
-    "ventral_striatum": ["ventral striatum"],
-    "nucleus_accumbens": ["nucleus accumbens", "nacc", "nac"],
-    "ventral_tegmental_area": ["ventral tegmental area", "vta"],
-    "substantia_nigra": ["substantia nigra", "snc"],
-    "retrosplenial_cortex": ["retrosplenial cortex", "rsc"],
-    "thalamus": ["thalamus"],
-    "mediodorsal_thalamus": ["mediodorsal thalamus", "md thalamus", "md"],
-    "amygdala": ["amygdala"],
-    "basolateral_amygdala": ["basolateral amygdala", "bla"],
-    "posterior_cingulate_cortex": ["posterior cingulate cortex", "pcc"],
-    "medial_temporal_lobe": ["medial temporal lobe", "mtl"],
-    "superior_temporal_gyrus": ["superior temporal gyrus", "stg"],
-    "inferior_frontal_gyrus": ["inferior frontal gyrus", "ifg"],
-    "visual_cortex": ["visual cortex"],
-    "primary_auditory_cortex": ["primary auditory cortex", "a1"],
-    "zona_incerta": ["zona incerta", "zi"],
-    "periaqueductal_gray": ["periaqueductal gray", "periaqueductal grey", "pag"],
-    "ventral_hippocampus": ["ventral hippocampus", "vhpc"]
-  },
-  "frameworks": {
-    "reinforcement_learning": ["reinforcement learning", "rl"],
-    "model_based_rl": ["model-based reinforcement learning", "model based reinforcement learning", "model-based rl", "mb rl", "mb"],
-    "model_free_rl": ["model-free reinforcement learning", "model free reinforcement learning", "model-free rl", "mf rl", "mf"],
-    "successor_representation": ["successor representation", "sr"],
-    "active_inference": ["active inference"],
-    "bayesian_inference": ["bayesian inference", "bayes", "belief updating"],
-    "attractor_networks": ["attractor network", "attractor networks", "line attractor", "ring attractor"],
-    "hierarchical_rl": ["hierarchical reinforcement learning", "hierarchical rl"],
-    "temporal_difference_learning": ["temporal difference learning", "td learning"],
-    "latent_state_inference": ["latent state inference", "latent-state inference"],
-    "tolman_eichenbaum_machine": ["tolman-eichenbaum machine", "tolman eichenbaum machine", "tem"],
-    "compositionality": ["compositionality", "compositional representation", "factorised representation", "factorized representation"],
-    "structural_form_discovery": ["structural form discovery", "structural forms"],
-    "mixed_selectivity": ["mixed selectivity"],
-    "neural_manifold": ["neural manifold", "low-dimensional manifold", "low dimensional manifold"]
-  }
-}
+species:
+  mouse:
+    - mouse
+    - mice
+    - murine
+  rat:
+    - rat
+    - rats
+    - long-evans rat
+    - long-evans rats
+    - sprague-dawley rat
+    - sprague-dawley rats
+  human:
+    - human
+    - humans
+    - participant
+    - participants
+    - patient
+    - patients
+    - individual
+    - individuals
+    - cohort
+    - outpatients
+    - human subjects
+    - healthy adults
+    - healthy participants
+    - healthy controls
+  macaque:
+    - macaque
+    - macaques
+    - rhesus macaque
+    - rhesus macaques
+  monkey:
+    - monkey
+    - monkeys
+    - nonhuman primate
+    - nonhuman primates
+tasks:
+  two_step_task:
+    - two-step task
+    - 2-step task
+    - two step task
+  probabilistic_reversal_learning:
+    - probabilistic reversal learning
+    - reversal learning task
+    - probabilistic reversal task
+  morris_water_maze:
+    - morris water maze
+    - water maze
+  open_field:
+    - open field
+    - open-field
+  linear_track:
+    - linear track
+  t_maze:
+    - t-maze
+    - t maze
+  y_maze:
+    - y-maze
+    - y maze
+  five_choice_serial_reaction_time_task:
+    - 5-csrtt
+    - five-choice serial reaction time task
+    - five choice serial reaction time task
+  hexmaze:
+    - hexmaze
+    - hex maze
+  virtual_navigation:
+    - virtual navigation
+    - virtual reality navigation
+    - virtual maze
+  hidden_graph_task:
+    - hidden graph
+    - graph task
+    - hidden graph task
+  detour_task:
+    - detour task
+    - detour problem
+    - forced detour
+  foraging_task:
+    - foraging task
+    - restaurant row
+    - foraging
+  object_location_task:
+    - object location memory
+    - object-location memory
+  navigation_task:
+    - navigation task
+    - wayfinding task
+methods:
+  calcium_imaging:
+    - calcium imaging
+    - gcamp
+    - gcamp6
+    - gcamp6f
+    - miniscope
+    - fluorescence imaging
+  optogenetics:
+    - optogenetic
+    - optogenetics
+    - jaw
+    - jaws
+    - channelrhodopsin
+    - dreadd
+    - dreads
+  electrophysiology:
+    - electrophysiology
+    - single-unit recording
+    - single unit recording
+    - extracellular recording
+    - unit recording
+  tetrode_recording:
+    - tetrode
+    - tetrodes
+    - tetrode recording
+  neuropixels:
+    - neuropixels
+  fmri:
+    - fmri
+    - functional mri
+    - functional magnetic resonance imaging
+  representational_similarity_analysis:
+    - representational similarity analysis
+    - rsa
+  repetition_suppression:
+    - repetition suppression
+    - fmri repetition suppression
+  dynamic_causal_modelling:
+    - dynamic causal modelling
+    - dynamic causal modeling
+    - dcm
+  parametric_empirical_bayes:
+    - parametric empirical bayes
+    - peb
+  computational_modeling:
+    - computational model
+    - computational modelling
+    - computational modeling
+    - rl model comparison
+    - model comparison
+  bayesian_decoding:
+    - bayesian decoding
+  lesion:
+    - lesion
+    - lesions
+    - excitotoxic lesion
+    - excitotoxic lesions
+  behavioral_analysis:
+    - logistic regression
+    - glm
+    - glmm
+    - behavioural analysis
+    - behavioral analysis
+brain_regions:
+  hippocampus:
+    - hippocampus
+    - hippocampal formation
+  hippocampus_ca1:
+    - ca1
+    - hippocampus ca1
+  hippocampus_ca3:
+    - ca3
+    - hippocampus ca3
+  entorhinal_cortex:
+    - entorhinal cortex
+    - ec
+  medial_entorhinal_cortex:
+    - medial entorhinal cortex
+    - mec
+  lateral_entorhinal_cortex:
+    - lateral entorhinal cortex
+    - lec
+  prefrontal_cortex:
+    - prefrontal cortex
+    - pfc
+    - frontal cortex
+  medial_prefrontal_cortex:
+    - medial prefrontal cortex
+    - mpfc
+    - medial frontal cortex
+  anterior_cingulate_cortex:
+    - anterior cingulate cortex
+    - acc
+  orbitofrontal_cortex:
+    - orbitofrontal cortex
+    - ofc
+  ventromedial_prefrontal_cortex:
+    - ventromedial prefrontal cortex
+    - vmpfc
+    - vmPFC
+  dorsolateral_prefrontal_cortex:
+    - dorsolateral prefrontal cortex
+    - dlpfc
+    - dorsolateral pfc
+  prelimbic_cortex:
+    - prelimbic cortex
+    - pl
+  infralimbic_cortex:
+    - infralimbic cortex
+    - il
+  striatum:
+    - striatum
+    - basal ganglia
+  dorsomedial_striatum:
+    - dorsomedial striatum
+    - dms
+  dorsolateral_striatum:
+    - dorsolateral striatum
+    - dls
+  ventral_striatum:
+    - ventral striatum
+  nucleus_accumbens:
+    - nucleus accumbens
+    - nacc
+    - nac
+  ventral_tegmental_area:
+    - ventral tegmental area
+    - vta
+  substantia_nigra:
+    - substantia nigra
+    - snc
+  retrosplenial_cortex:
+    - retrosplenial cortex
+    - rsc
+  thalamus:
+    - thalamus
+  mediodorsal_thalamus:
+    - mediodorsal thalamus
+    - md thalamus
+    - md
+  amygdala:
+    - amygdala
+  basolateral_amygdala:
+    - basolateral amygdala
+    - bla
+  posterior_cingulate_cortex:
+    - posterior cingulate cortex
+    - pcc
+  medial_temporal_lobe:
+    - medial temporal lobe
+    - mtl
+  superior_temporal_gyrus:
+    - superior temporal gyrus
+    - stg
+  inferior_frontal_gyrus:
+    - inferior frontal gyrus
+    - ifg
+  visual_cortex:
+    - visual cortex
+  primary_auditory_cortex:
+    - primary auditory cortex
+    - a1
+  zona_incerta:
+    - zona incerta
+    - zi
+  periaqueductal_gray:
+    - periaqueductal gray
+    - periaqueductal grey
+    - pag
+  ventral_hippocampus:
+    - ventral hippocampus
+    - vhpc
+frameworks:
+  reinforcement_learning:
+    - reinforcement learning
+    - rl
+  model_based_rl:
+    - model-based reinforcement learning
+    - model based reinforcement learning
+    - model-based rl
+    - mb rl
+  model_free_rl:
+    - model-free reinforcement learning
+    - model free reinforcement learning
+    - model-free rl
+    - mf rl
+  successor_representation:
+    - successor representation
+    - sr
+  active_inference:
+    - active inference
+  bayesian_inference:
+    - bayesian inference
+    - bayes
+    - belief updating
+  attractor_networks:
+    - attractor network
+    - attractor networks
+    - line attractor
+    - ring attractor
+  hierarchical_rl:
+    - hierarchical reinforcement learning
+    - hierarchical rl
+  temporal_difference_learning:
+    - temporal difference learning
+    - td learning
+  latent_state_inference:
+    - latent state inference
+    - latent-state inference
+  tolman_eichenbaum_machine:
+    - tolman-eichenbaum machine
+    - tolman eichenbaum machine
+    - tem
+  compositionality:
+    - compositionality
+    - compositional representation
+    - factorised representation
+    - factorized representation
+  structural_form_discovery:
+    - structural form discovery
+    - structural forms
+  mixed_selectivity:
+    - mixed selectivity
+  neural_manifold:
+    - neural manifold
+    - low-dimensional manifold
+    - low dimensional manifold

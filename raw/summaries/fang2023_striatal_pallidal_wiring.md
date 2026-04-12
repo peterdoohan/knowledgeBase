@@ -1,18 +1,54 @@
 ---
-source_file: "fang2023_striatal_pallidal_wiring.md"
-paper_id: "fang2023_striatal_pallidal_wiring"
-title: "Updating the striatal\u2013pallidal wiring diagram"
-authors: "Lisa Z. Fang, Meaghan C. Creed"
+source_file: fang2023_striatal_pallidal_wiring.md
+paper_id: fang2023_striatal_pallidal_wiring
+title: "Updating the striatal–pallidal wiring diagram"
+authors:
+  - "Lisa Z. Fang"
+  - "Meaghan C. Creed"
 year: 2023
 journal: "Nature Neuroscience"
-paper_type: "review"
-contribution_type: "review"
-species: ["mouse"]
-methods: ["calcium_imaging", "optogenetics", "electrophysiology"]
-brain_regions: ["hippocampus", "orbitofrontal_cortex", "infralimbic_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus", "basolateral_amygdala", "ventral_hippocampus"]
-frameworks: ["reinforcement_learning"]
-keywords: ["updating", "striatalpallidal", "wiring", "diagram"]
-key_citations: ["kravitz2010_basal_ganglia_optogenetic"]
+paper_type: review
+contribution_type: review
+species:
+  - mouse
+methods:
+  - calcium_imaging
+  - optogenetics
+  - electrophysiology
+brain_regions:
+  - hippocampus
+  - orbitofrontal_cortex
+  - infralimbic_cortex
+  - striatum
+  - ventral_striatum
+  - nucleus_accumbens
+  - ventral_tegmental_area
+  - substantia_nigra
+  - thalamus
+  - basolateral_amygdala
+  - ventral_hippocampus
+frameworks:
+  - reinforcement_learning
+keywords:
+  - basal_ganglia_direct_and_indirect_pathways
+  - striatal_spiny_projection_neurons_d1_spn
+  - d2_spn
+  - arkypallidal_neurons
+  - prototypical_pallidal_neurons_lhx6
+  - pv
+  - foxp2
+  - ventral_pallidum_glutamatergic_vs_gabaergic_subpopulations
+  - dopamine_modulation_of_striatal_excitability
+  - competitive_striatal_action_selection
+  - cholinergic_interneurons_cins_and_parvalbumin_interneurons
+  - bridging_collaterals_d1_spn_to_gpe
+  - molecular_heterogeneity_basal_ganglia
+  - updating
+  - striatalpallidal
+  - wiring
+  - diagram
+key_citations:
+  - kravitz2010_basal_ganglia_optogenetic
 ---
 
 ### One-line summary

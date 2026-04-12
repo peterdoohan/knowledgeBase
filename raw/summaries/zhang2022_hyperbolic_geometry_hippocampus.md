@@ -1,17 +1,48 @@
 ---
-source_file: "zhang2022_hyperbolic_geometry_hippocampus.md"
-paper_id: "zhang2022_hyperbolic_geometry_hippocampus"
+source_file: zhang2022_hyperbolic_geometry_hippocampus.md
+paper_id: zhang2022_hyperbolic_geometry_hippocampus
 title: "Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience"
-authors: "Huanqiu Zhang, P. Dylan Rich, Albert K. Lee, Tatyana O. Sharpee"
+authors:
+  - "Huanqiu Zhang"
+  - "P. Dylan Rich"
+  - "Albert K. Lee"
+  - "Tatyana O. Sharpee"
 year: 2022
 journal: "Nature Neuroscience"
-paper_type: "computational"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["linear_track"]
-methods: ["tetrode_recording", "computational_modeling"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex"]
-keywords: ["hippocampal", "spatial", "representations", "exhibit", "hyperbolic", "geometry", "that", "expands", "experience"]
+paper_type: computational
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - linear_track
+methods:
+  - tetrode_recording
+  - computational_modeling
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - entorhinal_cortex
+keywords:
+  - hyperbolic_geometry
+  - place_cells
+  - ca1
+  - hippocampal_spatial_coding
+  - betti_curves
+  - clique_topology
+  - exponential_place_field_size_distribution
+  - information_theoretic_optimality
+  - fisher_information
+  - representational_geometry
+  - experience_dependent_plasticity
+  - logarithmic_time_scaling
+  - hippocampal
+  - spatial
+  - representations
+  - exhibit
+  - hyperbolic
+  - geometry
+  - that
+  - expands
 ---
 
 ### One-line summary

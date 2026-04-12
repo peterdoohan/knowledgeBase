@@ -1,18 +1,43 @@
 ---
-source_file: "epsztein2022_mental_replays_navigation.md"
-paper_id: "epsztein2022_mental_replays_navigation"
+source_file: epsztein2022_mental_replays_navigation.md
+paper_id: epsztein2022_mental_replays_navigation
 title: "Mental replays enable flexible navigation"
-authors: "J\u00e9r\u00f4me Epsztein"
+authors:
+  - "Jérôme Epsztein"
 year: 2022
-journal: "Nature"
-paper_type: "review"
-contribution_type: "review"
-species: ["rat"]
-tasks: ["navigation_task"]
-brain_regions: ["hippocampus"]
-frameworks: ["reinforcement_learning", "model_based_rl"]
-keywords: ["hippocampus", "place_cells", "replay", "mental_simulation", "spatial_navigation", "cognitive_map", "flexible_navigation", "sharp_wave_ripples", "trajectory_planning", "barrier_avoidance", "model_based_planning", "sequential_reactivation", "spatial_memory", "goal_directed_behavior", "mental", "replays", "enable", "flexible", "navigation"]
-key_citations: ["widloski2022_hippocampal_replay_barriers", "lee2002_memory_sequential_experience"]
+journal: Nature
+paper_type: review
+contribution_type: review
+species:
+  - rat
+brain_regions:
+  - hippocampus
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+keywords:
+  - hippocampus
+  - place_cells
+  - replay
+  - mental_simulation
+  - spatial_navigation
+  - cognitive_map
+  - flexible_navigation
+  - sharp_wave_ripples
+  - trajectory_planning
+  - barrier_avoidance
+  - model_based_planning
+  - sequential_reactivation
+  - spatial_memory
+  - goal_directed_behavior
+  - mental
+  - replays
+  - enable
+  - flexible
+  - navigation
+key_citations:
+  - widloski2022_hippocampal_replay_barriers
+  - lee2002_memory_sequential_experience
 ---
 
 ### One-line summary

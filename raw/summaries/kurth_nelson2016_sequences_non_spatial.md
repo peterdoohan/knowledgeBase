@@ -1,18 +1,48 @@
 ---
-source_file: "kurth_nelson2016_sequences_non_spatial.md"
-paper_id: "kurth_nelson2016_sequences_non_spatial"
+source_file: kurth_nelson2016_sequences_non_spatial.md
+paper_id: kurth_nelson2016_sequences_non_spatial
 title: "Fast Sequences of Non-spatial State Representations in Humans"
-authors: "Zeb Kurth-Nelson, Marcos Economides, Raymond J. Dolan, Peter Dayan"
+authors:
+  - "Zeb Kurth-Nelson"
+  - "Marcos Economides"
+  - "Raymond J. Dolan"
+  - "Peter Dayan"
 year: 2016
-journal: "Neuron"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["human"]
-tasks: ["navigation_task"]
-methods: ["computational_modeling", "behavioral_analysis"]
-brain_regions: ["hippocampus"]
-frameworks: ["reinforcement_learning", "model_based_rl"]
-keywords: ["hippocampal_replay", "neural_sequences", "meg_decoding", "non_spatial_task", "reverse_sequenceness", "state_representations", "cognitive_map", "planning", "temporal_compression", "multivariate_pattern_analysis", "sharp_wave_ripples", "model_based_reinforcement_learning", "fast", "sequences", "non", "spatial", "state", "representations", "humans"]
+journal: Neuron
+paper_type: empirical
+contribution_type: empirical
+species:
+  - human
+tasks:
+  - navigation_task
+methods:
+  - computational_modeling
+  - behavioral_analysis
+brain_regions:
+  - hippocampus
+frameworks:
+  - reinforcement_learning
+  - model_based_rl
+keywords:
+  - hippocampal_replay
+  - neural_sequences
+  - meg_decoding
+  - non_spatial_task
+  - reverse_sequenceness
+  - state_representations
+  - cognitive_map
+  - planning
+  - temporal_compression
+  - multivariate_pattern_analysis
+  - sharp_wave_ripples
+  - model_based_reinforcement_learning
+  - fast
+  - sequences
+  - non
+  - spatial
+  - state
+  - representations
+  - humans
 ---
 
 ### One-line summary

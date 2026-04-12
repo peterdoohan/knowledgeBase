@@ -1,18 +1,47 @@
 ---
-source_file: "pfeiffer2015_autoassociative_hippocampal_place_cells.md"
-paper_id: "pfeiffer2015_autoassociative_hippocampal_place_cells"
+source_file: pfeiffer2015_autoassociative_hippocampal_place_cells.md
+paper_id: pfeiffer2015_autoassociative_hippocampal_place_cells
 title: "Autoassociative dynamics in the generation of sequences of hippocampal place cells"
-authors: "Brad E. Pfeiffer, David J. Foster"
+authors:
+  - "Brad E. Pfeiffer"
+  - "David J. Foster"
 year: 2015
-journal: "Science"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-methods: ["bayesian_decoding"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
-frameworks: ["attractor_networks"]
-keywords: ["attractor_networks", "autoassociation", "heteroassociation", "place_cells", "sharp_wave_ripples", "swr", "replay", "trajectory_events", "slow_gamma_oscillations", "gamma_rhythm", "sequence_generation", "hippocampus", "ca1", "ca3", "bayesian_decoding", "pattern_completion", "memory_retrieval", "discrete_dynamics", "neural_sequences", "autoassociative"]
-key_citations: ["davidson2009_hippocampal_replay_extended"]
+journal: Science
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+methods:
+  - bayesian_decoding
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+frameworks:
+  - attractor_networks
+keywords:
+  - attractor_networks
+  - autoassociation
+  - heteroassociation
+  - place_cells
+  - sharp_wave_ripples
+  - swr
+  - replay
+  - trajectory_events
+  - slow_gamma_oscillations
+  - gamma_rhythm
+  - sequence_generation
+  - hippocampus
+  - ca1
+  - ca3
+  - bayesian_decoding
+  - pattern_completion
+  - memory_retrieval
+  - discrete_dynamics
+  - neural_sequences
+  - autoassociative
+key_citations:
+  - davidson2009_hippocampal_replay_extended
 ---
 
 ### One-line summary

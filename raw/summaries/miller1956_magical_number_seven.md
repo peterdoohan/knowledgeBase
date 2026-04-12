@@ -1,14 +1,36 @@
 ---
-source_file: "miller1956_magical_number_seven.md"
-paper_id: "miller1956_magical_number_seven"
+source_file: miller1956_magical_number_seven.md
+paper_id: miller1956_magical_number_seven
 title: "The Magical Number Seven, Plus or Minus Two: Some Limits on our Capacity for Processing Information"
-authors: "George A. Miller"
+authors:
+  - "George A. Miller"
 year: 1956
 journal: "Psychological Review"
-paper_type: "review"
-contribution_type: "theoretical"
-species: ["human"]
-keywords: ["magical", "number", "seven", "plus", "minus", "two", "some", "limits", "our", "capacity"]
+paper_type: review
+contribution_type: theoretical
+species:
+  - human
+keywords:
+  - channel_capacity
+  - absolute_judgment
+  - information_theory
+  - working_memory_span
+  - chunking
+  - recoding
+  - short_term_memory
+  - bits_per_chunk
+  - unidimensional_judgment
+  - multidimensional_perception
+  - subitizing
+  - cognitive_bottleneck
+  - magical
+  - number
+  - seven
+  - plus
+  - minus
+  - two
+  - some
+  - limits
 ---
 
 ### One-line summary

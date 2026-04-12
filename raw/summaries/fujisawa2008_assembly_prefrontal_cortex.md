@@ -1,16 +1,46 @@
 ---
-source_file: "fujisawa2008_assembly_prefrontal_cortex.md"
-paper_id: "fujisawa2008_assembly_prefrontal_cortex"
+source_file: fujisawa2008_assembly_prefrontal_cortex.md
+paper_id: fujisawa2008_assembly_prefrontal_cortex
 title: "Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex"
-authors: "Shigeyoshi Fujisawa, Asohan Amarasingham, Matthew T Harrison, Gy\u00f6rgy Buzs\u00e1ki"
+authors:
+  - "Shigeyoshi Fujisawa"
+  - "Asohan Amarasingham"
+  - "Matthew T Harrison"
+  - "György Buzsáki"
 year: 2008
 journal: "Nature Neuroscience"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["rat"]
-tasks: ["t_maze"]
-brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex"]
-keywords: ["behavior", "dependent", "short", "term", "assembly", "dynamics", "medial", "prefrontal", "cortex"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - rat
+tasks:
+  - t_maze
+brain_regions:
+  - prefrontal_cortex
+  - medial_prefrontal_cortex
+  - anterior_cingulate_cortex
+  - prelimbic_cortex
+keywords:
+  - short_term_synaptic_plasticity
+  - cell_assemblies
+  - medial_prefrontal_cortex
+  - monosynaptic_interactions
+  - cross_correlogram_analysis
+  - working_memory
+  - pyramidal_interneuron_connectivity
+  - synaptic_facilitation_and_depression
+  - coincidence_detection
+  - jitter_resampling
+  - silicon_probe_recording
+  - sparse_coding
+  - behavior
+  - dependent
+  - short
+  - term
+  - assembly
+  - dynamics
+  - medial
+  - prefrontal
 ---
 
 ### One-line summary

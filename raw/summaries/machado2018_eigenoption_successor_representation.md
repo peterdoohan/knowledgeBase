@@ -1,16 +1,48 @@
 ---
-source_file: "machado2018_eigenoption_successor_representation.md"
-paper_id: "machado2018_eigenoption_successor_representation"
+source_file: machado2018_eigenoption_successor_representation.md
+paper_id: machado2018_eigenoption_successor_representation
 title: "Eigenoption Discovery Through the Deep Successor Representation"
-authors: "Marlos C. Machado, Clemens Rosenbaum, Xiaoxiao Guo, Miao Liu, Gerald Tesauro, Murray Campbell"
+authors:
+  - "Marlos C. Machado"
+  - "Clemens Rosenbaum"
+  - "Xiaoxiao Guo"
+  - "Miao Liu"
+  - "Gerald Tesauro"
+  - "Murray Campbell"
 year: 2018
 journal: "International Conference on Learning Representations (ICLR 2018)"
-paper_type: "computational"
-contribution_type: "methodological"
-brain_regions: ["hippocampus", "entorhinal_cortex"]
-frameworks: ["reinforcement_learning", "successor_representation", "hierarchical_rl"]
-keywords: ["eigenoption", "discovery", "through", "deep", "successor", "representation"]
-key_citations: ["dayan1993_successor_representation", "barreto2017_successor_features_transfer_c", "sutton1999_temporal_abstraction_rl"]
+paper_type: computational
+contribution_type: methodological
+brain_regions:
+  - hippocampus
+  - entorhinal_cortex
+frameworks:
+  - reinforcement_learning
+  - successor_representation
+  - hierarchical_rl
+keywords:
+  - option_discovery
+  - eigenoptions
+  - successor_representation
+  - proto_value_functions
+  - spectral_graph_theory
+  - hierarchical_reinforcement_learning
+  - temporal_abstraction
+  - intrinsic_motivation
+  - deep_reinforcement_learning
+  - representation_learning
+  - atari_2600
+  - diffusion_time
+  - eigenoption
+  - discovery
+  - through
+  - deep
+  - successor
+  - representation
+key_citations:
+  - dayan1993_successor_representation
+  - barreto2017_successor_features_transfer_c
+  - sutton1999_temporal_abstraction_rl
 ---
 
 ### One-line summary

@@ -1,16 +1,47 @@
 ---
-source_file: "chandra2024_visual_cortex_development.md"
-paper_id: "chandra2024_visual_cortex_development"
+source_file: chandra2024_visual_cortex_development.md
+paper_id: chandra2024_visual_cortex_development
 title: "Self-organized emergence of modularity, hierarchy, and mirror reversals from competitive synaptic growth in a developmental model of the visual pathway"
-authors: "Sarthak Chandra, Mikail Khona, Talia Konkle, Ila R. Fiete"
+authors:
+  - "Sarthak Chandra"
+  - "Mikail Khona"
+  - "Talia Konkle"
+  - "Ila R. Fiete"
 year: 2024
 journal: "bioRxiv (preprint, doi: 10.1101/2024.01.07.574543)"
-paper_type: "computational"
-contribution_type: "theoretical"
-species: ["mouse"]
-brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "visual_cortex", "primary_auditory_cortex"]
-frameworks: ["reinforcement_learning"]
-keywords: ["self", "organized", "emergence", "modularity", "hierarchy", "mirror", "reversals", "competitive", "synaptic", "growth"]
+paper_type: computational
+contribution_type: theoretical
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - prefrontal_cortex
+  - striatum
+  - visual_cortex
+  - primary_auditory_cortex
+frameworks:
+  - reinforcement_learning
+keywords:
+  - visual_cortex_development
+  - synaptic_competition
+  - heterosynaptic_plasticity
+  - cortical_area_formation
+  - retinotopic_maps
+  - polar_angle_mirror_reversal
+  - wiring_minimization
+  - spontaneous_retinal_activity
+  - retinal_waves
+  - self_organization
+  - cortical_hierarchy
+  - developmental_connectome
+  - self
+  - organized
+  - emergence
+  - modularity
+  - hierarchy
+  - mirror
+  - reversals
+  - competitive
 ---
 
 ### One-line summary

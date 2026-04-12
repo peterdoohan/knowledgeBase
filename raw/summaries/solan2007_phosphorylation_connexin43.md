@@ -1,15 +1,43 @@
 ---
-source_file: "solan2007_phosphorylation_connexin43.md"
-paper_id: "solan2007_phosphorylation_connexin43"
+source_file: solan2007_phosphorylation_connexin43.md
+paper_id: solan2007_phosphorylation_connexin43
 title: "Phosphorylation at S365 is a gatekeeper event that changes the structure of Cx43 and prevents downregulation by PKC"
-authors: "Joell L. Solan, Lucrecia Marquez-Rosado, Paul L. Sorgen, Perry J. Thornton, Philip R. Gafken, Paul D. Lampe"
+authors:
+  - "Joell L. Solan"
+  - "Lucrecia Marquez-Rosado"
+  - "Paul L. Sorgen"
+  - "Perry J. Thornton"
+  - "Philip R. Gafken"
+  - "Paul D. Lampe"
 year: 2007
 journal: "The Journal of Cell Biology"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-methods: ["electrophysiology"]
-keywords: ["phosphorylation", "s365", "gatekeeper", "event", "that", "changes", "structure", "cx43", "prevents", "downregulation"]
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+methods:
+  - electrophysiology
+keywords:
+  - connexin43
+  - cx43
+  - gap_junction
+  - phosphorylation
+  - s365
+  - s368
+  - pkc
+  - protein_kinase_c
+  - ischemia
+  - hypoxia
+  - nmr
+  - mass_spectrometry
+  - intercalated_disk
+  - cardiac
+  - gatekeeper
+  - conformational_change
+  - isoform
+  - p1
+  - electrophysiology
+  - cell_cell_communication
 ---
 
 ### One-line summary

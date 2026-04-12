@@ -1,16 +1,43 @@
 ---
-source_file: "sablemeyer2022_geometric_language_thought.md"
-paper_id: "sablemeyer2022_geometric_language_thought"
+source_file: sablemeyer2022_geometric_language_thought.md
+paper_id: sablemeyer2022_geometric_language_thought
 title: "A language of thought for the mental representation of geometric shapes"
-authors: "Mathias Sabl\u00e9-Meyer, Kevin Ellis, Josh Tenenbaum, Stanislas Dehaene"
+authors:
+  - "Mathias Sablé-Meyer"
+  - "Kevin Ellis"
+  - "Josh Tenenbaum"
+  - "Stanislas Dehaene"
 year: 2022
 journal: "Cognitive Psychology"
-paper_type: "empirical"
-contribution_type: "theoretical"
-species: ["human"]
-brain_regions: ["prefrontal_cortex"]
-frameworks: ["compositionality"]
-keywords: ["fodor_1975_language_of_thought_hypothesis", "hauser", "chomsky_and_fitch_2002_recursion_as_uniquely_human_faculty", "leeuwenberg_1971_coding_theory_for_shape_perception_minimum_principle", "leyton_1984", "2003_generative_theory_of_shape", "amalric_et_al_2017_language_of_geometry_for_spatial_sequences", "chater_and_vitanyi_2003", "feldman_2000", "2003_simplicity_minimum_description_length_in_cognition", "lake_et_al_2015_probabilistic_program_induction", "ellis_et_al_2021_dreamcoder_algorithm_for_program_induction", "sable_meyer_et_al_2021_comparative_study_with_baboons_showing_human_specific_symbolic_geometry", "named_models_frameworks", "language_of_thought_fodor", "minimum_description_length_mdl_kolmogorov_complexity", "dreamcoder_program_induction_algorithm", "logo_programming_language_turtle_graphics", "core_knowledge_systems_spelke", "dehaene"]
+paper_type: empirical
+contribution_type: theoretical
+species:
+  - human
+brain_regions:
+  - prefrontal_cortex
+frameworks:
+  - compositionality
+keywords:
+  - language_of_thought
+  - geometric_shape_perception
+  - program_induction
+  - minimum_description_length_mdl
+  - compositionality
+  - recursion
+  - complexity_in_cognition
+  - shape_representation
+  - working_memory
+  - human_uniqueness
+  - bayesian_concept_learning
+  - dreamcoder
+  - core_knowledge
+  - path_integration
+  - discrete_and_continuous_cognition
+  - language
+  - thought
+  - mental
+  - representation
+  - geometric
 ---
 
 ### One-line summary

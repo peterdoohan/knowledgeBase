@@ -1,15 +1,80 @@
 ---
-source_file: "yao2021_transcriptomic_isocortex.md"
-paper_id: "yao2021_transcriptomic_isocortex"
+source_file: yao2021_transcriptomic_isocortex.md
+paper_id: yao2021_transcriptomic_isocortex
 title: "A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation"
-authors: "Zizhen Yao, Cindy T.J. van Velthoven, Thuc Nghi Nguyen, Jeff Goldy, Adriana E. Sedeno-Cortes, Fahimeh Baftizadeh, Darren Bertagnolli, Tamara Casper, Megan Chiang, Kirsten Crichton, Song-Lin Ding, Olivia Fong, Emma Garren, Alexandra Glandon, Nathan W. Gouwens, James Gray, Lucas T. Graybuck, Michael J. Hawrylycz, Daniel Hirschstein, Matthew Kroll, Kanan Lathia, Changkyu Lee, Boaz Levi, Delissa McMillen, Stephanie Mok, Thanh Pham, Qingzhong Ren, Christine Rimorin, Nadiya Shapovalova, Josef Sulc, Susan M. Sunkin, Michael Tieu, Amy Torkelson, Herman Tung, Katelyn Ward, Nick Dee, Kimberly A. Smith, Bosiljka Tasic, Hongkui Zeng"
+authors:
+  - "Zizhen Yao"
+  - "Cindy T.J. van Velthoven"
+  - "Thuc Nghi Nguyen"
+  - "Jeff Goldy"
+  - "Adriana E. Sedeno-Cortes"
+  - "Fahimeh Baftizadeh"
+  - "Darren Bertagnolli"
+  - "Tamara Casper"
+  - "Megan Chiang"
+  - "Kirsten Crichton"
+  - "Song-Lin Ding"
+  - "Olivia Fong"
+  - "Emma Garren"
+  - "Alexandra Glandon"
+  - "Nathan W. Gouwens"
+  - "James Gray"
+  - "Lucas T. Graybuck"
+  - "Michael J. Hawrylycz"
+  - "Daniel Hirschstein"
+  - "Matthew Kroll"
+  - "Kanan Lathia"
+  - "Changkyu Lee"
+  - "Boaz Levi"
+  - "Delissa McMillen"
+  - "Stephanie Mok"
+  - "Thanh Pham"
+  - "Qingzhong Ren"
+  - "Christine Rimorin"
+  - "Nadiya Shapovalova"
+  - "Josef Sulc"
+  - "Susan M. Sunkin"
+  - "Michael Tieu"
+  - "Amy Torkelson"
+  - "Herman Tung"
+  - "Katelyn Ward"
+  - "Nick Dee"
+  - "Kimberly A. Smith"
+  - "Bosiljka Tasic"
+  - "Hongkui Zeng"
 year: 2021
-journal: "Cell"
-paper_type: "empirical"
-contribution_type: "empirical"
-species: ["mouse"]
-brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prelimbic_cortex"]
-keywords: ["taxonomy", "transcriptomic", "cell", "types", "across", "isocortex", "hippocampal", "formation"]
+journal: Cell
+paper_type: empirical
+contribution_type: empirical
+species:
+  - mouse
+brain_regions:
+  - hippocampus
+  - hippocampus_ca1
+  - hippocampus_ca3
+  - entorhinal_cortex
+  - prelimbic_cortex
+keywords:
+  - single_cell_rna_sequencing
+  - transcriptomics
+  - cell_type_taxonomy
+  - isocortex
+  - neocortex
+  - hippocampal_formation
+  - gabaergic_interneurons
+  - glutamatergic_neurons
+  - spatial_gradients
+  - continuous_variation
+  - consensus_clustering
+  - homology
+  - cortical_layers
+  - entorhinal_cortex
+  - subiculum
+  - dentate_gyrus
+  - cornu_ammonis
+  - molecular_architecture
+  - taxonomy
+  - transcriptomic
 ---
 
 ### One-line summary
