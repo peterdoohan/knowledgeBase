@@ -47,6 +47,9 @@ keywords:
   - cortex
 key_citations:
   - daw2005_uncertainty_prefrontal_striatal
+wiki_pages:
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -121,3 +124,7 @@ The paper partially meets the second criterion by using fMRI to identify which b
 - **Named models or frameworks**: Hidden Markov Model (HMM), Partially Observable Markov Decision Process (POMDP), Bayesian belief updating/incremental Bayes, entropy as uncertainty measure
 - **Brain regions**: Anterior prefrontal cortex (APF, BA10), medial prefrontal cortex (mPFC, BA9/6), dorsolateral prefrontal cortex (DLPF, BA46), anterior cingulate cortex (ACC, BA32/8), posterior parietal cortex (PPC, BA40/7), basal ganglia (caudate, putamen, globus pallidus, substantia nigra), thalamus
 - **Keywords**: Bayesian inference, uncertainty, prefrontal cortex, POMDP, hidden Markov model, belief updating, entropy, navigation, decision making, fMRI, partial observability, back-track, belief maintenance, anterior prefrontal cortex, medial prefrontal cortex, state estimation
+
+### Related wiki pages
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

@@ -56,6 +56,10 @@ key_citations:
   - tolman1948_cognitive_maps_rats
   - wilson2014_best_practices_scientific
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -231,3 +235,8 @@ However, the review does not provide direct neural evidence linking specific alg
 
 **Keywords:**
 cognitive map, hippocampus, orbitofrontal cortex, reinforcement learning, model-based learning, task state representation, place cells, vicarious trial and error, prospective coding, decision making, goal-directed behavior, neural ensemble coding, theta oscillations, sensory preconditioning, value inference, state space, navigation, associative learning, cross-structural interaction
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

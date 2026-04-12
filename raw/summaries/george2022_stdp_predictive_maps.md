@@ -50,6 +50,8 @@ keywords:
 key_citations:
   - dayan1993_successor_representation
   - momennejad2018_offline_replay_planning
+wiki_pages:
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -183,3 +185,6 @@ The paper meets both criteria for the high bar.
 
 **Keywords**:
 - successor representation, predictive map, STDP, theta phase precession, theta sweep, place cells, CA3-CA1 synaptic plasticity, Hebbian learning, dorso-ventral hippocampal axis, multiscale spatial representation, reinforcement learning, biologically plausible learning
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

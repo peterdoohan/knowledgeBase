@@ -48,6 +48,12 @@ key_citations:
   - foster2017_replay_memory_consolidation
   - jadhav2016_hippocampal_prefrontal_swr
   - widloski2022_hippocampal_replay_barriers
+wiki_pages:
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -180,3 +186,10 @@ The paper does not directly identify specific cell types or biophysical mechanis
 - VTA (mentioned in context of dopamine-mediated plasticity alternatives)
 
 **Keywords**: meta-reinforcement learning, hippocampal replay, prefrontal cortex, policy rollouts, planning, recurrent neural network, hidden-state optimisation, thinking time, model-based reinforcement learning, spatial navigation, forward replay, sharp-wave ripples
+
+### Related wiki pages
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

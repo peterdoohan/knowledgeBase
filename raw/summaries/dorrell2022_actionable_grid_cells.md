@@ -43,6 +43,10 @@ key_citations:
   - tolman1948_cognitive_maps_rats
   - whittington2020_tolman_eichenbaum_machine
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -108,3 +112,8 @@ The paper meets the high bar for mechanistic insight: it formalizes an algorithm
 - **Named models/frameworks**: Actionable representations; Group and representation theory framework; Constrained optimization approach; GECO (Generalized EVB Constrained Optimization) algorithm; Continuous attractor networks (CANs) — mentioned as comparison; Tolman-Eichenbaum Machine — related work; Non-negative similarity matching — related framework
 - **Brain regions**: Medial entorhinal cortex (MEC) — primary focus, contains grid cells; Hippocampus — mentioned in context of place cells and spatial memory; Head direction system — used as theoretical comparison
 - **Keywords**: grid cells, actionable representations, group theory, representation theory, path integration, spatial navigation, hexagonal tuning, modularity, continuous attractor networks, efficient coding, non-negative firing rates, constrained optimization, neural coding, cognitive maps, toroidal topology, zero-shot inference, Fourier analysis, harmonic tussle, place cells, head direction cells, 3D spatial representation, normative modeling, biological constraints, functional constraints, generalization, neural representations, spatial memory, entorhinal cortex, hippocampal formation
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

@@ -53,6 +53,8 @@ keywords:
   - errors
 key_citations:
   - daw2005_uncertainty_prefrontal_striatal
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -177,3 +179,6 @@ This paper meets the bar: it formalises two distinct RL algorithms with differen
 - goal-directed behaviour
 - habitual behaviour
 - dual-system decision-making
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

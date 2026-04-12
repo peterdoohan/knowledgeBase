@@ -49,6 +49,9 @@ keywords:
   - network
 key_citations:
   - botvinick2009_hierarchically_organized_behavior
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -197,3 +200,7 @@ This paper meets the bar for mechanistic insight.
 - virtual navigation
 - subgoal
 - dorsomedial prefrontal cortex
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

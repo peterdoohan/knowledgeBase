@@ -45,6 +45,8 @@ keywords:
 key_citations:
   - singer2013_hippocampal_swr_decisions
   - jones2005_theta_hippocampal_prefrontal
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
 ---
 
 ### One-line summary
@@ -184,3 +186,6 @@ This paper meets the bar for mechanistic insight. It both formalises a candidate
 - cross-structure ensemble co-activation
 - GLM ensemble decoding
 - hippocampal place cells
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]

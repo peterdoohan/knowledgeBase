@@ -49,6 +49,10 @@ keywords:
   - knowledge
   - task
   - map
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -150,3 +154,8 @@ What the paper does provide is rich behavioral data that constrains future mecha
 - Neocortical networks
 
 **Keywords**: spatial navigation, cognitive map, schema, memory consolidation, previous knowledge, learning set, mouse behavior, allocentric navigation, spatial memory, systems consolidation, offline learning, map updating, hippocampus, medial prefrontal cortex, maze learning
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

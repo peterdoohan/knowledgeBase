@@ -40,6 +40,8 @@ keywords:
 key_citations:
   - dayan1993_successor_representation
   - sutton1999_temporal_abstraction_rl
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -147,3 +149,6 @@ The paper does not meet the bar. It proposes and formalises a transfer algorithm
 **Brain regions**: Not applicable.
 
 **Keywords**: successor features, successor representation, transfer learning, reinforcement learning, generalized policy improvement, reward decomposition, task generalisation, multi-task RL, value function factorisation, deep reinforcement learning, policy reuse, performance guarantees
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

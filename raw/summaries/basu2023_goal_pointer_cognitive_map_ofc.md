@@ -59,6 +59,11 @@ key_citations:
   - wilson2014_best_practices_scientific
   - zhou2021_schema_orbitofrontal
   - bohm2020_pfc_spatial_working_memory
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -210,3 +215,9 @@ Mapped to Marr's levels:
 - hippocampus-OFC interaction
 - value-based decision-making
 - spatial working memory
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

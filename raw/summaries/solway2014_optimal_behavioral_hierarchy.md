@@ -43,6 +43,8 @@ keywords:
 key_citations:
   - schapiro2013_event_representation_memory
   - sutton1999_temporal_abstraction_rl
+wiki_pages:
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -190,3 +192,6 @@ The computational framework (Bayesian model selection applied to hierarchical RL
 - statistical learning
 - representational efficiency
 - learning efficiency
+
+### Related wiki pages
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

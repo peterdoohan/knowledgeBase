@@ -49,6 +49,10 @@ key_citations:
   - ambrose2016_reverse_replay_hippocampal
   - behrens2018_cognitive_map_organizing_knowledge
   - gupta2010_replay_not_simple_function
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -203,3 +207,8 @@ This paper meets both criteria for a mechanistic insight entry.
 - transfer replay
 - reward-triggered reverse replay
 - cognitive map
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

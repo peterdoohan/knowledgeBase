@@ -47,6 +47,12 @@ keywords:
 key_citations:
   - girardeau2009_ripples_spatial_memory
   - shin2019_hippocampal_prefrontal_replay_b
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -127,3 +133,10 @@ This paper provides strong mechanistic insight at the algorithmic and implementa
 **Brain regions**: medial prefrontal cortex (mPFC), prelimbic cortex, hippocampus (CA1), dorsal hippocampus, ventral striatum (not analyzed)
 
 **Keywords**: sharp-wave ripples, SWRs, medial prefrontal cortex, DREADDs, memory consolidation, decision-making, hippocampus, neuroeconomics, Restaurant Row, spatial navigation, replay, Bayesian decoding, value-based choice, reward anticipation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

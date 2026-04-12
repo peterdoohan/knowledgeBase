@@ -43,6 +43,8 @@ keywords:
   - information
   - uncertain
   - world
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -179,3 +181,6 @@ The paper meets both criteria: it formalises an algorithm (the Bayesian hierarch
 - fMRI
 - expected uncertainty vs. unexpected uncertainty
 - individual differences in learning
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

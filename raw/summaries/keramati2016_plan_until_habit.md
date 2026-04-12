@@ -49,6 +49,9 @@ keywords:
   - habitual
 key_citations:
   - daw2011_model_based_striatal_prediction
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -172,3 +175,7 @@ The paper does not meet the bar for mechanistic insight as defined here. It prop
 - Markov decision process
 - hybrid RL models
 - decision-making spectrum
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

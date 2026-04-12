@@ -43,6 +43,9 @@ keywords:
   - entorhinal
   - spatial
   - maps
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -166,3 +169,7 @@ The paper meets the bar for mechanistic insight at the algorithmic and implement
 
 **Keywords**:
 - grid cells, entorhinal cortex, spatial remapping, reward location, goal-directed navigation, head direction cells, border cells, Bayesian decoding, rate remapping, spatial memory, navigational strategy, cognitive map
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

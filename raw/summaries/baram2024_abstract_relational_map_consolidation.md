@@ -52,6 +52,8 @@ key_citations:
   - whittington2020_tolman_eichenbaum_machine
   - garvert2017_relational_knowledge_maps
   - constantinescu2016_gridlike_conceptual_knowledge
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
 ---
 
 ### One-line summary
@@ -181,3 +183,6 @@ The paper does not fully meet the bar because it lacks neural data at the algori
 - cross-graph transfer
 - schema abstraction
 - factorised representations
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]

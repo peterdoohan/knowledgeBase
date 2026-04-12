@@ -55,6 +55,13 @@ key_citations:
   - schapiro2013_event_representation_memory
   - botvinick2009_hierarchically_organized_behavior
   - tomov2020_hierarchical_planning_representation
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 ### One-line summary
@@ -143,3 +150,11 @@ Not applicable (behavioral study with computational modeling). The paper discuss
 **Brain regions**: Hippocampus (discussed as potential locus of SR learning); Anterior cingulate cortex (discussed as potential locus of hierarchical decision making); Medial prefrontal cortex (discussed as potential locus of action-outcome prediction); Midbrain dopamine system (discussed as potential source of prediction error signals).
 
 **Keywords**: successor representation, hierarchical reinforcement learning, goal-directed behavior, community structure, predictive learning, computational modeling, state prediction error, decision making, cognitive map, graph-theoretic abstraction, planning, model-based RL, behavioral experiments, museum navigation task, statistical learning.
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]

@@ -43,6 +43,10 @@ keywords:
 key_citations:
   - alonso2021_hexmaze_cognitive_map
   - redish2016_vicarious_trial_error_b
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -157,3 +161,8 @@ This review does not present new mechanistic data linking specific algorithms to
 **Brain regions**: Hippocampus; Striatum; Prefrontal cortex; Cortex; Locus coeruleus; Dopaminergic system
 
 **Keywords**: Spatial navigation; Maze learning; Rodent behavior; Egocentric strategy; Allocentric strategy; Hippocampus; Striatum; Cognitive map; Spatial memory; Reference memory; Working memory; Habit formation; Vicarious trial-and-error; Overtraining; Schema
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

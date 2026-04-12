@@ -52,6 +52,8 @@ keywords:
   - targeted
   - anion
   - conducting
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -185,3 +187,6 @@ The paper meets both criteria for this section.
 - fear extinction
 - channelrhodopsin membrane trafficking
 - photocurrent amplitude
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

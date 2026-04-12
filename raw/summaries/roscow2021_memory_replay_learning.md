@@ -46,6 +46,9 @@ keywords:
   - offline
   - memory
   - replay
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -225,3 +228,7 @@ The review does not provide new neural data testing specific algorithmic predict
 - Q-learning
 - dopamine
 - reward-prediction error
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

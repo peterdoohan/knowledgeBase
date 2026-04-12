@@ -44,6 +44,8 @@ keywords:
   - spatial
 key_citations:
   - fujisawa2008_assembly_prefrontal_cortex
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -174,3 +176,6 @@ That said, the data do constrain the mechanistic landscape at Marr's algorithmic
 - Dorsal peduncular cortex (DP)
 
 **Keywords**: spatial working memory, prefrontal cortex, goal representation, flexible behavior, population decoding, delay period activity, activity-silent working memory, Neuropixels, rodent electrophysiology, behavioral flexibility, task structure encoding, null result working memory
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

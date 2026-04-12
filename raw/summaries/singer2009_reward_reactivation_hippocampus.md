@@ -43,6 +43,11 @@ keywords:
   - outcomes
   - enhance
   - experience
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -147,3 +152,9 @@ This paper provides strong mechanistic insight that maps onto Marr's three level
 
 **Keywords:**
 hippocampus, sharp wave ripples, SWR, replay, reactivation, reward, place cells, CA3, memory consolidation, spatial navigation, sequence learning, awake replay, neural oscillations, credit assignment, reinforcement learning
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

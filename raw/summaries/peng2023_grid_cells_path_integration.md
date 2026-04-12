@@ -49,6 +49,8 @@ key_citations:
   - fyhn2007_remapping_grid_realignment
   - jazi2023_hippocampal_path_integration_homing
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -177,3 +179,6 @@ This paper provides mechanistic insight meeting the high bar of presenting an al
 - **Brain regions**: medial entorhinal cortex (MEC); hippocampus (CA1)
 
 - **Keywords**: grid cells, path integration, reference frames, toroidal manifold, entorhinal cortex, spatial navigation, attractor networks, deep learning decoding, multiple reference frames, re-anchoring, orientation drift, homing behavior, self-motion cues, AutoPI task
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

@@ -54,6 +54,13 @@ keywords:
   - vicarious
 key_citations:
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -207,3 +214,11 @@ The paper thus provides a comprehensive mechanistic account linking behavior (VT
 
 **Keywords:**
 vicarious trial and error, VTE, deliberation, decision-making, hippocampus, theta sequences, mental time travel, episodic future thinking, cognitive map, model-based reinforcement learning, place cells, prefrontal cortex, ventral striatum, orbitofrontal cortex, procedural learning, working memory, behavioral flexibility, spatial navigation, reward evaluation
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

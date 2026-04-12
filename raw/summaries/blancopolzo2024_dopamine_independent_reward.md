@@ -54,6 +54,8 @@ keywords:
 key_citations:
   - montague1996_predictive_hebbian_dopamine
   - schultz1997_neural_substrate_reward_pred
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -204,3 +206,6 @@ This paper meets the bar for mechanistic insight.
 - cortex-basal ganglia interaction
 - reward rate coding
 - nonlocal value update
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

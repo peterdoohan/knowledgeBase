@@ -53,6 +53,8 @@ key_citations:
   - schapiro2013_event_representation_memory
   - solway2014_optimal_behavioral_hierarchy
   - botvinick2009_hierarchically_organized_behavior
+wiki_pages:
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -147,3 +149,6 @@ The paper does not provide direct neural data supporting the specific algorithm,
 **Brain regions**: Hippocampus, prefrontal cortex, striatum (dorsolateral, dorsomedial), cortico-striatal loops
 
 **Keywords**: hierarchical planning, state abstraction, structure learning, Bayesian inference, hierarchy discovery, reinforcement learning, chunking, community structure, bottleneck states, task distribution, reward generalization, Markov chain Monte Carlo, graph theory, option discovery, behavioral hierarchy, working memory, computational efficiency
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

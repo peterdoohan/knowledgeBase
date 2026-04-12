@@ -49,6 +49,9 @@ keywords:
   - enable
 key_citations:
   - fyhn2007_remapping_grid_realignment
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -245,3 +248,7 @@ This paper thus meets the high bar for mechanistic insight: it presents a formal
 
 **Keywords:**
 grid cells, entorhinal cortex, spatial navigation, continuous attractor networks, toroidal manifold, remapping, visual landmarks, path integration, behavioural timescale synaptic plasticity (BTSP), virtual reality, Neuropixels, one-shot learning, neural population dynamics, hippocampus, cognitive map
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

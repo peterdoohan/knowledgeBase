@@ -52,6 +52,8 @@ key_citations:
   - behrens2018_cognitive_map_organizing_knowledge
   - wilson2014_best_practices_scientific
   - schuck2016_orbitofrontal_cortex_state
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
 ---
 
 ### One-line summary
@@ -193,3 +195,6 @@ This paper meets both criteria for the high bar: it formalises an algorithm (cre
 - state-space granularity
 - orbitofrontal cartographer
 - cue–outcome association specificity
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state|Orbitofrontal cortex as a cognitive map of hidden task state]]

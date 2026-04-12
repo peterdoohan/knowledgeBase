@@ -45,6 +45,8 @@ key_citations:
   - davidson2009_hippocampal_replay_extended
   - jackson2006_hippocampal_sharp_waves_reactivation
   - girardeau2009_ripples_spatial_memory
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
 ---
 
 ### One-line summary
@@ -162,3 +164,6 @@ The paper does not meet the full mechanistic insight bar: it proposes that repla
 - Hippocampal CA3
 
 **Keywords**: hippocampal replay, sharp wave ripples, place cells, cognitive map, forward replay, backward replay, awake state reactivation, sequence generation, novel trajectory, catastrophic interference, memory consolidation, nonlocal replay
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]

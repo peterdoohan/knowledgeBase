@@ -45,6 +45,10 @@ key_citations:
   - daw2011_model_based_striatal_prediction
   - schultz1997_neural_substrate_reward_pred
   - russek2017_model_based_reinforcement
+wiki_pages:
+  - wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -147,3 +151,8 @@ The paper does not meet the bar for full mechanistic insight. It proposes a deta
 **Brain regions**: dmPFC, dACC, OFC, vmPFC, striatum (caudate, putamen), ilPFC, frontopolar cortex, amygdala.
 
 **Keywords**: juvenile OCD, developmental computational psychiatry, model-based reinforcement learning, model-free reinforcement learning, meta-controller, frontostriatal loops, indecisiveness, metacognition, habit formation, prediction error, set-shifting, neurodevelopment
+
+### Related wiki pages
+- [[wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control|Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

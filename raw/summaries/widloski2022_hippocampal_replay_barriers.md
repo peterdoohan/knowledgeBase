@@ -53,6 +53,9 @@ key_citations:
   - foster2017_replay_memory_consolidation
   - muller1996_bergmann_glial_coupling
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -251,3 +254,7 @@ This paper meets the high bar for mechanistic insight by providing both an algor
 
 **Keywords**:
 hippocampal replay, place cells, spatial navigation, barrier conformity, cognitive graph, flexible behavior, awake replay, sharp-wave ripples, sequence reactivation, spatial memory, attractor networks, Bayesian decoding, remapping, trajectory planning, goal-directed behavior, rat, CA1, dendritic computation, synaptic plasticity
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

@@ -45,6 +45,9 @@ keywords:
 key_citations:
   - ciaramelli2008_vmPFC_wayfinding_navigation
   - hok2005_goal_coding_prefrontal
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -176,3 +179,7 @@ This paper does not meet the high bar for mechanistic insight. While it synthesi
 - Neuropsychology
 - Prefrontal cortex
 - Intention
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

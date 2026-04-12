@@ -48,6 +48,8 @@ keywords:
   - changing
 key_citations:
   - singer2009_reward_reactivation_hippocampus
+wiki_pages:
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -181,3 +183,6 @@ This paper meets both criteria for a mechanistic insight entry.
 - dopamine-hippocampus interaction
 - adaptive reward coding
 - Bayesian sequence decoding
+
+### Related wiki pages
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

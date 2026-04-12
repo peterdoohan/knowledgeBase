@@ -50,6 +50,9 @@ key_citations:
   - davidson2009_hippocampal_replay_extended
   - singer2009_reward_reactivation_hippocampus
   - lee2002_memory_sequential_experience
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -196,3 +199,7 @@ The paper meets both criteria:
 - Bayesian spatial decoding
 - motivational salience
 - prospective coding
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

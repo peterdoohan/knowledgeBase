@@ -45,6 +45,8 @@ keywords:
   - across
   - marrian
   - levels
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -181,3 +183,6 @@ Mapping onto Marr's levels as the paper itself does:
 - Ventral tegmental area / substantia nigra
 
 **Keywords**: ADHD, neural gain modulation, computational psychiatry, Marr's levels, decision temperature, reinforcement learning, corticostriatal loops, catecholamines, dopamine, noradrenaline, exploitation–exploration trade-off, attractor dynamics
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

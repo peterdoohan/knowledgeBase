@@ -59,6 +59,10 @@ key_citations:
   - fyhn2007_remapping_grid_realignment
   - niv2019_representation_learning_task_states
   - wilson2014_best_practices_scientific
+wiki_pages:
+  - wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -201,3 +205,8 @@ The paper partially meets the bar. It proposes an algorithm (structure-condition
 - relational structure, serial bandits
 - vmPFC, schema representations
 - task remapping, cross-stimulus learning
+
+### Related wiki pages
+- [[wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps|Entorhinal grid cells and continuous attractor models of cognitive maps]]
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

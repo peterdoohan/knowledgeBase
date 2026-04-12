@@ -50,6 +50,8 @@ keywords:
   - human
 key_citations:
   - daw2011_model_based_striatal_prediction
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -172,3 +174,6 @@ The paper does not meet the bar for mechanistic insight as defined. It presents 
 **Brain regions**: None directly studied (behavioural/computational paper).
 
 **Keywords**: model-free reinforcement learning, model-sensitive reinforcement learning, model-based reinforcement learning, two-stage decision task, non-human primates, habit vs. goal-directed, response vigour, reaction time, credit assignment, SARSA, hybrid RL model, Bayesian model comparison
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

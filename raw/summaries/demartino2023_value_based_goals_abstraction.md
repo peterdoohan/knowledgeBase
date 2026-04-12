@@ -49,6 +49,9 @@ keywords:
   - value
   - based
   - choice
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -200,3 +203,7 @@ The paper does not meet the bar for this section in full. It proposes a rich alg
 - multi-objective reinforcement learning
 - representational geometry
 - information selection in decision-making
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

@@ -53,6 +53,9 @@ keywords:
 key_citations:
   - burak2009_path_integration_grid_cells
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
 ---
 
 ### One-line summary
@@ -141,3 +144,7 @@ This paper provides strong mechanistic insight by identifying both the algorithm
 **Brain regions**: Medial entorhinal cortex (MEC); parasubiculum; hippocampus (CA1, CA3); prefrontal cortex (mentioned); anterior thalamus (mentioned); postsubiculum (mentioned)
 
 **Keywords**: grid cells; place cells; theta oscillations; theta sweeps; theta sequences; internal direction cells; head direction cells; conjunctive cells; continuous attractor networks; path integration; spatial navigation; toroidal topology; population coding; Neuropixels; REM sleep; slow-wave sleep; latent manifold tuning; spatial sampling; vector navigation; theta phase precession; theta cycle skipping; burst firing
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation|Sharp-wave ripple-associated place-cell replay in spatial memory consolidation]]

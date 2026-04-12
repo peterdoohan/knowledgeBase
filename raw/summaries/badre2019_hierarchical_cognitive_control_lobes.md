@@ -43,6 +43,9 @@ keywords:
   - lobes
 key_citations:
   - badre2018_frontal_cortex_hierarchical_control
+wiki_pages:
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -181,3 +184,7 @@ This paper partially meets the bar. It synthesises neural data (fMRI, lesion, TM
 - effective connectivity
 - fMRI hierarchical tasks
 - frontal lobe executive function
+
+### Related wiki pages
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

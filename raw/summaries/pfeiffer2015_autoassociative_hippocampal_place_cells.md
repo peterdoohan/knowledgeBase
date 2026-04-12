@@ -42,6 +42,8 @@ keywords:
   - autoassociative
 key_citations:
   - davidson2009_hippocampal_replay_extended
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -141,3 +143,6 @@ This paper meets the high bar for mechanistic insight by providing both an algor
 - **Named models or frameworks**: Hopfield model, attractor networks, autoassociative dynamics, heteroassociative dynamics, Marr's three levels of analysis, sharp-wave ripple (SWR) events, trajectory events, slow-gamma oscillations, Bayesian decoding, pattern completion
 - **Brain regions**: hippocampus, CA1, CA3, dentate gyrus, dorsal hippocampus
 - **Keywords**: attractor networks, autoassociation, heteroassociation, place cells, sharp-wave ripples, SWR, replay, trajectory events, slow-gamma oscillations, gamma rhythm, sequence generation, hippocampus, CA1, CA3, Bayesian decoding, pattern completion, memory retrieval, discrete dynamics, neural sequences
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

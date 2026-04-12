@@ -43,6 +43,8 @@ key_citations:
   - dayan1993_successor_representation
   - barreto2017_successor_features_transfer_c
   - sutton1999_temporal_abstraction_rl
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -175,3 +177,6 @@ The paper does not meet the bar for mechanistic insight as defined here. It is a
 - representation learning
 - Atari 2600
 - diffusion time
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

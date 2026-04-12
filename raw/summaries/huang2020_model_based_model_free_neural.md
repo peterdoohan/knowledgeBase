@@ -50,6 +50,9 @@ keywords:
   - based
 key_citations:
   - russek2017_model_based_reinforcement
+wiki_pages:
+  - wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -145,3 +148,7 @@ This paper does not meet the bar for mechanistic insight as defined here. It is 
 - **Named models or frameworks**: Model-free RL (temporal-difference learning); Model-based RL (forward model / decision-tree planning); Activation Likelihood Estimation (ALE); Actor-critic framework; Meta-reinforcement learning (meta-RL); Two-step task (Daw et al., 2011).
 - **Brain regions**: Ventral striatum, globus pallidus, caudate head, vmPFC, orbitofrontal cortex, anterior cingulate cortex, medial prefrontal cortex, hippocampus.
 - **Keywords**: model-based reinforcement learning, model-free reinforcement learning, neuroimaging meta-analysis, activation likelihood estimation, ventral striatum, reward prediction error, goal-directed behaviour, habitual behaviour, basal ganglia, prefrontal cortex, fMRI, computational psychiatry.
+
+### Related wiki pages
+- [[wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control|Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

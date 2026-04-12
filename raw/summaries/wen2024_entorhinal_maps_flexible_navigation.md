@@ -51,6 +51,8 @@ keywords:
   - navigation
 key_citations:
   - fyhn2007_remapping_grid_realignment
+wiki_pages:
+  - wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
 ---
 
 ### One-line summary
@@ -199,3 +201,6 @@ The paper explicitly tests and rejects alternative algorithmic implementations (
 - path integration
 - neural coding
 - spatial memory
+
+### Related wiki pages
+- [[wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps|Entorhinal grid cells and continuous attractor models of cognitive maps]]

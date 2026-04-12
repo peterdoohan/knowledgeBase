@@ -43,6 +43,8 @@ keywords:
 key_citations:
   - shin2019_hippocampal_prefrontal_replay_b
   - jadhav2016_hippocampal_prefrontal_swr
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -173,3 +175,6 @@ Mapping what is established onto Marr's levels:
 - spatial rule learning
 - Neuropixels recordings
 - functional dissociation SWR-modulated vs. unmodulated
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

@@ -45,6 +45,11 @@ keywords:
 key_citations:
   - gupta2012_theta_sequences_experience
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
 ---
 
 ### One-line summary
@@ -130,3 +135,9 @@ The paper provides neural evidence linking theta sequence dynamics to goal-direc
 
 **Keywords:**
 hippocampus, theta oscillations, theta sequences, place cells, phase precession, goal-directed behavior, spatial navigation, prospective coding, decision-making, volitional behavior, ensemble activity, cognitive map, foraging, CA1, spatial planning
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]

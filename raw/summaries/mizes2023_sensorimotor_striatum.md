@@ -45,6 +45,8 @@ keywords:
   - visually
   - guided
   - motor
+wiki_pages:
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -185,3 +187,6 @@ This paper meets both criteria for mechanistic insight.
 - neural population coding
 - motor vigor
 - internally generated sequences
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

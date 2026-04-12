@@ -44,6 +44,9 @@ key_citations:
   - schaeffer_grid_cell_pathintegration
   - moser2008_place_cells_grid_cells
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -207,3 +210,7 @@ This paper partially meets the bar for mechanistic insight. It presents an **alg
 
 **Keywords**:
 grid cells, band cells, path integration, self-supervised learning, distance preservation, capacity constraints, recurrent neural networks, feedforward networks, spatial navigation, toroidal topology, persistent homology, normative models, entorhinal cortex, metric learning
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

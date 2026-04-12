@@ -51,6 +51,10 @@ key_citations:
   - niv2019_representation_learning_task_states
   - wilson2014_best_practices_scientific
   - schuck2016_orbitofrontal_cortex_state
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -214,3 +218,8 @@ More specifically: the paper proposes that dimensionality reduction in mPFC impl
 - memory consolidation
 - event segmentation
 - representation learning
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

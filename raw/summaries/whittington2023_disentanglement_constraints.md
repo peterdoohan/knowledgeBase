@@ -45,6 +45,8 @@ keywords:
 key_citations:
   - boccara2019_grid_goal_attractor
   - butler2019_reward_locations_entorhinal_maps
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
 ---
 
 ### One-line summary
@@ -158,3 +160,6 @@ The paper thus bridges all three levels of analysis, providing a mechanistic und
 - **Named models/frameworks**: β-VAE, Variational Autoencoder (VAE), Independent Component Analysis (ICA), Nonnegative Matrix Factorization (NMF), Hebbian/anti-Hebbian learning, Pattern formation dynamics, Path integration, Cellular automata, Mutual Information Ratio (MIR) metric
 - **Brain regions**: Medial entorhinal cortex, hippocampal formation, subiculum, prefrontal cortex (PFC), inferior temporal (IT) cortex, parietal cortex, visual cortex (V1), Drosophila mushroom body
 - **Keywords**: disentanglement, nonnegativity, energy efficiency, biological constraints, functional cell types, grid cells, object-vector cells, independent component analysis, neural representation, variational autoencoder, mixed-selectivity, factorised representations, neural manifolds, path integration, pattern formation, Hebbian learning, interpretability, compositional generalization
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]

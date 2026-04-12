@@ -40,6 +40,8 @@ keywords:
   - disorders
   - network
   - dynamics
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
 ---
 
 ### One-line summary
@@ -182,3 +184,6 @@ At Marr's computational level the contribution is strong: DST clarifies what pro
 - network dynamics
 - psychiatric nosology
 - working memory attractor
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]

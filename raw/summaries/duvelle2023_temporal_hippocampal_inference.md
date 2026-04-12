@@ -59,6 +59,11 @@ key_citations:
   - whittington2020_tolman_eichenbaum_machine
   - stachenfeld2017_hippocampus_predictive_map
   - ito2015_prefrontal_thalamic_hippocampus
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -214,3 +219,9 @@ The paper does not provide new implementational evidence and explicitly calls fo
 - mPFC–NRe–hippocampus circuit
 - time cells
 - episodic memory encoding
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

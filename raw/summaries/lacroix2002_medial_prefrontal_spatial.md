@@ -46,6 +46,8 @@ keywords:
   - prefrontal
   - cortex
   - spatial
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -155,3 +157,6 @@ The paper does not meet the bar for mechanistic insight. It provides lesion data
 - Mediodorsal thalamus (reference)
 
 **Keywords**: medial prefrontal cortex lesion, spatial memory, working memory, Morris water maze, three-panel runway, delayed matching-to-position, reversal learning, behavioural flexibility, attentional processes, food hoarding, NMDA excitotoxic lesion, rat prefrontal cortex
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

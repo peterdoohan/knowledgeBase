@@ -46,6 +46,9 @@ keywords:
   - conveys
   - causal
   - associations
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -187,3 +190,7 @@ The paper meets both criteria for mechanistic insight: it formalises a specific 
 - cue-reward association
 - extinction learning
 - optogenetics
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

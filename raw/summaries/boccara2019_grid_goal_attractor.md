@@ -46,6 +46,8 @@ keywords:
   - map
   - attracted
   - goals
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -162,3 +164,6 @@ This paper provides strong mechanistic insight by linking behavioral performance
 
 **Keywords**:
 grid cells, place cells, entorhinal cortex, hippocampus, goal learning, spatial memory, cognitive map, remapping, flickering, reward encoding, navigation, electrophysiology, cheeseboard maze, field attraction
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

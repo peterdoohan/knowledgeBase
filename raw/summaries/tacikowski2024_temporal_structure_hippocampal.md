@@ -48,6 +48,9 @@ key_citations:
   - schapiro2013_event_representation_memory
   - garvert2017_relational_knowledge_maps
   - whittington2022_disentangling_biological
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -200,3 +203,7 @@ The paper provides direct neural evidence linking the computational framework (s
 - relational memory
 - implicit learning
 - abstract representation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

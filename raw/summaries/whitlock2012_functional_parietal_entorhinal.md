@@ -45,6 +45,9 @@ keywords:
   - head_direction
 key_citations:
   - fyhn2007_remapping_grid_realignment
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -114,3 +117,7 @@ The paper provides strong algorithmic-level characterizations but does not fully
 - **Named models or frameworks**: Self-motion encoding, prospective coding, grid cells, sensorimotor transformation, reference frame transformation, allocentric vs. egocentric coding, spatial metric system, path integration, cognitive map
 - **Brain regions**: Posterior parietal cortex, medial entorhinal cortex, postrhinal cortex, retrosplenial cortex, hippocampus
 - **Keywords**: self-motion, grid cells, parietal cortex, entorhinal cortex, navigation, spatial memory, prospective coding, sensorimotor transformation, allocentric, egocentric, remapping, behavioral tuning, acceleration, open field, hairpin maze, virtual hairpin, action organization, double dissociation, movement encoding, head direction, spatial mapping
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

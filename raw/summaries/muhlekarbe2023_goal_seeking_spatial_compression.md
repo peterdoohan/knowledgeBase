@@ -53,6 +53,8 @@ key_citations:
   - nyberg2022_spatial_goal_coding
   - brown2016_prospective_goals_hippocampus
   - schuck2016_orbitofrontal_cortex_state
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
 ---
 
 ### One-line summary
@@ -172,3 +174,6 @@ The paper proposes an algorithmic-level account (joint encoding of current and g
 
 **Keywords**:
 - cognitive map, goal-directed navigation, spatial compression, representational geometry, hippocampus, orbitofrontal cortex, place cells, fMRI, neural state space, prospective coding, context-dependent remapping, sequential decision-making
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]

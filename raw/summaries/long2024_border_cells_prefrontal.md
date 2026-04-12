@@ -56,6 +56,12 @@ keywords:
 key_citations:
   - zielinski2019_theta_hippocampus_prefrontal
   - sauer2022_prefrontal_spatial_representation
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -179,3 +185,10 @@ The paper is primarily a characterisation study: it identifies a new cell type, 
 
 **Keywords**:
 - border cells, boundary representation, medial prefrontal cortex, spatial navigation, allocentric coding, egocentric coding, theta rhythmicity, hippocampal–prefrontal interaction, coordinate transformation, free foraging, extracellular recording, spatial tuning
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

@@ -51,6 +51,8 @@ key_citations:
   - daw2011_model_based_striatal_prediction
   - niv2019_representation_learning_task_states
   - schuck2019_hippocampal_replay_nonspatial
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -184,3 +186,6 @@ This paper meets the bar for mechanistic insight.
 
 **Keywords:**
 - experience replay, nonlocal learning, model-based reinforcement learning, credit assignment, backward replay, hippocampal replay, MEG decoding, prioritised replay, need-gain utility, Q-learning, sequential reactivation, temporal difference learning
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

@@ -38,6 +38,8 @@ keywords:
   - network
   - models
   - grid
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
 ---
 
 ### One-line summary
@@ -173,3 +175,6 @@ At Marr's levels:
 - periodic boundary conditions
 - population coding
 - pattern formation
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]

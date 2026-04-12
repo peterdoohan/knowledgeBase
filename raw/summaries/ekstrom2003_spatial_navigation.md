@@ -44,6 +44,9 @@ keywords:
   - human
   - spatial
   - navigation
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
 ---
 
 ### One-line summary
@@ -159,3 +162,7 @@ The paper meets both criteria for the mechanistic insight bar: it identifies a c
 - Supplementary motor cortex
 
 **Keywords**: place cells, human hippocampus, spatial navigation, virtual reality, single-unit recording, parahippocampal region, view-responsive cells, goal-responsive cells, spatial remapping, medial temporal lobe, allocentric coding, intracranial electrophysiology
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]

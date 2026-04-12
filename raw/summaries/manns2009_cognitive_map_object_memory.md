@@ -43,6 +43,9 @@ keywords:
   - hippocampus
 key_citations:
   - manns2006_declarative_memory_evolution
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -134,3 +137,7 @@ The paper meets criterion 1 (it characterises a representational algorithm — h
 - **Named models or frameworks**: Cognitive map (O'Keefe and Nadel 1978); nearest-neighbour (k-NN) classification (Cover and Hart 1967); novel object recognition task (Ennaceur and Delacour 1988).
 - **Brain regions**: Dorsal hippocampus (CA1, CA3); medial entorhinal cortex; lateral entorhinal cortex; perirhinal cortex; postrhinal cortex (parahippocampal cortex).
 - **Keywords**: hippocampal ensemble coding, cognitive map, object-location binding, place cells, representational geometry, nearest-neighbour classification, object recognition memory, episodic memory, location primacy, multivariate population analysis, dorsal hippocampus, recognition memory task.
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

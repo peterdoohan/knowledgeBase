@@ -36,6 +36,9 @@ keywords:
   - aberrant_salience_delusions
   - cannabis_psychosis_risk
   - schizophrenia
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -191,3 +194,7 @@ The paper proposes: **Computational level** — the brain fails to correctly ass
 - neurodevelopmental model
 - aberrant salience delusions
 - cannabis psychosis risk
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

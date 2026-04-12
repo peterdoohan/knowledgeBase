@@ -34,6 +34,8 @@ keywords:
   - options
   - via
   - compression
+wiki_pages:
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -136,3 +138,6 @@ The paper does not meet the bar for this section. It proposes a novel objective 
 **Brain regions**: Not applicable.
 
 **Keywords**: skill learning, temporal abstraction, hierarchical reinforcement learning, minimum description length, compression objective, latent variable model, options framework, multi-task reinforcement learning, offline reinforcement learning, underspecification, variational inference, sample efficiency
+
+### Related wiki pages
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

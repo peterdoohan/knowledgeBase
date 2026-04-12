@@ -47,6 +47,8 @@ key_citations:
   - kurth_nelson2016_sequences_non_spatial
   - liu2019_human_replay_reorganizes
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -163,3 +165,6 @@ Specifically: the sequenceness measure detects that state representations are re
 
 **Keywords**:
 - hippocampal replay, MEG sequenceness, model-based planning, model-free planning, decision flexibility, offline replay, online replay, individual differences, reinforcement learning, state-space navigation, prediction error, policy update
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

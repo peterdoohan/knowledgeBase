@@ -49,6 +49,10 @@ keywords:
   - frontal
 key_citations:
   - hollup2001_hippocampal_place_fields
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -173,3 +177,8 @@ The paper meets the first criterion (it proposes a computational algorithm — g
 - unit recording
 - place preference task
 - goal-directed navigation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

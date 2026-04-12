@@ -57,6 +57,9 @@ keywords:
   - learning
 key_citations:
   - behrens2007_learning_value_information_uncertain
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -205,3 +208,7 @@ Orbitofrontal cortex (OFC), ventromedial prefrontal cortex (vmPFC), subgenual an
 
 **Keywords**:
 reward circuit, incentive-based learning, cortico-basal ganglia loops, striato-nigro-striatal spiral, reward prediction error, dopamine, orbitofrontal cortex, ventromedial prefrontal cortex, anterior cingulate cortex, corticostriatal convergence, habit formation, psychiatric circuit disruption, white matter tractography, deep brain stimulation
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

@@ -49,6 +49,13 @@ key_citations:
   - momennejad2017_successor_representation_humans
   - russek2017_model_based_reinforcement
   - botvinick2012_planning_inference
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 ### One-line summary
@@ -148,3 +155,11 @@ The paper does not meet the full bar for mechanistic insight because it lacks di
 **Brain regions**: Medial entorhinal cortex (grid cells, border cells), hippocampus (place cells, one-step transition map), prefrontal cortex (implied for cognitive control).
 
 **Keywords**: linear reinforcement learning, default representation, successor representation, cognitive maps, grid cells, border cells, planning, replanning, model-based RL, cognitive control, habits, Pavlovian-instrumental transfer, Stroop effect, reward revaluation, policy revaluation, detour task, KL divergence, temporally abstract representations, entorhinal cortex, decision making, control costs.
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]

@@ -37,6 +37,9 @@ keywords:
   - location
 key_citations:
   - fyhn2007_remapping_grid_realignment
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -170,3 +173,7 @@ This paper does not meet the high bar: it presents a formal algorithm (the RNS/m
 - neural coding theory
 - cognitive map
 - position representation
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

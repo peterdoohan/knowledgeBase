@@ -51,6 +51,8 @@ keywords:
   - humans
 key_citations:
   - ekstrom2003_spatial_navigation
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -179,3 +181,6 @@ This paper does not meet the high bar for mechanistic insight. While it identifi
 - episodic memory
 - electrophysiology
 - human neuroscience
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

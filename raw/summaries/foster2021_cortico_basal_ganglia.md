@@ -87,6 +87,8 @@ keywords:
   - network
 key_citations:
   - wang2020_alternating_theta_sequences
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -235,3 +237,6 @@ Mapping onto Marr's levels:
 - anterograde transsynaptic tracing
 - mouse brain atlas
 - community detection network analysis
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

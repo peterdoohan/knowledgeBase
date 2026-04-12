@@ -45,6 +45,8 @@ keywords:
   - help
   - understand
   - cognition
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -201,3 +203,6 @@ Caveat: the reviewed studies cannot fully rule out alternative WM mechanisms (ac
 - deep brain stimulation cognitive neuroscience
 - sparse invariant neural coding
 - pathological brain single-unit recording
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

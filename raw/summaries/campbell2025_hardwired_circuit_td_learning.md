@@ -53,6 +53,8 @@ keywords:
 key_citations:
   - jeong2022_mesolimbic_dopamine_causal
   - schultz1997_neural_substrate_reward_pred
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -201,3 +203,6 @@ This paper meets both criteria for the high bar:
 - GRABDA3m dopamine photometry
 - patterned optogenetic stimulation
 - hardwired neural circuit
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

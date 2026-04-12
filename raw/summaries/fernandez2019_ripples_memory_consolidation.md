@@ -53,6 +53,9 @@ key_citations:
   - girardeau2009_ripples_spatial_memory
   - davidson2009_hippocampal_replay_extended
   - pfeiffer2015_autoassociative_hippocampal_place_cells
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -183,3 +186,7 @@ This paper meets both criteria for a mechanistic insight.
 - CA1 pyramidal cells
 - neuronal diversity
 - memory-guided navigation
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

@@ -42,6 +42,8 @@ keywords:
   - their
 key_citations:
   - girardeau2009_ripples_spatial_memory
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
 ---
 
 ### One-line summary
@@ -126,3 +128,6 @@ This paper provides mechanistic insight meeting the high bar: it identifies the 
 - **Named models or frameworks**: Two-stage model of memory trace formation (Buzsáki 1989), SPW-R generation model (recurrent CA3 collaterals), Tonic and phasic excitation framework
 - **Brain regions**: Medial entorhinal cortex (mEC), hippocampal CA1, hippocampal CA3, dentate gyrus, neocortex (posterior parietal, anterior visual), stratum lacunosum-moleculare, stratum radiatum, stratum pyramidale, stratum oriens
 - **Keywords**: sharp-wave ripples, SPW-Rs, medial entorhinal cortex, CA1, optogenetics, silencing, cell assemblies, sequence replay, UP-DOWN states, NREM sleep, memory consolidation, hippocampal-cortical communication, current source density, dentate spikes, neuronal trajectories
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation|Sharp-wave ripple-associated place-cell replay in spatial memory consolidation]]

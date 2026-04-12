@@ -61,6 +61,12 @@ key_citations:
   - boccara2019_grid_goal_attractor
   - butler2019_reward_locations_entorhinal_maps
   - bush2015_grid_cells_navigation_vector
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -225,3 +231,10 @@ CA1, CA3, CA2, dentate gyrus, medial entorhinal cortex (mEC), lateral entorhinal
 - goal-direction cells
 - place-field overrepresentation
 - cognitive map
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

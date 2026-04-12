@@ -48,6 +48,8 @@ keywords:
 key_citations:
   - schultz1997_neural_substrate_reward_pred
   - montague1996_predictive_hebbian_dopamine
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -198,3 +200,6 @@ The paper meets both criteria: it presents an algorithm (spatiotemporally direct
 - dLight / GCaMP6f
 - anticipatory dopamine ramps
 - corticostriatal plasticity
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

@@ -43,6 +43,8 @@ keywords:
   - cortex
   - effects
   - abnormal
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -161,3 +163,6 @@ The paper partially meets the bar. It proposes an algorithm (mPFC intrinsic neur
 - hippocampal-prefrontal circuit
 - D1/D2 receptor mRNA
 - neurodevelopmental schizophrenia
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

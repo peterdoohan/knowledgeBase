@@ -44,6 +44,8 @@ keywords:
   - sleep
 key_citations:
   - girardeau2009_ripples_spatial_memory
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -156,3 +158,6 @@ The paper meets criterion 1 (proposes an algorithmic account: sensory cues durin
 - Entorhinal cortex (proposed, not recorded)
 
 **Keywords**: hippocampal replay, memory consolidation, non-REM sleep, targeted memory reactivation, place cells, sharp-wave ripples, auditory-spatial association, Bayesian decoding, sensory cueing during sleep, sleep replay content, cortico-hippocampal interaction, reactivation events
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

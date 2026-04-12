@@ -58,6 +58,8 @@ keywords:
 key_citations:
   - daw2011_model_based_striatal_prediction
   - daw2005_uncertainty_prefrontal_striatal
+wiki_pages:
+  - wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
 ---
 
 ### One-line summary
@@ -112,3 +114,6 @@ ACC predicts the specific second-step state that a chosen first-step action will
 
 ### Connections & keywords
 model-based reinforcement learning, model-free reinforcement learning, anterior cingulate cortex (ACC), two-step task, state prediction, action-outcome learning, calcium imaging, optogenetics, JAWS, GCaMP6f, miniscope, mice, sequential decision-making, transition probability, state prediction error, goal-directed behavior, habitual behavior, dorsomedial striatum, Alexander and Brown model, forward model, cognitive flexibility, population decoding, lagged logistic regression, RL model comparison
+
+### Related wiki pages
+- [[wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control|Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control]]

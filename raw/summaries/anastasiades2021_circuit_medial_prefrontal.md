@@ -50,6 +50,8 @@ keywords:
   - endocannabinoid_modulation
   - cell_type_specific_wiring
   - rodent_prefrontal_cortex
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -193,3 +195,6 @@ The review synthesises enough mechanistic detail across primary studies to const
 - VTA
 
 **Keywords**: medial prefrontal cortex, agranular cortex, projection neuron diversity, intratelencephalic neurons, pyramidal tract neurons, corticothalamic neurons, long-range afferent specificity, laminar targeting, feedforward inhibition, disinhibitory circuits, parvalbumin interneurons, somatostatin interneurons, CCK interneurons, NDNF interneurons, VIP interneurons, reciprocal loops, dendritic computation, endocannabinoid modulation, cell-type-specific wiring, rodent prefrontal cortex
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

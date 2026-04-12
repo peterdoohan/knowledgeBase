@@ -48,6 +48,9 @@ keywords:
   - brain
 key_citations:
   - schultz1997_neural_substrate_reward_pred
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
+  - wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
 ---
 
 ### One-line summary
@@ -212,3 +215,7 @@ The physical implementation is discussed at a relatively coarse level; the revie
 - reward distribution decoding
 - risk-sensitive decision making
 - mesostriatal dopamine pathway
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]
+- [[wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control|Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control]]

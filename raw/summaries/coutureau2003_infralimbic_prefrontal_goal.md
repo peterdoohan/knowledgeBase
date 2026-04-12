@@ -46,6 +46,8 @@ keywords:
   - responding
 key_citations:
   - balleine1998_goal_directed_instrumental_action
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -164,3 +166,6 @@ This paper meets the bar for mechanistic insight at the algorithmic and implemen
 
 **Keywords:**
 - habit formation, goal-directed behaviour, action-outcome associations, stimulus-response associations, reward devaluation, specific-satiety devaluation, muscimol inactivation, infralimbic cortex, medial prefrontal cortex, dual-process instrumental learning, behavioural autonomy, instrumental overtraining
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

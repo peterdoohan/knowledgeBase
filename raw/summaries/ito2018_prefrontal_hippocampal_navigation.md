@@ -44,6 +44,11 @@ keywords:
 key_citations:
   - ito2015_prefrontal_thalamic_hippocampus
   - buzsaki2015_hippocampal_sharp_wave_ripple
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -166,3 +171,9 @@ The paper does not address cell-type specificity within these circuits or the bi
 
 **Keywords**:
 - spatial navigation, cognitive map, place cells, grid cells, prospective coding, trajectory-dependent firing, hippocampal replay, sharp-wave ripples, nucleus reuniens, prefrontal–hippocampal interactions, goal representation, theta sequences
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

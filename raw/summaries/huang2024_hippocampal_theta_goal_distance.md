@@ -45,6 +45,8 @@ keywords:
   - coding
 key_citations:
   - liu2023_hippocampus_amygdala_memory_formation
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -158,3 +160,6 @@ It formalises an algorithm (the theta-gamma sequence code: sequences of upcoming
 - **Named models or frameworks**: Theta-gamma neural code (Lisman & Jensen, 2013); two-gamma-channel model (Colgin et al., 2009); theta phase precession; theta sweeps; LCMV beamformer; abstract navigation task (4x4 grid).
 - **Brain regions**: Hippocampus (bilateral, right, left), entorhinal cortex (right), prefrontal cortex / frontal midline, medial temporal lobe.
 - **Keywords**: hippocampal theta oscillations, goal distance coding, theta-gamma phase-amplitude coupling, spatial navigation, MEG source localisation, fast gamma, slow gamma, entorhinal cortex, theta sequences, working memory, abstract state space, path distance.
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

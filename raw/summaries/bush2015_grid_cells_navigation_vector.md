@@ -35,6 +35,9 @@ keywords:
   - navigation
 key_citations:
   - fiete2008_grid_cells_position
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -173,3 +176,7 @@ The paper proposes an algorithm and several plausible implementational substrate
 - Hippocampal formation
 - Distance cells
 - Neural network implementation
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

@@ -47,6 +47,9 @@ keywords:
 key_citations:
   - schuck2016_orbitofrontal_cortex_state
   - wilson2014_best_practices_scientific
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -158,3 +161,7 @@ The paper thus provides strong computational-level and some algorithmic-level ev
 - **Named models or frameworks**: Attention-weighted reinforcement learning (AWRL); Latent-cause inference / Bayesian non-parametric clustering (Chinese Restaurant Process); Dimensions Task; Partially observable Markov decision process (POMDP, implicit); model-free vs. model-based RL; SUSTAIN (Love et al. 2004, cited as prior clustering model).
 - **Brain regions**: Orbitofrontal cortex (OFC), ventral striatum, dorsal striatum, dorsolateral prefrontal cortex (dlPFC), intraparietal sulcus, precuneus, hippocampus, VTA, locus coeruleus.
 - **Keywords**: representation learning, task-state representation, attention-weighted reinforcement learning, latent-cause inference, orbitofrontal cortex cognitive map, dimensionality reduction, partially observable states, fear extinction, spontaneous recovery, Bayesian clustering, prediction error, frontoparietal attention network
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

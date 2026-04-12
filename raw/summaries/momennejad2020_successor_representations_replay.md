@@ -47,6 +47,9 @@ keywords:
   - generalization
 key_citations:
   - dayan1993_successor_representation
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -194,3 +197,7 @@ However, the review assembles compelling circumstantial evidence across Marr's l
 - hierarchical reinforcement learning
 - eigen-options
 - structure learning
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

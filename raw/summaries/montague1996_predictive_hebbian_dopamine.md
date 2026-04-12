@@ -44,6 +44,8 @@ keywords:
   - based
   - predictive
   - hebbian
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -253,3 +255,6 @@ This paper meets the high bar for mechanistic insight by presenting both a forma
 - drug addiction
 - decision-making
 - matching law
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

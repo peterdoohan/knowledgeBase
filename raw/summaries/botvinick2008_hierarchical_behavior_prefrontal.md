@@ -40,6 +40,8 @@ keywords:
   - function
 key_citations:
   - lashley1951_serial_order_behavior
+wiki_pages:
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -187,3 +189,6 @@ The review does not meet the bar for the Mechanistic insight section.
 - correlational vs. instrumental hierarchical structure
 - habit system vs. goal-directed system
 - frontopolar cortex pending-task maintenance
+
+### Related wiki pages
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

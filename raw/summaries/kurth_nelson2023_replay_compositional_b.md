@@ -53,6 +53,9 @@ key_citations:
   - gupta2010_replay_not_simple_function
   - behrens2018_cognitive_map_organizing_knowledge
   - whittington2020_tolman_eichenbaum_machine
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -213,3 +216,7 @@ What the paper does offer at the algorithmic level (Marr level 2): replay sequen
 - grid cells as relational roles
 - transfer replay / preplay
 - neural-symbolic hybrid AI
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

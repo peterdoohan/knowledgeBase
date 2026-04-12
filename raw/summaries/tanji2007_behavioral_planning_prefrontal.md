@@ -42,6 +42,8 @@ keywords:
   - lateral
   - prefrontal
   - cortex
+wiki_pages:
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
 ---
 
 ### One-line summary
@@ -223,3 +225,6 @@ The review explicitly identifies several unresolved questions and limitations:
 - executive function
 - concept formation
 - script-based planning
+
+### Related wiki pages
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]

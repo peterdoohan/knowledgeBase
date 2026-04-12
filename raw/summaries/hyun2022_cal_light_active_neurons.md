@@ -54,6 +54,8 @@ keywords:
   - targeted
   - cal
   - light
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -189,3 +191,6 @@ For the behavioral phenomena themselves (fear memory, social cognition, seizure)
 - kainic acid seizure model
 - conditional knock-in mouse
 - neural circuit causality
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

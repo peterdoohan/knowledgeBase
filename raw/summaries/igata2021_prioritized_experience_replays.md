@@ -43,6 +43,8 @@ keywords:
   - learning
 key_citations:
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -154,3 +156,6 @@ The paper meets both criteria for this section. It presents a specific algorithm
 - Ventral hippocampal commissure (vHC)
 
 **Keywords**: prioritized experience replay, sharp-wave ripples, place cells, hippocampal replay, spatial learning, predictive map, theta-sequences, forward replay, reverse replay, Bayesian decoding, closed-loop SWR disruption, reinforcement learning
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

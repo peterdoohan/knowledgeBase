@@ -48,6 +48,9 @@ keywords:
   - inactivation
 key_citations:
   - jadhav2016_hippocampal_prefrontal_swr
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -175,3 +178,7 @@ The paper partially meets the bar. It proposes an algorithm (dHPC communicates t
 - spatial cognitive map
 - theta oscillations and memory
 - hippocampal place cells
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

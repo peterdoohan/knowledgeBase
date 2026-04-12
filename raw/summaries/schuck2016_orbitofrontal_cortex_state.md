@@ -51,6 +51,9 @@ key_citations:
   - wilson2014_best_practices_scientific
   - daw2005_uncertainty_prefrontal_striatal
   - padoaschioppa2006_orbitofrontal_economic_value
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
 ---
 
 ### One-line summary
@@ -237,3 +240,7 @@ However, the paper does provide important constraints on computational models:
 - Partially observable Markov decision process
 - Model-based decision making
 - Prefrontal cortex function
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state|Orbitofrontal cortex as a cognitive map of hidden task state]]

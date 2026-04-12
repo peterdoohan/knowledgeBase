@@ -28,3 +28,16 @@
 - striatal_and_dopaminergic_reinforcement_learning__03 -> wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning.md (topic, worthiness 4)
 - striatal_and_dopaminergic_reinforcement_learning__04 -> wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning.md (topic, worthiness 4)
 - striatal_and_dopaminergic_reinforcement_learning__05 -> wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning.md (topic, worthiness 4)
+## [2026-04-12] prune | Merge overlapping successor-representation pages
+
+- Deprecated 5 overlapping SR/navigation pages as redirect stubs
+- Prune plan written to `derived/wiki_prune_plan.yaml`
+- Canonical target pages kept active:
+- `wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay.md`
+- `wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control.md`
+
+## [2026-04-12] sync | Summary backlinks to active wiki pages
+
+- Synced `wiki_pages` frontmatter backlinks into raw summaries
+- Added or refreshed `### Related wiki pages` sections in represented summaries
+- Rebuilt `wiki/indices/index.md` from active non-deprecated pages only

@@ -55,6 +55,10 @@ key_citations:
   - whittington2020_tolman_eichenbaum_machine
   - samborska2021_hippocampus_prefrontal_gen_b
   - basu2021_ofc_navigation_goals
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -209,3 +213,8 @@ This paper meets the bar for mechanistic insight.
 - sequence memory
 - mnemonic fields
 - cognitive map
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

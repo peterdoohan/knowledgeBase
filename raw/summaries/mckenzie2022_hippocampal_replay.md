@@ -41,6 +41,10 @@ key_citations:
   - buzsaki2015_hippocampal_sharp_wave_ripple
   - fernandez2019_ripples_memory_consolidation
   - pfeiffer2015_autoassociative_hippocampal_place_cells
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -130,3 +134,8 @@ The Berners-Lee et al. findings provide strong evidence that experience-dependen
 - **Named models or frameworks**: Complementary Learning Systems (CLS) framework; Bayesian decoding of population bursts; hover-and-jump replay model.
 - **Brain regions**: hippocampus (CA1); prefrontal cortex; CA1 interneurons.
 - **Keywords**: hippocampal replay, sharp wave ripples (SPW-R), place cells, one-shot learning, episodic memory, memory consolidation, complementary learning systems, preplay, interneuron plasticity, Bayesian decoding, experience-dependent plasticity, spatial sequences.
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

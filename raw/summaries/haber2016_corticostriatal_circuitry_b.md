@@ -42,6 +42,8 @@ keywords:
   - primate_tract_tracing_anatomy
   - corticostriatal
   - circuitry
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -182,3 +184,6 @@ The limitation is that the paper synthesises anatomical evidence for this archit
 - limbic-to-motor information transfer
 - nucleus accumbens shell/core
 - primate tract-tracing anatomy
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

@@ -55,6 +55,8 @@ key_citations:
   - whittington2020_tolman_eichenbaum_machine
   - behrens2018_cognitive_map_organizing_knowledge
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -177,3 +179,6 @@ The review does not provide new neural data specifically supporting one algorith
 **Brain regions**: Hippocampus (HPC); Medial Entorhinal Cortex (MEC); Lateral Entorhinal Cortex (LEC); Prefrontal Cortex (PFC); Orbitofrontal Cortex (OFC); Subiculum; Postsubiculum; Striatum/Basal Ganglia
 
 **Keywords**: cognitive map, hippocampus, entorhinal cortex, grid cells, place cells, successor representation, latent state, path integration, generalization, sequence learning, reinforcement learning, computational model, spatial navigation, abstract knowledge, factorized representation, replay, vector cells, splitter cells, Tolman-Eichenbaum Machine, CSCG
+
+### Related wiki pages
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

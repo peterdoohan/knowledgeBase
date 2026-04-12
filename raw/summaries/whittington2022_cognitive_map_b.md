@@ -53,6 +53,12 @@ key_citations:
   - tolman1948_cognitive_maps_rats
   - whittington2020_tolman_eichenbaum_machine
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 ### One-line summary
@@ -232,3 +238,10 @@ The paper acknowledges several limitations and open questions:
 
 **Keywords:**
 cognitive map, hippocampus, entorhinal cortex, grid cells, place cells, successor representation, reinforcement learning, latent states, path integration, generalization, sequence learning, state-space, relational memory, splitting cells, vector cells, model-based RL, model-free RL, remapping, replay, representational drift, Tolman-Eichenbaum machine, abstract cognition, spatial navigation, nonspatial cognition
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]

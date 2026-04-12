@@ -51,6 +51,10 @@ keywords:
   - entorhinalhippocampal
 key_citations:
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
 ---
 
 ### One-line summary
@@ -162,3 +166,8 @@ The paper also demonstrates that an artificial agent maximizing spatial coverage
 **Brain regions**: Medial entorhinal cortex (MEC); Parasubiculum; Hippocampus (CA1, CA3); Grid cells; Place cells; Head-direction cells
 
 **Keywords**: theta oscillations, grid cells, place cells, spatial navigation, entorhinal cortex, hippocampus, theta sequences, internal direction, continuous attractor networks, vector integration, sleep, REM, spatial sampling, neural manifolds, Neuropixels
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation|Sharp-wave ripple-associated place-cell replay in spatial memory consolidation]]

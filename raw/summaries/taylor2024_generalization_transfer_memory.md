@@ -43,6 +43,9 @@ keywords:
   - generalize
 key_citations:
   - dolan2013_goals_habits_brain_b
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -169,3 +172,7 @@ The paper's contribution is at the level of theoretical synthesis and identifica
 
 **Keywords:**
 generalization, transfer, memory integration, complementary learning systems, episodic inference, categorization, hippocampus, prefrontal cortex, prototype, exemplar, relational generalization, similarity-based generalization, sharp-wave ripples, functional categories, generative adversarial collaboration
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

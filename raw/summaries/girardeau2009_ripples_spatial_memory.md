@@ -40,6 +40,8 @@ keywords:
   - impairs
   - spatial
   - memory
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
 ---
 
 ### One-line summary
@@ -172,3 +174,6 @@ This paper meets both criteria for the high bar.
 - spike timing–dependent plasticity
 - causal intervention
 - post-training sleep
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]

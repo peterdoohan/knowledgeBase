@@ -40,6 +40,10 @@ keywords:
   - learning
 key_citations:
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 ### One-line summary
@@ -168,3 +172,8 @@ This paper **meets the high bar** for mechanistic insight. It presents a formal 
 **Brain regions**: Hippocampus, place cells
 
 **Keywords**: sequence learning, latent representations, cognitive maps, place cells, remapping, hippocampus, higher-order graphs, hidden Markov models, aliased observations, spatial representation, transitive inference, schema learning, replay, planning, clone-structured models
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]

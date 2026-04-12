@@ -51,6 +51,11 @@ key_citations:
   - momennejad2017_successor_representation_humans
   - russek2017_model_based_reinforcement
   - tolman1948_cognitive_maps_rats
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -205,3 +210,9 @@ Mapped to Marr's levels:
 - sequential decision-making
 - memory integration
 - goal-directed behaviour
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

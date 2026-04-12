@@ -47,6 +47,8 @@ keywords:
   - continuous_control
   - movement_execution
   - basal
+wiki_pages:
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -192,3 +194,6 @@ The authors explicitly identify several unresolved questions:
 
 **Keywords**:
 basal ganglia, dopamine, reinforcement learning, motor control, action selection, action specification, gain modulation, movement vigor, movement kinematics, superior colliculus, striatum, direct pathway, indirect pathway, medium spiny neurons, thalamocortical circuits, motor thalamus, feedforward inhibition, continuous control, movement execution
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

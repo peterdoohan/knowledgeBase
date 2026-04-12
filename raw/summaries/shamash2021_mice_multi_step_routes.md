@@ -45,6 +45,9 @@ keywords:
   - routes
 key_citations:
   - tolman1948_cognitive_maps_rats
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -156,3 +159,7 @@ The paper does not meet the bar for mechanistic insight as defined in the templa
 
 **Keywords:**
 spatial navigation, escape behavior, subgoal learning, multi-step routes, allocentric memory, obstacle avoidance, spatial memory, rodent behavior, cognitive map, defensive behavior, goal-directed navigation, practice homings, spontaneous exploration, threat response, behavioral strategy
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

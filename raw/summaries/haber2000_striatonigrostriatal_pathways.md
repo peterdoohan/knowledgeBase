@@ -47,6 +47,8 @@ keywords:
   - spiral
   - shell
   - dorsolateral
+wiki_pages:
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -178,3 +180,6 @@ The paper meets both criteria in part. It provides a specific circuit-level algo
 - Motor and premotor cortex
 
 **Keywords**: striatonigrostriatal spiral, dopamine circuit anatomy, limbic-motor interface, basal ganglia information flow, nigrostriatal projection, striatonigral projection, ventral striatum, nucleus accumbens, substantia nigra pars compacta, feedforward disinhibition, corticostriatal topography, primate tract tracing
+
+### Related wiki pages
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

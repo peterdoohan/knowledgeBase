@@ -48,6 +48,8 @@ key_citations:
   - fernandez2019_ripples_memory_consolidation
   - girardeau2009_ripples_spatial_memory
   - buzsaki2015_hippocampal_sharp_wave_ripple
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -178,3 +180,6 @@ The paper meets both criteria for this section.
 - Ectorhinal cortex
 
 **Keywords**: hippocampus–amygdala communication, sharp-wave ripples, memory consolidation, contextual fear conditioning, many-to-one weighted mapping, BLA cell assemblies, independent component analysis, GLM population decoding, closed-loop optogenetics, sleep-dependent consolidation, episodic memory indexing, dual-site electrophysiology
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

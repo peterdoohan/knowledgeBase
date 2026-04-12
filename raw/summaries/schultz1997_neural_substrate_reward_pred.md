@@ -41,6 +41,9 @@ keywords:
   - substrate
   - prediction
   - reward
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
+  - wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
 ---
 
 ### One-line summary
@@ -213,3 +216,7 @@ This paper provides strong mechanistic insight by linking a formal computational
 - computational neuroscience
 - neuromodulation
 - actor-critic model
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]
+- [[wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control|Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control]]

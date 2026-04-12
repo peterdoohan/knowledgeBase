@@ -38,6 +38,8 @@ keywords:
 key_citations:
   - dayan1993_successor_representation
   - momennejad2017_successor_representation_humans
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -174,3 +176,6 @@ The paper does not meet the bar. It is a computational/theoretical paper present
 - proto-value functions
 - generalised policy improvement
 - diffusion time
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

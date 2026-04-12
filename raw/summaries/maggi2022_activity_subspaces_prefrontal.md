@@ -49,6 +49,9 @@ keywords:
 key_citations:
   - fusi2016_mixed_selectivity_cognition
   - ito2015_prefrontal_thalamic_hippocampus
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -199,3 +202,7 @@ Mapping onto Marr's three levels:
 - rule learning
 - mixed selectivity
 - working memory
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

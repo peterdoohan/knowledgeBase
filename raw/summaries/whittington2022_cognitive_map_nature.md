@@ -55,6 +55,9 @@ key_citations:
   - stachenfeld2017_hippocampus_predictive_map
   - whittington2020_tolman_eichenbaum_machine
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -229,3 +232,7 @@ The review identifies several open questions and limitations in the current unde
 
 **Keywords**:
 cognitive map, hippocampus, entorhinal cortex, grid cells, place cells, successor representation, reinforcement learning, latent states, path integration, sequence learning, generalization, abstraction, replay, state-space, computational neuroscience, Tolman-Eichenbaum machine, clone-structured cognitive graph
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

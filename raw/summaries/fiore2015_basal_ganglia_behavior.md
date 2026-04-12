@@ -48,6 +48,8 @@ keywords:
   - activity
 key_citations:
   - kravitz2010_basal_ganglia_optogenetic
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -188,3 +190,6 @@ Nonetheless, the paper makes substantive progress toward Marr's three levels:
 
 **Keywords**:
 - action selection, basal ganglia, central complex, attractor states, dimensionality reduction, evolutionary homology, dopamine, winner-take-all, sensorimotor integration, direct pathway, indirect pathway, ontogenetic clones
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

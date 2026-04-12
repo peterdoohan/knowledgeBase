@@ -47,6 +47,10 @@ keywords:
   - backward_skewing
   - community_structure
   - spatiotemporal_coding
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -93,3 +97,8 @@ Place field skewing emerges because the SR captures discounted future occupancy:
 
 ### Connections & keywords
 successor representation; place cells; grid cells; hippocampus; entorhinal cortex; reinforcement learning; cognitive map; predictive coding; temporal difference learning; model-based vs model-free; spectral graph theory; eigendecomposition; hierarchical planning; subgoal discovery; reward sensitivity; remapping; policy dependence; backward skewing; community structure; spatiotemporal coding; context pre-exposure; Dayan 1993; Tolman; O'Keefe
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

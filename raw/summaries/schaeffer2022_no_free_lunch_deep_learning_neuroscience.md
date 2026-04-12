@@ -37,6 +37,8 @@ keywords:
   - neural_coding
   - representational_geometry
   - model_criticism
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -88,3 +90,6 @@ The key mechanistic insight is Fourier-theoretic: grid cell emergence requires t
 
 ### Connections & keywords
 grid cells, place cells, medial entorhinal cortex, hippocampus, path integration, deep learning, recurrent neural networks, continuous attractor networks, Turing instability, pattern formation, Difference-of-Gaussians, Difference-of-Softmaxes, hyperparameter sensitivity, inductive bias, No Free Lunch, gridness score, spatial navigation, neural coding, representational geometry, model criticism
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

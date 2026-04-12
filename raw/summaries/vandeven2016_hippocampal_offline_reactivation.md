@@ -42,6 +42,8 @@ keywords:
   - formed
 key_citations:
   - girardeau2009_ripples_spatial_memory
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
 ---
 
 ### One-line summary
@@ -194,3 +196,6 @@ This paper provides strong mechanistic insight meeting both criteria:
 - Hebbian plasticity
 - assembly detection
 - independent component analysis
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation|Sharp-wave ripple-associated place-cell replay in spatial memory consolidation]]

@@ -39,6 +39,8 @@ keywords:
   - attractors
 key_citations:
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 ### One-line summary
@@ -203,3 +205,6 @@ The paper does not meet the full bar for mechanistic insight as defined here. It
 - paranoia
 - schizophrenia
 - choice-induced preference change
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]

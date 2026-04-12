@@ -43,6 +43,8 @@ keywords:
 key_citations:
   - redish2016_vicarious_trial_error_b
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -178,3 +180,6 @@ The paper partially meets the bar. It proposes an algorithmic account (dmPFC set
 - place cells
 - decision-making
 - prefrontal executive function
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

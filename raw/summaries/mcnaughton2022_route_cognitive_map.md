@@ -38,6 +38,9 @@ key_citations:
   - tolman1948_cognitive_maps_rats
   - widloski2022_hippocampal_replay_barriers
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -173,3 +176,7 @@ The authors explicitly identify the following open questions:
 - barrier navigation
 - spatial memory
 - hippocampal-striatal interaction
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

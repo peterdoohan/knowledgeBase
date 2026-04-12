@@ -46,6 +46,8 @@ keywords:
   - deprived
   - human
   - brain
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -202,3 +204,6 @@ Dorsolateral prefrontal cortex, intraparietal sulcus, thalamus, default mode net
 
 **Keywords**
 sleep deprivation, neuroimaging fMRI, default mode network instability, frontoparietal attention network, thalamic arousal gating, amygdala hyper-reactivity, dopamine D2/D3 receptor downregulation, adenosine sleep pressure, noradrenergic tone REM sleep, hippocampal encoding, reward hypersensitivity, emotional discrimination
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

@@ -50,6 +50,10 @@ keywords:
 key_citations:
   - gupta2010_replay_not_simple_function
   - lee2002_memory_sequential_experience
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
 ---
 
 ### One-line summary
@@ -182,3 +186,8 @@ This paper meets the mechanistic insight bar by providing both a computational a
 
 **Keywords**:
 hippocampal replay, sharp-wave ripples, place cells, Brownian diffusion, random walk, Bayesian decoding, trajectory reactivation, spatial memory, CA1, oscillations, gamma, ripples, assembly dynamics, population activity distance, attractor networks
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation|Sharp-wave ripple-associated place-cell replay in spatial memory consolidation]]

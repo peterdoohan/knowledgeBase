@@ -46,6 +46,8 @@ key_citations:
   - wilson2014_best_practices_scientific
   - russek2017_model_based_reinforcement
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
 ---
 
 ### One-line summary
@@ -225,3 +227,6 @@ This paper meets the high bar for mechanistic insight. It provides both algorith
 - reinforcement learning
 - partially observable states
 - offline consolidation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]

@@ -51,6 +51,9 @@ key_citations:
   - singer2013_hippocampal_swr_decisions
   - fujisawa2008_assembly_prefrontal_cortex
   - hok2005_goal_coding_prefrontal
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -183,3 +186,7 @@ The paper does not resolve what biophysical mechanism generates mPFC sequential 
 - flexible behavior
 - schema
 - plus maze
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

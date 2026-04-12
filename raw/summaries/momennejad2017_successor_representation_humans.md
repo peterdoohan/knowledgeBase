@@ -53,6 +53,9 @@ key_citations:
   - daw2011_model_based_striatal_prediction
   - schapiro2013_event_representation_memory
   - tolman1948_cognitive_maps_rats
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -180,3 +183,7 @@ The paper does not meet the bar for mechanistic insight as defined here. It pres
 - revaluation asymmetry
 - policy revaluation
 - offline replay
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

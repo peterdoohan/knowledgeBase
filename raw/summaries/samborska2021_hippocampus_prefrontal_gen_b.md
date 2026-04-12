@@ -52,6 +52,10 @@ key_citations:
   - behrens2018_cognitive_map_organizing_knowledge
   - whittington2020_tolman_eichenbaum_machine
   - baram2021_entorhinal_ventromedial_rl
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -237,3 +241,8 @@ This paper provides mechanistic insight that meets the high bar—both algorithm
 - sensorimotor abstraction
 - episodic memory
 - learning set
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

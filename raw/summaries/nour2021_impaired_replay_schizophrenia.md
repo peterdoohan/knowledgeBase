@@ -45,6 +45,9 @@ key_citations:
   - barron2020_neuronal_computation_inferential
   - behrens2018_cognitive_map_organizing_knowledge
   - garvert2017_relational_knowledge_maps
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -169,3 +172,7 @@ The paper partially meets the bar. It proposes a specific algorithm (TDLM-measur
 - Default mode network (DMN)
 
 **Keywords**: hippocampal replay, sharp wave ripple, schizophrenia, cognitive map, transitive inference, MEG, TDLM, sequenceness, relational memory, structural inference, representational similarity analysis, post-learning rest
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

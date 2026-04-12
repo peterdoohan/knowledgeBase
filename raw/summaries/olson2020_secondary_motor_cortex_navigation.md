@@ -43,6 +43,8 @@ keywords:
   - information
   - planned
   - action
+wiki_pages:
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -180,3 +182,6 @@ The paper meets both criteria:
 
 **Keywords:**
 - secondary motor cortex, action planning, action execution, navigation, spatial context, multi-route maze, choice probability, sensorimotor integration, premotor cortex, turn direction encoding, context-independent action code, evolving ensemble
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

@@ -49,6 +49,8 @@ keywords:
   - guided
   - learning
   - decision
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -214,3 +216,6 @@ The paper does not meet the high bar for mechanistic insight because it does not
 - primate
 - fMRI
 - lesion studies
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

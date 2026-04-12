@@ -40,6 +40,8 @@ keywords:
   - incentive
   - learning
   - their
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -178,3 +180,6 @@ The paper meets the bar for mechanistic insight, with the following caveats and 
 - motivational control
 - specific satiety
 - cortical substrates of instrumental conditioning
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

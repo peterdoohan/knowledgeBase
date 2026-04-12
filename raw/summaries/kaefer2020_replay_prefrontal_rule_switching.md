@@ -45,6 +45,9 @@ keywords:
 key_citations:
   - davidson2009_hippocampal_replay_extended
   - jadhav2016_hippocampal_prefrontal_swr
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -177,3 +180,7 @@ The paper meets both criteria for mechanistic insight.
 - forward and reverse replay
 - behavioural flexibility
 - sequence reactivation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

@@ -55,6 +55,8 @@ keywords:
   - behavioral
   - detection
   - based
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -192,3 +194,6 @@ The paper does not meet the bar. It presents an algorithm (heuristic-based behav
 
 **Keywords**:
 - markerless pose estimation, behavioral classification, heuristic-based detection, keypoint tracking, freezing detection, open-source behavioral software, DeepLabCut, fear conditioning, vicarious trial and error, Ca2+ imaging alignment, optogenetics behavioral validation, rodent behavioral analysis
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

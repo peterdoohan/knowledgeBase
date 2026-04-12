@@ -45,6 +45,9 @@ key_citations:
   - momennejad2017_successor_representation_humans
   - russek2017_model_based_reinforcement
   - tolman1948_cognitive_maps_rats
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -190,3 +193,7 @@ The review does not provide direct recording evidence that dopamine signals are 
 - latent learning
 - prospective coding
 - linear function approximation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

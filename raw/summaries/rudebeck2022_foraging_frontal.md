@@ -47,6 +47,8 @@ keywords:
 key_citations:
   - rushworth2011_prefrontal_reward_decision
   - behrens2007_learning_value_information_uncertain
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
 ---
 
 ### One-line summary
@@ -149,3 +151,6 @@ The paper does not meet the high bar for mechanistic insight as defined in the c
 - **Brain regions**: Orbitofrontal cortex (OFC), anterior cingulate cortex (ACC), ventrolateral prefrontal cortex (VLPFC), prelimbic cortex (PL), infralimbic cortex (IL), mediodorsal thalamus (MD), amygdala, striatum, hippocampus
 
 - **Keywords**: foraging, cross-species translation, reward-guided behavior, frontal cortex, orbitofrontal cortex, anterior cingulate cortex, prediction, evaluation, action selection, probabilistic learning, reversal learning, reinforcer devaluation, neuroethology, macaque, rat, granular cortex, agranular cortex
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]

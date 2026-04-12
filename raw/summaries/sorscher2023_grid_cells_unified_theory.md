@@ -46,6 +46,8 @@ keywords:
 key_citations:
   - dordek2016_grid_cells_pca
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -140,3 +142,6 @@ This paper achieves a high bar for mechanistic insight by presenting both a comp
 **Brain regions**: Medial entorhinal cortex (MEC), hippocampus, place cells, grid cells, head direction cells
 
 **Keywords**: grid cells, path integration, recurrent neural networks, pattern formation, attractor dynamics, toroidal manifold, hexagonal lattice, spatial navigation, entorhinal cortex, place cells, nonnegative firing rates, continuous attractor networks, Fourier analysis, eigenvalue decomposition, neural manifolds, computational neuroscience, representation learning
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

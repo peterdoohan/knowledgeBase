@@ -47,6 +47,8 @@ keywords:
   - working
 key_citations:
   - fujisawa2008_assembly_prefrontal_cortex
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -186,3 +188,6 @@ Hippocampus (HIP), retrohippocampal region (RHP), prefrontal cortex (ILA, PL, OR
 
 **Keywords**:
 working memory, spike coupling, activity motifs, synfire chain, cell assembly, hierarchical neural dynamics, neural replay, olfactory delayed paired association, Neuropixels, hippocampal-prefrontal circuit, population activity waves, nested loops
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

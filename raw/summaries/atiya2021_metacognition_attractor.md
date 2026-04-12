@@ -39,6 +39,8 @@ keywords:
   - model
   - decision
   - uncertainty
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
 ---
 
 ### One-line summary
@@ -173,3 +175,6 @@ The paper thus links computation to behaviour, but not to neural implementation.
 - dynamical systems model
 - perceptual decision-making
 - psychiatric symptom transdiagnostic
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]

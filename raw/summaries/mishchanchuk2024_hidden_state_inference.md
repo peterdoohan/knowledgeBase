@@ -56,6 +56,9 @@ keywords:
   - ventral
 key_citations:
   - wikenheiser2016_cognitive_maps_hippocampus
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -184,3 +187,7 @@ This paper meets both criteria for mechanistic insight.
 - Orbitofrontal cortex (OFC)
 
 **Keywords**: hidden state inference, latent context representation, ventral hippocampus CA1, probabilistic reversal learning, 2-armed bandit, Bayesian belief updating, reward prediction error, dopamine photometry, calcium imaging, state inference vs Q-learning, abstract context coding, hippocampal remapping
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

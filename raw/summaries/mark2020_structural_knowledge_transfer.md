@@ -51,6 +51,8 @@ key_citations:
   - schapiro2013_event_representation_memory
   - kemp2008_structural_discovery_form
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -180,3 +182,6 @@ The paper does not meet the full bar for mechanistic insight as defined here: it
 - hexagonal grid
 - abstract relational knowledge
 - connecting nodes
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

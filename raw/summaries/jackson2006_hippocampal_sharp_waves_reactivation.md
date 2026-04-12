@@ -46,6 +46,8 @@ keywords:
   - awake
   - states
   - depend
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
 ---
 
 ### One-line summary
@@ -182,3 +184,6 @@ The paper meets both criteria for this section.
 - memory consolidation
 - experience-dependent SWR emission
 - CA3–CA1 interaction
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]

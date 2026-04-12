@@ -58,6 +58,10 @@ key_citations:
   - garvert2017_relational_knowledge_maps
   - wilson2014_best_practices_scientific
   - dayan1993_successor_representation
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
 ---
 
 ### One-line summary
@@ -202,3 +206,8 @@ The review does not meet the full "mechanistic insight" bar because the neural e
 - Postrhinal/parahippocampal cortex (POR)
 
 **Keywords**: cognitive map, place cells, grid cells, successor representation, transition structure, factorised representations, meta-reinforcement learning, structural abstraction, transitive inference, relational knowledge, entorhinal cortex, flexible generalisation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state|Orbitofrontal cortex as a cognitive map of hidden task state]]

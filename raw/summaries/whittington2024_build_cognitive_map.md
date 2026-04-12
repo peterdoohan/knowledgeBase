@@ -53,6 +53,9 @@ key_citations:
   - dayan1993_successor_representation
   - behrens2018_cognitive_map_organizing_knowledge
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -288,3 +291,7 @@ The paper notes that while these models provide mechanistic insight, they often 
 
 **Keywords**:
 cognitive map, hippocampus, entorhinal cortex, grid cells, place cells, successor representation, latent states, path integration, generalisation, reinforcement learning, continuous attractor networks, compositionality, TEM, CSCG, representational drift, prefrontal cortex, replay, credit assignment
+
+### Related wiki pages
+- [[wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps|Entorhinal grid cells and continuous attractor models of cognitive maps]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

@@ -49,6 +49,9 @@ keywords:
   - simple
 key_citations:
   - daw2011_model_based_striatal_prediction
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 ### One-line summary
@@ -113,3 +116,7 @@ The core mechanistic insight is that the stay-probability analysis conflates two
 
 ### Connections & keywords
 model-based reinforcement learning, model-free reinforcement learning, two-step task, habit, goal-directed behaviour, state representation, latent state inference, stay probability, logistic regression, transition-outcome interaction, eligibility traces, successor representation, basal ganglia, outcome devaluation, hidden Markov model, reward prediction error, automatization, extended state space, behavioural neuroscience methodology
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]

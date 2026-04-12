@@ -49,6 +49,8 @@ keywords:
   - conveys
   - causal
   - associations
+wiki_pages:
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -217,3 +219,6 @@ This paper meets the bar for mechanistic insight.
 - contingency learning
 - optogenetic inhibition
 - credit assignment
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

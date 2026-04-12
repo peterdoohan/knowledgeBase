@@ -47,6 +47,9 @@ keywords:
   - system
 key_citations:
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -195,3 +198,7 @@ The paper partially meets the bar. It synthesises substantial neural recording d
 - entorhinal-hippocampal circuit
 - cognitive map
 - self-location
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

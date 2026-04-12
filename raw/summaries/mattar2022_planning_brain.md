@@ -50,6 +50,13 @@ key_citations:
   - balleine1998_goal_directed_instrumental_action
   - foster2007_theta_sequences_hippocampus
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -159,3 +166,11 @@ Partial mechanistic content is discussed: hippocampal theta sequences are propos
 **Brain regions**: prefrontal cortex (PFC), orbitofrontal cortex (OFC), medial PFC, dorsomedial striatum, caudate nucleus, putamen, hippocampus, entorhinal cortex, medial temporal lobe, basal ganglia.
 
 **Keywords**: planning algorithms, model-based decision making, goal-directed behaviour, internal model, hippocampal replay, theta sequences, lookahead, tree search, cognitive map, reinforcement learning, sequential decision making, habitual vs goal-directed control
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

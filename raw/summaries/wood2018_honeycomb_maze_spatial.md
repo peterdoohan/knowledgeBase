@@ -47,6 +47,8 @@ keywords:
   - test
   - study
   - hippocampal
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
 ---
 
 ### One-line summary
@@ -183,3 +185,6 @@ The paper does **not** provide neural data that specifically supports the propos
 
 **Keywords**:
 spatial navigation, honeycomb maze, hippocampus, place cells, cognitive map, vector navigation, spatial memory, lesion study, rat behavior, goal-directed navigation, Morris water maze alternative, hippocampal-dependent learning, spatial decision-making
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]

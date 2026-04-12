@@ -48,6 +48,8 @@ keywords:
   - explain
   - movement
   - selectivity
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -199,3 +201,6 @@ It presents an algorithm (competing formalisations of RPE — contralateral valu
 - contralateral choice selectivity
 - actor-critic basal ganglia
 - VTA dopamine terminals
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

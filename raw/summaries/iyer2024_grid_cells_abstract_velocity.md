@@ -43,6 +43,10 @@ key_citations:
   - constantinescu2016_gridlike_conceptual_knowledge
   - whittington2020_tolman_eichenbaum_machine
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -144,3 +148,8 @@ The paper is a computational modelling study. It makes testable predictions (pre
 - **Named models or frameworks**: Tolman-Eichenbaum Machine (TEM); successor representation (SR); clone-structured cognitive graphs (CSCG); continuous attractor network model; MCNet (motion-content decomposition network); UMAP; Isomap; PCA.
 - **Brain regions**: medial entorhinal cortex, hippocampal-entorhinal circuit.
 - **Keywords**: grid cells, abstract cognitive maps, self-supervised learning, velocity extraction, loop-closure constraint, continuous attractor networks, path integration, cognitive flexibility, dimensionality reduction, non-spatial representations, transfer learning, manifold learning.
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

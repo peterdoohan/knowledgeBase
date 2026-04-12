@@ -47,6 +47,9 @@ keywords:
   - information
 key_citations:
   - schultz1997_neural_substrate_reward_pred
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -162,3 +165,7 @@ This paper meets both criteria: it formalises the HC-leads-VS replay algorithm a
 - **Named models or frameworks**: Two-stage model of memory consolidation (Buzsaki 1989); complementary learning systems theory (McClelland et al. 1995); explained variance (EV) reactivation method; temporal bias method (Skaggs & McNaughton 1996); spike timing-dependent plasticity (STDP).
 - **Brain regions**: hippocampus (CA1), ventral striatum (nucleus accumbens core and shell), subiculum (anatomical substrate of HC→VS projection).
 - **Keywords**: sleep replay, memory consolidation, place cells, reward-related neurons, hippocampal-striatal reactivation, sharp wave-ripples, theta oscillations, temporal compression, forward replay, spike timing-dependent plasticity, explained variance method, cross-structural reactivation.
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

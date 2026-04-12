@@ -49,6 +49,10 @@ key_citations:
   - fyhn2007_remapping_grid_realignment
   - baram2021_entorhinal_ventromedial_rl
   - knudsen2020_ofc_theta_learning
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
 ---
 
 ### One-line summary
@@ -181,3 +185,8 @@ The paper meets the bar for mechanistic insight at the algorithmic level, with c
 - model-based reinforcement learning
 - schema generalisation
 - spatial information content
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state|Orbitofrontal cortex as a cognitive map of hidden task state]]

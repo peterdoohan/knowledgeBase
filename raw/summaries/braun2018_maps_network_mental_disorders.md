@@ -40,6 +40,8 @@ keywords:
   - trans_diagnostic_psychiatry
   - rdoc
   - structure_function_relationships
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
 ---
 
 ### One-line summary
@@ -178,3 +180,6 @@ The paper proposes but does not empirically demonstrate that network control the
 - NMDA receptor, glutamate, pharmacological imaging
 - trans-diagnostic psychiatry, RDoC
 - structure-function relationships, brain state transitions
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]

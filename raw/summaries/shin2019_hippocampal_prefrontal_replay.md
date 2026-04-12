@@ -44,6 +44,9 @@ keywords:
   - replay
 key_citations:
   - ambrose2016_reverse_replay_hippocampal
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -147,3 +150,7 @@ This paper provides strong mechanistic insight by combining neural recordings wi
 **Brain regions**: Hippocampus (dorsal CA1), prefrontal cortex (PFC, prelimbic, anterior cingulate), hippocampal-prefrontal circuit
 
 **Keywords**: hippocampal replay, sharp-wave ripples, prefrontal cortex, spatial learning, spatial working memory, reverse replay, forward replay, place cells, awake replay, memory-guided decision making, trajectory reactivation, W-maze alternation task, reinforcement learning, cognitive search, credit assignment
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

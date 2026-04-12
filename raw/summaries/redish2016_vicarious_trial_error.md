@@ -39,6 +39,8 @@ keywords:
   - vicarious
   - trial
   - error
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -192,3 +194,6 @@ The paper meets the bar for mechanistic insight:
 - hippocampal-prefrontal coherence
 - dual-systems decision making
 - spatial navigation
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

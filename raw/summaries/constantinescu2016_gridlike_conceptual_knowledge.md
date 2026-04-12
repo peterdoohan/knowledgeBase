@@ -44,6 +44,10 @@ keywords:
 key_citations:
   - tolman1948_cognitive_maps_rats
   - dolan2013_goals_habits_brain_b
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
 ---
 
 ### One-line summary
@@ -189,3 +193,8 @@ The paper therefore provides strong computational and algorithmic evidence, with
 - relational coding
 - generalisation
 - path integration
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state|Orbitofrontal cortex as a cognitive map of hidden task state]]

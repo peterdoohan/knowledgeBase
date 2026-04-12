@@ -40,6 +40,8 @@ keywords:
   - dynamics
   - belief
   - updating
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
 ---
 
 ### One-line summary
@@ -182,3 +184,6 @@ The paper explicitly acknowledges this gap: "More detailed spiking network model
 - response stochasticity
 - Bayesian model comparison
 - belief instability parameter
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]

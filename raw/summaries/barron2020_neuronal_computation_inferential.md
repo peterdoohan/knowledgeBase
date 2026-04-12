@@ -62,6 +62,9 @@ keywords:
   - mice
 key_citations:
   - daw2005_uncertainty_prefrontal_striatal
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -206,3 +209,7 @@ This paper meets both criteria for mechanistic insight.
 - Visual cortex
 
 **Keywords**: inferential reasoning, hippocampal prospective code, sharp-wave ripples, sensory preconditioning, representational similarity analysis, model-based reinforcement learning, cognitive map, memory replay, optogenetics, cross-species approach, mnemonic short-cut, reverse replay
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

@@ -48,6 +48,8 @@ key_citations:
   - jones2005_theta_hippocampal_prefrontal
   - padoaschioppa2006_orbitofrontal_economic_value
   - wikenheiser2016_cognitive_maps_hippocampus
+wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -188,3 +190,6 @@ This paper meets the bar for mechanistic insight.
 - spike-timing-dependent plasticity
 - local field potential
 - orbitofrontal cortex
+
+### Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

@@ -47,6 +47,9 @@ keywords:
 key_citations:
   - shin2019_hippocampal_prefrontal_replay_b
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -148,3 +151,7 @@ The paper thus meets the bar for mechanistic insight by providing both a formal 
 - **Named models or frameworks**: Bayesian decoding, dynamical systems, theta sequences, sharp-wave ripples (SWRs), replay sequences, cycle skipping, model-based reinforcement learning, working memory, vicarious trial and error
 - **Brain regions**: hippocampus (dorsal CA1), prefrontal cortex (PFC), nucleus reuniens, entorhinal cortex
 - **Keywords**: theta oscillations, theta sequences, prefrontal cortex, hippocampus, sharp-wave ripples, replay, decision-making, working memory, spatial navigation, ensemble dynamics, population coding, sequence coding, cycle skipping, vicarious memory recall, multi-timescale dynamics, Bayesian decoding, theta-phase precession, attractor dynamics, memory-guided behavior
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

@@ -55,6 +55,10 @@ key_citations:
   - constantinescu2016_gridlike_conceptual_knowledge
   - behrens2018_cognitive_map_organizing_knowledge
   - fyhn2007_remapping_grid_realignment
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
 ---
 
 ### One-line summary
@@ -145,3 +149,8 @@ The paper provides neural data (recordings from 724 neurons and 497 LFP channels
 - **Named models/frameworks**: Cognitive map theory, vector-based navigation, hexadirectional analysis, prospect theory, reinforcement learning, model-based planning, Tolman-Eichenbaum Machine
 - **Brain regions**: vmPFC, ACC, dlPFC, OFC, MTL, hippocampus, entorhinal cortex
 - **Keywords**: cognitive map, grid-like coding, hexadirectional modulation, theta oscillations, sharp-wave ripples, value-guided decision-making, ventromedial prefrontal cortex, vector-based navigation, economic choice, abstract space, phase-dependent coding, replay, non-human primate, electrophysiology, local field potential
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state|Orbitofrontal cortex as a cognitive map of hidden task state]]

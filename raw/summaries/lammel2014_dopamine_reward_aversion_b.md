@@ -46,6 +46,8 @@ keywords:
   - midbrain
   - dopamine
   - system
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -192,3 +194,6 @@ The paper meets the bar for mechanistic insight at the circuit level, though it 
 - Social defeat stress and depression
 - Mesolimbic vs. mesocortical dopamine
 - Rostromedial tegmental nucleus (RMTg)
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

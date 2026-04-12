@@ -52,6 +52,9 @@ keywords:
   - object
   - predict
   - homing
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
 ---
 
 ### One-line summary
@@ -177,3 +180,7 @@ The paper meets criterion 1 (a specific algorithm: angular path integration upda
 - CA1 pyramidal cells
 - navigation
 - self-motion cues
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]

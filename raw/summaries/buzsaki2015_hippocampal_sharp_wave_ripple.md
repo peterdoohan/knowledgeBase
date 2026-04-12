@@ -51,6 +51,11 @@ keywords:
 key_citations:
   - girardeau2009_ripples_spatial_memory
   - lee2002_memory_sequential_experience
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -241,3 +246,9 @@ This paper meets the high bar for mechanistic insight.
 
 **Keywords:**
 - sharp wave-ripple (SPW-R), hippocampal replay, memory consolidation, sequence replay, theta-SPW dichotomy, PV interneurons, ripple oscillation, CA3 recurrent network, offline consolidation, pathological ripples (p-ripples), cognitive biomarker, preplay, forward/reverse replay, interneuron choreography, GABAA pacemaker, lognormal dynamics
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

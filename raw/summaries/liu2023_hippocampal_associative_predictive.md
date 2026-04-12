@@ -51,6 +51,8 @@ keywords:
 key_citations:
   - girardeau2009_ripples_spatial_memory
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -195,3 +197,6 @@ This paper meets the bar for mechanistic insight.
 - optogenetics
 - MEC GABAergic interneurons
 - theta-gamma coupling
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

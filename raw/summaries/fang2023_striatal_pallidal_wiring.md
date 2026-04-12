@@ -49,6 +49,8 @@ keywords:
   - diagram
 key_citations:
   - kravitz2010_basal_ganglia_optogenetic
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -198,3 +200,6 @@ The review provides a strong synthesis but notes that many of these mechanistic 
 - cholinergic interneurons (CINs) and parvalbumin interneurons
 - bridging collaterals D1-SPN to GPe
 - molecular heterogeneity basal ganglia
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

@@ -50,6 +50,9 @@ key_citations:
   - constantinescu2016_gridlike_conceptual_knowledge
   - whittington2020_tolman_eichenbaum_machine
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
 ---
 
 ### One-line summary
@@ -182,3 +185,7 @@ This paper meets both criteria for mechanistic insight: it formalises an algorit
 
 **Keywords**:
 - cognitive map, mental navigation, entorhinal cortex, grid cells, continuous attractor network, path integration, Hebbian learning, landmark reconstruction, temporal periodicity, internal landmark replay, scalar property of interval timing, vector production
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]

@@ -53,6 +53,10 @@ key_citations:
   - girardeau2009_ripples_spatial_memory
   - jadhav2016_hippocampal_prefrontal_swr
   - foster2021_cortico_basal_ganglia
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -185,3 +189,8 @@ This paper meets the bar.
 - hippocampal replay
 - awake reactivation
 - two-stage memory model
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

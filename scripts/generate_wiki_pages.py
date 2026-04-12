@@ -359,6 +359,8 @@ def page_index_entries() -> List[Tuple[str, str, Path, str]]:
             text = path.read_text()
             frontmatter_block, body = split_frontmatter(text)
             frontmatter = parse_frontmatter(frontmatter_block)
+            if str(frontmatter.get("status", "")).strip() == "deprecated":
+                continue
             title = str(frontmatter.get("title", "")).strip()
             if not title:
                 title_match = re.search(r"(?m)^# (.+)$", body)

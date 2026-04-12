@@ -43,6 +43,8 @@ keywords:
   - linked
   - future
   - spatial
+wiki_pages:
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
 ---
 
 ### One-line summary
@@ -109,3 +111,6 @@ The paper does not meet the mechanistic insight bar. While it proposes that spec
 **Brain regions**: Hippocampus (posterior, discussed in context of prior literature), prefrontal cortex (discussed for planning), posterior parietal cortex (discussed for angular deviation processing)
 
 **Keywords**: spatial navigation, wayfinding, street network entropy, urban design, environmental enrichment, cognitive development, Sea Hero Quest, Shannon entropy, city topology, hippocampus, cross-cultural, mobile game, citizen science
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]

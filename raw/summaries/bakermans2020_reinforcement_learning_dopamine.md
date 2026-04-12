@@ -41,6 +41,8 @@ keywords:
 key_citations:
   - schultz1997_neural_substrate_reward_pred
   - lammel2014_dopamine_reward_aversion_b
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -152,3 +154,6 @@ This paper meets both criteria for a mechanistic insight entry.
 
 **Keywords**:
 - distributional reinforcement learning, temporal difference learning, reward prediction error, dopamine neurons, ventral tegmental area, optimistic/pessimistic neurons, quantile coding, reward distribution, RPE asymmetry, reversal point, risk-sensitive decision-making, neuroscience-AI interaction
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

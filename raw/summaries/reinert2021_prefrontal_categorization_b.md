@@ -46,6 +46,8 @@ keywords:
   - cortex
   - represents
   - learned
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -212,3 +214,6 @@ The paper also provides evidence that uniquely category-selective neurons (4.3% 
 
 **Keywords**:
 rule-based categorization, category learning, prefrontal cortex, two-photon calcium imaging, chronic imaging, semantic memory, category selectivity, Go/NoGo task, cognitive flexibility, rule-switch, mixed selectivity, category-tuning index, neural representation, learning dynamics, generalization
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

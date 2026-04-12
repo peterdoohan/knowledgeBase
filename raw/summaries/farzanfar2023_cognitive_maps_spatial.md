@@ -46,6 +46,11 @@ keywords:
   - schemas
 key_citations:
   - epstein2017_cognitive_maps_humans
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -187,3 +192,9 @@ The paper describes several candidate mechanisms (HPC hidden-state inference, sl
 **Brain regions**: hippocampus (anterior, posterior), ventromedial prefrontal cortex, medial prefrontal cortex, retrosplenial cortex, entorhinal cortex, parahippocampal cortex, posterior parietal cortex, angular gyrus, dorsal striatum, occipital place area
 
 **Keywords**: spatial schema, cognitive map, spatial gist, memory consolidation, hippocampal–neocortical interaction, geometric resemblance, pattern separation, HPC replay, predictive coding, space syntax, street network entropy, urban navigation
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

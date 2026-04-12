@@ -38,6 +38,9 @@ keywords:
 key_citations:
   - widloski2022_hippocampal_replay_barriers
   - lee2002_memory_sequential_experience
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -140,3 +143,7 @@ The paper notes that the mechanism for incorporating barrier information into re
 - **Named models or frameworks**: Cognitive map theory, sequential reactivation/replay, sharp-wave ripples, place cells, model-based navigation
 - **Brain regions**: Hippocampus, place cells, cortical-hippocampal circuits
 - **Keywords**: hippocampus, place cells, replay, mental simulation, spatial navigation, cognitive map, flexible navigation, sharp-wave ripples, trajectory planning, barrier avoidance, model-based planning, sequential reactivation, spatial memory, goal-directed behavior
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

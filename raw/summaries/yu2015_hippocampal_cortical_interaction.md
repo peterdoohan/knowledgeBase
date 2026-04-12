@@ -53,6 +53,12 @@ key_citations:
   - singer2013_hippocampal_swr_decisions
   - gupta2010_replay_not_simple_function
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -123,3 +129,10 @@ This review does not meet the high bar for mechanistic insight as defined in the
 - **Named models or frameworks**: Cognitive map (Tolman); Constructive episodic simulation hypothesis (Schacter & Addis); Working memory model (Goldman-Rakic); Reinforcement learning framework; Serial evaluation model of deliberation
 - **Brain regions**: Hippocampus (CA1, CA3), prefrontal cortex (prelimbic, infralimbic, anterior cingulate), ventral striatum, entorhinal cortex, nucleus reuniens (thalamus), anterior thalamic nuclei
 - **Keywords**: sharp-wave ripples, theta oscillations, vicarious trial and error, memory replay, prefrontal cortex, hippocampus, deliberation, decision making, spatial navigation, working memory, place cells, trajectory encoding, W-track alternation task, awake replay, SWR disruption, hippocampal-cortical coherence
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

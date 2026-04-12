@@ -47,6 +47,9 @@ keywords:
 key_citations:
   - wood2018_honeycomb_maze_spatial
   - redish2016_vicarious_trial_error_b
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
 ---
 
 ### One-line summary
@@ -184,3 +187,7 @@ The paper meets the bar for mechanistic insight.
 - reward location remapping
 - spatial action selection
 - vicarious trial and error
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]

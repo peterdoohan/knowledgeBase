@@ -43,6 +43,9 @@ key_citations:
   - sorscher2023_grid_cells_unified_theory
   - dordek2016_grid_cells_pca
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -213,3 +216,7 @@ The paper cites experimental evidence: CA1 as mismatch detector (Lisman, 1999; D
 
 **Keywords**:
 grid cells, predictive coding, spatial navigation, path integration, medial entorhinal cortex, hippocampus, Hebbian plasticity, biologically plausible learning, recurrent neural networks, temporal predictive coding, representation learning, spatial memory, entorhinal cortex, place cells, eligibility trace
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

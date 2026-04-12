@@ -46,6 +46,10 @@ keywords:
 key_citations:
   - girardeau2009_ripples_spatial_memory
   - vandeven2016_hippocampal_offline_reactivation
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -172,3 +176,8 @@ This paper meets both criteria for the high bar: it formalises an algorithmic ac
 - Prefrontal cortex (discussed, not recorded)
 
 **Keywords**: hippocampal replay, sharp-wave ripples, high synchrony events, closed-loop optogenetics, archaerhodopsin (ArchT), content-specific memory consolidation, place cells, cognitive map, cheeseboard task, Bayesian population decoding, sleep-dependent memory consolidation, brain–machine interface
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

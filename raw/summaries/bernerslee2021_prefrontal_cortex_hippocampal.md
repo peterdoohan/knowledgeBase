@@ -48,6 +48,9 @@ key_citations:
   - davidson2009_hippocampal_replay_extended
   - shin2019_hippocampal_prefrontal_replay_b
   - wikenheiser2015_theta_sequences_goals
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
 ---
 
 ### One-line summary
@@ -188,3 +191,7 @@ At the level of Marr's framework:
 - Bayesian decoding
 - memory consolidation
 - prospective coding
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]

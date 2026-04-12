@@ -46,6 +46,8 @@ keywords:
   - nucleus
 key_citations:
   - roseberry2016_basal_ganglia_motor
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -197,3 +199,6 @@ The implementational level is the least complete: human CnF topography and the d
 - brainstem locomotor circuits
 - cell-type-specific circuit dissection
 - gait disorder neuromodulation
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

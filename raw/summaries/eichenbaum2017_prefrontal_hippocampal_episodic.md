@@ -45,6 +45,8 @@ keywords:
   - memory
 key_citations:
   - jadhav2016_hippocampal_prefrontal_swr
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -193,3 +195,6 @@ The main gap is that no single study reviewed simultaneously records from all no
 - memory interference suppression
 - hippocampal conjunctive coding
 - remote memory consolidation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

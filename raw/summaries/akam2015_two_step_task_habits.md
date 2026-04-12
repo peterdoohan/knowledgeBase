@@ -53,6 +53,9 @@ keywords:
   - interactions
 key_citations:
   - daw2011_model_based_striatal_prediction
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -151,3 +154,7 @@ Not applicable. The paper is a simulation study and presents no neural data. It 
 **Brain regions**: dorsomedial striatum, dorsolateral striatum, cortico-basal ganglia loops (background context only)
 
 **Keywords**: two-step task, model-based reinforcement learning, model-free reinforcement learning, habitual control, goal-directed control, latent state inference, stay probability, extended state representation, reward-as-cue, behavioural dissociation, transition-outcome interaction, successor representation
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

@@ -46,6 +46,13 @@ key_citations:
   - davidson2009_hippocampal_replay_extended
   - gupta2010_replay_not_simple_function
   - ambrose2016_reverse_replay_hippocampal
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -163,3 +170,11 @@ Mapping the evidence onto Marr's levels:
 **Brain regions**: Hippocampus (CA1, CA3); entorhinal cortex; nucleus accumbens (ventral striatum); prefrontal cortex; ventral tegmental area (VTA).
 
 **Keywords**: hippocampal replay, place cells, sharp-wave ripples, awake replay, reverse replay, forward replay, memory consolidation, reinforcement learning, attractor network, value learning, spatial planning, preplay, Bayesian decoding, cognitive map, NMDA-dependent plasticity
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

@@ -45,6 +45,8 @@ keywords:
   - prefrontal
 key_citations:
   - ambrose2016_reverse_replay_hippocampal
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -158,3 +160,6 @@ This paper provides mechanistic insight into how hippocampal replay supports spa
 - **Brain regions**: Hippocampus (dorsal CA1), prefrontal cortex (prelimbic, anterior cingulate), hippocampal-prefrontal circuit
 
 - **Keywords**: awake replay, sharp-wave ripples, place cells, reverse replay, forward replay, spatial learning, working memory, prefrontal cortex, hippocampus, decision making, trajectory reactivation, spatial alternation, memory-guided behavior, neural ensembles, Bayesian decoding, reinforcement learning
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

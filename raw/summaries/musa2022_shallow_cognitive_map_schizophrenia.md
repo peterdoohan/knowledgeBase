@@ -54,6 +54,9 @@ key_citations:
   - suh2013_impaired_ripple
   - adams2018_attractor_schizophrenia
   - tolman1948_cognitive_maps_rats
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -219,3 +222,7 @@ The paper does not meet the high bar for this section because no single study it
 - aberrant salience
 - hippocampal-prefrontal synchrony
 - relational memory
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

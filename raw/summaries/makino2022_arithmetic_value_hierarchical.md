@@ -39,6 +39,8 @@ keywords:
   - hierarchical
   - behavior
   - composition
+wiki_pages:
+  - wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -189,3 +191,6 @@ This paper meets both criteria for mechanistic insight: it formalises an algorit
 - policy entropy
 - few-shot learning
 - generalized linear model (GLM)
+
+### Related wiki pages
+- [[wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning|Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning]]

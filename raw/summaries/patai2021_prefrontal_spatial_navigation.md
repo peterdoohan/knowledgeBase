@@ -53,6 +53,12 @@ key_citations:
   - ekstrom2003_spatial_navigation
   - tolman1948_cognitive_maps_rats
   - redish2016_vicarious_trial_error_b
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -185,3 +191,10 @@ Prefrontal cortex (dlPFC, vlPFC, dACC, ACC, OFC, mPFC, vmPFC, SFG, rdmPFC, rlPFC
 
 **Keywords:**
 spatial navigation, prefrontal cortex, goal-directed behavior, route planning, cognitive map, hippocampal-prefrontal interactions, detours, wayfinding, replay, theta oscillations, decision-making, default-mode network, vicarious trial and error, state space representation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

@@ -43,6 +43,8 @@ keywords:
   - medial
 key_citations:
   - ito2015_prefrontal_thalamic_hippocampus
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -170,3 +172,6 @@ The paper does not meet the high bar for mechanistic insight as defined in the i
 - pyramidal neurons
 - head-fixed recordings
 - spontaneous locomotion
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

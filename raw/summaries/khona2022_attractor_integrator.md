@@ -44,6 +44,8 @@ keywords:
 key_citations:
   - fiete2008_grid_cells_position
   - burak2009_path_integration_grid_cells
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
 ---
 
 ### One-line summary
@@ -220,3 +222,6 @@ Anterior dorsal nucleus (ADn), medial entorhinal cortex (MEC), nucleus prepositu
 
 **Keywords:**
 attractor neural networks, continuous attractor dynamics, ring attractor, toroidal attractor, neural integration, head direction cells, grid cells, working memory persistent activity, low-dimensional manifold, population dynamics, modular neural codes, mixed-modular representation, zero-shot generalisation, topological data analysis in neuroscience
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]

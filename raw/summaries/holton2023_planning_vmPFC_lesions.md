@@ -59,6 +59,10 @@ key_citations:
   - daw2011_model_based_striatal_prediction
   - wilson2014_best_practices_scientific
   - schuck2016_orbitofrontal_cortex_state
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -174,3 +178,8 @@ Mapping onto Marr's levels:
 
 **Keywords**:
 - vmPFC lesion, planning depth, feature drop rate, heuristic quality, Four-in-a-Row, Two-Step Task, model-based planning, model-free planning, tree search, frontal lobe lesion, cognitive components of planning, computational lesion study
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

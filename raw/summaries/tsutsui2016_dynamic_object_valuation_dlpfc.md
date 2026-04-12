@@ -50,6 +50,9 @@ keywords:
   - prefrontal
 key_citations:
   - padoaschioppa2006_orbitofrontal_economic_value
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 ### One-line summary
@@ -196,3 +199,7 @@ The paper meets the mechanistic insight bar by linking Marr's three levels: comp
 - foraging behaviour
 - macaque monkey
 - principal sulcus
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]

@@ -48,6 +48,9 @@ keywords:
   - linked
 key_citations:
   - jadhav2016_hippocampal_prefrontal_swr
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
 ---
 
 ### One-line summary
@@ -119,3 +122,7 @@ This paper provides evidence for a **mechanism of memory consolidation and abstr
 **Brain regions**: Hippocampus (dorsal CA1), prefrontal cortex (PFC, anterior cingulate cortex, dorsal prelimbic cortex), corpus callosum
 
 **Keywords**: sharp-wave ripples, memory reactivation, place cells, prefrontal cortex, hippocampus, generalization, abstraction, schema, consolidation, spatial memory, many-to-one mapping, complementary learning systems, awake replay, task structure, ensemble coding, learning systems
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation|Sharp-wave ripple-associated place-cell replay in spatial memory consolidation]]

@@ -44,6 +44,10 @@ keywords:
   - caudate
   - nucleus
   - dependent
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 ### One-line summary
@@ -161,3 +165,8 @@ The paper does not fully meet the two-part bar. It provides fMRI and VBM data li
 
 **Keywords**:
 - navigation strategies, spatial strategy, stimulus–response strategy, hippocampus–caudate competition, orbitofrontal cortex, ventromedial prefrontal cortex, dorsomedial prefrontal cortex, voxel-based morphometry, fMRI, dual memory systems, cognitive map, grey matter density
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]

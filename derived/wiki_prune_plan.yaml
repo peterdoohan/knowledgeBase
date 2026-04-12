@@ -1,0 +1,33 @@
+generated_at: "2026-04-12T20:00:46.953836+00:00"
+deprecated_page_count: 5
+entries:
+  -
+    deprecated: wiki/topics/successor_representation_accounts_of_hippocampal_place_cells_and_entorhinal_grid_cells.md
+    canonical: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay.md
+    deprecated_title: "Successor representation accounts of hippocampal place cells and entorhinal grid cells"
+    canonical_title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+    reason: "Overlaps heavily with the broader hippocampal predictive-maps synthesis and adds little unique structure."
+  -
+    deprecated: wiki/topics/successor_representation_as_a_predictive_map_account_of_hippocampal_place_cells.md
+    canonical: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay.md
+    deprecated_title: "Successor representation as a predictive-map account of hippocampal place cells"
+    canonical_title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+    reason: "Too narrow relative to the broader predictive-maps page and largely rephrases the same place-cell argument."
+  -
+    deprecated: wiki/topics/successor_representations_in_hippocampal_entorhinal_cognitive_maps.md
+    canonical: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay.md
+    deprecated_title: "Successor representations in hippocampal-entorhinal cognitive maps"
+    canonical_title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+    reason: "Semantically duplicates the hippocampal-entorhinal predictive-maps page with weaker boundaries."
+  -
+    deprecated: wiki/topics/successor_representations_and_grid_cell_predictive_maps_in_spatial_navigation.md
+    canonical: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay.md
+    deprecated_title: "Successor representations and grid-cell predictive maps in spatial navigation"
+    canonical_title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+    reason: "Spatial-navigation framing overlaps with the predictive-maps page and does not justify a separate canonical entry."
+  -
+    deprecated: wiki/topics/successor_representation_and_hierarchical_planning_in_navigation.md
+    canonical: wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control.md
+    deprecated_title: "Successor representation and hierarchical planning in navigation"
+    canonical_title: "Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control"
+    reason: "The navigation-specific page is thinner than the broader hierarchical-planning synthesis and splits the same argument across two pages."

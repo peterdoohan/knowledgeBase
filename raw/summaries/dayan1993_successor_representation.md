@@ -33,6 +33,9 @@ keywords:
   - learning
   - successor
   - representation
+wiki_pages:
+  - wiki/topics/successor_representation_and_hierarchical_planning_in_navigation
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -134,3 +137,7 @@ The paper does not meet the bar for mechanistic insight in the neuroscientific s
 **Brain regions**: Not applicable (no neural regions discussed)
 
 **Keywords**: successor representation, temporal difference learning, function approximation, state representation, Markov chain, future state occupancy, latent learning, generalisation, distributed representations, reinforcement learning, navigation, policy-dependent representation
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_and_hierarchical_planning_in_navigation|Successor representation and hierarchical planning in navigation]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

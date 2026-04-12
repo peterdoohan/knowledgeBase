@@ -37,6 +37,9 @@ keywords:
 key_citations:
   - mou_ji2022_observational_learning_replay
   - behrens2018_cognitive_map_organizing_knowledge
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -156,3 +159,7 @@ At the level Marr would call algorithmic, the implicit claim is: the replay mech
 - social observation
 - memory consolidation
 - sequence reactivation
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

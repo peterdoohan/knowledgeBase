@@ -40,6 +40,8 @@ keywords:
   - position
   - mediated
   - theta
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -128,3 +130,6 @@ This paper provides strong mechanistic insight meeting both criteria: (1) it for
 - **Named models or frameworks**: Bayesian decoding of position, theta phase precession, theta phase-locking, theta-gamma coupling (discussed as potential mechanism), theta sequences
 - **Brain regions**: Hippocampus (area CA1, dorsal), Prefrontal cortex (medial PFC, prelimbic region), Nucleus reuniens (mentioned as indirect connection)
 - **Keywords**: theta oscillations, hippocampal-prefrontal synchrony, spatial coding, phase-locking, phase precession, Bayesian decoding, ensemble activity, working memory, place cells, coherent coding, theta phase, spatial memory, W-track task, population decoding
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

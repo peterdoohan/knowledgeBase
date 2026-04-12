@@ -52,6 +52,10 @@ keywords:
 key_citations:
   - johnson2007_hippocampus_decision
   - spiers2015_detour_problem_navigation
+wiki_pages:
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -168,3 +172,8 @@ The paper partially meets the bar. It identifies a specific algorithm (prospecti
 
 **Keywords**:
 - prospective goal coding, hippocampus, multi-voxel pattern analysis (MVPA), episodic simulation, virtual navigation, route planning, trajectory replay, hippocampal-prefrontal interaction, sub-goal representation, pattern reinstatement, medial temporal lobe, high-resolution fMRI
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

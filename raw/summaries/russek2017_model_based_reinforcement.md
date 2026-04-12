@@ -54,6 +54,13 @@ key_citations:
   - dayan1993_successor_representation
   - tolman1948_cognitive_maps_rats
   - ostlund2005_prefrontal_cortex_habits
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -125,3 +132,11 @@ This paper provides a mechanistic account of how model-based behavioral flexibil
 - **Named models or frameworks**: Successor representation (SR); SR-TD (TD learning of successor matrix); SR-MB (model-based recomputation of successor matrix); SR-Dyna (replay-based off-policy successor learning); Dyna-Q; Markov decision processes (MDPs); Temporal difference (TD) learning; Model-based vs. model-free reinforcement learning.
 - **Brain regions**: Dorsomedial striatum (DMS); Dorsolateral striatum (DLS); Prefrontal cortex (PFC, ventromedial); Hippocampus; Substantia nigra pars compacta (SnC); Ventral tegmental area (VTA); Basal ganglia; Orbitofrontal cortex (OFC).
 - **Keywords**: successor representation, reinforcement learning, model-based, model-free, temporal difference learning, dopamine, striatum, hippocampus, prefrontal cortex, replay, planning, reward revaluation, detour task, latent learning, cognitive map, grid-world, markov decision process, state representation, predictive coding.
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

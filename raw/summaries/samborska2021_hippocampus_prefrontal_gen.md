@@ -55,6 +55,10 @@ key_citations:
   - behrens2018_cognitive_map_organizing_knowledge
   - whittington2020_tolman_eichenbaum_machine
   - fyhn2007_remapping_grid_realignment
+wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 ### One-line summary
@@ -212,3 +216,8 @@ The key mechanistic insight is that generalisation emerges not from a single mec
 - **Brain regions**: medial prefrontal cortex (mPFC), dorsal CA1 (dCA1), hippocampus, entorhinal cortex (mentioned), orbitofrontal cortex (OFC, cited)
 
 - **Keywords**: abstraction, generalisation, transfer learning, meta-learning, schema, reversal learning, representational similarity analysis, singular value decomposition, prefrontal cortex, hippocampus, cellular modes, temporal modes, policy representation, remapping, learning set, task structure, sensorimotor, electrophysiology, single-unit recording, mouse
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]

@@ -51,6 +51,9 @@ keywords:
   - snc
 key_citations:
   - daw2005_uncertainty_prefrontal_striatal
+wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -109,3 +112,7 @@ The dominant framework is the RPE theory of dopamine (Schultz, Dayan, Montague 1
 ### Connections & keywords
 Keywords: dopamine, reward prediction error (RPE), state prediction error (SPE), model-based reinforcement learning, model-free reinforcement learning, successor representation, surprise signal, basal ganglia, striatum, hippocampus, offline planning, sharp-wave ripples, cortico-basal-ganglia loops, volume transmission, dopamine heterogeneity, temporal difference learning, unblocking, optogenetics, VTA, SNc
 Related papers: Gardner et al. 2018 (SR-dopamine hypothesis, ref [36]); Stachenfeld et al. 2017 (hippocampus as predictive map); Daw et al. 2011 (model-based influences on striatal prediction errors); Russek et al. 2017 (SR linking model-based and model-free RL); Sharpe et al. 2017 (dopamine transients and model-based associations); Mattar & Daw 2018 (prioritized replay); Menegas et al. 2018 (tail-of-striatum dopamine and threat); Langdon et al. 2018 (review of model-based predictions for dopamine)
+
+### Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

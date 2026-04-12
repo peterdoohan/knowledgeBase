@@ -41,6 +41,8 @@ keywords:
   - dynamics
   - medial
   - prefrontal
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 ### One-line summary
@@ -171,3 +173,6 @@ This paper meets both criteria for mechanistic insight:
 - jitter resampling
 - silicon probe recording
 - sparse coding
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]

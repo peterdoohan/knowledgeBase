@@ -47,6 +47,8 @@ keywords:
   - system
 key_citations:
   - schultz1997_neural_substrate_reward_pred
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -189,3 +191,6 @@ Mapping to Marr's levels:
 - social defeat stress
 - addiction dopamine
 - conditioned place preference/aversion
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

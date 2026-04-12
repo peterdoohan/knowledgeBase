@@ -45,6 +45,9 @@ keywords:
   - phase
 key_citations:
   - ekstrom2003_spatial_navigation
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
 ---
 
 ### One-line summary
@@ -225,3 +228,7 @@ The paper also makes a key implementational observation: spike-phase coding and 
 
 **Keywords**:
 phase coding, rate coding, theta oscillations, slow theta, human hippocampus, medial temporal lobe, navigation, spatial memory, goal-directed behavior, single-neuron recordings, intracranial recordings, virtual reality, oscillatory phase, spike-LFP coupling, SCERT, MODAL, phase-locking, navigational planning, episodic memory
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]

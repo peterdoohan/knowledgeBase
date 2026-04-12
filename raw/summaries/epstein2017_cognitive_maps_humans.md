@@ -56,6 +56,11 @@ key_citations:
   - tolman1948_cognitive_maps_rats
   - ekstrom2003_spatial_navigation
   - constantinescu2016_gridlike_conceptual_knowledge
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -199,3 +204,9 @@ Hippocampus, entorhinal cortex, retrosplenial cortex (RSC), parahippocampal plac
 
 **Keywords**:
 cognitive map, spatial navigation, place cells, grid cells, head direction cells, fMRI MVPA, entorhinal cortex, retrosplenial cortex, landmark anchoring, route planning, pattern separation, allocentric coding, abstract space, hippocampal-prefrontal circuits
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]

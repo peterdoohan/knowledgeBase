@@ -47,6 +47,9 @@ keywords:
 key_citations:
   - boccara2019_grid_goal_attractor
   - butler2019_reward_locations_entorhinal_maps
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
 ---
 
 ### One-line summary
@@ -252,3 +255,7 @@ The paper acknowledges that it explains *when* and *why* disentangling occurs, b
 ---
 
 **Filename mismatch note**: The source file was originally named `tanner2022_connectome.md` but has been renamed to `whittington2022_disentangling_biological.md` to match the actual paper content (first author: Whittington; year: 2022; keywords: disentangling, biological constraints).
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]

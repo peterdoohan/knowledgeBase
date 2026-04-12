@@ -47,6 +47,8 @@ keywords:
   - parkinsonian
   - motor
   - behaviours
+wiki_pages:
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -170,3 +172,6 @@ This paper meets both criteria for the high bar.
 - bradykinesia, freezing, locomotor initiation
 - cell-type-specific circuit manipulation
 - deep-brain stimulation (therapeutic comparison)
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

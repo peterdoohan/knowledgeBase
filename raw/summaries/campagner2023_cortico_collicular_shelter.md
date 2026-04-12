@@ -52,6 +52,8 @@ keywords:
   - shelter
   - during
   - escape
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
 ---
 
 ### One-line summary
@@ -199,3 +201,6 @@ This paper meets the bar for mechanistic insight.
 - Chemogenetic projection-specific inactivation
 - Opto-tagging
 - Spiking ring-attractor network
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]

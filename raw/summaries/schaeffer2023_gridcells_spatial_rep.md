@@ -42,6 +42,8 @@ keywords:
 key_citations:
   - fiete2008_grid_cells_position
   - sorscher2023_grid_cells_unified_theory
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
 ---
 
 ### One-line summary
@@ -133,3 +135,6 @@ This paper does **not** meet the high bar for mechanistic insight as defined in 
 
 **Keywords:**
 grid cells, self-supervised learning, spatial representation, path integration, continuous attractor, recurrent neural network, medial entorhinal cortex, multi-modular coding, separation-invariance-capacity, contrastive learning, spatial navigation, toroidal manifold, hexagonal lattice
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]

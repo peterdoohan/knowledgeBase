@@ -53,6 +53,9 @@ key_citations:
   - tolman1948_cognitive_maps_rats
   - stachenfeld2017_hippocampus_predictive_map
   - manns2006_declarative_memory_evolution
+wiki_pages:
+  - wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
 ---
 
 ### One-line summary
@@ -167,3 +170,7 @@ This paper provides a strong mechanistic insight that maps across Marr's three l
 - **Brain regions**: medial entorhinal cortex (MEC), lateral entorhinal cortex (LEC), hippocampus (CA1, CA3), prefrontal cortex (PFC)
 
 - **Keywords**: structural generalization, relational memory, spatial navigation, grid cells, place cells, remapping, factorized representations, conjunctive coding, path integration, transitive inference, social hierarchy, object-vector cells, border cells, attractor networks, Hebbian learning, variational inference, cognitive map, successor representations, latent states, lap-specific cells
+
+### Related wiki pages
+- [[wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps|Grid cells, place cells, and path integration in cognitive maps]]
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]

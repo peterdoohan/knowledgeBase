@@ -37,6 +37,8 @@ keywords:
   - mental
   - illnessbut
   - should
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
 ---
 
 ### One-line summary
@@ -146,3 +148,6 @@ The paper does not meet the bar for mechanistic insight as defined by the criter
 - **Named models or frameworks**: LeDoux/Pine two-system model; strong emergence hypothesis (SEH); translational research model; bio-psycho-social model; computational psychiatry; Bayesian predictive coding.
 - **Brain regions**: prefrontal cortex, amygdala, auditory cortex, insular cortex.
 - **Keywords**: psychotropic drugs, translational research limitations, psychiatric pharmacology, subjective experience, language and psychiatry, bio-psycho-social model, computational psychiatry, self-efficacy, mental illness trajectory, consciousness and psychopathology, fear vs. anxiety circuits, integrative treatment.
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]

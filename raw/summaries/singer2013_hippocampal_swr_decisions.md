@@ -49,6 +49,8 @@ key_citations:
   - davidson2009_hippocampal_replay_extended
   - gupta2010_replay_not_simple_function
   - johnson2007_hippocampus_decision
+wiki_pages:
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -187,3 +189,6 @@ This paper provides **partial mechanistic insight** at the algorithmic level but
 **Brain regions**: Hippocampus CA1; Hippocampus CA3
 
 **Keywords**: sharp-wave ripples, awake replay, place cells, spatial alternation task, memory-guided decision making, coactivation probability, coordinated activity, trajectory reactivation, hippocampal-cortical interaction, learning-dependent plasticity
+
+### Related wiki pages
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

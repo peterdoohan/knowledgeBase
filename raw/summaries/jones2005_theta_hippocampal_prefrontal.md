@@ -42,6 +42,9 @@ keywords:
   - spatial
   - memory
   - task
+wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -150,3 +153,7 @@ This paper meets the bar for mechanistic insight.
 - **Named models or frameworks**: Temporal coding hypothesis; theta phase-locking as a cross-structural coordination mechanism; Complex Spike Index (for pyramidal cell classification); multi-taper spectral analysis (Jarvis & Mitra coherence).
 - **Brain regions**: Dorsal CA1 (hippocampus), medial prefrontal cortex (prelimbic/infralimbic), ventral CA1/subiculum (discussed), mPFC interneurons (proposed implementation).
 - **Keywords**: theta oscillations, hippocampal–prefrontal synchrony, spatial working memory, phase-locking, LFP coherence, cross-structural coordination, spike cross-correlation, decision-making, place cells, prefrontal cortex, temporal coding, oscillatory synchrony
+
+### Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

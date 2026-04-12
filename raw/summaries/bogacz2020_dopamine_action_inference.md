@@ -48,6 +48,8 @@ key_citations:
   - haber2000_striatonigrostriatal_pathways
   - montague1996_predictive_hebbian_dopamine
   - daw2005_uncertainty_prefrontal_striatal
+wiki_pages:
+  - wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
 ---
 
 ### One-line summary
@@ -205,3 +207,6 @@ The paper meets the bar for mechanistic insight at the computational and algorit
 - Parkinson's disease dopamine depletion
 - probabilistic reversal learning
 - uncertainty-based arbitration
+
+### Related wiki pages
+- [[wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning|Dopamine reward prediction error and temporal-difference learning]]

@@ -38,6 +38,8 @@ keywords:
   - sources
   - dopamine
   - hippocampus
+wiki_pages:
+  - wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
 ---
 
 ### One-line summary
@@ -167,3 +169,6 @@ The paper partially meets the bar. It reviews empirical data (optogenetics, phar
 - hippocampal offline reactivation
 - dual dopaminergic pathways
 - neuromodulatory gating of plasticity
+
+### Related wiki pages
+- [[wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning|Successor representation in striatal and dopaminergic reinforcement learning]]

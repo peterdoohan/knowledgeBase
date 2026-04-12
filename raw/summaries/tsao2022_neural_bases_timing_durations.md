@@ -54,6 +54,8 @@ keywords:
   - episodic_memory
   - duration_estimation
   - reconstructive_memory
+wiki_pages:
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 ### One-line summary
@@ -374,3 +376,6 @@ This review meets the high bar for mechanistic insight by synthesizing evidence 
 
 **Keywords**:
 prospective timing, retrospective timing, interval timing, neural trajectories, population clocks, population state dynamics, event segmentation, event trajectories, time cells, sequence coding, temporal context, corticostriatal circuits, lateral entorhinal cortex, hippocampal temporal hierarchy, medial temporal lobe, dopaminergic trajectory speed control, temporal scaling, episodic memory, duration estimation, reconstructive memory, state-dependent networks, recurrent neural networks, Marr's levels, neuromodulation, event boundaries, contextual drift, path integration
+
+### Related wiki pages
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]

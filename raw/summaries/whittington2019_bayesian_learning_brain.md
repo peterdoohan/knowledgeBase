@@ -46,6 +46,10 @@ key_citations:
   - behrens2018_cognitive_map_organizing_knowledge
   - tolman1948_cognitive_maps_rats
   - stachenfeld2017_hippocampus_predictive_map
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 ### One-line summary
@@ -161,3 +165,8 @@ The thesis thus provides a complete mechanistic account spanning from the comput
 - **Keywords**: predictive coding, backpropagation, biological credit assignment, Tolman-Eichenbaum Machine, grid cells, place cells, cognitive maps, relational memory, structural generalization, zero-shot inference, factorized representations, path integration, attractor networks, entorhinal cortex, hippocampus, transitive inference, social hierarchy, Bayesian inference, Hebbian plasticity, neural representation learning
 
 STATUS: success | input=whittington2019_bayesian_learning_brain.md | output=whittington2019_bayesian_learning_brain.md | renamed=no
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]

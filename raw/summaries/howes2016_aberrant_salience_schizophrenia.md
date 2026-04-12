@@ -37,6 +37,8 @@ keywords:
   - salience
   - hypothesis
   - schizophrenia
+wiki_pages:
+  - wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
 ---
 
 ### One-line summary
@@ -155,3 +157,6 @@ The paper proposes a computational account (precision-weighted prediction errors
 - prediction error precision weighting
 - incentive salience
 - dopamine neuron heterogeneity
+
+### Related wiki pages
+- [[wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction|Computational models of schizophrenia: attractor dynamics and NMDA hypofunction]]

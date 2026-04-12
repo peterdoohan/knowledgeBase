@@ -44,6 +44,8 @@ keywords:
   - realignment
   - entorhinal
   - cortex
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 ### One-line summary
@@ -170,3 +172,6 @@ The paper meets the bar for mechanistic insight.
 - pattern separation
 - attractor network
 - cognitive map
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]

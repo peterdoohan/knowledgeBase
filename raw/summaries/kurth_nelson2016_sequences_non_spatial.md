@@ -43,6 +43,9 @@ keywords:
   - state
   - representations
   - humans
+wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 ### One-line summary
@@ -129,3 +132,7 @@ The paper does not meet the full bar. It demonstrates an algorithmic-level pheno
 - **Named models or frameworks**: Sequenceness measure (cross-correlation on decoded state probability time series); lasso-regularised logistic regression classifier; cognitive map / state-space framework; Dyna (offline planning by Sutton 1991).
 - **Brain regions**: Posterior/occipital cortex, posterior temporal cortex, hippocampus (inferred/implicated).
 - **Keywords**: hippocampal replay, neural sequences, MEG decoding, non-spatial task, reverse sequenceness, state representations, cognitive map, planning, temporal compression, multivariate pattern analysis, sharp-wave ripples, model-based reinforcement learning.
+
+### Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]

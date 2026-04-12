@@ -48,6 +48,8 @@ key_citations:
   - dorrell2023_actionable_grid_constraints
   - butler2019_reward_locations_entorhinal_maps
   - boccara2019_grid_goal_attractor
+wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
 ---
 
 ### One-line summary
@@ -178,3 +180,6 @@ Therefore, this paper does not fully meet the bar: it develops a normative compu
 - Dorsal visual stream (where pathway)
 
 **Keywords**: modularity, mixed selectivity, nonnegative representations, energy efficiency, range independence, source support, disentangled representations, grid cells, entorhinal cortex, recurrent neural networks, linear autoencoder, convex hull modularisation condition
+
+### Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]

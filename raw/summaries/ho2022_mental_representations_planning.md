@@ -44,6 +44,9 @@ keywords:
   - representations
 key_citations:
   - gershman2018_successor_representation_learning
+wiki_pages:
+  - wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+  - wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
 ---
 
 ### One-line summary
@@ -162,3 +165,7 @@ The paper does not meet the bar for mechanistic insight as defined here. It prop
 **Brain regions**: None (purely behavioural/computational paper)
 
 **Keywords**: value-guided construal, task representation, resource rationality, planning, Markov decision process, bounded rationality, cognitive control, problem solving, attention and memory, maze navigation, description length, sparsity, heuristic search, successor representation, nested optimisation
+
+### Related wiki pages
+- [[wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control|Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control]]
+- [[wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding|Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding]]
