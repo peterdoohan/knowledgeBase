@@ -24,6 +24,10 @@ core_papers:
   - ciaramelli2008_vmPFC_navigation_wayfinding
   - constantinescu2016_gridlike_conceptual_knowledge
   - dorrell2022_actionable_grid_cells
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 # Grid cells as a mechanism for path integration
@@ -97,6 +101,11 @@ So the best current synthesis is: grid cells likely participate in path integrat
 - [[raw/summaries/constantinescu2016_gridlike_conceptual_knowledge|Constantinescu et al. 2016]] — key evidence that grid-like coding generalizes beyond physical navigation.
 - [[raw/summaries/butler2019_reward_locations_entorhinal_maps|Butler et al. 2019]] — shows reward and task context can restructure entorhinal spatial maps, arguing against a purely fixed metric role.
 - [[raw/summaries/pettersen2024_self_supervised_grid_cells|Pettersen et al. 2024]] — sharp recent challenge: grid cells can emerge without path integration, and band-like units may be more causally important for integration in trained networks.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Link A to B where predictive-map/SR theories reinterpret grid-cell structure as coding transition geometry rather than serving primarily as a path-integration engine; link B back to A as the mechanistic spatial-navigation test case for predictive-map claims.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Crosslink A→B as the specialized debate on the path-integration interpretation of grid cells; crosslink B→A for the broader cognitive-map context including place coding, replay, barriers/goals, and non-grid navigation systems.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]: From Page A, link the grid-cell/path-integration section to Page B for the mechanistic controversy; from Page B, link back to Page A for the broader cognitive-map architecture in which grid-cell path integration is embedded.
 
 ## Source papers
 - [[raw/summaries/burak2009_path_integration_grid_cells|Burak and Fiete 2009]] | [[raw/mds/burak2009_path_integration_grid_cells|source md]]: Accurate Path Integration in Continuous Attractor Network Models of Grid Cells

@@ -1,0 +1,885 @@
+generated_at: "2026-04-12T20:25:24.684301+00:00"
+prompt_version: wiki-overlap-audit-v1
+candidate_pair_count: 31
+judged_pair_count: 31
+decision_counts:
+  keep_distinct_with_crosslink: 31
+entries:
+  -
+    pair_id: cognitive_maps__01__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 17
+    jaccard: 0.202
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Neural evidence for hippocampal–entorhinal cognitive maps in spatial navigation: place cells, grid cells, replay, barrier/goal sensitivity, and interactions with prefrontal/striatal systems."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Predictive-map theory of hippocampal coding: successor representation, policy-dependent future occupancy, replay-based updating, and extension toward generalization/abstract relational structure."
+    crosslink_angle: "Crosslink A -> B as the main computational interpretation of hippocampal–entorhinal map coding; crosslink B -> A as the broader empirical/navigation evidence base and boundary conditions for predictive-map accounts."
+    rationale_short: "Page A is a broader empirical systems-neuroscience page on hippocampal–entorhinal spatial mapping in navigation, while Page B is a narrower computational/theoretical page centered on predictive-map and successor-representation interpretations. They overlap substantially but the distinction is still meaningful and useful if made explicit."
+    shared_papers:
+      - decothi2022_predictive_spatial_navigation
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - epstein2017_cognitive_maps_humans
+      - hartley2003_wayfinding_route
+      - ito2018_prefrontal_hippocampal_navigation
+      - kim2026_hippocampus_smallworld
+      - patai2021_prefrontal_spatial_navigation
+      - redish2016_vicarious_trial_error_b
+      - russek2017_model_based_reinforcement
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - spiers2015_detour_problem_navigation
+      - stachenfeld2017_hippocampus_predictive_map
+      - stoianov2020_hierarchical_generative_model
+  -
+    pair_id: cognitive_maps__02__grid_cells_and_path_integration__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 17
+    jaccard: 0.258
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__02
+      title: "Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+      focus: "Hippocampal–entorhinal cognitive maps as a broader framework: place cells, grid cells, remapping, replay, and predictive/metric spatial representations."
+    page_b:
+      subtopic_id: grid_cells_and_path_integration__01
+      title: "Grid cells as a mechanism for path integration"
+      path: wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+      focus: "Mechanistic debate over grid cells specifically as a path-integration substrate versus one representational format among several."
+    crosslink_angle: "From Page A, link the grid-cell/path-integration section to Page B for the mechanistic controversy; from Page B, link back to Page A for the broader cognitive-map architecture in which grid-cell path integration is embedded."
+    rationale_short: "Page A is a broad canonical systems-level overview of hippocampal–entorhinal cognitive maps, while Page B is a narrower debate about whether grid cells are the primary biological mechanism for path integration. The overlap is substantive but hierarchical, not redundant."
+    shared_papers:
+      - bush2015_grid_cells_navigation_vector
+      - foster2017_replay_memory_consolidation
+      - iyer2024_grid_cells_abstract_velocity
+      - kleinflugge2022_medial_orbital_frontal
+      - manns2009_cognitive_map_object_memory
+      - moser2008_place_cells_grid_cells
+      - neupane2022_mental_navigation_entorhinal
+      - nyberg2022_spatial_goal_coding
+      - pettersen2024_self_supervised_grid_cells
+      - pfeiffer2017_hippocampal_replay_memory
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - schaeffer_grid_cell_pathintegration
+      - sorscher2022_grid_cells_path_integration
+      - stella2019_hippocampal_reactivation_brownian
+  -
+    pair_id: hippocampal_prefrontal_coordination_and_planning__03__hippocampal_replay__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 15
+    jaccard: 0.366
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__03
+      title: "Hippocampal sharp-wave ripple replay and prefrontal coordination during planning"
+      path: wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+      focus: "Awake SWR-linked hippocampal replay as coordinated with medial prefrontal population activity during non-local representation, planning, and memory-guided choice."
+    page_b:
+      subtopic_id: hippocampal_replay__01
+      title: "Sharp-wave ripple-associated hippocampal replay"
+      path: wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+      focus: "Core hippocampal sharp-wave ripple-associated replay: CA3/CA1 sequence reactivation, decoding, mechanisms, and links to memory consolidation and planning more generally."
+    crosslink_angle: "From Page B, link to Page A as the main page on prefrontal coordination and planning-related interpretation of replay; from Page A, link back to Page B for the underlying SWR/replay phenomenon, methods, and broader evidence base."
+    rationale_short: "Page B is the broader canonical page on hippocampal SWR replay itself, while Page A is a narrower systems-level page on how SWR/replay couples to mPFC ensembles during planning and memory-guided choice. The overlap is substantial but reflects a specific application/interface, not a duplicate scope."
+    shared_papers:
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - foster2017_replay_memory_consolidation
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+      - mckenzie2022_hippocampal_replay
+      - olafsdottir2015_place_cells_reward
+      - schmidt2021_mpfc_swr_dreadd
+      - shin2019_hippocampal_prefrontal_replay
+      - singer2009_reward_reactivation_hippocampus
+      - tang2021_multiple_timescales_decision_making
+      - yu2015_hippocampal_cortical_interaction
+      - yu2025_theta_sweeps_goal_direction
+  -
+    pair_id: cognitive_maps__02__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 14
+    jaccard: 0.171
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__02
+      title: "Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+      focus: "Neural and spatial systems account of hippocampal–entorhinal cognitive maps, especially place cells, grid cells, remapping, replay, and path integration in physical space."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Computational/predictive account of hippocampal maps, emphasizing successor representations, expected future occupancy, replay as model updating/evaluation, and links to generalization beyond navigation."
+    crosslink_angle: "Crosslink A -> B as the predictive/computational interpretation of hippocampal–entorhinal maps; crosslink B -> A as the core empirical spatial-cell and path-integration evidence base that constrains predictive-map claims."
+    rationale_short: "The pages overlap around hippocampal–entorhinal mapping and replay, but Page A is the canonical spatial/neural systems account (place cells, grid cells, remapping, path integration), whereas Page B is a narrower computational-theory page centered on predictive maps and successor-representation-style interpretations. The distinction is substantive enough to keep both, but readers need an explicit bridge because replay, grid codes, and cognitive-map language appear in both."
+    shared_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - garvert2017_relational_knowledge_maps
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - liu2019_human_replay_reorganizes
+      - mattar2022_planning_brain
+      - nyberg2022_spatial_goal_coding
+      - pfeiffer2017_hippocampal_replay_memory
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - raju2022_space_sequence
+      - samborska2021_hippocampus_prefrontal_gen
+      - velasco2025_decision_precaching_planning
+      - veselic2025_cognitive_map_value_vmPFC
+  -
+    pair_id: grid_cells_and_path_integration__01__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 13
+    jaccard: 0.144
+    same_parent_topic: false
+    page_a:
+      subtopic_id: grid_cells_and_path_integration__01
+      title: "Grid cells as a mechanism for path integration"
+      path: wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+      focus: "Whether entorhinal grid cells are the primary neural mechanism for path integration versus one representational format among several."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Whether hippocampal-entorhinal circuits encode predictive maps of state transitions, integrating place cells, grid-like codes, successor representation, and replay."
+    crosslink_angle: "Link A to B where predictive-map/SR theories reinterpret grid-cell structure as coding transition geometry rather than serving primarily as a path-integration engine; link B back to A as the mechanistic spatial-navigation test case for predictive-map claims."
+    rationale_short: "The pages ask different canonical questions: Page A is a focused debate over whether grid cells biologically implement path integration, while Page B is a broader theory page about predictive coding over state space linking place cells, grid-like bases, successor representations, and replay. They overlap mainly where predictive-map accounts are an alternative to pure path-integration accounts of grid cells, so separation is justified but an explicit bridge is useful."
+    shared_papers:
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - epstein2017_cognitive_maps_humans
+      - ito2018_prefrontal_hippocampal_navigation
+      - kleinflugge2022_medial_orbital_frontal
+      - nyberg2022_spatial_goal_coding
+      - pfeiffer2017_hippocampal_replay_memory
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - stachenfeld2017_hippocampus_predictive_map
+      - whittington2019_bayesian_learning_brain
+  -
+    pair_id: cognitive_maps__01__grid_cells_and_path_integration__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 12
+    jaccard: 0.158
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Broad neural-circuit account of cognitive maps spanning place cells, grid cells, replay, predictive-map theories, and interaction with prefrontal/striatal systems."
+    page_b:
+      subtopic_id: grid_cells_and_path_integration__01
+      title: "Grid cells as a mechanism for path integration"
+      path: wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+      focus: "Focused debate on grid cells as a biological mechanism for path integration versus a more general representational code."
+    crosslink_angle: "Crosslink A→B as the specialized debate on the path-integration interpretation of grid cells; crosslink B→A for the broader cognitive-map context including place coding, replay, barriers/goals, and non-grid navigation systems."
+    rationale_short: "Page A is a broad circuit-level topic on hippocampal–entorhinal cognitive mapping, while Page B is a narrower mechanistic debate about whether grid cells specifically implement path integration. The overlap is real but hierarchical rather than duplicative."
+    shared_papers:
+      - butler2019_reward_locations_entorhinal_maps
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - epstein2017_cognitive_maps_humans
+      - fiete2008_grid_cells_position
+      - ito2018_prefrontal_hippocampal_navigation
+      - long2024_border_cells_prefrontal
+      - patai2021_versatile_wayfinder_prefrontal
+      - stachenfeld2017_hippocampus_predictive_map
+      - tang2024_learning_grid_cells_predictive
+      - wen2024_entorhinal_maps_navigation_b
+      - whittington2019_bayesian_learning_brain
+  -
+    pair_id: hippocampal_prefrontal_coordination_and_planning__01__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 12
+    jaccard: 0.169
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+      title: "Hippocampal–prefrontal replay in planning"
+      path: wiki/topics/hippocampal_prefrontal_replay_in_planning
+      focus: "Whether and how hippocampal replay coordinates with PFC task/state/value representations to support planning and choice."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "The theory that hippocampal–entorhinal circuits encode predictive maps over states, integrating place/grid coding, successor representation, and replay."
+    crosslink_angle: "Crosslink from B to A as the distributed-planning/use-of-replay page: predictive-map and replay accounts in hippocampus may supply candidate sequences, while A covers how prefrontal systems may read out, constrain, or coordinate those sequences for planning."
+    rationale_short: "Page A is a systems-level question about coordinated hippocampal–prefrontal replay and its role in planning, while Page B is a representational/computational account of hippocampal–entorhinal predictive maps linking place cells, grid codes, successor representation, and replay. They overlap on replay and predictive-sequence ideas, but the core explanatory targets differ enough to keep both pages separate."
+    shared_papers:
+      - comrie2024_hippocampal_representations
+      - kurth_nelson2023_replay_compositional_b
+      - mattar2022_planning_brain
+      - momennejad2020_successor_representations_replay
+      - patai2021_prefrontal_spatial_navigation
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - redish2016_vicarious_trial_error_b
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - wientjes2024_successor_representation
+  -
+    pair_id: behavioral_paradigms_and_navigation_tasks__01__prefrontal_goal_representation_and_control__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 11
+    jaccard: 0.306
+    same_parent_topic: false
+    page_a:
+      subtopic_id: behavioral_paradigms_and_navigation_tasks__01
+      title: "Hippocampal–prefrontal mechanisms of route planning and detour navigation"
+      path: wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+      focus: "Hippocampal–prefrontal interaction during route selection, replanning, detours, and planning-versus-habit arbitration in navigation tasks."
+    page_b:
+      subtopic_id: prefrontal_goal_representation_and_control__01
+      title: "Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory"
+      path: wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+      focus: "Medial prefrontal cortex representations and control signals for goal-directed navigation and spatial working memory, including hippocampal/thalamic circuit mechanisms."
+    crosslink_angle: "Link A to B for readers wanting a deeper treatment of mPFC-specific goal representation, policy updating, and spatial working-memory evidence; link B to A for the navigation-task context where mPFC functions are expressed as route planning and detour behavior."
+    rationale_short: "The pages overlap around prefrontal contributions to flexible navigation, but their core scopes differ: Page A is a task/system-level account of hippocampal–prefrontal interactions in route planning and detours, while Page B is a region-centered account of mPFC goal/control functions across navigation and spatial working memory."
+    shared_papers:
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - dahmani2015_prefrontal_navigation_strategies
+      - farzanfar2023_cognitive_maps_spatial
+      - hartley2003_wayfinding_route
+      - ito2015_prefrontal_thalamic_hippocampus
+      - long2024_border_cells_prefrontal
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schmidt2021_mpfc_swr_dreadd
+      - spiers2015_detour_problem_navigation
+      - yu2025_theta_sweeps_goal_direction
+  -
+    pair_id: hippocampal_prefrontal_coordination_and_planning__03__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 9
+    jaccard: 0.127
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__03
+      title: "Hippocampal sharp-wave ripple replay and prefrontal coordination during planning"
+      path: wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+      focus: "Awake sharp-wave ripple replay and coordinated mPFC ensemble activity in memory-guided choice and planning."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Predictive-map theory of hippocampal-entorhinal coding, linking place/grid cells, successor representation, and replay to navigation and generalization."
+    crosslink_angle: "Crosslink via replay: from Page A to Page B for the theoretical interpretation of replay as predictive/non-local state representation, and from Page B to Page A for evidence that replay interfaces with prefrontal planning circuits during choice."
+    rationale_short: "The pages operate at different levels: Page A is a circuit/physiology page about awake SWR-linked hippocampus–mPFC coordination during planning, while Page B is a broader conceptual/computational page about hippocampal predictive maps, successor representation, and replay. Replay is the overlap, but not enough to collapse the distinction."
+    shared_papers:
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - liu2019_human_replay_reorganizes
+      - mckenzie2022_hippocampal_replay
+      - pfeiffer2017_hippocampal_replay_memory
+      - schmidt2021_mpfc_swr_dreadd
+      - singer2009_reward_reactivation_hippocampus
+  -
+    pair_id: cognitive_maps__01__hippocampal_prefrontal_coordination_and_planning__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 9
+    jaccard: 0.153
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Hippocampal–entorhinal spatial/predictive map mechanisms: place cells, grid cells, replay, barriers/goals, and map-level theories of navigation."
+    page_b:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+      title: "Hippocampal–prefrontal replay in planning"
+      path: wiki/topics/hippocampal_prefrontal_replay_in_planning
+      focus: "Coordinated hippocampal–prefrontal replay and complementary representations in planning, inference, and choice."
+    crosslink_angle: "Crosslink from A's replay/planning sections to B for how replay is used in decision-making via PFC; crosslink from B back to A for the representational substrate and map-theoretic background of replay content."
+    rationale_short: "Page A is a broader neural-cognitive-map page centered on hippocampal–entorhinal representations and theories; Page B is a narrower systems/planning page about how hippocampal replay interfaces with prefrontal task-state representations. The overlap is real around replay and planning, but not strong enough to collapse the pages."
+    shared_papers:
+      - kurth2023_replay_compositional_computation
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - redish2016_vicarious_trial_error_b
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - whittington2022_cognitive_map_b
+      - wijnen2024_maze_learning
+      - wikenheiser2016_cognitive_maps_hippocampus
+  -
+    pair_id: behavioral_paradigms_and_navigation_tasks__01__cognitive_maps__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 9
+    jaccard: 0.164
+    same_parent_topic: false
+    page_a:
+      subtopic_id: behavioral_paradigms_and_navigation_tasks__01
+      title: "Hippocampal–prefrontal mechanisms of route planning and detour navigation"
+      path: wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+      focus: "Systems-level interaction between hippocampus and prefrontal cortex in goal maintenance, replanning, subgoals, and detour behavior across navigation tasks."
+    page_b:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Hippocampal–entorhinal representational substrate for cognitive maps, including place cells, grid cells, replay, and predictive-map/successor-representation accounts."
+    crosslink_angle: "Link B -> A as 'how cognitive-map representations are recruited for flexible route planning and detours'; link A -> B as 'representational mechanisms in hippocampal–entorhinal circuits that may supply planning-relevant spatial structure.'"
+    rationale_short: "The pages overlap around navigation and hippocampal contributions, but they answer different editorial questions: Page A is about hippocampal–prefrontal coordination during flexible route planning and detours, while Page B is about hippocampal–entorhinal map representations and coding models (place/grid/replay). The distinction is strong enough to keep both canonical, but readers need explicit links between map representations and their use in planning."
+    shared_papers:
+      - ekstrom2003_spatial_navigation
+      - hartley2003_wayfinding_route
+      - long2024_border_cells_prefrontal
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - spiers2015_detour_problem_navigation
+      - watrous2018_phase_tuned_navigation_goals
+      - wikenheiser2015_theta_sequences_goals
+      - yu2015_hippocampal_cortical_interaction
+  -
+    pair_id: ofc_task_state_and_value_maps__03__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 9
+    jaccard: 0.15
+    same_parent_topic: false
+    page_a:
+      subtopic_id: ofc_task_state_and_value_maps__03
+      title: "Orbitofrontal cortex as a cognitive map of hidden task state"
+      path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
+      focus: "OFC representations of hidden/task-relevant latent state used for inference, credit assignment, and flexible decision-making."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Hippocampal-entorhinal predictive map accounts linking place/grid codes, successor representation ideas, and replay in navigation and generalization."
+    crosslink_angle: "Link as complementary map frameworks: Page A should point to Page B for the broader predictive/cognitive-map background, while Page B should point to Page A as a distinct prefrontal application emphasizing partially observable task-state coding rather than canonical spatial/SR mapping."
+    rationale_short: "The pages make different core claims about different systems: OFC as representing latent, partially observable task state for flexible choice versus hippocampal-entorhinal circuits as predictive/spatial maps shaped by transitions, policy, and replay. They overlap mainly through the broader cognitive-map framing, so they should remain separate but explicitly linked to prevent readers from treating the hippocampal predictive-map literature as direct proof of the OFC claim."
+    shared_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - brunec2022_predictive_representations_hierarchies
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - garvert2017_relational_knowledge_maps
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - schuck2016_orbitofrontal_cortex_state
+      - veselic2025_cognitive_map_value_vmPFC
+  -
+    pair_id: ofc_task_state_and_value_maps__01__striatal_and_dopaminergic_reinforcement_learning__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 9
+    jaccard: 0.225
+    same_parent_topic: false
+    page_a:
+      subtopic_id: ofc_task_state_and_value_maps__01
+      title: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+      path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+      focus: "Whether OFC encodes latent/task-state structure that supports flexible, devaluation-sensitive, model-based choice."
+    page_b:
+      subtopic_id: striatal_and_dopaminergic_reinforcement_learning__01
+      title: "Goal-directed vs habitual control in corticostriatal reinforcement learning"
+      path: wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+      focus: "How goal-directed and habitual control map onto model-based/model-free RL and corticostriatal circuit dissociations."
+    crosslink_angle: "Link Page B's goal-directed/model-based section to Page A as a candidate representational mechanism for state inference in flexible control; link Page A back to Page B for the broader debate on how such state representations relate to goal-directed versus habitual behavior."
+    rationale_short: "Page A is a mechanism-level account of OFC state representation in model-based valuation, while Page B is a systems/debate page about goal-directed versus habitual control across corticostriatal circuits. They overlap through model-based RL but answer different editorial questions."
+    shared_papers:
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - daw2005_uncertainty_prefrontal_striatal
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - knudsen2022_ofc_cognitive_map
+      - mattar2022_planning_brain
+      - redish2016_vicarious_trial_error_b
+  -
+    pair_id: cognitive_maps__01__schemas_and_generalization__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 8
+    jaccard: 0.151
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Neural substrate and theory of cognitive maps in the hippocampal-entorhinal circuit, including place cells, grid cells, replay, and predictive/planning accounts of navigation."
+    page_b:
+      subtopic_id: schemas_and_generalization__02
+      title: "Hippocampal replay and schema-guided generalization"
+      path: wiki/topics/hippocampal_replay_and_schema_guided_generalization
+      focus: "Hippocampal replay as generative relational sampling that supports shortcutting, rerouting, and schema-guided generalization across spatial and partly non-spatial tasks."
+    crosslink_angle: "Crosslink via a shared 'replay' section: from Page A to Page B for replay as a generalization/inference mechanism, and from Page B to Page A for the hippocampal-entorhinal map codes and navigation framework that replay operates over."
+    rationale_short: "The pages overlap around hippocampal replay in navigation, but their canonical centers differ: Page A is about the hippocampal-entorhinal cognitive map system and competing map theories, while Page B is about replay as a mechanism for schema-guided inference and generalization. The distinction is strong enough to keep both, but readers need an explicit bridge where replay connects spatial mapping to relational generalization."
+    shared_papers:
+      - duvelle2023_temporal_hippocampal_inference
+      - kurth2023_replay_compositional_computation
+      - patai2021_versatile_wayfinder_prefrontal
+      - tacikowski2024_temporal_structure_hippocampal
+      - whittington2022_cognitive_map_b
+      - widloski2022_hippocampal_replay_barriers
+      - wijnen2024_maze_learning
+      - wikenheiser2015_theta_sequences_goals
+  -
+    pair_id: hippocampal_prefrontal_coordination_and_planning__02__prefrontal_goal_representation_and_control__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 8
+    jaccard: 0.195
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__02
+      title: "Prospective spatial coding in hippocampal–medial prefrontal circuits"
+      path: wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+      focus: "Hippocampal–mPFC coordination mechanisms for prospective spatial representations, especially CA1 trajectory/goal coding, theta coupling, and mPFC→NR→CA1 effects."
+    page_b:
+      subtopic_id: prefrontal_goal_representation_and_control__01
+      title: "Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory"
+      path: wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+      focus: "The broader role of mPFC in goal-directed spatial navigation and spatial working memory, including flexible control, policy/destination maintenance, and only partly its interactions with hippocampal circuits."
+    crosslink_angle: "From Page B, link to Page A as the dedicated subpage on hippocampal–prefrontal prospective coding during navigation; from Page A, link back to Page B for the wider mPFC functional context beyond prospective coding."
+    rationale_short: "Page A is a narrow circuit-level account of prospective spatial coding in hippocampal–mPFC coordination, while Page B is a broader mPFC-centered page on goal-directed navigation and spatial working memory. The overlap is real but mostly because prospective coding is one important subtheme within the broader mPFC topic."
+    shared_papers:
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - hok2013_prefrontal_place_cells
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+      - martinet2011_spatial_learning_action_planning
+  -
+    pair_id: hippocampal_replay__01__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 8
+    jaccard: 0.095
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_replay__01
+      title: "Sharp-wave ripple-associated hippocampal replay"
+      path: wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+      focus: "Mechanisms, decoding, timing, and causal roles of CA3-CA1 sharp-wave ripple-associated replay during awake immobility and non-REM sleep."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Predictive-map theory linking place/grid codes, successor representations, and replay to navigation, generalization, and relational structure."
+    crosslink_angle: "Link A -> B on how SWR replay may implement offline updating/prospective evaluation in predictive-map accounts; link B -> A for the main empirical evidence and limits of replay as a mechanism within predictive-map theory."
+    rationale_short: "Page A is a specific empirical phenomenon/state-bound neural event class (hippocampal replay during SWRs), while Page B is a broader computational theory of hippocampal-entorhinal coding (predictive maps/SR) that uses replay as one mechanism among several. They overlap meaningfully, but not enough to collapse into one canonical page."
+    shared_papers:
+      - bein2024_schemas_reinforcement_learning_pfc
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - fujisawa2022_replays_social_information
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - mckenzie2022_hippocampal_replay
+      - schmidt2021_mpfc_swr_dreadd
+      - singer2009_reward_reactivation_hippocampus
+  -
+    pair_id: predictive_maps_and_successor_representation__02__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 8
+    jaccard: 0.129
+    same_parent_topic: false
+    page_a:
+      subtopic_id: predictive_maps_and_successor_representation__02
+      title: "Successor representation as a predictive map for flexible planning"
+      path: wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
+      focus: "Algorithmic role of successor representation in flexible planning, revaluation, and its extensions/limits relative to model-free and model-based RL."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Hippocampal–entorhinal predictive-map theory connecting place cells, grid-like codes, and replay to spatial and relational cognition."
+    crosslink_angle: "Crosslink on 'successor representation as the computational formalism behind hippocampal predictive-map hypotheses' and on 'replay/one-step model mechanisms that address vanilla SR limits in planning and neural implementation.'"
+    rationale_short: "The pages overlap around successor representation and predictive structure, but they answer different canonical questions: Page A is a computational/planning account of SR and its limits, while Page B is a neural-systems account linking hippocampal–entorhinal coding, place/grid cells, and replay to predictive maps. The distinction is strong enough to keep both, but readers need explicit navigation between algorithmic and circuit-level treatments."
+    shared_papers:
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - raju2022_space_sequence
+      - russek2017_model_based_reinforcement
+      - sagiv_experience_replay_prioritization
+      - spiers2015_detour_problem_navigation
+      - velasco2025_decision_precaching_planning
+      - wientjes2024_successor_representation
+  -
+    pair_id: cognitive_maps__01__prefrontal_goal_representation_and_control__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 7
+    jaccard: 0.113
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Neural map representations in hippocampal-entorhinal circuitry, including place cells, grid cells, replay, and predictive/policy-sensitive map theories."
+    page_b:
+      subtopic_id: prefrontal_goal_representation_and_control__01
+      title: "Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory"
+      path: wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+      focus: "mPFC contributions to goal-directed navigation and spatial working memory, especially flexible control, prospective coding, rule updating, and hippocampal-thalamic interactions."
+    crosslink_angle: "Link via hippocampal-prefrontal coordination in flexible navigation: how cognitive-map representations are recruited, read out, or reshaped by mPFC during goal selection, replanning, detours, and replay-guided decisions."
+    rationale_short: "The pages cover different canonical levels: Page A is about the hippocampal-entorhinal map code itself (place/grid/replay and predictive-map theories), while Page B is about medial prefrontal control and goal maintenance during flexible navigation. They overlap mainly at hippocampal-prefrontal interaction points, which argues for explicit crosslinking rather than merging."
+    shared_papers:
+      - hartley2003_wayfinding_route
+      - hok2013_prefrontal_place_cells
+      - long2024_border_cells_prefrontal
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - spiers2008_prefrontal_goal_navigation
+      - spiers2015_detour_problem_navigation
+  -
+    pair_id: cognitive_maps__01__hippocampal_replay__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 7
+    jaccard: 0.1
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Neural basis of cognitive maps across hippocampus and entorhinal cortex, including place cells, grid cells, replay, predictive-map accounts, and interactions with prefrontal/striatal systems."
+    page_b:
+      subtopic_id: hippocampal_replay__01
+      title: "Sharp-wave ripple-associated hippocampal replay"
+      path: wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+      focus: "SWR-associated hippocampal replay as a specific CA3–CA1 sequence reactivation phenomenon, including decoding, consolidation, planning, and causal manipulation evidence."
+    crosslink_angle: "Crosslink A→B for the detailed replay mechanism underlying one component of cognitive-map function; crosslink B→A for the broader theoretical context of how replay contributes to map-like representation, navigation, and planning."
+    rationale_short: "Page A is a broader systems/theory page on hippocampal–entorhinal cognitive maps, while Page B is a narrower mechanistic page on one replay phenomenon specifically tied to sharp-wave ripples. The overlap is real but hierarchical, not duplicative."
+    shared_papers:
+      - duvelle2023_temporal_hippocampal_inference
+      - epsztein2022_mental_replays_navigation
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kurth_nelson2016_sequences_non_spatial
+      - mcnaughton2022_route_cognitive_map
+      - patai2021_versatile_wayfinder_prefrontal
+      - yu2015_hippocampal_cortical_interaction
+  -
+    pair_id: behavioral_paradigms_and_navigation_tasks__01__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 7
+    jaccard: 0.097
+    same_parent_topic: false
+    page_a:
+      subtopic_id: behavioral_paradigms_and_navigation_tasks__01
+      title: "Hippocampal–prefrontal mechanisms of route planning and detour navigation"
+      path: wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+      focus: "Behavioral and neural mechanisms of flexible route selection, replanning, detours, and hippocampal–prefrontal coordination during navigation tasks."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Computational and representational accounts of hippocampal–entorhinal predictive coding, including place cells, grid structure, successor representations, and replay."
+    crosslink_angle: "Link A -> B for predictive-map theories of spatial prospecting that may support route planning; link B -> A for the limits of SR/predictive maps in detour and transition-revaluation settings, where prefrontal goal maintenance, subgoaling, and strategy arbitration become critical."
+    rationale_short: "The pages operate at different explanatory levels: Page A is a task- and circuit-focused account of route planning/detour behavior centered on hippocampal–prefrontal interaction, while Page B is a representational/computational theory page about hippocampal predictive maps, SR, and replay. They overlap on how predictive spatial structure supports navigation, but the distinction is strong enough to keep both canonical entries."
+    shared_papers:
+      - farzanfar2023_cognitive_maps_spatial
+      - hartley2003_wayfinding_route
+      - kleinflugge2022_medial_orbital_frontal
+      - mugan_redish2024_environmental_complexity_decision
+      - patai2021_prefrontal_spatial_navigation
+      - schmidt2021_mpfc_swr_dreadd
+      - spiers2015_detour_problem_navigation
+  -
+    pair_id: cognitive_maps__01__hippocampal_prefrontal_coordination_and_planning__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 6
+    jaccard: 0.1
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__01
+      title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+      path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+      focus: "Hippocampal–entorhinal map representations and models: place cells, grid cells, replay, predictive/successor-map accounts, and policy-sensitive spatial coding."
+    page_b:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__02
+      title: "Prospective spatial coding in hippocampal–medial prefrontal circuits"
+      path: wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+      focus: "Prospective route/goal/choice coding and online coordination between CA1 and medial prefrontal cortex, including theta coupling and mPFC→NR→CA1 pathway evidence."
+    crosslink_angle: "Cross-link where Page A discusses goal/task-sensitive cognitive maps and replay-based planning, pointing readers to Page B for how prefrontal circuits coordinate or read out hippocampal map content for prospective navigation decisions."
+    rationale_short: "Page A is a broad circuit-level account of hippocampal–entorhinal map representations and theories; Page B is a narrower systems/interactions page on prospective coding during navigation in hippocampal–mPFC circuits. They overlap at goal-sensitive and planning-related navigation, but the distinction is strong enough to keep both canonical pages."
+    shared_papers:
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - ito2018_prefrontal_hippocampal_navigation
+      - long2024_border_cells_prefrontal
+      - russek2017_model_based_reinforcement
+      - stoianov2020_hierarchical_generative_model
+  -
+    pair_id: hippocampal_prefrontal_coordination_and_planning__01__predictive_maps_and_successor_representation__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 6
+    jaccard: 0.194
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+      title: "Hippocampal–prefrontal replay in planning"
+      path: wiki/topics/hippocampal_prefrontal_replay_in_planning
+      focus: "Empirical and mechanistic evidence for content-specific hippocampal–prefrontal coordination/replay supporting planning and choice."
+    page_b:
+      subtopic_id: predictive_maps_and_successor_representation__02
+      title: "Successor representation as a predictive map for flexible planning"
+      path: wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
+      focus: "Successor representation and related predictive-map accounts as computational frameworks for replanning, revaluation, and flexible decision making."
+    crosslink_angle: "Crosslink on replay as a possible implementation or complement to SR/predictive maps: Page A can point to SR/linear-RL as theories of what replay may compute, while Page B can point to hippocampal–prefrontal replay as candidate neural circuitry for predictive-map-based planning."
+    rationale_short: "Page A is a systems-neuroscience question about coordinated hippocampal–PFC replay during planning, whereas Page B is a computational theory page about successor representation and related predictive-map formalisms for flexible planning. They overlap through replay/predictive-map mechanisms, but the canonical subjects are distinct."
+    shared_papers:
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - piray2025_compositional_cognitive_map
+      - sagiv_experience_replay_prioritization
+      - whittington2022_cognitive_map_b
+      - wientjes2024_successor_representation
+  -
+    pair_id: ofc_task_state_and_value_maps__01__schemas_and_generalization__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 6
+    jaccard: 0.078
+    same_parent_topic: false
+    page_a:
+      subtopic_id: ofc_task_state_and_value_maps__01
+      title: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+      path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+      focus: "Orbitofrontal cortex representations of hidden/task state that support model-based choice and revaluation."
+    page_b:
+      subtopic_id: schemas_and_generalization__01
+      title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+      path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+      focus: "Hippocampal-entorhinal predictive state-space maps linking place/grid codes, successor representation, and replay."
+    crosslink_angle: "Link via 'cognitive maps for model-based reinforcement learning': compare OFC latent-state/task-state coding with hippocampal predictive/SR maps, and note their interaction in planning, revaluation, and hippocampal-prefrontal-striatal circuits."
+    rationale_short: "These pages target different canonical systems and representational claims: OFC as a latent task-state code for flexible valuation versus hippocampal-entorhinal predictive maps built from place/grid coding, successor representations, and replay. The overlap is real but mostly at the level of broader cognitive-map/model-based-RL framing, so a strong bidirectional crosslink is preferable to merger."
+    shared_papers:
+      - bein2024_schemas_reinforcement_learning_pfc
+      - mattar2022_planning_brain
+      - momennejad2017_successor_representation_humans
+      - odoherty2017_learning_reward_decision
+      - redish2016_vicarious_trial_error_b
+      - wilson2013_ofc_cognitive_map
+  -
+    pair_id: ofc_task_state_and_value_maps__01__striatal_and_dopaminergic_reinforcement_learning__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 6
+    jaccard: 0.158
+    same_parent_topic: false
+    page_a:
+      subtopic_id: ofc_task_state_and_value_maps__01
+      title: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+      path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+      focus: "OFC-specific account of latent task-state / cognitive-map representations as support for model-based valuation, devaluation, reversal, and planning."
+    page_b:
+      subtopic_id: striatal_and_dopaminergic_reinforcement_learning__02
+      title: "Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning"
+      path: wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
+      focus: "Systems-level account of hidden-state inference in reinforcement learning, emphasizing OFC–hippocampal representations and their influence on striatal learning and dopamine prediction errors."
+    crosslink_angle: "Crosslink A -> B for hippocampal contributions, hidden-state inference, and downstream striatal/dopamine consequences; crosslink B -> A for the OFC-specific evidence base and the model-based valuation interpretation of OFC task-state maps."
+    rationale_short: "The pages overlap on latent task-state coding in OFC, but Page A is an OFC-centered theory page about cognitive maps supporting model-based choice, whereas Page B is a broader circuit page on hidden-state inference across OFC, hippocampus, and downstream striatal/dopamine learning."
+    shared_papers:
+      - jeong2022_mesolimbic_dopamine_causal
+      - loosen2020_computational_psychiatry_ocd
+      - mishchanchuk2024_hidden_state_inference
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - wilson2013_ofc_cognitive_map
+  -
+    pair_id: schemas_and_generalization__02__striatal_and_dopaminergic_reinforcement_learning__05
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 5
+    jaccard: 0.192
+    same_parent_topic: false
+    page_a:
+      subtopic_id: schemas_and_generalization__02
+      title: "Hippocampal replay and schema-guided generalization"
+      path: wiki/topics/hippocampal_replay_and_schema_guided_generalization
+      focus: "Replay as a relational/model-based mechanism for nonlocal inference, shortcutting, rerouting, and schema-guided generalization across spatial and partly non-spatial settings."
+    page_b:
+      subtopic_id: striatal_and_dopaminergic_reinforcement_learning__05
+      title: "Reward-modulated hippocampal replay in spatial reinforcement learning"
+      path: wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
+      focus: "Replay as reward-modulated sequence activity in spatial tasks, especially reverse replay after outcomes, with implications for credit assignment, planning, and hippocampal interaction with striatal/dopaminergic RL."
+    crosslink_angle: "Crosslink around 'functional roles of hippocampal replay': Page A can point to reward modulation as a policy/value-related constraint on generative replay, while Page B can point to schema/generalization work as the broader model-based structure that replay may operate over."
+    rationale_short: "The pages emphasize different explanatory targets: Page A is about replay as generative relational sampling that supports schema-based generalization, while Page B is about reward-sensitive replay as a mechanism for credit assignment, planning, and links to RL. The overlap is real at the level of hippocampal replay broadly, but not strong enough to justify merging."
+    shared_papers:
+      - baram2021_entorhinal_ventromedial_rl
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - patai2021_versatile_wayfinder_prefrontal
+      - whittington2022_cognitive_map_b
+  -
+    pair_id: hippocampal_prefrontal_coordination_and_planning__01__schemas_and_generalization__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 5
+    jaccard: 0.132
+    same_parent_topic: false
+    page_a:
+      subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+      title: "Hippocampal–prefrontal replay in planning"
+      path: wiki/topics/hippocampal_prefrontal_replay_in_planning
+      focus: "How hippocampal replay interacts with prefrontal representations to support planning and choice."
+    page_b:
+      subtopic_id: schemas_and_generalization__02
+      title: "Hippocampal replay and schema-guided generalization"
+      path: wiki/topics/hippocampal_replay_and_schema_guided_generalization
+      focus: "How hippocampal replay samples structured relational knowledge to enable generalization, shortcuts, and flexible rerouting."
+    crosslink_angle: "Crosslink on replay as structured prospective simulation: Page B explains the relational/schema content replay may generate, while Page A explains how that content may be integrated with prefrontal task-state and control signals for planning."
+    rationale_short: "The pages cut across different axes: Page A is a circuit/systems question about hippocampal–prefrontal coordination during planning, while Page B is a computational/content question about replay supporting schema-based generalization. They overlap through cognitive-map and compositional replay ideas, but the distinction is still strong enough to keep both canonical pages separate."
+    shared_papers:
+      - kurth2023_replay_compositional_computation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2025_compositional_cognitive_map
+      - whittington2022_cognitive_map_b
+      - wijnen2024_maze_learning
+  -
+    pair_id: prefrontal_goal_representation_and_control__02__striatal_and_dopaminergic_reinforcement_learning__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 5
+    jaccard: 0.132
+    same_parent_topic: false
+    page_a:
+      subtopic_id: prefrontal_goal_representation_and_control__02
+      title: "Medial prefrontal cortex in rat goal-directed vs habitual control"
+      path: wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+      focus: "Rat medial prefrontal cortex subregional contributions to acquisition and expression of goal-directed vs habitual instrumental control, especially prelimbic/infralimbic dissociations in outcome devaluation paradigms."
+    page_b:
+      subtopic_id: striatal_and_dopaminergic_reinforcement_learning__01
+      title: "Goal-directed vs habitual control in corticostriatal reinforcement learning"
+      path: wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+      focus: "Broader corticostriatal reinforcement-learning account of goal-directed vs habitual control, including dorsomedial/dorsolateral striatal circuits and the debate over model-based/model-free mapping across animal and human evidence."
+    crosslink_angle: "Crosslink A -> B as the broader systems/computational framework for goal-directed vs habitual control; crosslink B -> A as a key rat mPFC case study showing how specific prefrontal nodes fit into, and complicate, the broader corticostriatal RL account."
+    rationale_short: "Page A is a narrow, rat mPFC subregion page centered on lesion/inactivation evidence for prelimbic vs infralimbic roles in devaluation-sensitive action and habit expression. Page B is a broader corticostriatal/computational debate page about goal-directed vs habitual control and its imperfect mapping onto model-based vs model-free reinforcement learning. They are clearly related but operate at different scopes and levels of analysis."
+    shared_papers:
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - dolan2013_goals_habits_brain_b
+      - keramati2016_plan_until_habit
+      - redish2016_vicarious_trial_error_b
+  -
+    pair_id: ofc_task_state_and_value_maps__01__prefrontal_goal_representation_and_control__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 5
+    jaccard: 0.128
+    same_parent_topic: false
+    page_a:
+      subtopic_id: ofc_task_state_and_value_maps__01
+      title: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+      path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+      focus: "OFC contributions to latent state representation/cognitive maps that support model-based reinforcement learning and flexible valuation."
+    page_b:
+      subtopic_id: prefrontal_goal_representation_and_control__02
+      title: "Medial prefrontal cortex in rat goal-directed vs habitual control"
+      path: wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+      focus: "Rat medial prefrontal subregion dissociations (prelimbic/infralimbic) in goal-directed versus habitual instrumental control, especially outcome devaluation effects."
+    crosslink_angle: "Crosslink through a circuit-level note on prefrontal contributions to flexible control: OFC as task-state representation, mPFC as control/expression nodes for goal-directed versus habitual action, with shared links to striatal valuation/action systems."
+    rationale_short: "The pages target different canonical questions: Page A is a representational theory of OFC as a latent task-state map for model-based valuation, while Page B is a rat mPFC lesion/inactivation literature on goal-directed acquisition versus habit expression. Overlap is mainly at the level of broader behavioral control frameworks, not page identity."
+    shared_papers:
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - dolan2013_goals_habits_brain_b
+      - holton2023_planning_vmPFC_lesions
+      - redish2016_vicarious_trial_error_b
+  -
+    pair_id: anterior_cingulate_future_state_and_model_based_control__02__ofc_task_state_and_value_maps__01
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 4
+    jaccard: 0.143
+    same_parent_topic: false
+    page_a:
+      subtopic_id: anterior_cingulate_future_state_and_model_based_control__02
+      title: "Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control"
+      path: wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
+      focus: "How model-based vs model-free RL is used to interpret ACC future-state, transition-surprise, and transition-guided updating signals."
+    page_b:
+      subtopic_id: ofc_task_state_and_value_maps__01
+      title: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+      path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+      focus: "Whether OFC represents latent task states/cognitive maps that support model-based valuation, revaluation, reversal, and planning."
+    crosslink_angle: "Crosslink through circuit-level model-based control: OFC as state/task-map provider and ACC as prospective control/transition-use region within broader prefrontal-striatal systems."
+    rationale_short: "The overlap is at the level of shared model-based RL vocabulary, not page identity. Page A is an ACC-focused interpretive framework for future-state/transition-guided control, while Page B is an OFC-focused theory of latent task-state representation supporting flexible valuation. They are complementary parts of a broader circuit, so they should stay separate but explicitly reference each other."
+    shared_papers:
+      - daw2005_uncertainty_prefrontal_striatal
+      - huang2020_model_based_model_free_neural
+      - loosen2020_computational_psychiatry_ocd
+      - wilson2013_ofc_cognitive_map
+  -
+    pair_id: cognitive_maps__04__schemas_and_generalization__02
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 3
+    jaccard: 0.15
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__04
+      title: "Entorhinal grid cells and continuous attractor models of cognitive maps"
+      path: wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+      focus: "Mechanistic account of how entorhinal grid cells and continuous attractor dynamics instantiate low-dimensional cognitive-map/state codes, mainly for path integration and map structure."
+    page_b:
+      subtopic_id: schemas_and_generalization__02
+      title: "Hippocampal replay and schema-guided generalization"
+      path: wiki/topics/hippocampal_replay_and_schema_guided_generalization
+      focus: "How hippocampal replay/place-cell sequences use learned relational structure to support shortcutting, rerouting, consolidation, and schema-guided generalization."
+    crosslink_angle: "Crosslink around the idea that entorhinal map-like state codes may provide structured inputs or latent geometry that hippocampal replay samples, reads out, or recombines during flexible planning and generalization."
+    rationale_short: "The pages target different levels of explanation in the entorhinal-hippocampal system: Page A is about MEC grid-code/continuous-attractor mechanisms for map representation, while Page B is about hippocampal replay as a generative sequence process supporting planning and schema-based generalization. They are tightly related, but the distinction is strong enough to keep both canonical pages."
+    shared_papers:
+      - baram2021_entorhinal_ventromedial_rl
+      - piray2025_compositional_cognitive_map
+      - yu2025_theta_sweeps_goal_direction
+  -
+    pair_id: cognitive_maps__04__striatal_and_dopaminergic_reinforcement_learning__05
+    decision: keep_distinct_with_crosslink
+    confidence: 3
+    overlap_count: 2
+    jaccard: 0.125
+    same_parent_topic: false
+    page_a:
+      subtopic_id: cognitive_maps__04
+      title: "Entorhinal grid cells and continuous attractor models of cognitive maps"
+      path: wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+      focus: "MEC grid cells as a path-integrable state code for cognitive maps, especially continuous attractor dynamics and extensions from spatial to relational structure."
+    page_b:
+      subtopic_id: striatal_and_dopaminergic_reinforcement_learning__05
+      title: "Reward-modulated hippocampal replay in spatial reinforcement learning"
+      path: wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
+      focus: "Reward-sensitive hippocampal SWR replay in spatial reinforcement learning, especially reverse replay, credit assignment, and links to striatal/dopaminergic value updating."
+    crosslink_angle: "Crosslink around how entorhinal map representations may provide the state-space or structural substrate that hippocampal replay samples, updates, or exploits during planning and reward-based learning."
+    rationale_short: "These pages target different canonical mechanisms and circuit emphases: Page A is about entorhinal/grid-cell representational geometry and continuous-attractor models of map coding, while Page B is about hippocampal replay under reward modulation as a learning/planning signal in spatial RL. Their overlap is real but downstream/bridging rather than redundant."
+    shared_papers:
+      - baram2021_entorhinal_ventromedial_rl
+      - whittington2024_build_cognitive_map

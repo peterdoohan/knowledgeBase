@@ -41,3 +41,26 @@
 - Synced `wiki_pages` frontmatter backlinks into raw summaries
 - Added or refreshed `### Related wiki pages` sections in represented summaries
 - Rebuilt `wiki/indices/index.md` from active non-deprecated pages only
+## [2026-04-12] maintain | Sync wiki-to-wiki crosslinks
+
+- Source audit: `derived/wiki_editorial_audit.yaml`
+- updated wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning.md
+- updated wiki/debates/grid_cells_as_a_mechanism_for_path_integration.md
+- updated wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps.md
+- updated wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration.md
+- updated wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay.md
+- updated wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay.md
+- updated wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation.md
+- updated wiki/topics/hippocampal_prefrontal_replay_in_planning.md
+- updated wiki/topics/hippocampal_replay_and_schema_guided_generalization.md
+- updated wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning.md
+- updated wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory.md
+- updated wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control.md
+- updated wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control.md
+- updated wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state.md
+- updated wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning.md
+- updated wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits.md
+- updated wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning.md
+- updated wiki/topics/sharp_wave_ripple_associated_hippocampal_replay.md
+- updated wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning.md
+- updated wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning.md

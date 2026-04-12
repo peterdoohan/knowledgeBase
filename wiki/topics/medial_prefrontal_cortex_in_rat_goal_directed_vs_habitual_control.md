@@ -24,6 +24,9 @@ core_papers:
   - gabriel2022_behaviordepot_detection
   - hok2005_goal_coding_prefrontal
   - holton2023_planning_vmPFC_lesions
+related_wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 # Medial prefrontal cortex in rat goal-directed vs habitual control
@@ -127,6 +130,10 @@ Storage remains unresolved.
 - [[raw/summaries/corbit2018_goal_directed_habitual|Corbit et al. 2018]] — circuit-level synthesis of goal-directed vs habitual control in rodents.
 - [[raw/summaries/russek2017_model_based_reinforcement|Russek et al. 2017]] — computational warning that reward revaluation is not uniquely diagnostic of full model-based planning.
 - [[raw/summaries/piray2020_linear_reinforcement_learning|Piray et al. 2020]] — broader computational account of flexible revaluation without a simple model-based/model-free split.
+
+## Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]: Crosslink A -> B as the broader systems/computational framework for goal-directed vs habitual control; crosslink B -> A as a key rat mPFC case study showing how specific prefrontal nodes fit into, and complicate, the broader corticostriatal RL account.
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]: Crosslink through a circuit-level note on prefrontal contributions to flexible control: OFC as task-state representation, mPFC as control/expression nodes for goal-directed versus habitual action, with shared links to striatal valuation/action systems.
 
 ## Source papers
 - [[raw/summaries/russek2017_model_based_reinforcement|Russek et al. 2017]] | [[raw/mds/russek2017_model_based_reinforcement|source md]]: Predictive representations can link model-based reinforcement learning to model-free mechanisms

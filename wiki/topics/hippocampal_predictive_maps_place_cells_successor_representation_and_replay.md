@@ -24,6 +24,11 @@ core_papers:
   - comrie2024_hippocampal_representations
   - constantinescu2016_gridlike_conceptual_knowledge
   - decothi2022_predictive_spatial_navigation
+related_wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
 ---
 
 # Hippocampal predictive maps: place cells, successor representation, and replay
@@ -133,6 +138,12 @@ A broader systems view places hippocampus within a predictive hierarchy. Posteri
 - [[raw/summaries/buzsaki2015_hippocampal_sharp_wave_ripple|Buzsáki 2015]] — replay/sharp-wave ripple review; essential for the systems-level replay literature.
 - [[raw/summaries/bernerslee2021_prefrontal_cortex_hippocampal|Berners-Lee et al. 2021]] — PFC tuning to non-local hippocampal replay content.
 - [[raw/summaries/wilson2013_ofc_cognitive_map|Wilson et al. 2014]] — OFC as task-state map; important for extending predictive-map ideas beyond spatial navigation.
+
+## Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]: Link A to B where predictive-map/SR theories reinterpret grid-cell structure as coding transition geometry rather than serving primarily as a path-integration engine; link B back to A as the mechanistic spatial-navigation test case for predictive-map claims.
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]: Crosslink via replay: from Page A to Page B for the theoretical interpretation of replay as predictive/non-local state representation, and from Page B to Page A for evidence that replay interfaces with prefrontal planning circuits during choice.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Crosslink A -> B as the main computational interpretation of hippocampal–entorhinal map coding; crosslink B -> A as the broader empirical/navigation evidence base and boundary conditions for predictive-map accounts.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration|Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration]]: Crosslink A -> B as the predictive/computational interpretation of hippocampal–entorhinal maps; crosslink B -> A as the core empirical spatial-cell and path-integration evidence base that constrains predictive-map claims.
 
 ## Source papers
 - [[raw/summaries/behrens2018_cognitive_map_organizing_knowledge|Behrens et al. 2018]] | [[raw/mds/behrens2018_cognitive_map_organizing_knowledge|source md]]: What Is a Cognitive Map? Organizing Knowledge for Flexible Behavior

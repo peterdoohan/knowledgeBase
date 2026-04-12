@@ -24,6 +24,11 @@ core_papers:
   - dahmani2015_prefrontal_navigation_strategies
   - daw2005_uncertainty_prefrontal_striatal
   - daw2011_model_based_striatal_prediction
+related_wiki_pages:
+  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+  - wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
 ---
 
 # Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning
@@ -111,6 +116,12 @@ Finally, the network is broader than OFC. Meta-analytic and task-fMRI work impli
 - [[raw/summaries/knudsen2022_ofc_cognitive_map|Knudsen et al. 2022]] — Useful critical review reconciling value and cognitive-map accounts of OFC.
 - [[raw/summaries/knudsen2020_ofc_theta_learning|Knudsen et al. 2020]] — Causal evidence that OFC, in interaction with hippocampal input, is necessary for reward-based learning.
 - [[raw/summaries/holton2023_planning_vmPFC_lesions|Holton et al. 2023]] — Important caution that simple laboratory assays may miss prefrontal contributions to richer planning.
+
+## Related wiki pages
+- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]: Link Page B's goal-directed/model-based section to Page A as a candidate representational mechanism for state inference in flexible control; link Page A back to Page B for the broader debate on how such state representations relate to goal-directed versus habitual behavior.
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Link via 'cognitive maps for model-based reinforcement learning': compare OFC latent-state/task-state coding with hippocampal predictive/SR maps, and note their interaction in planning, revaluation, and hippocampal-prefrontal-striatal circuits.
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]: Crosslink through a circuit-level note on prefrontal contributions to flexible control: OFC as task-state representation, mPFC as control/expression nodes for goal-directed versus habitual action, with shared links to striatal valuation/action systems.
+- [[wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control|Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control]]: Crosslink through circuit-level model-based control: OFC as state/task-map provider and ACC as prospective control/transition-use region within broader prefrontal-striatal systems.
 
 ## Source papers
 - [[raw/summaries/daw2005_uncertainty_prefrontal_striatal|Daw et al. 2005]] | [[raw/mds/daw2005_uncertainty_prefrontal_striatal|source md]]: Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control

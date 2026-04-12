@@ -24,6 +24,11 @@ core_papers:
   - findlay2021_replay_wake_sleep
   - foster2017_replay_memory_consolidation
   - gupta2010_replay_not_simple_function
+related_wiki_pages:
+  - wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 # Hippocampal replay and schema-guided generalization
@@ -136,6 +141,12 @@ The sleep vs wake issue is also unresolved. The strongest “generalization/plan
 - [[raw/summaries/findlay2021_replay_wake_sleep|Findlay et al. 2021]] — useful synthesis linking replay findings to reinforcement-learning-style prioritized sampling.
 - [[raw/summaries/alonso2021_hexmaze_cognitive_map|Alonso et al. 2021]] — behavioral evidence for schema-like spatial knowledge accumulation, relevant but mechanistically indirect.
 - [[raw/summaries/whittington2022_cognitive_map_b|Whittington et al. 2022]] — broad formal framework connecting cognitive maps, sequence learning, and latent-state structure across domains.
+
+## Related wiki pages
+- [[wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps|Entorhinal grid cells and continuous attractor models of cognitive maps]]: Crosslink around the idea that entorhinal map-like state codes may provide structured inputs or latent geometry that hippocampal replay samples, reads out, or recombines during flexible planning and generalization.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Crosslink via a shared 'replay' section: from Page A to Page B for replay as a generalization/inference mechanism, and from Page B to Page A for the hippocampal-entorhinal map codes and navigation framework that replay operates over.
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]: Crosslink on replay as structured prospective simulation: Page B explains the relational/schema content replay may generate, while Page A explains how that content may be integrated with prefrontal task-state and control signals for planning.
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]: Crosslink around 'functional roles of hippocampal replay': Page A can point to reward modulation as a policy/value-related constraint on generative replay, while Page B can point to schema/generalization work as the broader model-based structure that replay may operate over.
 
 ## Source papers
 - [[raw/summaries/whittington2020_tolman_eichenbaum_machine|Whittington et al. 2020]] | [[raw/mds/whittington2020_tolman_eichenbaum_machine|source md]]: The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation

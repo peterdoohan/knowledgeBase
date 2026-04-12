@@ -23,6 +23,8 @@ core_papers:
   - lowet2020_distributional_reinforcement_brain
   - schultz1997_neural_substrate_reward_pred
   - wilson2013_ofc_cognitive_map
+related_wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 # Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control
@@ -106,6 +108,9 @@ Even the “model-free baseline” is not conceptually fixed. Standard TD accoun
 - [[raw/summaries/huang2020_model_based_model_free_neural|Huang et al. 2020]] — meta-analytic human evidence linking anterior cingulate/vmPFC more strongly to model-based than model-free learning.
 - [[raw/summaries/lowet2020_distributional_reinforcement_brain|Lowet et al. 2020]] — useful caution that model-free learning itself may be richer than a single mean-value TD signal.
 - [[raw/summaries/loosen2020_computational_psychiatry_ocd|Loosen et al. 2020]] — argues that apparent model-based deficits need not reduce to “too much habit,” relevant for interpreting frontostriatal control.
+
+## Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]: Crosslink through circuit-level model-based control: OFC as state/task-map provider and ACC as prospective control/transition-use region within broader prefrontal-striatal systems.
 
 ## Source papers
 - [[raw/summaries/schultz1997_neural_substrate_reward_pred|Schultz et al. 1997]] | [[raw/mds/schultz1997_neural_substrate_reward_pred|source md]]: A Neural Substrate of Prediction and Reward

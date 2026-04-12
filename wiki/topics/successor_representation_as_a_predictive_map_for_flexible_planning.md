@@ -24,6 +24,9 @@ core_papers:
   - raju2022_space_sequence
   - russek2017_model_based_reinforcement
   - sagiv_experience_replay_prioritization
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_prefrontal_replay_in_planning
 ---
 
 # Successor representation as a predictive map for flexible planning
@@ -148,6 +151,10 @@ The main current claim is that the successor representation (SR) provides a pred
 - [[raw/summaries/spiers2015_detour_problem_navigation|Spiers et al. 2015]] — Convergent evidence that detour behavior recruits prefrontal computations, relevant to SR’s weakness on transition revaluation.
 
 - [[raw/summaries/piray2025_compositional_cognitive_map|Piray 2025]] — Speculative but important extension of predictive-map planning toward compositional object- and barrier-sensitive maps.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Crosslink on 'successor representation as the computational formalism behind hippocampal predictive-map hypotheses' and on 'replay/one-step model mechanisms that address vanilla SR limits in planning and neural implementation.'
+- [[wiki/topics/hippocampal_prefrontal_replay_in_planning|Hippocampal–prefrontal replay in planning]]: Crosslink on replay as a possible implementation or complement to SR/predictive maps: Page A can point to SR/linear-RL as theories of what replay may compute, while Page B can point to hippocampal–prefrontal replay as candidate neural circuitry for predictive-map-based planning.
 
 ## Source papers
 - [[raw/summaries/russek2017_model_based_reinforcement|Russek et al. 2017]] | [[raw/mds/russek2017_model_based_reinforcement|source md]]: Predictive representations can link model-based reinforcement learning to model-free mechanisms

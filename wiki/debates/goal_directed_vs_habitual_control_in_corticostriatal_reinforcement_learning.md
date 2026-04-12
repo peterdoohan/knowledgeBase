@@ -24,6 +24,9 @@ core_papers:
   - botvinick2009_hierarchical_behavior_reinforcement
   - botvinick2009_hierarchically_organized_behavior
   - chandra2024_visual_cortex_development
+related_wiki_pages:
+  - wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 # Goal-directed vs habitual control in corticostriatal reinforcement learning
@@ -94,6 +97,10 @@ Human evidence supports mixed control more than clean dissociation. Two-step and
 - [[raw/summaries/mattar2022_planning_brain|Mattar and Daw 2022]] — Useful corrective against overly literal tree-search interpretations of “model-based” control.
 - [[raw/summaries/akam2021_dopamine_model_based_rl|Akam and Dayan 2021]] — Focused review on dopamine’s role in model-based RL and the limits of SR-style interpretations.
 - [[raw/summaries/blancopolzo2024_dopamine_independent_reward|Blanco-Pozo et al. 2024]] — Recent causal evidence that reward-driven choice updating in a two-step task may depend more on inference than on outcome-time dopamine teaching.
+
+## Related wiki pages
+- [[wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control|Medial prefrontal cortex in rat goal-directed vs habitual control]]: Crosslink A -> B as the broader systems/computational framework for goal-directed vs habitual control; crosslink B -> A as a key rat mPFC case study showing how specific prefrontal nodes fit into, and complicate, the broader corticostriatal RL account.
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]: Link Page B's goal-directed/model-based section to Page A as a candidate representational mechanism for state inference in flexible control; link Page A back to Page B for the broader debate on how such state representations relate to goal-directed versus habitual behavior.
 
 ## Source papers
 - [[raw/summaries/daw2005_uncertainty_prefrontal_striatal|Daw et al. 2005]] | [[raw/mds/daw2005_uncertainty_prefrontal_striatal|source md]]: Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control

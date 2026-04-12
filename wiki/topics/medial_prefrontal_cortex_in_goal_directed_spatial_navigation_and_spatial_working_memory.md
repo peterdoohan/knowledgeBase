@@ -24,6 +24,10 @@ core_papers:
   - denbakker2023_sharp_wave_prefrontal_rule
   - elgaby2023_behavioral_structure_mapping
   - farzanfar2023_cognitive_maps_spatial
+related_wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+  - wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
 ---
 
 # Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory
@@ -132,6 +136,11 @@ Finally, not all mPFC spatial signals appear to ride on hippocampal theta. Theta
 - [[raw/summaries/hartley2003_wayfinding_route|Hartley et al. 2003]] — critical human constraint showing wayfinding success is more directly tied to hippocampus than generic prefrontal activation.
 - [[raw/summaries/patai2021_versatile_wayfinder_prefrontal|Patai et al. 2021]] — useful synthesis placing PFC firmly within the navigation system.
 - [[raw/summaries/maggi2022_activity_subspaces_prefrontal|Maggi et al. 2022]] — population-level evidence favoring state/subspace coding over simple persistent mnemonic traces.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Link via hippocampal-prefrontal coordination in flexible navigation: how cognitive-map representations are recruited, read out, or reshaped by mPFC during goal selection, replanning, detours, and replay-guided decisions.
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]: Link A to B for readers wanting a deeper treatment of mPFC-specific goal representation, policy updating, and spatial working-memory evidence; link B to A for the navigation-task context where mPFC functions are expressed as route planning and detour behavior.
+- [[wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits|Prospective spatial coding in hippocampal–medial prefrontal circuits]]: From Page B, link to Page A as the dedicated subpage on hippocampal–prefrontal prospective coding during navigation; from Page A, link back to Page B for the wider mPFC functional context beyond prospective coding.
 
 ## Source papers
 - [[raw/summaries/hartley2003_wayfinding_route|Hartley et al. 2003]] | [[raw/mds/hartley2003_wayfinding_route|source md]]: The Well-Worn Route and the Path Less Traveled: Distinct Neural Bases of Route Following and Wayfinding in Humans

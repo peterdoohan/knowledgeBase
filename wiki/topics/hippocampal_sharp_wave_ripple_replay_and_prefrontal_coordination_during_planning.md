@@ -24,6 +24,9 @@ core_papers:
   - gridchyn2020_replay_selective_memory
   - jadhav2016_hippocampal_prefrontal_swr
   - jensen2024_recurrent_planning_hippocampal_replay
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
 ---
 
 # Hippocampal sharp-wave ripple replay and prefrontal coordination during planning
@@ -111,6 +114,10 @@ Normative RL accounts are attractive but not decisive. Models in which replay ac
 - [[raw/summaries/foster2017_replay_memory_consolidation|Foster 2017]] — influential synthesis arguing replay exceeds simple memory consolidation.
 - [[raw/summaries/kaefer2020_mpfc_replay_ruleswitching|Kaefer et al. 2020]] — evidence that mPFC can replay generalized sequences independently of hippocampal replay.
 - [[raw/summaries/jensen2024_recurrent_planning_hippocampal_replay|Jensen et al. 2024]] — computational account linking forward replay to rollout-based planning, useful but not yet direct circuit evidence.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Crosslink via replay: from Page A to Page B for the theoretical interpretation of replay as predictive/non-local state representation, and from Page B to Page A for evidence that replay interfaces with prefrontal planning circuits during choice.
+- [[wiki/topics/sharp_wave_ripple_associated_hippocampal_replay|Sharp-wave ripple-associated hippocampal replay]]: From Page B, link to Page A as the main page on prefrontal coordination and planning-related interpretation of replay; from Page A, link back to Page B for the underlying SWR/replay phenomenon, methods, and broader evidence base.
 
 ## Source papers
 - [[raw/summaries/jadhav2016_hippocampal_prefrontal_swr|Jadhav et al. 2016]] | [[raw/mds/jadhav2016_hippocampal_prefrontal_swr|source md]]: Coordinated Excitation and Inhibition of Prefrontal Ensembles during Awake Hippocampal Sharp-Wave Ripple Events

@@ -24,6 +24,8 @@ core_papers:
   - janssen2022_hierarchical_rl_motor_sequences
   - jeong2022_mesolimbic_dopamine_causal
   - jiang2022_learning_options_compression
+related_wiki_pages:
+  - wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
 ---
 
 # Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning
@@ -119,6 +121,9 @@ Behavioral identifiability is a persistent problem. Subjects can often solve nom
 - [[raw/summaries/odoherty2017_learning_reward_decision|O'Doherty et al. 2017]] — distributed model-based RL architecture linking map-like state representations to striatal and dopaminergic learning.
 - [[raw/summaries/niv2019_representation_learning_task_states|Niv 2019]] — task-state learning via attention and latent-cause inference.
 - [[raw/summaries/mishchanchuk2024_hidden_state_inference|Mishchanchuk et al. 2024]] — causal evidence that ventral hippocampus supports abstract hidden-state inference and shapes dopamine signals.
+
+## Related wiki pages
+- [[wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning|Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning]]: Crosslink A -> B for hippocampal contributions, hidden-state inference, and downstream striatal/dopamine consequences; crosslink B -> A for the OFC-specific evidence base and the model-based valuation interpretation of OFC task-state maps.
 
 ## Source papers
 - [[raw/summaries/wilson2013_ofc_cognitive_map|Wilson et al. 2014]] | [[raw/mds/wilson2013_ofc_cognitive_map|source md]]: Orbitofrontal Cortex as a Cognitive Map of Task Space

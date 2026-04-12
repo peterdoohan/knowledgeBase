@@ -24,6 +24,11 @@ core_papers:
   - holton2023_planning_vmPFC_lesions
   - huang2023_hierarchical_replay_working_memory
   - kurth2023_replay_compositional_computation
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
 ---
 
 # Hippocampal–prefrontal replay in planning
@@ -111,6 +116,12 @@ Finally, causal evidence remains the major gap. The provided literature strongly
 - [[raw/summaries/momennejad2020_successor_representations_replay|Momennejad et al. 2020]] — SR/replay framework for predictive planning.
 - [[raw/summaries/piray2021_linear_reinforcement_planning|Piray et al. 2021]] — linear RL as a more flexible alternative to standard SR.
 - [[raw/summaries/piray2025_compositional_cognitive_map|Piray et al. 2025]] — compositional predictive maps as a scalable planning account.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Crosslink from B to A as the distributed-planning/use-of-replay page: predictive-map and replay accounts in hippocampus may supply candidate sequences, while A covers how prefrontal systems may read out, constrain, or coordinate those sequences for planning.
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]: Crosslink on replay as structured prospective simulation: Page B explains the relational/schema content replay may generate, while Page A explains how that content may be integrated with prefrontal task-state and control signals for planning.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Crosslink from A's replay/planning sections to B for how replay is used in decision-making via PFC; crosslink from B back to A for the representational substrate and map-theoretic background of replay content.
+- [[wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning|Successor representation as a predictive map for flexible planning]]: Crosslink on replay as a possible implementation or complement to SR/predictive maps: Page A can point to SR/linear-RL as theories of what replay may compute, while Page B can point to hippocampal–prefrontal replay as candidate neural circuitry for predictive-map-based planning.
 
 ## Source papers
 - [[raw/summaries/wikenheiser2016_cognitive_maps_hippocampus|Wikenheiser and Schoenbaum 2016]] | [[raw/mds/wikenheiser2016_cognitive_maps_hippocampus|source md]]: Over the river, through the woods: cognitive maps in the hippocampus and orbitofrontal cortex

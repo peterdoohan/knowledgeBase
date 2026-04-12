@@ -24,6 +24,8 @@ core_papers:
   - costa2022_orbitofrontal_cognitive_maps
   - garvert2017_relational_knowledge_maps
   - kleinflugge2022_medial_orbital_frontal
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
 ---
 
 # Orbitofrontal cortex as a cognitive map of hidden task state
@@ -116,6 +118,9 @@ When frontal “grid-like” or predictive signals are observed, are they the sa
 - [[raw/summaries/garvert2017_relational_knowledge_maps|Garvert et al. 2017]] — strong non-spatial predictive-map evidence in hippocampal–entorhinal cortex; relevant comparison class.
 - [[raw/summaries/brunec2022_predictive_representations_hierarchies|Brunec et al. 2022]] — places OFC within a broader prefrontal predictive hierarchy across horizons.
 - [[raw/summaries/kleinflugge2022_medial_orbital_frontal|Kleinflügge et al. 2022]] — review emphasizing orbital/medial frontal cortex as representing environmental structure and causal relationships, not just reward.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Link as complementary map frameworks: Page A should point to Page B for the broader predictive/cognitive-map background, while Page B should point to Page A as a distinct prefrontal application emphasizing partially observable task-state coding rather than canonical spatial/SR mapping.
 
 ## Source papers
 - [[raw/summaries/behrens2018_cognitive_map_organizing_knowledge|Behrens et al. 2018]] | [[raw/mds/behrens2018_cognitive_map_organizing_knowledge|source md]]: What Is a Cognitive Map? Organizing Knowledge for Flexible Behavior

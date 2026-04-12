@@ -24,6 +24,11 @@ core_papers:
   - duvelle2023_temporal_hippocampal_inference
   - ekstrom2003_spatial_navigation
   - epstein2017_cognitive_maps_humans
+related_wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
 ---
 
 # Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)
@@ -119,6 +124,12 @@ The most influential synthesis is predictive-map theory: hippocampal codes may r
 - [[raw/summaries/ito2018_prefrontal_hippocampal_navigation|Ito et al. 2018]] — concise review of hippocampal–prefrontal interactions in goal-directed navigation.
 
 - [[raw/summaries/patai2021_versatile_wayfinder_prefrontal|Patai and Spiers 2021]] — broader framing of prefrontal contributions that constrain map-only accounts.
+
+## Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]: Crosslink A→B as the specialized debate on the path-integration interpretation of grid cells; crosslink B→A for the broader cognitive-map context including place coding, replay, barriers/goals, and non-grid navigation systems.
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Crosslink A -> B as the main computational interpretation of hippocampal–entorhinal map coding; crosslink B -> A as the broader empirical/navigation evidence base and boundary conditions for predictive-map accounts.
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]: Crosslink via a shared 'replay' section: from Page A to Page B for replay as a generalization/inference mechanism, and from Page B to Page A for the hippocampal-entorhinal map codes and navigation framework that replay operates over.
+- [[wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation|Hippocampal–prefrontal mechanisms of route planning and detour navigation]]: Link B -> A as 'how cognitive-map representations are recruited for flexible route planning and detours'; link A -> B as 'representational mechanisms in hippocampal–entorhinal circuits that may supply planning-relevant spatial structure.'
 
 ## Source papers
 - [[raw/summaries/stachenfeld2017_hippocampus_predictive_map|Stachenfeld et al. 2017]] | [[raw/mds/stachenfeld2017_hippocampus_predictive_map|source md]]: The hippocampus as a predictive map

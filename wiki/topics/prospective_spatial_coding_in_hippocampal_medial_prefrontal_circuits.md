@@ -24,6 +24,9 @@ core_papers:
   - hok2005_goal_coding_prefrontal
   - hok2013_prefrontal_place_cells
   - huang2024_hippocampal_theta_goal_distance
+related_wiki_pages:
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 # Prospective spatial coding in hippocampal–medial prefrontal circuits
@@ -112,6 +115,10 @@ Computational interpretation is underconstrained. Predictive-map / successor-rep
 - [[raw/summaries/denbakker2024_mpfc_spatial_swr|den Bakker et al. 2024]] — upcoming-choice and spatially tuned mPFC representations are largely SWR-independent.
 - [[raw/summaries/hok2013_prefrontal_place_cells|Hok et al. 2013]] — useful counterpoint: mPFC modulates variability of hippocampal place coding more than its mean goal-related structure in overtrained animals.
 - [[raw/summaries/russek2017_model_based_reinforcement|Russek et al. 2017]] — computational framework for interpreting prospective spatial codes as predictive representations, with clear limits.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Cross-link where Page A discusses goal/task-sensitive cognitive maps and replay-based planning, pointing readers to Page B for how prefrontal circuits coordinate or read out hippocampal map content for prospective navigation decisions.
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]: From Page B, link to Page A as the dedicated subpage on hippocampal–prefrontal prospective coding during navigation; from Page A, link back to Page B for the wider mPFC functional context beyond prospective coding.
 
 ## Source papers
 - [[raw/summaries/ito2015_prefrontal_thalamic_hippocampus|Ito et al. 2015]] | [[raw/mds/ito2015_prefrontal_thalamic_hippocampus|source md]]: A prefrontal–thalamo–hippocampal circuit for goal-directed spatial navigation

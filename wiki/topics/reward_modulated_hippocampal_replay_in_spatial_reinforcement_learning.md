@@ -24,6 +24,9 @@ core_papers:
   - nyberg2022_spatial_goal_coding
   - patai2021_versatile_wayfinder_prefrontal
   - singer2009_reward_reactivation_hippocampus
+related_wiki_pages:
+  - wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
 ---
 
 # Reward-modulated hippocampal replay in spatial reinforcement learning
@@ -111,6 +114,10 @@ Prefrontal and entorhinal work suggests that navigation and RL rely on structure
 - [[raw/summaries/findlay2021_replay_wake_sleep|Findlay et al. 2021]] — Modern synthesis linking replay to RL-style prioritized memory access and emphasizing methodological caveats.
 - [[raw/summaries/patai2021_versatile_wayfinder_prefrontal|Patai and Spiers 2021]] — Circuit context for how hippocampus interacts with prefrontal systems during value-guided navigation.
 - [[raw/summaries/baram2021_entorhinal_ventromedial_rl|Baram et al. 2021]] — Relevant broader evidence that entorhinal/vmPFC systems encode abstract RL structure, supporting map-like interpretations of replay-guided learning.
+
+## Related wiki pages
+- [[wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps|Entorhinal grid cells and continuous attractor models of cognitive maps]]: Crosslink around how entorhinal map representations may provide the state-space or structural substrate that hippocampal replay samples, updates, or exploits during planning and reward-based learning.
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]: Crosslink around 'functional roles of hippocampal replay': Page A can point to reward modulation as a policy/value-related constraint on generative replay, while Page B can point to schema/generalization work as the broader model-based structure that replay may operate over.
 
 ## Source papers
 - [[raw/summaries/ambrose2016_reverse_replay_hippocampal|Ambrose et al. 2016]] | [[raw/mds/ambrose2016_reverse_replay_hippocampal|source md]]: Reverse Replay of Hippocampal Place Cells Is Uniquely Modulated by Changing Reward

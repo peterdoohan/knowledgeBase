@@ -24,6 +24,10 @@ core_papers:
   - hartley2003_wayfinding_route
   - ito2015_prefrontal_thalamic_hippocampus
   - jazi2023_hippocampal_path_integration_homing
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+  - wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
 ---
 
 # Hippocampal–prefrontal mechanisms of route planning and detour navigation
@@ -111,6 +115,11 @@ At the algorithmic level, it remains unclear whether these signals are best form
 - [[raw/summaries/ciaramelli2008_vmPFC_navigation_wayfinding|Ciaramelli 2008]] — lesion evidence that goal maintenance deficits can produce major wayfinding failures.
 - [[raw/summaries/ormond2022_goal_oriented_vector_fields|Ormond et al. 2022]] — hippocampal goal-vector fields in rodent CA1.
 - [[raw/summaries/yu2025_theta_sweeps_goal_direction|Yu et al. 2025]] — hippocampal theta sweeps aligned to goal direction, with behavioral relevance.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Link A -> B for predictive-map theories of spatial prospecting that may support route planning; link B -> A for the limits of SR/predictive maps in detour and transition-revaluation settings, where prefrontal goal maintenance, subgoaling, and strategy arbitration become critical.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Link B -> A as 'how cognitive-map representations are recruited for flexible route planning and detours'; link A -> B as 'representational mechanisms in hippocampal–entorhinal circuits that may supply planning-relevant spatial structure.'
+- [[wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory|Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory]]: Link A to B for readers wanting a deeper treatment of mPFC-specific goal representation, policy updating, and spatial working-memory evidence; link B to A for the navigation-task context where mPFC functions are expressed as route planning and detour behavior.
 
 ## Source papers
 - [[raw/summaries/ekstrom2003_spatial_navigation|Ekstrom et al. 2003]] | [[raw/mds/ekstrom2003_spatial_navigation|source md]]: Cellular networks underlying human spatial navigation

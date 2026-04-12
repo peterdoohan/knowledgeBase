@@ -24,6 +24,9 @@ core_papers:
   - fyhn2007_remapping_grid_realignment
   - garvert2017_relational_knowledge_maps
   - iyer2024_grid_cells_abstract_velocity
+related_wiki_pages:
+  - wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
 ---
 
 # Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration
@@ -128,6 +131,10 @@ Finally, the hippocampal–entorhinal system is probably not the whole map story
 - [[raw/summaries/garvert2017_relational_knowledge_maps|Garvert et al. 2017]] — evidence for successor-like relational maps in human hippocampal–entorhinal cortex.
 - [[raw/summaries/alonso2021_hexmaze_cognitive_map|Alonso et al. 2021]] — behavioral evidence that map formation in complex environments is staged and time-dependent.
 - [[raw/summaries/nour2021_impaired_replay_schizophrenia|Nour et al. 2021]] — clinical evidence linking impaired replay to weaker relational map formation.
+
+## Related wiki pages
+- [[wiki/debates/grid_cells_as_a_mechanism_for_path_integration|Grid cells as a mechanism for path integration]]: From Page A, link the grid-cell/path-integration section to Page B for the mechanistic controversy; from Page B, link back to Page A for the broader cognitive-map architecture in which grid-cell path integration is embedded.
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Crosslink A -> B as the predictive/computational interpretation of hippocampal–entorhinal maps; crosslink B -> A as the core empirical spatial-cell and path-integration evidence base that constrains predictive-map claims.
 
 ## Source papers
 - [[raw/summaries/behrens2018_cognitive_map_organizing_knowledge|Behrens et al. 2018]] | [[raw/mds/behrens2018_cognitive_map_organizing_knowledge|source md]]: What Is a Cognitive Map? Organizing Knowledge for Flexible Behavior

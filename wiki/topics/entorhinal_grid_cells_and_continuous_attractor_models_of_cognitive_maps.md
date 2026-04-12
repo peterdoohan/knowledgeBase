@@ -21,6 +21,9 @@ core_papers:
   - wen2024_entorhinal_maps_flexible_navigation
   - whittington2024_build_cognitive_map
   - yu2025_theta_sweeps_goal_direction
+related_wiki_pages:
+  - wiki/topics/hippocampal_replay_and_schema_guided_generalization
+  - wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
 ---
 
 # Entorhinal grid cells and continuous attractor models of cognitive maps
@@ -103,6 +106,10 @@ Finally, recent planning results implicate goal-biased sequential dynamics in hi
 - [[raw/summaries/whittington2024_build_cognitive_map|Whittington et al. 2024]] — best current synthesis integrating attractor networks with latent-state, SR-like, and hippocampal memory frameworks.
 - [[raw/summaries/piray2025_compositional_cognitive_map|Piray 2025]] — important compositional MEC model linking grid-like maps, object-vector-like coding, and efficient planning; promising but currently theoretical.
 - [[raw/summaries/yu2025_theta_sweeps_goal_direction|Yu et al. 2025]] — shows goal-directed hippocampal sweep dynamics and offers an attractor-based planning mechanism, though not direct MEC evidence.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_replay_and_schema_guided_generalization|Hippocampal replay and schema-guided generalization]]: Crosslink around the idea that entorhinal map-like state codes may provide structured inputs or latent geometry that hippocampal replay samples, reads out, or recombines during flexible planning and generalization.
+- [[wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning|Reward-modulated hippocampal replay in spatial reinforcement learning]]: Crosslink around how entorhinal map representations may provide the state-space or structural substrate that hippocampal replay samples, updates, or exploits during planning and reward-based learning.
 
 ## Source papers
 - [[raw/summaries/baram2021_entorhinal_ventromedial_rl|Baram et al. 2021]] | [[raw/mds/baram2021_entorhinal_ventromedial_rl|source md]]: Entorhinal and ventromedial prefrontal cortices abstract and generalize the structure of reinforcement learning problems

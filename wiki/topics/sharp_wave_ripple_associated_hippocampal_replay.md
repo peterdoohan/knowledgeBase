@@ -24,6 +24,10 @@ core_papers:
   - duvelle2023_temporal_hippocampal_inference
   - eldar2020_replay_planning
   - epsztein2022_mental_replays_navigation
+related_wiki_pages:
+  - wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+  - wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+  - wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
 ---
 
 # Sharp-wave ripple-associated hippocampal replay
@@ -108,6 +112,11 @@ Finally, some headline ideas remain method-sensitive. Claims about preplay and a
 - [[raw/summaries/gillespie2021_replay_past_experiences|Gillespie et al. 2021]] — important counterpoint: replay can be decoupled from subsequent choice.
 - [[raw/summaries/denbakker2023_sharp_wave_prefrontal_rule|Den Bakker et al. 2023]] — SWR-timed mPFC activity is necessary for rule switching.
 - [[raw/summaries/mckenzie2022_hippocampal_replay|McKenzie 2022]] — replay can form after a single experience and elaborates with learning.
+
+## Related wiki pages
+- [[wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay|Hippocampal predictive maps: place cells, successor representation, and replay]]: Link A -> B on how SWR replay may implement offline updating/prospective evaluation in predictive-map accounts; link B -> A for the main empirical evidence and limits of replay as a mechanism within predictive-map theory.
+- [[wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning|Hippocampal sharp-wave ripple replay and prefrontal coordination during planning]]: From Page B, link to Page A as the main page on prefrontal coordination and planning-related interpretation of replay; from Page A, link back to Page B for the underlying SWR/replay phenomenon, methods, and broader evidence base.
+- [[wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay|Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)]]: Crosslink A→B for the detailed replay mechanism underlying one component of cognitive-map function; crosslink B→A for the broader theoretical context of how replay contributes to map-like representation, navigation, and planning.
 
 ## Source papers
 - [[raw/summaries/fernandez2019_ripples_memory_consolidation|Fernández-Ruiz et al. 2019]] | [[raw/mds/fernandez2019_ripples_memory_consolidation|source md]]: Long-duration hippocampal sharp wave ripples improve memory
