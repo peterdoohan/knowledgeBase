@@ -45,6 +45,16 @@ def parse_args() -> argparse.Namespace:
         help="Restrict judging to one or more subtopic IDs.",
     )
     parser.add_argument(
+        "--subtopic-candidates-path",
+        default=str(SUBTOPIC_CANDIDATES_PATH),
+        help="Path to the subtopic candidate YAML file to judge.",
+    )
+    parser.add_argument(
+        "--judgments-path",
+        default=str(JUDGMENTS_PATH),
+        help="Path to the JSONL file where judgments should be appended.",
+    )
+    parser.add_argument(
         "--max-candidates",
         type=int,
         default=None,
@@ -92,8 +102,8 @@ def append_jsonl(path: Path, record: Dict[str, Any]) -> None:
         handle.write(json.dumps(record, sort_keys=True) + "\n")
 
 
-def load_payloads() -> tuple[Dict[str, Any], Dict[str, Dict[str, Any]]]:
-    subtopics = parse_simple_yaml(SUBTOPIC_CANDIDATES_PATH.read_text())
+def load_payloads(subtopic_candidates_path: Path) -> tuple[Dict[str, Any], Dict[str, Dict[str, Any]]]:
+    subtopics = parse_simple_yaml(subtopic_candidates_path.read_text())
     paper_index = parse_simple_yaml(PAPER_INDEX_PATH.read_text())
     papers = {paper["paper_id"]: paper for paper in paper_index["papers"]}
     return subtopics, papers
@@ -210,8 +220,10 @@ def judge_subtopic(subtopic: Dict[str, Any], papers: Dict[str, Dict[str, Any]], 
 def main() -> int:
     args = parse_args()
     load_dotenv(DOTENV_PATH)
-    payload, papers = load_payloads()
-    existing = load_jsonl(JUDGMENTS_PATH)
+    subtopic_candidates_path = Path(args.subtopic_candidates_path)
+    judgments_path = Path(args.judgments_path)
+    payload, papers = load_payloads(subtopic_candidates_path)
+    existing = load_jsonl(judgments_path)
     requested = set(args.subtopic_id)
 
     subtopics = payload["subtopics"]
@@ -243,7 +255,7 @@ def main() -> int:
                 failed += 1
                 print(f"[{judged + failed}/{len(pending)}] {subtopic['subtopic_id']} error={exc}", file=sys.stderr)
                 continue
-            append_jsonl(JUDGMENTS_PATH, record)
+            append_jsonl(judgments_path, record)
             judged += 1
             print(
                 f"[{judged + failed}/{len(pending)}] {subtopic['subtopic_id']} keep={record['keep']} "

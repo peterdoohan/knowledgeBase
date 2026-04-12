@@ -25,7 +25,6 @@ core_papers:
   - whittington2024_build_cognitive_map
   - widloski2022_hippocampal_replay_barriers
 ---
-
 # Successor representation accounts of hippocampal place cells and entorhinal grid cells
 
 The successor representation (SR) account proposes that hippocampal place cells encode predictive occupancy over future states, while entorhinal grid cells provide a low-dimensional basis for that predictive map. This has become a major computational framing because it explains several classic place/grid phenomena within one formalism and extends naturally to nonspatial structure. But the case is still uneven: the strongest support is theoretical and indirect, direct neural tests are newer and narrower, and several findings imply that place fields alone are not the whole predictive map.

@@ -25,6 +25,21 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Write derived/subtopic_catalog.yaml.",
     )
+    parser.add_argument(
+        "--subtopic-candidates-path",
+        default=str(SUBTOPIC_CANDIDATES_PATH),
+        help="Input subtopic candidate YAML path.",
+    )
+    parser.add_argument(
+        "--subtopic-judgments-path",
+        default=str(SUBTOPIC_JUDGMENTS_PATH),
+        help="Input subtopic judgments JSONL path.",
+    )
+    parser.add_argument(
+        "--output-path",
+        default=str(SUBTOPIC_CATALOG_PATH),
+        help="Where to write the curated subtopic catalog YAML.",
+    )
     return parser.parse_args()
 
 
@@ -64,9 +79,9 @@ def merged_subtopic(subtopic: Dict[str, Any], judgment: Dict[str, Any] | None) -
     return record
 
 
-def build_payload() -> OrderedDict[str, Any]:
-    candidates = parse_simple_yaml(SUBTOPIC_CANDIDATES_PATH.read_text())
-    judgments = load_judgments(SUBTOPIC_JUDGMENTS_PATH)
+def build_payload(subtopic_candidates_path: Path, subtopic_judgments_path: Path) -> OrderedDict[str, Any]:
+    candidates = parse_simple_yaml(subtopic_candidates_path.read_text())
+    judgments = load_judgments(subtopic_judgments_path)
 
     merged = [merged_subtopic(subtopic, judgments.get(subtopic["subtopic_id"])) for subtopic in candidates["subtopics"]]
     selected = [subtopic for subtopic in merged if subtopic.get("keep")]
@@ -114,9 +129,10 @@ def build_payload() -> OrderedDict[str, Any]:
 
 def main() -> int:
     args = parse_args()
-    payload = build_payload()
+    output_path = Path(args.output_path)
+    payload = build_payload(Path(args.subtopic_candidates_path), Path(args.subtopic_judgments_path))
     if args.write:
-        write_yaml(SUBTOPIC_CATALOG_PATH, payload)
+        write_yaml(output_path, payload)
     print(
         f"Selected {payload['selected_subtopic_count']} subtopics "
         f"from {payload['candidate_subtopic_count']} candidates"

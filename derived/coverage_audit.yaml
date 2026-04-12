@@ -1,0 +1,411 @@
+generated_at: "2026-04-12T19:45:21.093260+00:00"
+paper_count: 496
+represented_paper_count: 174
+anchor_or_core_paper_count: 91
+support_only_paper_count: 83
+uncovered_paper_count: 322
+coverage_ratio: 0.351
+high_signal_uncovered_papers:
+  - tsao2022_neural_bases_timing_durations
+  - anastasiades2021_circuit_medial_prefrontal
+  - vanheukelum2020_cingulate_cortex_cross_species
+  - ostlund2005_prefrontal_cortex_habits
+  - fang2023_striatal_pallidal_wiring
+  - haber2016_corticostriatal_circuitry_b
+  - izquierdo2024_prefrontal_cortex_homology
+  - kashay2022_anterior_cingulate_effort
+  - kubska2021_single_neuron_cognition
+  - krause2017_sleep_deprivation_brain
+  - eichenbaum2017_prefrontal_hippocampal_episodic
+  - redish2016_vicarious_trial_error
+  - knudsen2022_ofc_cognitive_map
+  - daw2005_uncertainty_prefrontal_striatal
+  - lowet2020_distributional_reinforcement_brain
+  - lammel2014_dopamine_reward_aversion_b
+  - jauhar2022_schizophrenia
+  - coutureau2003_infralimbic_prefrontal_goal
+  - demartino2023_value_based_goals_abstraction
+  - bogacz2020_dopamine_action_inference
+  - botvinick2009_hierarchically_organized_behavior
+  - corbit2018_goal_directed_habitual
+  - vicente2020_cortico_basal_ganglia_motor
+  - haber2000_striatonigrostriatal_pathways
+  - ito2015_prefrontal_thalamic_hippocampus
+undercovered_dimensions:
+  brain_regions:
+    -
+      term: hippocampus
+      total_count: 273
+      represented_count: 155
+      uncovered_count: 118
+      coverage_ratio: 0.568
+    -
+      term: prefrontal_cortex
+      total_count: 239
+      represented_count: 107
+      uncovered_count: 132
+      coverage_ratio: 0.448
+    -
+      term: striatum
+      total_count: 147
+      represented_count: 56
+      uncovered_count: 91
+      coverage_ratio: 0.381
+    -
+      term: entorhinal_cortex
+      total_count: 140
+      represented_count: 101
+      uncovered_count: 39
+      coverage_ratio: 0.721
+    -
+      term: hippocampus_ca1
+      total_count: 139
+      represented_count: 72
+      uncovered_count: 67
+      coverage_ratio: 0.518
+    -
+      term: medial_prefrontal_cortex
+      total_count: 89
+      represented_count: 41
+      uncovered_count: 48
+      coverage_ratio: 0.461
+    -
+      term: orbitofrontal_cortex
+      total_count: 88
+      represented_count: 38
+      uncovered_count: 50
+      coverage_ratio: 0.432
+    -
+      term: medial_entorhinal_cortex
+      total_count: 68
+      represented_count: 57
+      uncovered_count: 11
+      coverage_ratio: 0.838
+    -
+      term: hippocampus_ca3
+      total_count: 67
+      represented_count: 35
+      uncovered_count: 32
+      coverage_ratio: 0.522
+    -
+      term: amygdala
+      total_count: 61
+      represented_count: 15
+      uncovered_count: 46
+      coverage_ratio: 0.246
+    -
+      term: ventral_tegmental_area
+      total_count: 60
+      represented_count: 20
+      uncovered_count: 40
+      coverage_ratio: 0.333
+    -
+      term: anterior_cingulate_cortex
+      total_count: 59
+      represented_count: 19
+      uncovered_count: 40
+      coverage_ratio: 0.322
+    -
+      term: thalamus
+      total_count: 57
+      represented_count: 10
+      uncovered_count: 47
+      coverage_ratio: 0.175
+    -
+      term: ventral_striatum
+      total_count: 51
+      represented_count: 22
+      uncovered_count: 29
+      coverage_ratio: 0.431
+    -
+      term: nucleus_accumbens
+      total_count: 45
+      represented_count: 9
+      uncovered_count: 36
+      coverage_ratio: 0.2
+    -
+      term: visual_cortex
+      total_count: 42
+      represented_count: 13
+      uncovered_count: 29
+      coverage_ratio: 0.31
+    -
+      term: dorsolateral_prefrontal_cortex
+      total_count: 41
+      represented_count: 9
+      uncovered_count: 32
+      coverage_ratio: 0.22
+    -
+      term: substantia_nigra
+      total_count: 40
+      represented_count: 10
+      uncovered_count: 30
+      coverage_ratio: 0.25
+    -
+      term: ventromedial_prefrontal_cortex
+      total_count: 38
+      represented_count: 23
+      uncovered_count: 15
+      coverage_ratio: 0.605
+    -
+      term: prelimbic_cortex
+      total_count: 33
+      represented_count: 8
+      uncovered_count: 25
+      coverage_ratio: 0.242
+  frameworks:
+    -
+      term: reinforcement_learning
+      total_count: 164
+      represented_count: 83
+      uncovered_count: 81
+      coverage_ratio: 0.506
+    -
+      term: attractor_networks
+      total_count: 70
+      represented_count: 51
+      uncovered_count: 19
+      coverage_ratio: 0.729
+    -
+      term: successor_representation
+      total_count: 57
+      represented_count: 51
+      uncovered_count: 6
+      coverage_ratio: 0.895
+    -
+      term: model_based_rl
+      total_count: 54
+      represented_count: 36
+      uncovered_count: 18
+      coverage_ratio: 0.667
+    -
+      term: model_free_rl
+      total_count: 43
+      represented_count: 29
+      uncovered_count: 14
+      coverage_ratio: 0.674
+    -
+      term: bayesian_inference
+      total_count: 40
+      represented_count: 12
+      uncovered_count: 28
+      coverage_ratio: 0.3
+    -
+      term: temporal_difference_learning
+      total_count: 31
+      represented_count: 17
+      uncovered_count: 14
+      coverage_ratio: 0.548
+    -
+      term: hierarchical_rl
+      total_count: 29
+      represented_count: 13
+      uncovered_count: 16
+      coverage_ratio: 0.448
+    -
+      term: tolman_eichenbaum_machine
+      total_count: 25
+      represented_count: 25
+      uncovered_count: 0
+      coverage_ratio: 1.0
+    -
+      term: mixed_selectivity
+      total_count: 19
+      represented_count: 5
+      uncovered_count: 14
+      coverage_ratio: 0.263
+    -
+      term: latent_state_inference
+      total_count: 8
+      represented_count: 8
+      uncovered_count: 0
+      coverage_ratio: 1.0
+    -
+      term: active_inference
+      total_count: 7
+      represented_count: 2
+      uncovered_count: 5
+      coverage_ratio: 0.286
+    -
+      term: neural_manifold
+      total_count: 7
+      represented_count: 3
+      uncovered_count: 4
+      coverage_ratio: 0.429
+    -
+      term: compositionality
+      total_count: 6
+      represented_count: 5
+      uncovered_count: 1
+      coverage_ratio: 0.833
+  tasks:
+    -
+      term: foraging_task
+      total_count: 35
+      represented_count: 23
+      uncovered_count: 12
+      coverage_ratio: 0.657
+    -
+      term: navigation_task
+      total_count: 26
+      represented_count: 18
+      uncovered_count: 8
+      coverage_ratio: 0.692
+    -
+      term: t_maze
+      total_count: 24
+      represented_count: 8
+      uncovered_count: 16
+      coverage_ratio: 0.333
+    -
+      term: open_field
+      total_count: 24
+      represented_count: 13
+      uncovered_count: 11
+      coverage_ratio: 0.542
+    -
+      term: linear_track
+      total_count: 18
+      represented_count: 8
+      uncovered_count: 10
+      coverage_ratio: 0.444
+    -
+      term: virtual_navigation
+      total_count: 17
+      represented_count: 11
+      uncovered_count: 6
+      coverage_ratio: 0.647
+    -
+      term: two_step_task
+      total_count: 13
+      represented_count: 6
+      uncovered_count: 7
+      coverage_ratio: 0.462
+    -
+      term: morris_water_maze
+      total_count: 7
+      represented_count: 3
+      uncovered_count: 4
+      coverage_ratio: 0.429
+    -
+      term: probabilistic_reversal_learning
+      total_count: 6
+      represented_count: 2
+      uncovered_count: 4
+      coverage_ratio: 0.333
+    -
+      term: detour_task
+      total_count: 6
+      represented_count: 6
+      uncovered_count: 0
+      coverage_ratio: 1.0
+  methods:
+    -
+      term: electrophysiology
+      total_count: 102
+      represented_count: 35
+      uncovered_count: 67
+      coverage_ratio: 0.343
+    -
+      term: lesion
+      total_count: 81
+      represented_count: 29
+      uncovered_count: 52
+      coverage_ratio: 0.358
+    -
+      term: fmri
+      total_count: 77
+      represented_count: 34
+      uncovered_count: 43
+      coverage_ratio: 0.442
+    -
+      term: optogenetics
+      total_count: 77
+      represented_count: 15
+      uncovered_count: 62
+      coverage_ratio: 0.195
+    -
+      term: computational_modeling
+      total_count: 76
+      represented_count: 30
+      uncovered_count: 46
+      coverage_ratio: 0.395
+    -
+      term: tetrode_recording
+      total_count: 58
+      represented_count: 33
+      uncovered_count: 25
+      coverage_ratio: 0.569
+    -
+      term: behavioral_analysis
+      total_count: 42
+      represented_count: 17
+      uncovered_count: 25
+      coverage_ratio: 0.405
+    -
+      term: calcium_imaging
+      total_count: 41
+      represented_count: 3
+      uncovered_count: 38
+      coverage_ratio: 0.073
+    -
+      term: bayesian_decoding
+      total_count: 41
+      represented_count: 24
+      uncovered_count: 17
+      coverage_ratio: 0.585
+    -
+      term: neuropixels
+      total_count: 27
+      represented_count: 5
+      uncovered_count: 22
+      coverage_ratio: 0.185
+    -
+      term: representational_similarity_analysis
+      total_count: 20
+      represented_count: 12
+      uncovered_count: 8
+      coverage_ratio: 0.6
+recommended_parent_hubs:
+  -
+    topic_id: striatal_and_dopaminergic_reinforcement_learning
+    label: "Striatal and Dopaminergic Reinforcement Learning"
+    support_count: 91
+    uncovered_support_count: 52
+    uncovered_ratio: 0.571
+  -
+    topic_id: prefrontal_goal_representation_and_control
+    label: "Prefrontal Goal Representation and Cognitive Control"
+    support_count: 63
+    uncovered_support_count: 36
+    uncovered_ratio: 0.571
+  -
+    topic_id: hippocampal_prefrontal_coordination_and_planning
+    label: "Hippocampal-Prefrontal Coordination and Planning"
+    support_count: 77
+    uncovered_support_count: 21
+    uncovered_ratio: 0.273
+  -
+    topic_id: ofc_task_state_and_value_maps
+    label: "Orbitofrontal Task-State and Value Maps"
+    support_count: 52
+    uncovered_support_count: 18
+    uncovered_ratio: 0.346
+  -
+    topic_id: clinical_and_computational_psychiatry
+    label: "Clinical and Computational Psychiatry"
+    support_count: 16
+    uncovered_support_count: 14
+    uncovered_ratio: 0.875
+  -
+    topic_id: behavioral_paradigms_and_navigation_tasks
+    label: "Behavioral Paradigms and Navigation Tasks"
+    support_count: 56
+    uncovered_support_count: 13
+    uncovered_ratio: 0.232
+  -
+    topic_id: anterior_cingulate_future_state_and_model_based_control
+    label: "Anterior Cingulate Future-State and Model-Based Control"
+    support_count: 19
+    uncovered_support_count: 10
+    uncovered_ratio: 0.526

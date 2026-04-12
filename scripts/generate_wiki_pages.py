@@ -19,12 +19,12 @@ from typing import Any, Dict, List, Tuple
 from normalize_summaries import (
     REPO_ROOT,
     DERIVED_DIR,
-    SUMMARIES_DIR,
     Summary,
-    clean_one_line_summary,
     dump_yaml,
     load_summaries,
+    parse_frontmatter,
     parse_simple_yaml,
+    split_frontmatter,
 )
 
 
@@ -59,6 +59,11 @@ def parse_args() -> argparse.Namespace:
         help="Restrict generation to one or more subtopic IDs.",
     )
     parser.add_argument(
+        "--catalog-path",
+        default=str(SUBTOPIC_CATALOG_PATH),
+        help="Curated subtopic catalog YAML to generate pages from.",
+    )
+    parser.add_argument(
         "--max-workers",
         type=int,
         default=6,
@@ -90,8 +95,8 @@ def slugify(text: str) -> str:
     return normalized or "untitled"
 
 
-def load_payloads() -> Tuple[Dict[str, Any], Dict[str, Summary], Dict[str, Dict[str, Any]]]:
-    catalog = parse_simple_yaml(SUBTOPIC_CATALOG_PATH.read_text())
+def load_payloads(catalog_path: Path) -> Tuple[Dict[str, Any], Dict[str, Summary], Dict[str, Dict[str, Any]]]:
+    catalog = parse_simple_yaml(catalog_path.read_text())
     summaries = {summary.frontmatter.get("paper_id", summary.path.stem): summary for summary in load_summaries()}
     paper_index = parse_simple_yaml((DERIVED_DIR / "paper_index.yaml").read_text())
     papers = {paper["paper_id"]: paper for paper in paper_index["papers"]}
@@ -283,7 +288,10 @@ def run_openai_api(prompt: str, model: str) -> str:
 def output_path_for_subtopic(
     subtopic: Dict[str, Any],
     used_paths: set[str],
+    existing_paths: Dict[str, Path],
 ) -> Path:
+    if subtopic["subtopic_id"] in existing_paths:
+        return existing_paths[subtopic["subtopic_id"]]
     stem = slugify(subtopic["refined_label"])
     if stem in used_paths:
         stem = f"{stem}__{subtopic['subtopic_id']}"
@@ -342,10 +350,46 @@ def generate_page_markdown(
     return render_frontmatter(subtopic, relative_catalog_path) + body + source_papers_section(subtopic, papers)
 
 
-def build_index(entries: List[Tuple[Dict[str, Any], Path]]) -> str:
-    existing_entries = [(subtopic, path) for subtopic, path in entries if path.exists()]
-    topic_entries = [(subtopic, path) for subtopic, path in existing_entries if subtopic["page_type"] == "topic"]
-    debate_entries = [(subtopic, path) for subtopic, path in existing_entries if subtopic["page_type"] == "debate"]
+def page_index_entries() -> List[Tuple[str, str, Path, str]]:
+    entries: List[Tuple[str, str, Path, str]] = []
+    for page_type, directory in (("topic", TOPICS_DIR), ("debate", DEBATES_DIR)):
+        if not directory.exists():
+            continue
+        for path in sorted(directory.glob("*.md")):
+            text = path.read_text()
+            frontmatter_block, body = split_frontmatter(text)
+            frontmatter = parse_frontmatter(frontmatter_block)
+            title = str(frontmatter.get("title", "")).strip()
+            if not title:
+                title_match = re.search(r"(?m)^# (.+)$", body)
+                title = title_match.group(1).strip() if title_match else path.stem
+            body_lines = [line.rstrip() for line in body.splitlines()]
+            summary = ""
+            paragraph: List[str] = []
+            saw_heading = False
+            for line in body_lines:
+                stripped = line.strip()
+                if stripped.startswith("# "):
+                    saw_heading = True
+                    continue
+                if not saw_heading:
+                    continue
+                if not stripped:
+                    if paragraph:
+                        summary = " ".join(paragraph).strip()
+                        break
+                    continue
+                if stripped.startswith("## "):
+                    break
+                paragraph.append(stripped)
+            entries.append((page_type, title, path, summary))
+    return entries
+
+
+def build_index() -> str:
+    entries = page_index_entries()
+    topic_entries = [(title, path, summary) for page_type, title, path, summary in entries if page_type == "topic"]
+    debate_entries = [(title, path, summary) for page_type, title, path, summary in entries if page_type == "debate"]
 
     lines = [
         "# Research Wiki Index",
@@ -357,25 +401,22 @@ def build_index(entries: List[Tuple[Dict[str, Any], Path]]) -> str:
         "",
         "## Topics",
     ]
-    for subtopic, path in sorted(topic_entries, key=lambda item: (-item[0]["page_worthiness"], item[0]["refined_label"])):
+    for title, path, summary in topic_entries:
         rel = path.relative_to(WIKI_DIR)
-        lines.append(
-            f"- [[{rel.with_suffix('')}|{subtopic['refined_label']}]]: {subtopic['judge_summary']}"
-        )
+        lines.append(f"- [[{rel.with_suffix('')}|{title}]]: {summary}")
     lines.extend(["", "## Debates"])
-    for subtopic, path in sorted(debate_entries, key=lambda item: item[0]["refined_label"]):
+    for title, path, summary in debate_entries:
         rel = path.relative_to(WIKI_DIR)
-        lines.append(
-            f"- [[{rel.with_suffix('')}|{subtopic['refined_label']}]]: {subtopic['judge_summary']}"
-        )
+        lines.append(f"- [[{rel.with_suffix('')}|{title}]]: {summary}")
     lines.append("")
     return "\n".join(lines)
 
 
-def append_log(generated: List[Tuple[Dict[str, Any], Path]]) -> None:
+def append_log(generated: List[Tuple[Dict[str, Any], Path]], relative_catalog_path: str) -> None:
     LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     lines = [f"## [{timestamp}] generate | First wiki topic pages from judged subtopics", ""]
+    lines.append(f"- Source catalog: `{relative_catalog_path}`")
     for subtopic, path in sorted(generated, key=lambda item: item[0]["subtopic_id"]):
         rel = path.relative_to(REPO_ROOT)
         lines.append(
@@ -389,7 +430,7 @@ def append_log(generated: List[Tuple[Dict[str, Any], Path]]) -> None:
 def main() -> int:
     args = parse_args()
     load_dotenv(DOTENV_PATH)
-    catalog, summaries, papers = load_payloads()
+    catalog, summaries, papers = load_payloads(Path(args.catalog_path))
     wanted = set(args.subtopic_id)
 
     all_selected = [
@@ -402,10 +443,24 @@ def main() -> int:
         return 0
 
     used_paths: set[str] = set()
-    relative_catalog_path = "derived/subtopic_catalog.yaml"
+    existing_paths: Dict[str, Path] = {}
+    for directory in (TOPICS_DIR, DEBATES_DIR):
+        if not directory.exists():
+            continue
+        for path in directory.glob("*.md"):
+            frontmatter_block, _ = split_frontmatter(path.read_text())
+            frontmatter = parse_frontmatter(frontmatter_block)
+            subtopic_id = str(frontmatter.get("subtopic_id", "")).strip()
+            if subtopic_id:
+                existing_paths[subtopic_id] = path
+            used_paths.add(path.stem)
+    try:
+        relative_catalog_path = str(Path(args.catalog_path).resolve().relative_to(REPO_ROOT.resolve()))
+    except ValueError:
+        relative_catalog_path = str(Path(args.catalog_path))
     all_tasks = []
     for subtopic in all_selected:
-        output_path = output_path_for_subtopic(subtopic, used_paths)
+        output_path = output_path_for_subtopic(subtopic, used_paths, existing_paths)
         all_tasks.append((subtopic, output_path))
 
     tasks = [
@@ -457,8 +512,8 @@ def main() -> int:
         output_path.write_text(markdown)
 
     generated_pairs = [(subtopic, output_path) for subtopic, output_path, _ in generated]
-    INDEX_PATH.write_text(build_index(all_tasks))
-    append_log(generated_pairs)
+    INDEX_PATH.write_text(build_index())
+    append_log(generated_pairs, relative_catalog_path)
     print(f"Wrote {len(generated)} pages, updated {INDEX_PATH.relative_to(REPO_ROOT)} and {LOG_PATH.relative_to(REPO_ROOT)}")
     return 0 if generated else 1
 

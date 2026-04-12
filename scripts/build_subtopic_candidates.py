@@ -49,6 +49,16 @@ def parse_args() -> argparse.Namespace:
         help="How many primary field hubs to subdivide.",
     )
     parser.add_argument(
+        "--parent-topics-path",
+        default=str(TOPIC_CANDIDATES_PATH),
+        help="YAML file providing either topics: or parent_hubs: entries.",
+    )
+    parser.add_argument(
+        "--output-path",
+        default=str(SUBTOPIC_CANDIDATES_PATH),
+        help="Where to write the derived subtopic candidate YAML.",
+    )
+    parser.add_argument(
         "--write",
         action="store_true",
         help="Write derived/subtopic_candidates.yaml.",
@@ -56,17 +66,27 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def load_payloads() -> Tuple[Dict[str, Any], Dict[str, Any], Dict[str, Any]]:
+def load_payloads(parent_topics_path: Path) -> Tuple[Dict[str, Any], Dict[str, Any], Dict[str, Any]]:
     paper_index = parse_simple_yaml(PAPER_INDEX_PATH.read_text())
     citation_edges = parse_simple_yaml(CITATION_EDGES_PATH.read_text())
-    topic_candidates = parse_simple_yaml(TOPIC_CANDIDATES_PATH.read_text())
+    topic_candidates = parse_simple_yaml(parent_topics_path.read_text())
     return paper_index, citation_edges, topic_candidates
 
 
 def choose_parent_topics(topic_candidates: Dict[str, Any], max_parent_topics: int) -> List[Dict[str, Any]]:
-    primary = [topic for topic in topic_candidates["topics"] if topic.get("tier") == "primary"]
-    primary.sort(key=lambda topic: (-topic["source_signals"]["support_count"], topic["topic_id"]))
-    return primary[:max_parent_topics]
+    if "topics" in topic_candidates:
+        primary = [topic for topic in topic_candidates["topics"] if topic.get("tier") == "primary"]
+        primary.sort(key=lambda topic: (-topic["source_signals"]["support_count"], topic["topic_id"]))
+        return primary[:max_parent_topics]
+    parent_hubs = list(topic_candidates.get("parent_hubs", []))
+    parent_hubs.sort(
+        key=lambda topic: (
+            -topic.get("source_signals", {}).get("uncovered_support_count", 0),
+            -topic.get("source_signals", {}).get("support_count", 0),
+            topic["topic_id"],
+        )
+    )
+    return parent_hubs[:max_parent_topics]
 
 
 def build_adjacency(edges: List[Dict[str, Any]]) -> Dict[str, Set[str]]:
@@ -365,8 +385,8 @@ def build_subtopics_for_parent(
     return subtopics, orphans, cluster_count
 
 
-def build_payload(max_parent_topics: int) -> OrderedDict[str, Any]:
-    paper_index, citation_edges, topic_candidates = load_payloads()
+def build_payload(max_parent_topics: int, parent_topics_path: Path) -> OrderedDict[str, Any]:
+    paper_index, citation_edges, topic_candidates = load_payloads(parent_topics_path)
     papers = {paper["paper_id"]: paper for paper in paper_index["papers"]}
     edges = citation_edges["edges"]
     adjacency = build_adjacency(edges)
@@ -403,9 +423,10 @@ def build_payload(max_parent_topics: int) -> OrderedDict[str, Any]:
 
 def main() -> int:
     args = parse_args()
-    payload = build_payload(args.max_parent_topics)
+    output_path = Path(args.output_path)
+    payload = build_payload(args.max_parent_topics, Path(args.parent_topics_path))
     if args.write:
-        write_yaml(SUBTOPIC_CANDIDATES_PATH, payload)
+        write_yaml(output_path, payload)
     print(
         f"Built {payload['subtopic_count']} subtopic candidates from {payload['parent_topic_count']} parent topics"
     )

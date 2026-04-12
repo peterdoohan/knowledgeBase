@@ -1,0 +1,3919 @@
+generated_at: "2026-04-12T19:46:34.626579+00:00"
+candidate_subtopic_count: 27
+selected_subtopic_count: 18
+selected_page_type_counts:
+  debate: 1
+  methods: 1
+  topic: 16
+parent_topics:
+  -
+    topic_id: striatal_and_dopaminergic_reinforcement_learning
+    label: "Striatal and Dopaminergic Reinforcement Learning"
+    candidate_subtopic_count: 6
+    selected_subtopic_count: 5
+    selected_subtopics:
+      - striatal_and_dopaminergic_reinforcement_learning__01
+      - striatal_and_dopaminergic_reinforcement_learning__03
+      - striatal_and_dopaminergic_reinforcement_learning__04
+      - striatal_and_dopaminergic_reinforcement_learning__05
+      - striatal_and_dopaminergic_reinforcement_learning__02
+  -
+    topic_id: prefrontal_goal_representation_and_control
+    label: "Prefrontal Goal Representation and Cognitive Control"
+    candidate_subtopic_count: 4
+    selected_subtopic_count: 3
+    selected_subtopics:
+      - prefrontal_goal_representation_and_control__01
+      - prefrontal_goal_representation_and_control__02
+      - prefrontal_goal_representation_and_control__03
+  -
+    topic_id: hippocampal_prefrontal_coordination_and_planning
+    label: "Hippocampal-Prefrontal Coordination and Planning"
+    candidate_subtopic_count: 4
+    selected_subtopic_count: 3
+    selected_subtopics:
+      - hippocampal_prefrontal_coordination_and_planning__02
+      - hippocampal_prefrontal_coordination_and_planning__03
+      - hippocampal_prefrontal_coordination_and_planning__01
+  -
+    topic_id: ofc_task_state_and_value_maps
+    label: "Orbitofrontal Task-State and Value Maps"
+    candidate_subtopic_count: 3
+    selected_subtopic_count: 2
+    selected_subtopics:
+      - ofc_task_state_and_value_maps__01
+      - ofc_task_state_and_value_maps__03
+  -
+    topic_id: clinical_and_computational_psychiatry
+    label: "Clinical and Computational Psychiatry"
+    candidate_subtopic_count: 3
+    selected_subtopic_count: 1
+    selected_subtopics:
+      - clinical_and_computational_psychiatry__01
+  -
+    topic_id: behavioral_paradigms_and_navigation_tasks
+    label: "Behavioral Paradigms and Navigation Tasks"
+    candidate_subtopic_count: 4
+    selected_subtopic_count: 3
+    selected_subtopics:
+      - behavioral_paradigms_and_navigation_tasks__01
+      - behavioral_paradigms_and_navigation_tasks__02
+      - behavioral_paradigms_and_navigation_tasks__04
+  -
+    topic_id: anterior_cingulate_future_state_and_model_based_control
+    label: "Anterior Cingulate Future-State and Model-Based Control"
+    candidate_subtopic_count: 3
+    selected_subtopic_count: 1
+    selected_subtopics:
+      - anterior_cingulate_future_state_and_model_based_control__02
+selected_subtopics:
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__01
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: place cells, theta oscillations, route planning"
+    candidate_papers:
+      - brown2016_prospective_goals_hippocampus
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - dahmani2015_prefrontal_navigation_strategies
+      - ekstrom2003_spatial_navigation
+      - farzanfar2023_cognitive_maps_spatial
+      - hartley2003_wayfinding_route
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jazi2023_hippocampal_path_integration_homing
+      - kleinflugge2022_medial_orbital_frontal
+      - long2024_border_cells_prefrontal
+      - mugan_redish2024_environmental_complexity_decision
+      - ormond2022_goal_oriented_vector_fields
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schmidt2021_mpfc_swr_dreadd
+      - spiers2015_detour_problem_navigation
+      - watrous2018_phase_tuned_navigation_goals
+      - wikenheiser2015_theta_sequences_goals
+      - yu2015_hippocampal_cortical_interaction
+      - yu2018_hippocampal_cortical_memory
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - ekstrom2003_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - hartley2003_wayfinding_route
+      - spiers2015_detour_problem_navigation
+      - yu2025_theta_sweeps_goal_direction
+    core_papers:
+      - brown2016_prospective_goals_hippocampus
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - dahmani2015_prefrontal_navigation_strategies
+      - ekstrom2003_spatial_navigation
+      - farzanfar2023_cognitive_maps_spatial
+      - hartley2003_wayfinding_route
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jazi2023_hippocampal_path_integration_homing
+    supporting_papers:
+      - kleinflugge2022_medial_orbital_frontal
+      - long2024_border_cells_prefrontal
+      - mugan_redish2024_environmental_complexity_decision
+      - ormond2022_goal_oriented_vector_fields
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schmidt2021_mpfc_swr_dreadd
+    source_signals:
+      support_count: 21
+      internal_citation_edges: 10
+      average_pair_weight: 3.93
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - successor_representation
+        - mixed_selectivity
+        - model_free_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - hippocampus_ca1
+        - striatum
+        - medial_prefrontal_cortex
+      tasks:
+        - foraging_task
+        - virtual_navigation
+        - navigation_task
+        - open_field
+        - detour_task
+        - hexmaze
+      keywords:
+        - place_cells
+        - theta_oscillations
+        - route_planning
+        - medial_prefrontal_cortex
+        - goal_directed_behavior
+        - decision_making
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 21 papers and 10 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal–prefrontal mechanisms of route planning and detour navigation"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "Good candidate if narrowed from a broad navigation umbrella to a focused page on how hippocampus, prefrontal cortex, and related theta dynamics support wayfinding, route selection, and detour behavior across navigation tasks. The cited papers form a coherent cluster around planning versus route-following, goal representation, and online replanning."
+    judge_reason_short: "Strong support, but only as a narrower route-planning/detour topic rather than all navigation paradigms."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:11.981011+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__02
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: entorhinal cortex, grid cells, successor representation"
+    candidate_papers:
+      - decothi2022_predictive_spatial_navigation
+      - eldar2020_replay_planning
+      - huang2024_hippocampal_theta_goal_distance
+      - martinet2011_spatial_learning_action_planning
+      - momennejad2017_successor_representation_humans
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - russek2017_model_based_reinforcement
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whitlock2012_functional_parietal_entorhinal
+      - whittington2023_disentanglement_constraints
+      - wijnen2024_maze_learning
+    anchor_papers:
+      - momennejad2017_successor_representation_humans
+      - russek2017_model_based_reinforcement
+      - piray2021_linear_reinforcement_planning
+      - piray2020_linear_reinforcement_learning
+      - decothi2022_predictive_spatial_navigation
+    core_papers:
+      - decothi2022_predictive_spatial_navigation
+      - eldar2020_replay_planning
+      - huang2024_hippocampal_theta_goal_distance
+      - martinet2011_spatial_learning_action_planning
+      - momennejad2017_successor_representation_humans
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+    supporting_papers:
+      - russek2017_model_based_reinforcement
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whitlock2012_functional_parietal_entorhinal
+      - whittington2023_disentanglement_constraints
+      - wijnen2024_maze_learning
+    source_signals:
+      support_count: 13
+      internal_citation_edges: 5
+      average_pair_weight: 4.65
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - temporal_difference_learning
+        - model_free_rl
+        - attractor_networks
+        - model_based_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - striatum
+        - hippocampus_ca1
+      tasks:
+        - navigation_task
+        - detour_task
+        - open_field
+        - two_step_task
+        - virtual_navigation
+        - foraging_task
+      keywords:
+        - entorhinal_cortex
+        - grid_cells
+        - successor_representation
+        - planning
+        - reward_revaluation
+        - path_integration
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 13 papers and 5 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representations and grid-cell predictive maps in spatial navigation"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on theories linking successor/predictive representations to entorhinal grid-cell codes and navigation behavior is well supported. The anchor papers converge on the idea that predictive state maps can explain flexible planning, revaluation asymmetries, and some grid-field phenomena across humans, rats, and RL models. This is narrower and more coherent than a general page on entorhinal cortex or navigation tasks."
+    judge_reason_short: "Coherent computational-neural topic with multiple anchor papers connecting SR/predictive maps, grid cells, and navigation."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:14.126939+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__04
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: successor representation, hierarchical planning, hierarchical"
+    candidate_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - balaguer2016_hierarchical_planning_subway
+      - brunec2022_predictive_representations_hierarchies
+      - coutrot2022_entropy_street_navigation
+      - dayan1993_successor_representation
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kim2026_hippocampus_smallworld
+      - olson2020_secondary_motor_cortex_navigation
+      - tomov2020_hierarchical_planning_representation
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    anchor_papers:
+      - dayan1993_successor_representation
+      - wientjes2024_successor_representation
+      - tomov2020_hierarchical_planning_representation
+      - brunec2022_predictive_representations_hierarchies
+      - alonso2021_hexmaze_cognitive_map
+    core_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - balaguer2016_hierarchical_planning_subway
+      - brunec2022_predictive_representations_hierarchies
+      - coutrot2022_entropy_street_navigation
+      - dayan1993_successor_representation
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kim2026_hippocampus_smallworld
+      - olson2020_secondary_motor_cortex_navigation
+    supporting_papers:
+      - tomov2020_hierarchical_planning_representation
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 3
+      average_pair_weight: 4.09
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - hierarchical_rl
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - medial_prefrontal_cortex
+        - anterior_cingulate_cortex
+        - entorhinal_cortex
+        - dorsolateral_prefrontal_cortex
+      tasks:
+        - navigation_task
+        - virtual_navigation
+        - hexmaze
+        - t_maze
+      keywords:
+        - successor_representation
+        - hierarchical_planning
+        - hierarchical
+        - planning
+        - medial_prefrontal_cortex
+        - map
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 11 papers and 3 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representation and hierarchical planning in navigation"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how successor representations support multiscale or hierarchical planning in navigation tasks, linking reinforcement-learning theory to hippocampal–prefrontal predictive maps and maze/virtual navigation evidence."
+    judge_reason_short: "Coherent, specific cluster with clear anchor papers around SR and hierarchical planning in navigation."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:15.002549+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__02
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: place cells, prospective coding, medial prefrontal cortex"
+    candidate_papers:
+      - avigan2020_spatial_learning_hippocampus
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - denbakker2024_mpfc_spatial_swr
+      - hasz2020_spatial_encoding_deliberation
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - huang2024_hippocampal_theta_goal_distance
+      - hyun2022_cal_light_active_neurons
+      - ito2015_prefrontal_thalamic_hippocampus
+      - ito2018_prefrontal_hippocampal_navigation
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+      - mahn2018_optogenetic_silencing_b
+      - martinet2011_spatial_learning_action_planning
+      - nyberg2022_spatial_goal_coding
+      - redish2016_vicarious_trial_error
+      - russek2017_model_based_reinforcement
+      - stoianov2020_hierarchical_generative_model
+      - tsao2022_neural_bases_timing_durations
+      - zielinski2019_theta_hippocampus_prefrontal
+    anchor_papers:
+      - ito2015_prefrontal_thalamic_hippocampus
+      - hok2005_goal_coding_prefrontal
+      - avigan2020_spatial_learning_hippocampus
+      - russek2017_model_based_reinforcement
+      - jones2005_theta_hippocampal_prefrontal
+    core_papers:
+      - avigan2020_spatial_learning_hippocampus
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - denbakker2024_mpfc_spatial_swr
+      - hasz2020_spatial_encoding_deliberation
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - huang2024_hippocampal_theta_goal_distance
+    supporting_papers:
+      - hyun2022_cal_light_active_neurons
+      - ito2015_prefrontal_thalamic_hippocampus
+      - ito2018_prefrontal_hippocampal_navigation
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+    source_signals:
+      support_count: 23
+      internal_citation_edges: 8
+      average_pair_weight: 4.0
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_free_rl
+        - temporal_difference_learning
+        - mixed_selectivity
+      brain_regions:
+        - prefrontal_cortex
+        - hippocampus
+        - hippocampus_ca1
+        - medial_prefrontal_cortex
+        - entorhinal_cortex
+        - striatum
+      tasks:
+        - foraging_task
+        - navigation_task
+        - morris_water_maze
+        - open_field
+        - t_maze
+        - detour_task
+      keywords:
+        - place_cells
+        - prospective_coding
+        - medial_prefrontal_cortex
+        - theta_oscillations
+        - spatial_working_memory
+        - goal
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 23 papers and 8 internal citation edges."
+    judgment_status: judged
+    refined_label: "Prospective spatial coding in hippocampal–medial prefrontal circuits"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how hippocampus (especially CA1 place cells) and medial prefrontal cortex coordinate prospective representations of routes, goals, and upcoming choices during spatial navigation and working-memory tasks, including roles for theta synchrony and thalamic relay pathways."
+    judge_reason_short: "Coherent, evidence-backed subtopic centered on prospective spatial coding across hippocampus and mPFC."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.829478+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__03
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: sharp wave ripples, replay, place cells"
+    candidate_papers:
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - jadhav2016_hippocampal_prefrontal_swr
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+      - liu2019_human_replay_reorganizes
+      - mckenzie2022_hippocampal_replay
+      - olafsdottir2015_place_cells_reward
+      - pfeiffer2017_hippocampal_replay_memory
+      - roscow2021_memory_replay_learning
+      - schmidt2021_mpfc_swr_dreadd
+      - shin2019_hippocampal_prefrontal_replay
+      - singer2009_reward_reactivation_hippocampus
+      - tang2021_multiple_timescales_decision_making
+      - wikenheiser2015_theta_sequences_goals
+      - yu2015_hippocampal_cortical_interaction
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - jadhav2016_hippocampal_prefrontal_swr
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - wikenheiser2015_theta_sequences_goals
+      - findlay2021_replay_wake_sleep
+      - jensen2024_recurrent_planning_hippocampal_replay
+    core_papers:
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - jadhav2016_hippocampal_prefrontal_swr
+      - jensen2024_recurrent_planning_hippocampal_replay
+    supporting_papers:
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+      - liu2019_human_replay_reorganizes
+      - mckenzie2022_hippocampal_replay
+      - olafsdottir2015_place_cells_reward
+      - pfeiffer2017_hippocampal_replay_memory
+      - roscow2021_memory_replay_learning
+    source_signals:
+      support_count: 22
+      internal_citation_edges: 12
+      average_pair_weight: 6.05
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - model_based_rl
+        - bayesian_inference
+        - model_free_rl
+        - temporal_difference_learning
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - hippocampus_ca1
+        - striatum
+        - ventral_striatum
+        - entorhinal_cortex
+      tasks:
+        - foraging_task
+        - navigation_task
+        - open_field
+        - y_maze
+        - linear_track
+        - t_maze
+      keywords:
+        - sharp_wave_ripples
+        - replay
+        - place_cells
+        - hippocampal_replay
+        - memory_consolidation
+        - bayesian_decoding
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 22 papers and 12 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal sharp-wave ripple replay and prefrontal coordination during planning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how hippocampal sharp-wave ripples and replay events coordinate with prefrontal ensemble activity to support non-local representation, memory-guided choice, and planning. The strongest evidence centers on awake SWR-linked hippocampus–PFC coupling and replay content, rather than on place cells broadly."
+    judge_reason_short: "Coherent, well-supported, and narrower than the parent; trim broad 'place cells' framing."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:05.434418+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: ofc_task_state_and_value_maps__01
+    parent_topic_id: ofc_task_state_and_value_maps
+    parent_label: "Orbitofrontal Task-State and Value Maps"
+    provisional_label: "Orbitofrontal Task-State and Value Maps: model based reinforcement learning, goal directed behaviour, model free reinforcement learning"
+    candidate_papers:
+      - bein2024_schemas_reinforcement_learning_pfc
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - brown2016_prospective_goals_hippocampus
+      - corbit2018_goal_directed_habitual
+      - dahmani2015_prefrontal_navigation_strategies
+      - daw2005_uncertainty_prefrontal_striatal
+      - daw2011_model_based_striatal_prediction
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - jeong2022_mesolimbic_dopamine_causal
+      - knudsen2020_ofc_theta_learning
+      - knudsen2022_ofc_cognitive_map
+      - loosen2020_computational_psychiatry_ocd
+      - mattar2022_planning_brain
+      - mishchanchuk2024_hidden_state_inference
+      - momennejad2017_successor_representation_humans
+      - momennejad2018_offline_replay_planning
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - redish2016_vicarious_trial_error_b
+      - rushworth2011_prefrontal_reward_decision
+      - wilson2013_ofc_cognitive_map
+    anchor_papers:
+      - daw2005_uncertainty_prefrontal_striatal
+      - wilson2013_ofc_cognitive_map
+      - daw2011_model_based_striatal_prediction
+      - momennejad2017_successor_representation_humans
+      - niv2019_representation_learning_task_states
+    core_papers:
+      - bein2024_schemas_reinforcement_learning_pfc
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - brown2016_prospective_goals_hippocampus
+      - corbit2018_goal_directed_habitual
+      - dahmani2015_prefrontal_navigation_strategies
+      - daw2005_uncertainty_prefrontal_striatal
+      - daw2011_model_based_striatal_prediction
+    supporting_papers:
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - jeong2022_mesolimbic_dopamine_causal
+      - knudsen2020_ofc_theta_learning
+      - knudsen2022_ofc_cognitive_map
+    source_signals:
+      support_count: 25
+      internal_citation_edges: 14
+      average_pair_weight: 7.62
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - hierarchical_rl
+        - successor_representation
+        - temporal_difference_learning
+      brain_regions:
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - hippocampus
+        - striatum
+        - ventromedial_prefrontal_cortex
+        - ventral_striatum
+      tasks:
+        - two_step_task
+        - navigation_task
+        - virtual_navigation
+        - t_maze
+        - foraging_task
+        - probabilistic_reversal_learning
+      keywords:
+        - model_based_reinforcement_learning
+        - goal_directed_behaviour
+        - model_free_reinforcement_learning
+        - reinforcement
+        - orbitofrontal_cortex
+        - reward_prediction_error
+    rationale: "Sub-cluster inside Orbitofrontal Task-State and Value Maps with 25 papers and 14 internal citation edges."
+    judgment_status: judged
+    refined_label: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on the idea that orbitofrontal cortex represents latent task states or a cognitive map that supports goal-directed/model-based valuation and choice. Strong anchors link OFC state representations to reinforcement-learning theories, revaluation-sensitive behaviour, and interactions with striatum and hippocampus."
+    judge_reason_short: "Coherent and well-supported if narrowed to OFC task-state representations in model-based control; too broad if framed as all model-based vs model-free RL."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:09.020636+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: ofc_task_state_and_value_maps__03
+    parent_topic_id: ofc_task_state_and_value_maps
+    parent_label: "Orbitofrontal Task-State and Value Maps"
+    provisional_label: "Orbitofrontal Task-State and Value Maps: cognitive, map, successor representation"
+    candidate_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - brunec2022_predictive_representations_hierarchies
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - costa2022_orbitofrontal_cognitive_maps
+      - garvert2017_relational_knowledge_maps
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - schuck2016_orbitofrontal_cortex_state
+      - veselic2025_cognitive_map_value_vmPFC
+    anchor_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - schuck2016_orbitofrontal_cortex_state
+      - garvert2017_relational_knowledge_maps
+      - brunec2022_predictive_representations_hierarchies
+    core_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - brunec2022_predictive_representations_hierarchies
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - costa2022_orbitofrontal_cognitive_maps
+      - garvert2017_relational_knowledge_maps
+      - kleinflugge2022_medial_orbital_frontal
+    supporting_papers:
+      - knudsen2021_hippocampal_value_place
+      - schuck2016_orbitofrontal_cortex_state
+      - veselic2025_cognitive_map_value_vmPFC
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 13
+      average_pair_weight: 6.18
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - successor_representation
+        - hierarchical_rl
+        - attractor_networks
+        - model_free_rl
+      brain_regions:
+        - orbitofrontal_cortex
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - dorsolateral_prefrontal_cortex
+        - anterior_cingulate_cortex
+      tasks:
+        - foraging_task
+        - virtual_navigation
+      keywords:
+        - cognitive
+        - map
+        - successor_representation
+        - knowledge
+        - model_based_reinforcement_learning
+        - place_cells
+    rationale: "Sub-cluster inside Orbitofrontal Task-State and Value Maps with 11 papers and 13 internal citation edges."
+    judgment_status: judged
+    refined_label: "Orbitofrontal cortex as a cognitive map of hidden task state"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on the claim that OFC represents latent task-state structure for flexible behavior is well supported and coherent. The evidence can be anchored by Schuck 2016, with related links to broader cognitive-map and predictive-representation work in hippocampal-entorhinal and prefrontal systems. The page should stay centered on OFC task-state representations, treating successor representations and abstract cognitive maps as nearby frameworks rather than the page’s main scope."
+    judge_reason_short: "Strong, cohesive OFC hidden-state map topic; narrow away from general cognitive-map/SR literature."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:11.362214+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__01
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: medial, medial prefrontal cortex, working memory"
+    candidate_papers:
+      - badre2018_frontal_cortex_hierarchical_control
+      - bohm2020_pfc_spatial_working_memory
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - ciaramelli2008_vmPFC_wayfinding_navigation
+      - dahmani2015_prefrontal_navigation_strategies
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - elgaby2023_behavioral_structure_mapping
+      - farzanfar2023_cognitive_maps_spatial
+      - fujisawa2008_assembly_prefrontal_cortex
+      - hartley2003_wayfinding_route
+      - hok2013_prefrontal_place_cells
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+      - martinet2011_spatial_learning_action_planning
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - reinert2021_prefrontal_categorization_b
+      - sauer2022_prefrontal_spatial_representation
+      - schmidt2021_mpfc_swr_dreadd
+      - spiers2008_prefrontal_goal_navigation
+      - spiers2015_detour_problem_navigation
+      - vanheukelum2020_cingulate_cortex_cross_species
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - hartley2003_wayfinding_route
+      - patai2021_versatile_wayfinder_prefrontal
+      - ito2015_prefrontal_thalamic_hippocampus
+      - sauer2022_prefrontal_spatial_representation
+      - badre2018_frontal_cortex_hierarchical_control
+    core_papers:
+      - badre2018_frontal_cortex_hierarchical_control
+      - bohm2020_pfc_spatial_working_memory
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - ciaramelli2008_vmPFC_wayfinding_navigation
+      - dahmani2015_prefrontal_navigation_strategies
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - elgaby2023_behavioral_structure_mapping
+      - farzanfar2023_cognitive_maps_spatial
+    supporting_papers:
+      - fujisawa2008_assembly_prefrontal_cortex
+      - hartley2003_wayfinding_route
+      - hok2013_prefrontal_place_cells
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+    source_signals:
+      support_count: 26
+      internal_citation_edges: 9
+      average_pair_weight: 3.41
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - mixed_selectivity
+        - tolman_eichenbaum_machine
+        - model_free_rl
+      brain_regions:
+        - prefrontal_cortex
+        - medial_prefrontal_cortex
+        - hippocampus
+        - anterior_cingulate_cortex
+        - hippocampus_ca1
+        - entorhinal_cortex
+      tasks:
+        - virtual_navigation
+        - navigation_task
+        - t_maze
+        - foraging_task
+        - detour_task
+        - open_field
+      keywords:
+        - medial
+        - medial_prefrontal_cortex
+        - working_memory
+        - wayfinding
+        - theta_oscillations
+        - spatial_working_memory
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 26 papers and 9 internal citation edges."
+    judgment_status: judged
+    refined_label: "Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how medial prefrontal cortex supports goal representations during navigation, including prospective coding, route adaptation, and spatial working memory, especially through interactions with hippocampal and thalamic circuits."
+    judge_reason_short: "Coherent, evidence-backed subtopic centered on mPFC contributions to navigation-related goal coding and spatial working memory."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:25.795877+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__02
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: rat, planning, medial prefrontal cortex"
+    candidate_papers:
+      - anastasiades2021_circuit_medial_prefrontal
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - coutureau2003_infralimbic_prefrontal_goal
+      - dolan2013_goals_habits_brain_b
+      - gabriel2022_behaviordepot_detection
+      - hok2005_goal_coding_prefrontal
+      - holton2023_planning_vmPFC_lesions
+      - jauhar2022_schizophrenia
+      - keramati2016_plan_until_habit
+      - krause2017_sleep_deprivation_brain
+      - kubska2021_single_neuron_cognition
+      - lacroix2002_medial_prefrontal_spatial
+      - lipska1998_prefrontal_cortex_hippocampal
+      - ostlund2005_prefrontal_cortex_habits
+      - piray2020_linear_reinforcement_learning
+      - redish2016_vicarious_trial_error_b
+      - rudebeck2022_foraging_frontal
+      - russek2017_model_based_reinforcement
+    anchor_papers:
+      - russek2017_model_based_reinforcement
+      - coutureau2003_infralimbic_prefrontal_goal
+      - ostlund2005_prefrontal_cortex_habits
+      - piray2020_linear_reinforcement_learning
+      - corbit2018_goal_directed_habitual
+    core_papers:
+      - anastasiades2021_circuit_medial_prefrontal
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - coutureau2003_infralimbic_prefrontal_goal
+      - dolan2013_goals_habits_brain_b
+      - gabriel2022_behaviordepot_detection
+      - hok2005_goal_coding_prefrontal
+      - holton2023_planning_vmPFC_lesions
+    supporting_papers:
+      - jauhar2022_schizophrenia
+      - keramati2016_plan_until_habit
+      - krause2017_sleep_deprivation_brain
+      - kubska2021_single_neuron_cognition
+      - lacroix2002_medial_prefrontal_spatial
+      - lipska1998_prefrontal_cortex_hippocampal
+      - ostlund2005_prefrontal_cortex_habits
+    source_signals:
+      support_count: 19
+      internal_citation_edges: 4
+      average_pair_weight: 4.53
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - temporal_difference_learning
+        - successor_representation
+        - hierarchical_rl
+      brain_regions:
+        - prefrontal_cortex
+        - striatum
+        - hippocampus
+        - medial_prefrontal_cortex
+        - amygdala
+        - infralimbic_cortex
+      tasks:
+        - two_step_task
+        - foraging_task
+        - navigation_task
+        - t_maze
+        - detour_task
+        - morris_water_maze
+      keywords:
+        - rat
+        - planning
+        - medial_prefrontal_cortex
+        - outcome_devaluation
+        - model_based_reinforcement_learning
+        - medial_prefrontal_cortex_lesion
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 19 papers and 4 internal citation edges."
+    judgment_status: judged
+    refined_label: "Medial prefrontal cortex in rat goal-directed vs habitual control"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on rat medial prefrontal cortex contributions to goal-directed action, habit formation, and outcome devaluation is well supported. The anchor papers converge on infralimbic/medial prefrontal lesions or inactivation and their effects on acquisition vs expression of goal-directed control, making this a tighter and more evidence-dense topic than the broader 'planning' label."
+    judge_reason_short: "Strong animal literature supports a narrow mPFC goal-directed vs habit page; broader planning/RL framing is too diffuse."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.105933+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__01
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: model based reinforcement learning, model free reinforcement learning, goal directed behaviour"
+    candidate_papers:
+      - akam2015_two_step_task_habits
+      - akam2015_two_step_task_simple_plans
+      - akam2021_dopamine_model_based_rl
+      - balleine1998_goal_directed_instrumental_action
+      - blancopolzo2024_dopamine_independent_reward
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - chandra2024_visual_cortex_development
+      - chang2020_cuneiform_nucleus_locomotor_dbs
+      - corbit2018_goal_directed_habitual
+      - daw2005_uncertainty_prefrontal_striatal
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - fang2023_striatal_pallidal_wiring
+      - foster2021_cortico_basal_ganglia
+      - gillespie2021_replay_past_experiences
+      - haber2014_reward_circuit_incentive_learning
+      - haber2016_corticostriatal_circuitry_b
+      - keramati2016_plan_until_habit
+      - knudsen2022_ofc_cognitive_map
+      - lammel2014_dopamine_reward_aversion_b
+      - mattar2022_planning_brain
+      - redish2016_vicarious_trial_error_b
+      - vicente2020_cortico_basal_ganglia_motor
+    anchor_papers:
+      - daw2005_uncertainty_prefrontal_striatal
+      - balleine1998_goal_directed_instrumental_action
+      - dolan2013_goals_habits_brain_b
+      - mattar2022_planning_brain
+      - corbit2018_goal_directed_habitual
+    core_papers:
+      - akam2015_two_step_task_habits
+      - akam2015_two_step_task_simple_plans
+      - akam2021_dopamine_model_based_rl
+      - balleine1998_goal_directed_instrumental_action
+      - blancopolzo2024_dopamine_independent_reward
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - chandra2024_visual_cortex_development
+    supporting_papers:
+      - chang2020_cuneiform_nucleus_locomotor_dbs
+      - corbit2018_goal_directed_habitual
+      - daw2005_uncertainty_prefrontal_striatal
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - fang2023_striatal_pallidal_wiring
+      - foster2021_cortico_basal_ganglia
+    source_signals:
+      support_count: 24
+      internal_citation_edges: 6
+      average_pair_weight: 6.69
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - successor_representation
+        - temporal_difference_learning
+        - hierarchical_rl
+      brain_regions:
+        - striatum
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - hippocampus
+        - ventral_striatum
+        - nucleus_accumbens
+      tasks:
+        - two_step_task
+        - navigation_task
+        - foraging_task
+        - t_maze
+      keywords:
+        - model_based_reinforcement_learning
+        - model_free_reinforcement_learning
+        - goal_directed_behaviour
+        - outcome_devaluation
+        - successor_representation
+        - habits
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 24 papers and 6 internal citation edges."
+    judgment_status: judged
+    refined_label: "Goal-directed vs habitual control in corticostriatal reinforcement learning"
+    page_type: debate
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on the relationship between model-based/model-free reinforcement learning and goal-directed/habitual behavioral control in corticostriatal circuits is well supported by classic theory, animal lesion work, and human task studies."
+    judge_reason_short: "Strong, coherent literature, but only worth keeping if narrowed from the broad RL umbrella to the specific goal-directed vs habitual control debate."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.120722+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__03
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: successor representation, dopamine, planning"
+    candidate_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - decothi2022_predictive_spatial_navigation
+      - george2022_stdp_predictive_maps
+      - gershman2018_successor_representation_learning
+      - kaplan2018_active_inference_navigation
+      - kravitz2010_basal_ganglia_optogenetic
+      - mcnamara2017_dopamine_hippocampus
+      - mizes2023_sensorimotor_striatum
+      - momennejad2018_offline_replay_planning
+      - namboodiri2023_mesolimbic_dopamine_causal
+      - park2020_basal_ganglia_action
+      - piray2020_linear_reinforcement_learning
+      - roscow2021_memory_replay_learning
+      - russek2017_model_based_reinforcement
+    anchor_papers:
+      - russek2017_model_based_reinforcement
+      - momennejad2018_offline_replay_planning
+      - gershman2018_successor_representation_learning
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - piray2020_linear_reinforcement_learning
+    core_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - decothi2022_predictive_spatial_navigation
+      - george2022_stdp_predictive_maps
+      - gershman2018_successor_representation_learning
+      - kaplan2018_active_inference_navigation
+      - kravitz2010_basal_ganglia_optogenetic
+      - mcnamara2017_dopamine_hippocampus
+      - mizes2023_sensorimotor_striatum
+    supporting_papers:
+      - momennejad2018_offline_replay_planning
+      - namboodiri2023_mesolimbic_dopamine_causal
+      - park2020_basal_ganglia_action
+      - piray2020_linear_reinforcement_learning
+      - roscow2021_memory_replay_learning
+      - russek2017_model_based_reinforcement
+    source_signals:
+      support_count: 14
+      internal_citation_edges: 5
+      average_pair_weight: 6.54
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_free_rl
+        - temporal_difference_learning
+        - model_based_rl
+        - bayesian_inference
+      brain_regions:
+        - hippocampus
+        - striatum
+        - prefrontal_cortex
+        - ventral_tegmental_area
+        - substantia_nigra
+        - hippocampus_ca1
+      tasks:
+        - open_field
+        - detour_task
+        - virtual_navigation
+        - foraging_task
+      keywords:
+        - successor_representation
+        - dopamine
+        - planning
+        - striatum
+        - place_cells
+        - predictive_map
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 14 papers and 5 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representation in striatal and dopaminergic reinforcement learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused topic on how the successor representation serves as a predictive map linking temporal-difference dopamine signals, striatal learning, and planning-like flexibility, with proposed neural substrates in hippocampus and related circuits."
+    judge_reason_short: "Coherent, specific cluster around successor representation as a bridge between dopamine/striatal TD learning and planning."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.906259+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__04
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: dopamine, temporal difference learning, reward prediction error"
+    candidate_papers:
+      - bakermans2020_reinforcement_learning_dopamine
+      - behrens2007_learning_value_information_uncertain
+      - bogacz2020_dopamine_action_inference
+      - campbell2025_hardwired_circuit_td_learning
+      - fiore2015_basal_ganglia_behavior
+      - hamid2021_dopamine_waves_credit_assignment
+      - hauser2016_adhd_neural_gain
+      - lammel2014_dopamine_reward_aversion
+      - lansink2009_hippocampus_ventral_striatum
+      - lee2019_dopamine_movement_selectivity
+      - lowet2020_distributional_reinforcement_brain
+      - montague1996_predictive_hebbian_dopamine
+      - schultz1997_neural_substrate_reward_pred
+    anchor_papers:
+      - schultz1997_neural_substrate_reward_pred
+      - montague1996_predictive_hebbian_dopamine
+      - lammel2014_dopamine_reward_aversion
+      - bogacz2020_dopamine_action_inference
+      - hamid2021_dopamine_waves_credit_assignment
+    core_papers:
+      - bakermans2020_reinforcement_learning_dopamine
+      - behrens2007_learning_value_information_uncertain
+      - bogacz2020_dopamine_action_inference
+      - campbell2025_hardwired_circuit_td_learning
+      - fiore2015_basal_ganglia_behavior
+      - hamid2021_dopamine_waves_credit_assignment
+      - hauser2016_adhd_neural_gain
+      - lammel2014_dopamine_reward_aversion
+    supporting_papers:
+      - lansink2009_hippocampus_ventral_striatum
+      - lee2019_dopamine_movement_selectivity
+      - lowet2020_distributional_reinforcement_brain
+      - montague1996_predictive_hebbian_dopamine
+      - schultz1997_neural_substrate_reward_pred
+    source_signals:
+      support_count: 13
+      internal_citation_edges: 10
+      average_pair_weight: 6.64
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - temporal_difference_learning
+        - bayesian_inference
+        - active_inference
+        - attractor_networks
+      brain_regions:
+        - ventral_tegmental_area
+        - striatum
+        - nucleus_accumbens
+        - substantia_nigra
+        - ventral_striatum
+        - prefrontal_cortex
+      tasks:
+        - probabilistic_reversal_learning
+      keywords:
+        - dopamine
+        - temporal_difference_learning
+        - reward_prediction_error
+        - reward
+        - ventral_tegmental_area
+        - prediction_error
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 13 papers and 10 internal citation edges."
+    judgment_status: judged
+    refined_label: "Dopamine reward prediction error and temporal-difference learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A strong, coherent subtopic centered on the classic claim that midbrain dopamine signals instantiate a temporal-difference-like reward prediction error for reinforcement learning in striatal circuits. The anchor papers define a clear historical core, while later work adds important refinements about heterogeneity, action-related signals, and credit assignment."
+    judge_reason_short: "Canonical, well-cited, and conceptually focused on dopamine as an RPE/TD-learning signal."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.485087+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__05
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: place cells, replay, entorhinal cortex"
+    candidate_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - baram2021_entorhinal_ventromedial_rl
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - nyberg2022_spatial_goal_coding
+      - patai2021_versatile_wayfinder_prefrontal
+      - singer2009_reward_reactivation_hippocampus
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+    anchor_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - foster2017_replay_memory_consolidation
+      - singer2009_reward_reactivation_hippocampus
+      - patai2021_versatile_wayfinder_prefrontal
+      - findlay2021_replay_wake_sleep
+    core_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - baram2021_entorhinal_ventromedial_rl
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - nyberg2022_spatial_goal_coding
+      - patai2021_versatile_wayfinder_prefrontal
+      - singer2009_reward_reactivation_hippocampus
+    supporting_papers:
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+    source_signals:
+      support_count: 13
+      internal_citation_edges: 4
+      average_pair_weight: 9.51
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - latent_state_inference
+        - model_free_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - striatum
+        - entorhinal_cortex
+        - medial_prefrontal_cortex
+        - orbitofrontal_cortex
+      tasks:
+        - linear_track
+        - morris_water_maze
+        - open_field
+        - virtual_navigation
+        - detour_task
+        - foraging_task
+      keywords:
+        - place_cells
+        - replay
+        - entorhinal_cortex
+        - credit_assignment
+        - grid_cells
+        - successor_representation
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 13 papers and 4 internal citation edges."
+    judgment_status: judged
+    refined_label: "Reward-modulated hippocampal replay in spatial reinforcement learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how hippocampal place-cell replay supports credit assignment, planning, and reward learning in spatial tasks, including interactions with striatal/dopaminergic RL accounts. The strongest evidence here centers on replay and reward modulation rather than a broad treatment of place cells and entorhinal cortex."
+    judge_reason_short: "Coherent, evidence-backed replay/reward subtopic; narrow from the broader place-cell/entorhinal framing."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.631912+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: anterior_cingulate_future_state_and_model_based_control__02
+    parent_topic_id: anterior_cingulate_future_state_and_model_based_control
+    parent_label: "Anterior Cingulate Future-State and Model-Based Control"
+    provisional_label: "Anterior Cingulate Future-State and Model-Based Control: model based reinforcement learning, model free reinforcement learning, temporal difference learning"
+    candidate_papers:
+      - akam2021_anterior_cingulate_model
+      - daw2005_uncertainty_prefrontal_striatal
+      - huang2020_model_based_model_free_neural
+      - loosen2020_computational_psychiatry_ocd
+      - lowet2020_distributional_reinforcement_brain
+      - schultz1997_neural_substrate_reward_pred
+      - wilson2013_ofc_cognitive_map
+    anchor_papers:
+      - schultz1997_neural_substrate_reward_pred
+      - daw2005_uncertainty_prefrontal_striatal
+      - akam2021_anterior_cingulate_model
+      - loosen2020_computational_psychiatry_ocd
+      - lowet2020_distributional_reinforcement_brain
+    core_papers:
+      - akam2021_anterior_cingulate_model
+      - daw2005_uncertainty_prefrontal_striatal
+      - huang2020_model_based_model_free_neural
+      - loosen2020_computational_psychiatry_ocd
+      - lowet2020_distributional_reinforcement_brain
+      - schultz1997_neural_substrate_reward_pred
+      - wilson2013_ofc_cognitive_map
+    supporting_papers: []
+    source_signals:
+      support_count: 7
+      internal_citation_edges: 3
+      average_pair_weight: 9.19
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - temporal_difference_learning
+        - hierarchical_rl
+      brain_regions:
+        - prefrontal_cortex
+        - anterior_cingulate_cortex
+        - striatum
+        - orbitofrontal_cortex
+        - dorsomedial_striatum
+        - amygdala
+      tasks:
+        - two_step_task
+        - probabilistic_reversal_learning
+      keywords:
+        - model_based_reinforcement_learning
+        - model_free_reinforcement_learning
+        - temporal_difference_learning
+        - based
+        - reward_prediction_error
+        - basal_ganglia
+    rationale: "Sub-cluster inside Anterior Cingulate Future-State and Model-Based Control with 7 papers and 3 internal citation edges."
+    judgment_status: judged
+    refined_label: "Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control"
+    page_type: methods
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A narrowly framed methods page on the computational distinction between model-based and model-free reinforcement learning, and how ACC future-state signals are interpreted within that framework, is justified. It should stay centered on ACC-relevant tasks and evidence rather than general reinforcement learning or temporal-difference theory."
+    judge_reason_short: "Keep only as an ACC-focused computational-frameworks page; the broader RL concepts alone are too general."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:17.170490+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: clinical_and_computational_psychiatry__01
+    parent_topic_id: clinical_and_computational_psychiatry
+    parent_label: "Clinical and Computational Psychiatry"
+    provisional_label: "Clinical and Computational Psychiatry: schizophrenia, computational psychiatry, nmda receptor hypofunction"
+    candidate_papers:
+      - adams2018_attractor_schizophrenia
+      - atiya2021_metacognition_attractor
+      - braun2018_maps_network_mental_disorders
+      - durstewitz2020_psychiatric_network_dynamics
+      - howes2016_aberrant_salience_schizophrenia
+      - ivanov2021_psychotropic_drugs_mental_illness
+      - jauhar2022_schizophrenia
+      - nour2021_impaired_replay_schizophrenia
+    anchor_papers:
+      - nour2021_impaired_replay_schizophrenia
+      - adams2018_attractor_schizophrenia
+      - jauhar2022_schizophrenia
+      - ivanov2021_psychotropic_drugs_mental_illness
+      - atiya2021_metacognition_attractor
+    core_papers:
+      - adams2018_attractor_schizophrenia
+      - atiya2021_metacognition_attractor
+      - braun2018_maps_network_mental_disorders
+      - durstewitz2020_psychiatric_network_dynamics
+      - howes2016_aberrant_salience_schizophrenia
+      - ivanov2021_psychotropic_drugs_mental_illness
+      - jauhar2022_schizophrenia
+      - nour2021_impaired_replay_schizophrenia
+    supporting_papers: []
+    source_signals:
+      support_count: 8
+      internal_citation_edges: 0
+      average_pair_weight: 1.88
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - bayesian_inference
+      brain_regions:
+        - prefrontal_cortex
+        - striatum
+        - hippocampus
+        - ventral_striatum
+        - dorsolateral_prefrontal_cortex
+        - ventral_tegmental_area
+      tasks: []
+      keywords:
+        - schizophrenia
+        - computational_psychiatry
+        - nmda_receptor_hypofunction
+        - attractor
+        - dynamics
+        - network
+    rationale: "Sub-cluster inside Clinical and Computational Psychiatry with 8 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Computational models of schizophrenia: attractor dynamics and NMDA hypofunction"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A focused page on computational accounts of schizophrenia centered on unstable attractor dynamics, belief updating, replay abnormalities, and NMDA-receptor hypofunction would be viable. The evidence cluster is coherent enough if narrowed away from general clinical psychiatry and broad schizophrenia overviews."
+    judge_reason_short: "Keep only as a narrowed computational-schizophrenia page; current label is too broad."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:10.149228+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: replay, planning, successor representation"
+    candidate_papers:
+      - balaguer2016_hierarchical_planning_subway
+      - barron2020_neuronal_computation_inferential
+      - comrie2024_hippocampal_representations
+      - corbit2018_goal_directed_habitual
+      - eichenbaum2017_prefrontal_hippocampal_episodic
+      - holton2023_planning_vmPFC_lesions
+      - huang2023_hierarchical_replay_working_memory
+      - kurth2023_replay_compositional_computation
+      - kurth_nelson2023_replay_compositional_b
+      - mattar2022_planning_brain
+      - momennejad2018_offline_replay_planning
+      - momennejad2020_successor_representations_replay
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - piray2025_compositional_cognitive_map
+      - redish2016_vicarious_trial_error_b
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - whittington2022_cognitive_map_b
+      - wientjes2024_successor_representation
+      - wijnen2024_maze_learning
+      - wikenheiser2016_cognitive_maps_hippocampus
+    anchor_papers:
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - piray2021_linear_reinforcement_planning
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2025_compositional_cognitive_map
+      - momennejad2018_offline_replay_planning
+    core_papers:
+      - balaguer2016_hierarchical_planning_subway
+      - barron2020_neuronal_computation_inferential
+      - comrie2024_hippocampal_representations
+      - corbit2018_goal_directed_habitual
+      - eichenbaum2017_prefrontal_hippocampal_episodic
+      - holton2023_planning_vmPFC_lesions
+      - huang2023_hierarchical_replay_working_memory
+      - kurth2023_replay_compositional_computation
+    supporting_papers:
+      - kurth_nelson2023_replay_compositional_b
+      - mattar2022_planning_brain
+      - momennejad2018_offline_replay_planning
+      - momennejad2020_successor_representations_replay
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2020_linear_reinforcement_learning
+    source_signals:
+      support_count: 25
+      internal_citation_edges: 2
+      average_pair_weight: 6.21
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - hierarchical_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - orbitofrontal_cortex
+        - medial_prefrontal_cortex
+        - striatum
+      tasks:
+        - virtual_navigation
+        - t_maze
+        - detour_task
+        - foraging_task
+        - two_step_task
+        - probabilistic_reversal_learning
+      keywords:
+        - replay
+        - planning
+        - successor_representation
+        - decision_making
+        - hippocampal_replay
+        - model_based_rl
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 25 papers and 2 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal–prefrontal replay in planning"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A focused page on how hippocampal replay coordinates with prefrontal representations to support planning is viable. The broader bundle of replay, planning, and successor representation is too heterogeneous; successor representation is better treated as one theoretical account within this narrower topic rather than coequal scope."
+    judge_reason_short: "Keep if narrowed to replay-based hippocampal–prefrontal planning; current label is too broad and theory-mixed."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.826710+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__03
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: planning, successor representation, hierarchical"
+    candidate_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - brunec2022_predictive_representations_hierarchies
+      - ho2022_mental_representations_planning
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+      - piray2021_linear_reinforcement_planning
+      - tanji2007_behavioral_planning_prefrontal
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    anchor_papers:
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - wientjes2024_successor_representation
+      - piray2021_linear_reinforcement_planning
+      - brunec2022_predictive_representations_hierarchies
+      - jensen2024_recurrent_planning_hippocampal_replay
+    core_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - brunec2022_predictive_representations_hierarchies
+      - ho2022_mental_representations_planning
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+    supporting_papers:
+      - piray2021_linear_reinforcement_planning
+      - tanji2007_behavioral_planning_prefrontal
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    source_signals:
+      support_count: 12
+      internal_citation_edges: 1
+      average_pair_weight: 5.31
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - hierarchical_rl
+        - successor_representation
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+      brain_regions:
+        - prefrontal_cortex
+        - hippocampus
+        - medial_prefrontal_cortex
+        - dorsolateral_prefrontal_cortex
+        - striatum
+        - anterior_cingulate_cortex
+      tasks:
+        - navigation_task
+        - virtual_navigation
+        - detour_task
+      keywords:
+        - planning
+        - successor_representation
+        - hierarchical
+        - hierarchical_reinforcement_learning
+        - behavior
+        - cognitive_control
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 12 papers and 1 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A focused computational subtopic on how prefrontal and hippocampal systems support multiscale goal representations for planning, especially via successor representations, hierarchical reinforcement learning, and predictive maps in navigation-like tasks."
+    judge_reason_short: "Coherent, specific computational theme with multiple anchor papers, though somewhat heterogeneous and weakly integrated by citation density."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.659664+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__02
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: hierarchical reinforcement learning, hierarchical, options framework"
+    candidate_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2008_hierarchical_behavior_prefrontal
+      - botvinick2012_planning_inference
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - haber2000_striatonigrostriatal_pathways
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jeong2022_mesolimbic_dopamine_causal
+      - jiang2022_learning_options_compression
+      - loosen2020_computational_psychiatry_ocd
+      - makino2022_arithmetic_value_hierarchical
+      - mishchanchuk2024_hidden_state_inference
+      - mugan_redish2024_environmental_complexity_decision
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - shamash2021_mice_multi_step_routes
+      - solway2014_optimal_behavioral_hierarchy
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - wilson2013_ofc_cognitive_map
+      - yu2015_hippocampal_cortical_interaction
+    anchor_papers:
+      - wilson2013_ofc_cognitive_map
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - mishchanchuk2024_hidden_state_inference
+    core_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2008_hierarchical_behavior_prefrontal
+      - botvinick2012_planning_inference
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - haber2000_striatonigrostriatal_pathways
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jeong2022_mesolimbic_dopamine_causal
+      - jiang2022_learning_options_compression
+    supporting_papers:
+      - loosen2020_computational_psychiatry_ocd
+      - makino2022_arithmetic_value_hierarchical
+      - mishchanchuk2024_hidden_state_inference
+      - mugan_redish2024_environmental_complexity_decision
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - shamash2021_mice_multi_step_routes
+    source_signals:
+      support_count: 19
+      internal_citation_edges: 4
+      average_pair_weight: 5.35
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - hierarchical_rl
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+        - active_inference
+      brain_regions:
+        - striatum
+        - prefrontal_cortex
+        - hippocampus
+        - orbitofrontal_cortex
+        - dorsolateral_prefrontal_cortex
+        - ventral_tegmental_area
+      tasks:
+        - foraging_task
+        - probabilistic_reversal_learning
+        - t_maze
+        - open_field
+      keywords:
+        - hierarchical_reinforcement_learning
+        - hierarchical
+        - options_framework
+        - reward_prediction_error
+        - temporal_abstraction
+        - behavior
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 19 papers and 4 internal citation edges."
+    judgment_status: judged
+    refined_label: "Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "The strongest evidence cluster here is not generic hierarchical RL or the options framework, but how OFC and hippocampus represent latent task states or cognitive maps that support reinforcement learning in partially observable, structured tasks. This is a narrower and better-supported topic than broad hierarchical reinforcement learning in striatal/dopaminergic systems."
+    judge_reason_short: "Keep only if narrowed from hierarchical RL/options to OFC–hippocampal task-state representation and hidden-state inference."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:03.033611+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+all_subtopics:
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__01
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: model based reinforcement learning, model free reinforcement learning, goal directed behaviour"
+    candidate_papers:
+      - akam2015_two_step_task_habits
+      - akam2015_two_step_task_simple_plans
+      - akam2021_dopamine_model_based_rl
+      - balleine1998_goal_directed_instrumental_action
+      - blancopolzo2024_dopamine_independent_reward
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - chandra2024_visual_cortex_development
+      - chang2020_cuneiform_nucleus_locomotor_dbs
+      - corbit2018_goal_directed_habitual
+      - daw2005_uncertainty_prefrontal_striatal
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - fang2023_striatal_pallidal_wiring
+      - foster2021_cortico_basal_ganglia
+      - gillespie2021_replay_past_experiences
+      - haber2014_reward_circuit_incentive_learning
+      - haber2016_corticostriatal_circuitry_b
+      - keramati2016_plan_until_habit
+      - knudsen2022_ofc_cognitive_map
+      - lammel2014_dopamine_reward_aversion_b
+      - mattar2022_planning_brain
+      - redish2016_vicarious_trial_error_b
+      - vicente2020_cortico_basal_ganglia_motor
+    anchor_papers:
+      - daw2005_uncertainty_prefrontal_striatal
+      - balleine1998_goal_directed_instrumental_action
+      - dolan2013_goals_habits_brain_b
+      - mattar2022_planning_brain
+      - corbit2018_goal_directed_habitual
+    core_papers:
+      - akam2015_two_step_task_habits
+      - akam2015_two_step_task_simple_plans
+      - akam2021_dopamine_model_based_rl
+      - balleine1998_goal_directed_instrumental_action
+      - blancopolzo2024_dopamine_independent_reward
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - chandra2024_visual_cortex_development
+    supporting_papers:
+      - chang2020_cuneiform_nucleus_locomotor_dbs
+      - corbit2018_goal_directed_habitual
+      - daw2005_uncertainty_prefrontal_striatal
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - fang2023_striatal_pallidal_wiring
+      - foster2021_cortico_basal_ganglia
+    source_signals:
+      support_count: 24
+      internal_citation_edges: 6
+      average_pair_weight: 6.69
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - successor_representation
+        - temporal_difference_learning
+        - hierarchical_rl
+      brain_regions:
+        - striatum
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - hippocampus
+        - ventral_striatum
+        - nucleus_accumbens
+      tasks:
+        - two_step_task
+        - navigation_task
+        - foraging_task
+        - t_maze
+      keywords:
+        - model_based_reinforcement_learning
+        - model_free_reinforcement_learning
+        - goal_directed_behaviour
+        - outcome_devaluation
+        - successor_representation
+        - habits
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 24 papers and 6 internal citation edges."
+    judgment_status: judged
+    refined_label: "Goal-directed vs habitual control in corticostriatal reinforcement learning"
+    page_type: debate
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on the relationship between model-based/model-free reinforcement learning and goal-directed/habitual behavioral control in corticostriatal circuits is well supported by classic theory, animal lesion work, and human task studies."
+    judge_reason_short: "Strong, coherent literature, but only worth keeping if narrowed from the broad RL umbrella to the specific goal-directed vs habitual control debate."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.120722+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__02
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: hierarchical reinforcement learning, hierarchical, options framework"
+    candidate_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2008_hierarchical_behavior_prefrontal
+      - botvinick2012_planning_inference
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - haber2000_striatonigrostriatal_pathways
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jeong2022_mesolimbic_dopamine_causal
+      - jiang2022_learning_options_compression
+      - loosen2020_computational_psychiatry_ocd
+      - makino2022_arithmetic_value_hierarchical
+      - mishchanchuk2024_hidden_state_inference
+      - mugan_redish2024_environmental_complexity_decision
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - shamash2021_mice_multi_step_routes
+      - solway2014_optimal_behavioral_hierarchy
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - wilson2013_ofc_cognitive_map
+      - yu2015_hippocampal_cortical_interaction
+    anchor_papers:
+      - wilson2013_ofc_cognitive_map
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - mishchanchuk2024_hidden_state_inference
+    core_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2008_hierarchical_behavior_prefrontal
+      - botvinick2012_planning_inference
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - haber2000_striatonigrostriatal_pathways
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jeong2022_mesolimbic_dopamine_causal
+      - jiang2022_learning_options_compression
+    supporting_papers:
+      - loosen2020_computational_psychiatry_ocd
+      - makino2022_arithmetic_value_hierarchical
+      - mishchanchuk2024_hidden_state_inference
+      - mugan_redish2024_environmental_complexity_decision
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - shamash2021_mice_multi_step_routes
+    source_signals:
+      support_count: 19
+      internal_citation_edges: 4
+      average_pair_weight: 5.35
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - hierarchical_rl
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+        - active_inference
+      brain_regions:
+        - striatum
+        - prefrontal_cortex
+        - hippocampus
+        - orbitofrontal_cortex
+        - dorsolateral_prefrontal_cortex
+        - ventral_tegmental_area
+      tasks:
+        - foraging_task
+        - probabilistic_reversal_learning
+        - t_maze
+        - open_field
+      keywords:
+        - hierarchical_reinforcement_learning
+        - hierarchical
+        - options_framework
+        - reward_prediction_error
+        - temporal_abstraction
+        - behavior
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 19 papers and 4 internal citation edges."
+    judgment_status: judged
+    refined_label: "Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "The strongest evidence cluster here is not generic hierarchical RL or the options framework, but how OFC and hippocampus represent latent task states or cognitive maps that support reinforcement learning in partially observable, structured tasks. This is a narrower and better-supported topic than broad hierarchical reinforcement learning in striatal/dopaminergic systems."
+    judge_reason_short: "Keep only if narrowed from hierarchical RL/options to OFC–hippocampal task-state representation and hidden-state inference."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:03.033611+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__03
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: successor representation, dopamine, planning"
+    candidate_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - decothi2022_predictive_spatial_navigation
+      - george2022_stdp_predictive_maps
+      - gershman2018_successor_representation_learning
+      - kaplan2018_active_inference_navigation
+      - kravitz2010_basal_ganglia_optogenetic
+      - mcnamara2017_dopamine_hippocampus
+      - mizes2023_sensorimotor_striatum
+      - momennejad2018_offline_replay_planning
+      - namboodiri2023_mesolimbic_dopamine_causal
+      - park2020_basal_ganglia_action
+      - piray2020_linear_reinforcement_learning
+      - roscow2021_memory_replay_learning
+      - russek2017_model_based_reinforcement
+    anchor_papers:
+      - russek2017_model_based_reinforcement
+      - momennejad2018_offline_replay_planning
+      - gershman2018_successor_representation_learning
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - piray2020_linear_reinforcement_learning
+    core_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - decothi2022_predictive_spatial_navigation
+      - george2022_stdp_predictive_maps
+      - gershman2018_successor_representation_learning
+      - kaplan2018_active_inference_navigation
+      - kravitz2010_basal_ganglia_optogenetic
+      - mcnamara2017_dopamine_hippocampus
+      - mizes2023_sensorimotor_striatum
+    supporting_papers:
+      - momennejad2018_offline_replay_planning
+      - namboodiri2023_mesolimbic_dopamine_causal
+      - park2020_basal_ganglia_action
+      - piray2020_linear_reinforcement_learning
+      - roscow2021_memory_replay_learning
+      - russek2017_model_based_reinforcement
+    source_signals:
+      support_count: 14
+      internal_citation_edges: 5
+      average_pair_weight: 6.54
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_free_rl
+        - temporal_difference_learning
+        - model_based_rl
+        - bayesian_inference
+      brain_regions:
+        - hippocampus
+        - striatum
+        - prefrontal_cortex
+        - ventral_tegmental_area
+        - substantia_nigra
+        - hippocampus_ca1
+      tasks:
+        - open_field
+        - detour_task
+        - virtual_navigation
+        - foraging_task
+      keywords:
+        - successor_representation
+        - dopamine
+        - planning
+        - striatum
+        - place_cells
+        - predictive_map
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 14 papers and 5 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representation in striatal and dopaminergic reinforcement learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused topic on how the successor representation serves as a predictive map linking temporal-difference dopamine signals, striatal learning, and planning-like flexibility, with proposed neural substrates in hippocampus and related circuits."
+    judge_reason_short: "Coherent, specific cluster around successor representation as a bridge between dopamine/striatal TD learning and planning."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.906259+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__04
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: dopamine, temporal difference learning, reward prediction error"
+    candidate_papers:
+      - bakermans2020_reinforcement_learning_dopamine
+      - behrens2007_learning_value_information_uncertain
+      - bogacz2020_dopamine_action_inference
+      - campbell2025_hardwired_circuit_td_learning
+      - fiore2015_basal_ganglia_behavior
+      - hamid2021_dopamine_waves_credit_assignment
+      - hauser2016_adhd_neural_gain
+      - lammel2014_dopamine_reward_aversion
+      - lansink2009_hippocampus_ventral_striatum
+      - lee2019_dopamine_movement_selectivity
+      - lowet2020_distributional_reinforcement_brain
+      - montague1996_predictive_hebbian_dopamine
+      - schultz1997_neural_substrate_reward_pred
+    anchor_papers:
+      - schultz1997_neural_substrate_reward_pred
+      - montague1996_predictive_hebbian_dopamine
+      - lammel2014_dopamine_reward_aversion
+      - bogacz2020_dopamine_action_inference
+      - hamid2021_dopamine_waves_credit_assignment
+    core_papers:
+      - bakermans2020_reinforcement_learning_dopamine
+      - behrens2007_learning_value_information_uncertain
+      - bogacz2020_dopamine_action_inference
+      - campbell2025_hardwired_circuit_td_learning
+      - fiore2015_basal_ganglia_behavior
+      - hamid2021_dopamine_waves_credit_assignment
+      - hauser2016_adhd_neural_gain
+      - lammel2014_dopamine_reward_aversion
+    supporting_papers:
+      - lansink2009_hippocampus_ventral_striatum
+      - lee2019_dopamine_movement_selectivity
+      - lowet2020_distributional_reinforcement_brain
+      - montague1996_predictive_hebbian_dopamine
+      - schultz1997_neural_substrate_reward_pred
+    source_signals:
+      support_count: 13
+      internal_citation_edges: 10
+      average_pair_weight: 6.64
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - temporal_difference_learning
+        - bayesian_inference
+        - active_inference
+        - attractor_networks
+      brain_regions:
+        - ventral_tegmental_area
+        - striatum
+        - nucleus_accumbens
+        - substantia_nigra
+        - ventral_striatum
+        - prefrontal_cortex
+      tasks:
+        - probabilistic_reversal_learning
+      keywords:
+        - dopamine
+        - temporal_difference_learning
+        - reward_prediction_error
+        - reward
+        - ventral_tegmental_area
+        - prediction_error
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 13 papers and 10 internal citation edges."
+    judgment_status: judged
+    refined_label: "Dopamine reward prediction error and temporal-difference learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A strong, coherent subtopic centered on the classic claim that midbrain dopamine signals instantiate a temporal-difference-like reward prediction error for reinforcement learning in striatal circuits. The anchor papers define a clear historical core, while later work adds important refinements about heterogeneity, action-related signals, and credit assignment."
+    judge_reason_short: "Canonical, well-cited, and conceptually focused on dopamine as an RPE/TD-learning signal."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.485087+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__05
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: place cells, replay, entorhinal cortex"
+    candidate_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - baram2021_entorhinal_ventromedial_rl
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - nyberg2022_spatial_goal_coding
+      - patai2021_versatile_wayfinder_prefrontal
+      - singer2009_reward_reactivation_hippocampus
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+    anchor_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - foster2017_replay_memory_consolidation
+      - singer2009_reward_reactivation_hippocampus
+      - patai2021_versatile_wayfinder_prefrontal
+      - findlay2021_replay_wake_sleep
+    core_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - baram2021_entorhinal_ventromedial_rl
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - nyberg2022_spatial_goal_coding
+      - patai2021_versatile_wayfinder_prefrontal
+      - singer2009_reward_reactivation_hippocampus
+    supporting_papers:
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+    source_signals:
+      support_count: 13
+      internal_citation_edges: 4
+      average_pair_weight: 9.51
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - latent_state_inference
+        - model_free_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - striatum
+        - entorhinal_cortex
+        - medial_prefrontal_cortex
+        - orbitofrontal_cortex
+      tasks:
+        - linear_track
+        - morris_water_maze
+        - open_field
+        - virtual_navigation
+        - detour_task
+        - foraging_task
+      keywords:
+        - place_cells
+        - replay
+        - entorhinal_cortex
+        - credit_assignment
+        - grid_cells
+        - successor_representation
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 13 papers and 4 internal citation edges."
+    judgment_status: judged
+    refined_label: "Reward-modulated hippocampal replay in spatial reinforcement learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how hippocampal place-cell replay supports credit assignment, planning, and reward learning in spatial tasks, including interactions with striatal/dopaminergic RL accounts. The strongest evidence here centers on replay and reward modulation rather than a broad treatment of place cells and entorhinal cortex."
+    judge_reason_short: "Coherent, evidence-backed replay/reward subtopic; narrow from the broader place-cell/entorhinal framing."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.631912+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__06
+    parent_topic_id: striatal_and_dopaminergic_reinforcement_learning
+    parent_label: "Striatal and Dopaminergic Reinforcement Learning"
+    provisional_label: "Striatal and Dopaminergic Reinforcement Learning: model based reinforcement learning, model free reinforcement learning, model"
+    candidate_papers:
+      - akam2021_anterior_cingulate_model
+      - botvinick2019_reinforcement_learning_fast_slow
+      - daw2011_model_based_striatal_prediction
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - liu2021_experience_replay_nonlocal
+      - miranda2020_modelfree_modelsensitive_primates
+      - spiers2015_detour_problem_navigation
+    anchor_papers:
+      - daw2011_model_based_striatal_prediction
+      - spiers2015_detour_problem_navigation
+      - liu2021_experience_replay_nonlocal
+      - akam2021_anterior_cingulate_model
+      - holton2023_planning_vmPFC_lesions
+    core_papers:
+      - akam2021_anterior_cingulate_model
+      - botvinick2019_reinforcement_learning_fast_slow
+      - daw2011_model_based_striatal_prediction
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - liu2021_experience_replay_nonlocal
+      - miranda2020_modelfree_modelsensitive_primates
+      - spiers2015_detour_problem_navigation
+    supporting_papers: []
+    source_signals:
+      support_count: 8
+      internal_citation_edges: 6
+      average_pair_weight: 8.01
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - temporal_difference_learning
+      brain_regions:
+        - prefrontal_cortex
+        - striatum
+        - hippocampus
+        - ventral_striatum
+        - ventromedial_prefrontal_cortex
+        - anterior_cingulate_cortex
+      tasks:
+        - two_step_task
+        - probabilistic_reversal_learning
+        - detour_task
+      keywords:
+        - model_based_reinforcement_learning
+        - model_free_reinforcement_learning
+        - model
+        - reward_prediction_error
+        - two_step_task
+        - goal_directed_behavior
+    rationale: "Sub-cluster inside Striatal and Dopaminergic Reinforcement Learning with 8 papers and 6 internal citation edges."
+    judgment_status: judged
+    refined_label: "Model-based vs model-free reinforcement learning in corticostriatal systems"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "This cluster centers on the model-based/model-free distinction and its neural implementation across striatum, prefrontal cortex, hippocampus, and ACC, often using the two-step task and related planning paradigms. However, it is too broad and heterogeneous for a strong standalone wiki page under a striatal/dopaminergic parent, mixing computational frameworks, multiple brain regions, and several partially distinct phenomena."
+    judge_reason_short: "Important theme, but too broad and diffuse; better split into narrower pages like striatal model-based prediction errors or neural replay in model-based learning."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:03.091270+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__01
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: medial, medial prefrontal cortex, working memory"
+    candidate_papers:
+      - badre2018_frontal_cortex_hierarchical_control
+      - bohm2020_pfc_spatial_working_memory
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - ciaramelli2008_vmPFC_wayfinding_navigation
+      - dahmani2015_prefrontal_navigation_strategies
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - elgaby2023_behavioral_structure_mapping
+      - farzanfar2023_cognitive_maps_spatial
+      - fujisawa2008_assembly_prefrontal_cortex
+      - hartley2003_wayfinding_route
+      - hok2013_prefrontal_place_cells
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+      - martinet2011_spatial_learning_action_planning
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - reinert2021_prefrontal_categorization_b
+      - sauer2022_prefrontal_spatial_representation
+      - schmidt2021_mpfc_swr_dreadd
+      - spiers2008_prefrontal_goal_navigation
+      - spiers2015_detour_problem_navigation
+      - vanheukelum2020_cingulate_cortex_cross_species
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - hartley2003_wayfinding_route
+      - patai2021_versatile_wayfinder_prefrontal
+      - ito2015_prefrontal_thalamic_hippocampus
+      - sauer2022_prefrontal_spatial_representation
+      - badre2018_frontal_cortex_hierarchical_control
+    core_papers:
+      - badre2018_frontal_cortex_hierarchical_control
+      - bohm2020_pfc_spatial_working_memory
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - ciaramelli2008_vmPFC_wayfinding_navigation
+      - dahmani2015_prefrontal_navigation_strategies
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - elgaby2023_behavioral_structure_mapping
+      - farzanfar2023_cognitive_maps_spatial
+    supporting_papers:
+      - fujisawa2008_assembly_prefrontal_cortex
+      - hartley2003_wayfinding_route
+      - hok2013_prefrontal_place_cells
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+    source_signals:
+      support_count: 26
+      internal_citation_edges: 9
+      average_pair_weight: 3.41
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - mixed_selectivity
+        - tolman_eichenbaum_machine
+        - model_free_rl
+      brain_regions:
+        - prefrontal_cortex
+        - medial_prefrontal_cortex
+        - hippocampus
+        - anterior_cingulate_cortex
+        - hippocampus_ca1
+        - entorhinal_cortex
+      tasks:
+        - virtual_navigation
+        - navigation_task
+        - t_maze
+        - foraging_task
+        - detour_task
+        - open_field
+      keywords:
+        - medial
+        - medial_prefrontal_cortex
+        - working_memory
+        - wayfinding
+        - theta_oscillations
+        - spatial_working_memory
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 26 papers and 9 internal citation edges."
+    judgment_status: judged
+    refined_label: "Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how medial prefrontal cortex supports goal representations during navigation, including prospective coding, route adaptation, and spatial working memory, especially through interactions with hippocampal and thalamic circuits."
+    judge_reason_short: "Coherent, evidence-backed subtopic centered on mPFC contributions to navigation-related goal coding and spatial working memory."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:25.795877+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__02
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: rat, planning, medial prefrontal cortex"
+    candidate_papers:
+      - anastasiades2021_circuit_medial_prefrontal
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - coutureau2003_infralimbic_prefrontal_goal
+      - dolan2013_goals_habits_brain_b
+      - gabriel2022_behaviordepot_detection
+      - hok2005_goal_coding_prefrontal
+      - holton2023_planning_vmPFC_lesions
+      - jauhar2022_schizophrenia
+      - keramati2016_plan_until_habit
+      - krause2017_sleep_deprivation_brain
+      - kubska2021_single_neuron_cognition
+      - lacroix2002_medial_prefrontal_spatial
+      - lipska1998_prefrontal_cortex_hippocampal
+      - ostlund2005_prefrontal_cortex_habits
+      - piray2020_linear_reinforcement_learning
+      - redish2016_vicarious_trial_error_b
+      - rudebeck2022_foraging_frontal
+      - russek2017_model_based_reinforcement
+    anchor_papers:
+      - russek2017_model_based_reinforcement
+      - coutureau2003_infralimbic_prefrontal_goal
+      - ostlund2005_prefrontal_cortex_habits
+      - piray2020_linear_reinforcement_learning
+      - corbit2018_goal_directed_habitual
+    core_papers:
+      - anastasiades2021_circuit_medial_prefrontal
+      - botvinick2009_hierarchically_organized_behavior
+      - corbit2018_goal_directed_habitual
+      - coutureau2003_infralimbic_prefrontal_goal
+      - dolan2013_goals_habits_brain_b
+      - gabriel2022_behaviordepot_detection
+      - hok2005_goal_coding_prefrontal
+      - holton2023_planning_vmPFC_lesions
+    supporting_papers:
+      - jauhar2022_schizophrenia
+      - keramati2016_plan_until_habit
+      - krause2017_sleep_deprivation_brain
+      - kubska2021_single_neuron_cognition
+      - lacroix2002_medial_prefrontal_spatial
+      - lipska1998_prefrontal_cortex_hippocampal
+      - ostlund2005_prefrontal_cortex_habits
+    source_signals:
+      support_count: 19
+      internal_citation_edges: 4
+      average_pair_weight: 4.53
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - temporal_difference_learning
+        - successor_representation
+        - hierarchical_rl
+      brain_regions:
+        - prefrontal_cortex
+        - striatum
+        - hippocampus
+        - medial_prefrontal_cortex
+        - amygdala
+        - infralimbic_cortex
+      tasks:
+        - two_step_task
+        - foraging_task
+        - navigation_task
+        - t_maze
+        - detour_task
+        - morris_water_maze
+      keywords:
+        - rat
+        - planning
+        - medial_prefrontal_cortex
+        - outcome_devaluation
+        - model_based_reinforcement_learning
+        - medial_prefrontal_cortex_lesion
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 19 papers and 4 internal citation edges."
+    judgment_status: judged
+    refined_label: "Medial prefrontal cortex in rat goal-directed vs habitual control"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on rat medial prefrontal cortex contributions to goal-directed action, habit formation, and outcome devaluation is well supported. The anchor papers converge on infralimbic/medial prefrontal lesions or inactivation and their effects on acquisition vs expression of goal-directed control, making this a tighter and more evidence-dense topic than the broader 'planning' label."
+    judge_reason_short: "Strong animal literature supports a narrow mPFC goal-directed vs habit page; broader planning/RL framing is too diffuse."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:00.105933+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__03
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: planning, successor representation, hierarchical"
+    candidate_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - brunec2022_predictive_representations_hierarchies
+      - ho2022_mental_representations_planning
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+      - piray2021_linear_reinforcement_planning
+      - tanji2007_behavioral_planning_prefrontal
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    anchor_papers:
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - wientjes2024_successor_representation
+      - piray2021_linear_reinforcement_planning
+      - brunec2022_predictive_representations_hierarchies
+      - jensen2024_recurrent_planning_hippocampal_replay
+    core_papers:
+      - badre2019_hierarchical_cognitive_control_lobes
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - brunec2022_predictive_representations_hierarchies
+      - ho2022_mental_representations_planning
+      - janssen2022_hierarchical_rl_motor_sequences
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+    supporting_papers:
+      - piray2021_linear_reinforcement_planning
+      - tanji2007_behavioral_planning_prefrontal
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    source_signals:
+      support_count: 12
+      internal_citation_edges: 1
+      average_pair_weight: 5.31
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - hierarchical_rl
+        - successor_representation
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+      brain_regions:
+        - prefrontal_cortex
+        - hippocampus
+        - medial_prefrontal_cortex
+        - dorsolateral_prefrontal_cortex
+        - striatum
+        - anterior_cingulate_cortex
+      tasks:
+        - navigation_task
+        - virtual_navigation
+        - detour_task
+      keywords:
+        - planning
+        - successor_representation
+        - hierarchical
+        - hierarchical_reinforcement_learning
+        - behavior
+        - cognitive_control
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 12 papers and 1 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A focused computational subtopic on how prefrontal and hippocampal systems support multiscale goal representations for planning, especially via successor representations, hierarchical reinforcement learning, and predictive maps in navigation-like tasks."
+    judge_reason_short: "Coherent, specific computational theme with multiple anchor papers, though somewhat heterogeneous and weakly integrated by citation density."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.659664+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__04
+    parent_topic_id: prefrontal_goal_representation_and_control
+    parent_label: "Prefrontal Goal Representation and Cognitive Control"
+    provisional_label: "Prefrontal Goal Representation and Cognitive Control: planning, hierarchical planning, hierarchical reinforcement learning"
+    candidate_papers:
+      - balaguer2016_hierarchical_planning_subway
+      - bhattacherjee2022_prefrontal_spatial_transcriptomics
+      - botvinick2012_planning_inference
+      - haber2000_striatonigrostriatal_pathways
+      - izquierdo2024_prefrontal_cortex_homology
+      - odoherty2017_learning_reward_decision
+    anchor_papers:
+      - botvinick2012_planning_inference
+      - haber2000_striatonigrostriatal_pathways
+      - odoherty2017_learning_reward_decision
+      - izquierdo2024_prefrontal_cortex_homology
+      - bhattacherjee2022_prefrontal_spatial_transcriptomics
+    core_papers:
+      - balaguer2016_hierarchical_planning_subway
+      - bhattacherjee2022_prefrontal_spatial_transcriptomics
+      - botvinick2012_planning_inference
+      - haber2000_striatonigrostriatal_pathways
+      - izquierdo2024_prefrontal_cortex_homology
+      - odoherty2017_learning_reward_decision
+    supporting_papers: []
+    source_signals:
+      support_count: 6
+      internal_citation_edges: 0
+      average_pair_weight: 4.13
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - hierarchical_rl
+        - model_free_rl
+        - model_based_rl
+        - active_inference
+        - bayesian_inference
+      brain_regions:
+        - prefrontal_cortex
+        - striatum
+        - amygdala
+        - dorsolateral_prefrontal_cortex
+        - prelimbic_cortex
+        - nucleus_accumbens
+      tasks:
+        - virtual_navigation
+        - foraging_task
+      keywords:
+        - planning
+        - hierarchical_planning
+        - hierarchical_reinforcement_learning
+        - context_representation
+        - bottleneck_states
+        - description_length_plan_complexity
+    rationale: "Sub-cluster inside Prefrontal Goal Representation and Cognitive Control with 6 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hierarchical planning and hierarchical reinforcement learning in prefrontal cognitive control"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "This subtopic is too broad and framework-heavy relative to the available evidence. It mixes planning, hierarchical planning, hierarchical RL, and planning-as-inference under one label, while the cited support is mostly conceptual or review-level and not tightly centered on prefrontal goal representations. A narrower page on either prefrontal hierarchy in control or planning-as-inference would be more defensible."
+    judge_reason_short: "Too broad and computationally mixed; limited direct, prefrontal-specific evidence."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.937354+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: replay, planning, successor representation"
+    candidate_papers:
+      - balaguer2016_hierarchical_planning_subway
+      - barron2020_neuronal_computation_inferential
+      - comrie2024_hippocampal_representations
+      - corbit2018_goal_directed_habitual
+      - eichenbaum2017_prefrontal_hippocampal_episodic
+      - holton2023_planning_vmPFC_lesions
+      - huang2023_hierarchical_replay_working_memory
+      - kurth2023_replay_compositional_computation
+      - kurth_nelson2023_replay_compositional_b
+      - mattar2022_planning_brain
+      - momennejad2018_offline_replay_planning
+      - momennejad2020_successor_representations_replay
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - piray2025_compositional_cognitive_map
+      - redish2016_vicarious_trial_error_b
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - whittington2022_cognitive_map_b
+      - wientjes2024_successor_representation
+      - wijnen2024_maze_learning
+      - wikenheiser2016_cognitive_maps_hippocampus
+    anchor_papers:
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - piray2021_linear_reinforcement_planning
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2025_compositional_cognitive_map
+      - momennejad2018_offline_replay_planning
+    core_papers:
+      - balaguer2016_hierarchical_planning_subway
+      - barron2020_neuronal_computation_inferential
+      - comrie2024_hippocampal_representations
+      - corbit2018_goal_directed_habitual
+      - eichenbaum2017_prefrontal_hippocampal_episodic
+      - holton2023_planning_vmPFC_lesions
+      - huang2023_hierarchical_replay_working_memory
+      - kurth2023_replay_compositional_computation
+    supporting_papers:
+      - kurth_nelson2023_replay_compositional_b
+      - mattar2022_planning_brain
+      - momennejad2018_offline_replay_planning
+      - momennejad2020_successor_representations_replay
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2020_linear_reinforcement_learning
+    source_signals:
+      support_count: 25
+      internal_citation_edges: 2
+      average_pair_weight: 6.21
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - hierarchical_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - orbitofrontal_cortex
+        - medial_prefrontal_cortex
+        - striatum
+      tasks:
+        - virtual_navigation
+        - t_maze
+        - detour_task
+        - foraging_task
+        - two_step_task
+        - probabilistic_reversal_learning
+      keywords:
+        - replay
+        - planning
+        - successor_representation
+        - decision_making
+        - hippocampal_replay
+        - model_based_rl
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 25 papers and 2 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal–prefrontal replay in planning"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A focused page on how hippocampal replay coordinates with prefrontal representations to support planning is viable. The broader bundle of replay, planning, and successor representation is too heterogeneous; successor representation is better treated as one theoretical account within this narrower topic rather than coequal scope."
+    judge_reason_short: "Keep if narrowed to replay-based hippocampal–prefrontal planning; current label is too broad and theory-mixed."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.826710+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__02
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: place cells, prospective coding, medial prefrontal cortex"
+    candidate_papers:
+      - avigan2020_spatial_learning_hippocampus
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - denbakker2024_mpfc_spatial_swr
+      - hasz2020_spatial_encoding_deliberation
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - huang2024_hippocampal_theta_goal_distance
+      - hyun2022_cal_light_active_neurons
+      - ito2015_prefrontal_thalamic_hippocampus
+      - ito2018_prefrontal_hippocampal_navigation
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+      - mahn2018_optogenetic_silencing_b
+      - martinet2011_spatial_learning_action_planning
+      - nyberg2022_spatial_goal_coding
+      - redish2016_vicarious_trial_error
+      - russek2017_model_based_reinforcement
+      - stoianov2020_hierarchical_generative_model
+      - tsao2022_neural_bases_timing_durations
+      - zielinski2019_theta_hippocampus_prefrontal
+    anchor_papers:
+      - ito2015_prefrontal_thalamic_hippocampus
+      - hok2005_goal_coding_prefrontal
+      - avigan2020_spatial_learning_hippocampus
+      - russek2017_model_based_reinforcement
+      - jones2005_theta_hippocampal_prefrontal
+    core_papers:
+      - avigan2020_spatial_learning_hippocampus
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - denbakker2024_mpfc_spatial_swr
+      - hasz2020_spatial_encoding_deliberation
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - huang2024_hippocampal_theta_goal_distance
+    supporting_papers:
+      - hyun2022_cal_light_active_neurons
+      - ito2015_prefrontal_thalamic_hippocampus
+      - ito2018_prefrontal_hippocampal_navigation
+      - jones2005_theta_hippocampal_prefrontal
+      - long2024_border_cells_prefrontal
+      - maggi2022_activity_subspaces_prefrontal
+      - maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
+    source_signals:
+      support_count: 23
+      internal_citation_edges: 8
+      average_pair_weight: 4.0
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_free_rl
+        - temporal_difference_learning
+        - mixed_selectivity
+      brain_regions:
+        - prefrontal_cortex
+        - hippocampus
+        - hippocampus_ca1
+        - medial_prefrontal_cortex
+        - entorhinal_cortex
+        - striatum
+      tasks:
+        - foraging_task
+        - navigation_task
+        - morris_water_maze
+        - open_field
+        - t_maze
+        - detour_task
+      keywords:
+        - place_cells
+        - prospective_coding
+        - medial_prefrontal_cortex
+        - theta_oscillations
+        - spatial_working_memory
+        - goal
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 23 papers and 8 internal citation edges."
+    judgment_status: judged
+    refined_label: "Prospective spatial coding in hippocampal–medial prefrontal circuits"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how hippocampus (especially CA1 place cells) and medial prefrontal cortex coordinate prospective representations of routes, goals, and upcoming choices during spatial navigation and working-memory tasks, including roles for theta synchrony and thalamic relay pathways."
+    judge_reason_short: "Coherent, evidence-backed subtopic centered on prospective spatial coding across hippocampus and mPFC."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:04.829478+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__03
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: sharp wave ripples, replay, place cells"
+    candidate_papers:
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - jadhav2016_hippocampal_prefrontal_swr
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+      - liu2019_human_replay_reorganizes
+      - mckenzie2022_hippocampal_replay
+      - olafsdottir2015_place_cells_reward
+      - pfeiffer2017_hippocampal_replay_memory
+      - roscow2021_memory_replay_learning
+      - schmidt2021_mpfc_swr_dreadd
+      - shin2019_hippocampal_prefrontal_replay
+      - singer2009_reward_reactivation_hippocampus
+      - tang2021_multiple_timescales_decision_making
+      - wikenheiser2015_theta_sequences_goals
+      - yu2015_hippocampal_cortical_interaction
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - jadhav2016_hippocampal_prefrontal_swr
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - wikenheiser2015_theta_sequences_goals
+      - findlay2021_replay_wake_sleep
+      - jensen2024_recurrent_planning_hippocampal_replay
+    core_papers:
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - jadhav2016_hippocampal_prefrontal_swr
+      - jensen2024_recurrent_planning_hippocampal_replay
+    supporting_papers:
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+      - liu2019_human_replay_reorganizes
+      - mckenzie2022_hippocampal_replay
+      - olafsdottir2015_place_cells_reward
+      - pfeiffer2017_hippocampal_replay_memory
+      - roscow2021_memory_replay_learning
+    source_signals:
+      support_count: 22
+      internal_citation_edges: 12
+      average_pair_weight: 6.05
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - model_based_rl
+        - bayesian_inference
+        - model_free_rl
+        - temporal_difference_learning
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - hippocampus_ca1
+        - striatum
+        - ventral_striatum
+        - entorhinal_cortex
+      tasks:
+        - foraging_task
+        - navigation_task
+        - open_field
+        - y_maze
+        - linear_track
+        - t_maze
+      keywords:
+        - sharp_wave_ripples
+        - replay
+        - place_cells
+        - hippocampal_replay
+        - memory_consolidation
+        - bayesian_decoding
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 22 papers and 12 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal sharp-wave ripple replay and prefrontal coordination during planning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how hippocampal sharp-wave ripples and replay events coordinate with prefrontal ensemble activity to support non-local representation, memory-guided choice, and planning. The strongest evidence centers on awake SWR-linked hippocampus–PFC coupling and replay content, rather than on place cells broadly."
+    judge_reason_short: "Coherent, well-supported, and narrower than the parent; trim broad 'place cells' framing."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:05.434418+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__04
+    parent_topic_id: hippocampal_prefrontal_coordination_and_planning
+    parent_label: "Hippocampal-Prefrontal Coordination and Planning"
+    provisional_label: "Hippocampal-Prefrontal Coordination and Planning: successor representation, inference, cognitive"
+    candidate_papers:
+      - duvelle2023_temporal_hippocampal_inference
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+      - mishchanchuk2024_hidden_state_inference
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+    anchor_papers:
+      - whittington2024_build_cognitive_map
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_map_nature
+      - duvelle2023_temporal_hippocampal_inference
+      - kim2026_hippocampus_smallworld
+    core_papers:
+      - duvelle2023_temporal_hippocampal_inference
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+      - mishchanchuk2024_hidden_state_inference
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+    supporting_papers: []
+    source_signals:
+      support_count: 7
+      internal_citation_edges: 0
+      average_pair_weight: 10.23
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - successor_representation
+        - reinforcement_learning
+        - tolman_eichenbaum_machine
+        - latent_state_inference
+        - bayesian_inference
+        - attractor_networks
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - medial_prefrontal_cortex
+        - medial_entorhinal_cortex
+        - lateral_entorhinal_cortex
+      tasks:
+        - t_maze
+        - virtual_navigation
+        - navigation_task
+        - probabilistic_reversal_learning
+      keywords:
+        - successor_representation
+        - inference
+        - cognitive
+        - entorhinal_cortex
+        - grid_cells
+        - place_cells
+    rationale: "Sub-cluster inside Hippocampal-Prefrontal Coordination and Planning with 7 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representation and latent-state inference models of hippocampal cognitive maps"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "The cluster points to computational theories of hippocampal/entorhinal cognitive maps—especially successor representation, latent-state inference, and related model-based frameworks—rather than a focused literature on hippocampal-prefrontal coordination and planning. The evidence is mostly review-driven, broad, and weakly integrated internally."
+    judge_reason_short: "Too broad and not clearly centered on hippocampal-prefrontal coordination."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:06.936779+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: ofc_task_state_and_value_maps__01
+    parent_topic_id: ofc_task_state_and_value_maps
+    parent_label: "Orbitofrontal Task-State and Value Maps"
+    provisional_label: "Orbitofrontal Task-State and Value Maps: model based reinforcement learning, goal directed behaviour, model free reinforcement learning"
+    candidate_papers:
+      - bein2024_schemas_reinforcement_learning_pfc
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - brown2016_prospective_goals_hippocampus
+      - corbit2018_goal_directed_habitual
+      - dahmani2015_prefrontal_navigation_strategies
+      - daw2005_uncertainty_prefrontal_striatal
+      - daw2011_model_based_striatal_prediction
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - jeong2022_mesolimbic_dopamine_causal
+      - knudsen2020_ofc_theta_learning
+      - knudsen2022_ofc_cognitive_map
+      - loosen2020_computational_psychiatry_ocd
+      - mattar2022_planning_brain
+      - mishchanchuk2024_hidden_state_inference
+      - momennejad2017_successor_representation_humans
+      - momennejad2018_offline_replay_planning
+      - niv2019_representation_learning_task_states
+      - odoherty2017_learning_reward_decision
+      - redish2016_vicarious_trial_error_b
+      - rushworth2011_prefrontal_reward_decision
+      - wilson2013_ofc_cognitive_map
+    anchor_papers:
+      - daw2005_uncertainty_prefrontal_striatal
+      - wilson2013_ofc_cognitive_map
+      - daw2011_model_based_striatal_prediction
+      - momennejad2017_successor_representation_humans
+      - niv2019_representation_learning_task_states
+    core_papers:
+      - bein2024_schemas_reinforcement_learning_pfc
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+      - brown2016_prospective_goals_hippocampus
+      - corbit2018_goal_directed_habitual
+      - dahmani2015_prefrontal_navigation_strategies
+      - daw2005_uncertainty_prefrontal_striatal
+      - daw2011_model_based_striatal_prediction
+    supporting_papers:
+      - demartino2023_value_based_goals_abstraction
+      - dolan2013_goals_habits_brain_b
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - jeong2022_mesolimbic_dopamine_causal
+      - knudsen2020_ofc_theta_learning
+      - knudsen2022_ofc_cognitive_map
+    source_signals:
+      support_count: 25
+      internal_citation_edges: 14
+      average_pair_weight: 7.62
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - hierarchical_rl
+        - successor_representation
+        - temporal_difference_learning
+      brain_regions:
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - hippocampus
+        - striatum
+        - ventromedial_prefrontal_cortex
+        - ventral_striatum
+      tasks:
+        - two_step_task
+        - navigation_task
+        - virtual_navigation
+        - t_maze
+        - foraging_task
+        - probabilistic_reversal_learning
+      keywords:
+        - model_based_reinforcement_learning
+        - goal_directed_behaviour
+        - model_free_reinforcement_learning
+        - reinforcement
+        - orbitofrontal_cortex
+        - reward_prediction_error
+    rationale: "Sub-cluster inside Orbitofrontal Task-State and Value Maps with 25 papers and 14 internal citation edges."
+    judgment_status: judged
+    refined_label: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on the idea that orbitofrontal cortex represents latent task states or a cognitive map that supports goal-directed/model-based valuation and choice. Strong anchors link OFC state representations to reinforcement-learning theories, revaluation-sensitive behaviour, and interactions with striatum and hippocampus."
+    judge_reason_short: "Coherent and well-supported if narrowed to OFC task-state representations in model-based control; too broad if framed as all model-based vs model-free RL."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:09.020636+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: ofc_task_state_and_value_maps__02
+    parent_topic_id: ofc_task_state_and_value_maps
+    parent_label: "Orbitofrontal Task-State and Value Maps"
+    provisional_label: "Orbitofrontal Task-State and Value Maps: successor representation, replay, place cells"
+    candidate_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - botvinick2012_planning_inference
+      - duvelle2023_temporal_hippocampal_inference
+      - epstein2017_cognitive_maps_humans
+      - kurth_nelson2023_replay_compositional_b
+      - momennejad2020_successor_representations_replay
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - nyberg2022_spatial_goal_coding
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schuck2019_hippocampal_replay_nonspatial
+      - tacikowski2024_temporal_structure_hippocampal
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    anchor_papers:
+      - botvinick2012_planning_inference
+      - nyberg2022_spatial_goal_coding
+      - schuck2019_hippocampal_replay_nonspatial
+      - epstein2017_cognitive_maps_humans
+      - patai2021_versatile_wayfinder_prefrontal
+    core_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - botvinick2012_planning_inference
+      - duvelle2023_temporal_hippocampal_inference
+      - epstein2017_cognitive_maps_humans
+      - kurth_nelson2023_replay_compositional_b
+      - momennejad2020_successor_representations_replay
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - nyberg2022_spatial_goal_coding
+    supporting_papers:
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schuck2019_hippocampal_replay_nonspatial
+      - tacikowski2024_temporal_structure_hippocampal
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+    source_signals:
+      support_count: 16
+      internal_citation_edges: 0
+      average_pair_weight: 9.18
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_based_rl
+        - tolman_eichenbaum_machine
+        - attractor_networks
+        - model_free_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - entorhinal_cortex
+        - medial_prefrontal_cortex
+        - medial_entorhinal_cortex
+      tasks:
+        - t_maze
+        - virtual_navigation
+        - hidden_graph_task
+        - morris_water_maze
+        - open_field
+        - detour_task
+      keywords:
+        - successor_representation
+        - replay
+        - place_cells
+        - grid_cells
+        - entorhinal_cortex
+        - generalization
+    rationale: "Sub-cluster inside Orbitofrontal Task-State and Value Maps with 16 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal replay and successor-like state representations in support of orbitofrontal task-state maps"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "This cluster mixes several large literatures—successor representation, replay, place cells, and grid cells—centered mainly on hippocampal-entorhinal navigation and generalization, with only indirect links to orbitofrontal task-state/value mapping. As framed, it is too broad and diffuse for a standalone page under this parent topic."
+    judge_reason_short: "Too broad and hippocampus-centric; weakly specific to OFC task-state/value maps."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:09.136235+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: ofc_task_state_and_value_maps__03
+    parent_topic_id: ofc_task_state_and_value_maps
+    parent_label: "Orbitofrontal Task-State and Value Maps"
+    provisional_label: "Orbitofrontal Task-State and Value Maps: cognitive, map, successor representation"
+    candidate_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - brunec2022_predictive_representations_hierarchies
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - costa2022_orbitofrontal_cognitive_maps
+      - garvert2017_relational_knowledge_maps
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - schuck2016_orbitofrontal_cortex_state
+      - veselic2025_cognitive_map_value_vmPFC
+    anchor_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - schuck2016_orbitofrontal_cortex_state
+      - garvert2017_relational_knowledge_maps
+      - brunec2022_predictive_representations_hierarchies
+    core_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - brunec2022_predictive_representations_hierarchies
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - costa2022_orbitofrontal_cognitive_maps
+      - garvert2017_relational_knowledge_maps
+      - kleinflugge2022_medial_orbital_frontal
+    supporting_papers:
+      - knudsen2021_hippocampal_value_place
+      - schuck2016_orbitofrontal_cortex_state
+      - veselic2025_cognitive_map_value_vmPFC
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 13
+      average_pair_weight: 6.18
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - successor_representation
+        - hierarchical_rl
+        - attractor_networks
+        - model_free_rl
+      brain_regions:
+        - orbitofrontal_cortex
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - dorsolateral_prefrontal_cortex
+        - anterior_cingulate_cortex
+      tasks:
+        - foraging_task
+        - virtual_navigation
+      keywords:
+        - cognitive
+        - map
+        - successor_representation
+        - knowledge
+        - model_based_reinforcement_learning
+        - place_cells
+    rationale: "Sub-cluster inside Orbitofrontal Task-State and Value Maps with 11 papers and 13 internal citation edges."
+    judgment_status: judged
+    refined_label: "Orbitofrontal cortex as a cognitive map of hidden task state"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on the claim that OFC represents latent task-state structure for flexible behavior is well supported and coherent. The evidence can be anchored by Schuck 2016, with related links to broader cognitive-map and predictive-representation work in hippocampal-entorhinal and prefrontal systems. The page should stay centered on OFC task-state representations, treating successor representations and abstract cognitive maps as nearby frameworks rather than the page’s main scope."
+    judge_reason_short: "Strong, cohesive OFC hidden-state map topic; narrow away from general cognitive-map/SR literature."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:11.362214+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: clinical_and_computational_psychiatry__01
+    parent_topic_id: clinical_and_computational_psychiatry
+    parent_label: "Clinical and Computational Psychiatry"
+    provisional_label: "Clinical and Computational Psychiatry: schizophrenia, computational psychiatry, nmda receptor hypofunction"
+    candidate_papers:
+      - adams2018_attractor_schizophrenia
+      - atiya2021_metacognition_attractor
+      - braun2018_maps_network_mental_disorders
+      - durstewitz2020_psychiatric_network_dynamics
+      - howes2016_aberrant_salience_schizophrenia
+      - ivanov2021_psychotropic_drugs_mental_illness
+      - jauhar2022_schizophrenia
+      - nour2021_impaired_replay_schizophrenia
+    anchor_papers:
+      - nour2021_impaired_replay_schizophrenia
+      - adams2018_attractor_schizophrenia
+      - jauhar2022_schizophrenia
+      - ivanov2021_psychotropic_drugs_mental_illness
+      - atiya2021_metacognition_attractor
+    core_papers:
+      - adams2018_attractor_schizophrenia
+      - atiya2021_metacognition_attractor
+      - braun2018_maps_network_mental_disorders
+      - durstewitz2020_psychiatric_network_dynamics
+      - howes2016_aberrant_salience_schizophrenia
+      - ivanov2021_psychotropic_drugs_mental_illness
+      - jauhar2022_schizophrenia
+      - nour2021_impaired_replay_schizophrenia
+    supporting_papers: []
+    source_signals:
+      support_count: 8
+      internal_citation_edges: 0
+      average_pair_weight: 1.88
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - bayesian_inference
+      brain_regions:
+        - prefrontal_cortex
+        - striatum
+        - hippocampus
+        - ventral_striatum
+        - dorsolateral_prefrontal_cortex
+        - ventral_tegmental_area
+      tasks: []
+      keywords:
+        - schizophrenia
+        - computational_psychiatry
+        - nmda_receptor_hypofunction
+        - attractor
+        - dynamics
+        - network
+    rationale: "Sub-cluster inside Clinical and Computational Psychiatry with 8 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Computational models of schizophrenia: attractor dynamics and NMDA hypofunction"
+    page_type: topic
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A focused page on computational accounts of schizophrenia centered on unstable attractor dynamics, belief updating, replay abnormalities, and NMDA-receptor hypofunction would be viable. The evidence cluster is coherent enough if narrowed away from general clinical psychiatry and broad schizophrenia overviews."
+    judge_reason_short: "Keep only as a narrowed computational-schizophrenia page; current label is too broad."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:10.149228+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: clinical_and_computational_psychiatry__02
+    parent_topic_id: clinical_and_computational_psychiatry
+    parent_label: "Clinical and Computational Psychiatry"
+    provisional_label: "Clinical and Computational Psychiatry: computational psychiatry, active inference, attractor dynamics"
+    candidate_papers:
+      - adams_delusions_inference_attractors
+      - hauser2016_adhd_neural_gain
+      - huang2020_model_based_model_free_neural
+      - linson2019_ptsd_active_inference
+      - pallanti2015_adhd_schizophrenia
+    anchor_papers:
+      - adams_delusions_inference_attractors
+      - huang2020_model_based_model_free_neural
+      - linson2019_ptsd_active_inference
+      - hauser2016_adhd_neural_gain
+      - pallanti2015_adhd_schizophrenia
+    core_papers:
+      - adams_delusions_inference_attractors
+      - hauser2016_adhd_neural_gain
+      - huang2020_model_based_model_free_neural
+      - linson2019_ptsd_active_inference
+      - pallanti2015_adhd_schizophrenia
+    supporting_papers: []
+    source_signals:
+      support_count: 5
+      internal_citation_edges: 0
+      average_pair_weight: 3.88
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - active_inference
+        - bayesian_inference
+        - successor_representation
+        - temporal_difference_learning
+        - model_based_rl
+      brain_regions:
+        - prefrontal_cortex
+        - hippocampus
+        - striatum
+        - thalamus
+        - amygdala
+        - medial_prefrontal_cortex
+      tasks:
+        - two_step_task
+        - foraging_task
+      keywords:
+        - computational_psychiatry
+        - active_inference
+        - attractor_dynamics
+        - schizophrenia
+        - inference
+        - computational
+    rationale: "Sub-cluster inside Clinical and Computational Psychiatry with 5 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Active inference and attractor models in computational psychiatry"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "The cluster points to a possible narrow theme around active inference and self-reinforcing attractor states in psychiatric symptoms, especially delusions and PTSD. However, the current evidence is sparse and heterogeneous, mixing broad computational psychiatry, reinforcement-learning meta-analysis, ADHD, schizophrenia, and active inference papers without strong internal linkage."
+    judge_reason_short: "Too broad and weakly connected; not yet a coherent, evidence-dense page."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:11.795887+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: clinical_and_computational_psychiatry__03
+    parent_topic_id: clinical_and_computational_psychiatry
+    parent_label: "Clinical and Computational Psychiatry"
+    provisional_label: "Clinical and Computational Psychiatry: schizophrenia, gaba, depression"
+    candidate_papers:
+      - kaar2019_parvalbumin_schizophrenia
+      - rolls2016_non_reward_attractor_depression
+      - rolls2021_attractor_neurodynamics_schizophrenia
+    anchor_papers:
+      - rolls2016_non_reward_attractor_depression
+      - rolls2021_attractor_neurodynamics_schizophrenia
+      - kaar2019_parvalbumin_schizophrenia
+    core_papers:
+      - kaar2019_parvalbumin_schizophrenia
+      - rolls2016_non_reward_attractor_depression
+      - rolls2021_attractor_neurodynamics_schizophrenia
+    supporting_papers: []
+    source_signals:
+      support_count: 3
+      internal_citation_edges: 0
+      average_pair_weight: 5.33
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - attractor_networks
+      brain_regions:
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - dorsolateral_prefrontal_cortex
+        - anterior_cingulate_cortex
+        - amygdala
+        - medial_temporal_lobe
+      tasks: []
+      keywords:
+        - schizophrenia
+        - gaba
+        - depression
+        - orbitofrontal_cortex
+        - attractor_networks
+        - nmda_receptors
+    rationale: "Sub-cluster inside Clinical and Computational Psychiatry with 3 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Attractor-network accounts of NMDA/GABA dysfunction in schizophrenia and depression"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "This cluster suggests a narrow mechanistic theme—attractor-network models linking NMDA receptor hypofunction and GABA/interneuron abnormalities to schizophrenia, with extension to depression via orbitofrontal non-reward attractors. However, the evidence base here is too thin and internally weak: only three supporting papers, no internal citation cohesion, and much of the framing comes from a single theoretical line of work."
+    judge_reason_short: "Promising mechanistic niche, but too sparse and theory-driven for a standalone page."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:12.391046+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__01
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: place cells, theta oscillations, route planning"
+    candidate_papers:
+      - brown2016_prospective_goals_hippocampus
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - dahmani2015_prefrontal_navigation_strategies
+      - ekstrom2003_spatial_navigation
+      - farzanfar2023_cognitive_maps_spatial
+      - hartley2003_wayfinding_route
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jazi2023_hippocampal_path_integration_homing
+      - kleinflugge2022_medial_orbital_frontal
+      - long2024_border_cells_prefrontal
+      - mugan_redish2024_environmental_complexity_decision
+      - ormond2022_goal_oriented_vector_fields
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schmidt2021_mpfc_swr_dreadd
+      - spiers2015_detour_problem_navigation
+      - watrous2018_phase_tuned_navigation_goals
+      - wikenheiser2015_theta_sequences_goals
+      - yu2015_hippocampal_cortical_interaction
+      - yu2018_hippocampal_cortical_memory
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - ekstrom2003_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - hartley2003_wayfinding_route
+      - spiers2015_detour_problem_navigation
+      - yu2025_theta_sweeps_goal_direction
+    core_papers:
+      - brown2016_prospective_goals_hippocampus
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - dahmani2015_prefrontal_navigation_strategies
+      - ekstrom2003_spatial_navigation
+      - farzanfar2023_cognitive_maps_spatial
+      - hartley2003_wayfinding_route
+      - ito2015_prefrontal_thalamic_hippocampus
+      - jazi2023_hippocampal_path_integration_homing
+    supporting_papers:
+      - kleinflugge2022_medial_orbital_frontal
+      - long2024_border_cells_prefrontal
+      - mugan_redish2024_environmental_complexity_decision
+      - ormond2022_goal_oriented_vector_fields
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - schmidt2021_mpfc_swr_dreadd
+    source_signals:
+      support_count: 21
+      internal_citation_edges: 10
+      average_pair_weight: 3.93
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - successor_representation
+        - mixed_selectivity
+        - model_free_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - hippocampus_ca1
+        - striatum
+        - medial_prefrontal_cortex
+      tasks:
+        - foraging_task
+        - virtual_navigation
+        - navigation_task
+        - open_field
+        - detour_task
+        - hexmaze
+      keywords:
+        - place_cells
+        - theta_oscillations
+        - route_planning
+        - medial_prefrontal_cortex
+        - goal_directed_behavior
+        - decision_making
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 21 papers and 10 internal citation edges."
+    judgment_status: judged
+    refined_label: "Hippocampal–prefrontal mechanisms of route planning and detour navigation"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "Good candidate if narrowed from a broad navigation umbrella to a focused page on how hippocampus, prefrontal cortex, and related theta dynamics support wayfinding, route selection, and detour behavior across navigation tasks. The cited papers form a coherent cluster around planning versus route-following, goal representation, and online replanning."
+    judge_reason_short: "Strong support, but only as a narrower route-planning/detour topic rather than all navigation paradigms."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:11.981011+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__02
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: entorhinal cortex, grid cells, successor representation"
+    candidate_papers:
+      - decothi2022_predictive_spatial_navigation
+      - eldar2020_replay_planning
+      - huang2024_hippocampal_theta_goal_distance
+      - martinet2011_spatial_learning_action_planning
+      - momennejad2017_successor_representation_humans
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - russek2017_model_based_reinforcement
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whitlock2012_functional_parietal_entorhinal
+      - whittington2023_disentanglement_constraints
+      - wijnen2024_maze_learning
+    anchor_papers:
+      - momennejad2017_successor_representation_humans
+      - russek2017_model_based_reinforcement
+      - piray2021_linear_reinforcement_planning
+      - piray2020_linear_reinforcement_learning
+      - decothi2022_predictive_spatial_navigation
+    core_papers:
+      - decothi2022_predictive_spatial_navigation
+      - eldar2020_replay_planning
+      - huang2024_hippocampal_theta_goal_distance
+      - martinet2011_spatial_learning_action_planning
+      - momennejad2017_successor_representation_humans
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+    supporting_papers:
+      - russek2017_model_based_reinforcement
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whitlock2012_functional_parietal_entorhinal
+      - whittington2023_disentanglement_constraints
+      - wijnen2024_maze_learning
+    source_signals:
+      support_count: 13
+      internal_citation_edges: 5
+      average_pair_weight: 4.65
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - temporal_difference_learning
+        - model_free_rl
+        - attractor_networks
+        - model_based_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - striatum
+        - hippocampus_ca1
+      tasks:
+        - navigation_task
+        - detour_task
+        - open_field
+        - two_step_task
+        - virtual_navigation
+        - foraging_task
+      keywords:
+        - entorhinal_cortex
+        - grid_cells
+        - successor_representation
+        - planning
+        - reward_revaluation
+        - path_integration
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 13 papers and 5 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representations and grid-cell predictive maps in spatial navigation"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on theories linking successor/predictive representations to entorhinal grid-cell codes and navigation behavior is well supported. The anchor papers converge on the idea that predictive state maps can explain flexible planning, revaluation asymmetries, and some grid-field phenomena across humans, rats, and RL models. This is narrower and more coherent than a general page on entorhinal cortex or navigation tasks."
+    judge_reason_short: "Coherent computational-neural topic with multiple anchor papers connecting SR/predictive maps, grid cells, and navigation."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:14.126939+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__03
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: model based reinforcement learning, place cells, theta sequences"
+    candidate_papers:
+      - binz2024_meta_learning_cognition
+      - comrie2024_hippocampal_representations
+      - corbit2018_goal_directed_habitual
+      - dolan2013_goals_habits_brain_b
+      - haber2014_reward_circuit_incentive_learning
+      - hok2005_goal_coding_prefrontal
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+      - linson2019_ptsd_active_inference
+      - redish2016_vicarious_trial_error
+      - redish2016_vicarious_trial_error_b
+    anchor_papers:
+      - hok2005_goal_coding_prefrontal
+      - dolan2013_goals_habits_brain_b
+      - haber2014_reward_circuit_incentive_learning
+      - holton2023_planning_vmPFC_lesions
+      - corbit2018_goal_directed_habitual
+    core_papers:
+      - binz2024_meta_learning_cognition
+      - comrie2024_hippocampal_representations
+      - corbit2018_goal_directed_habitual
+      - dolan2013_goals_habits_brain_b
+      - haber2014_reward_circuit_incentive_learning
+      - hok2005_goal_coding_prefrontal
+      - holton2023_planning_vmPFC_lesions
+      - huang2020_model_based_model_free_neural
+    supporting_papers:
+      - linson2019_ptsd_active_inference
+      - redish2016_vicarious_trial_error
+      - redish2016_vicarious_trial_error_b
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 0
+      average_pair_weight: 6.53
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+        - temporal_difference_learning
+        - successor_representation
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - striatum
+        - orbitofrontal_cortex
+        - ventral_striatum
+        - medial_prefrontal_cortex
+      tasks:
+        - foraging_task
+        - two_step_task
+        - t_maze
+        - navigation_task
+      keywords:
+        - model_based_reinforcement_learning
+        - place_cells
+        - theta_sequences
+        - outcome_devaluation
+        - corticostriatal_circuits
+        - goal
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 11 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Model-based reinforcement learning in spatial navigation tasks"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "The proposed cluster mixes distinct levels of analysis—computational control (model-based RL), hippocampal coding phenomena (place cells, theta sequences), and general goal-directed/habit literature—without a tight, citation-supported center. The strongest evidence points to model-based/goal-directed planning in navigation, but the place-cell/theta-sequence components are not well anchored here."
+    judge_reason_short: "Too heterogeneous; combines planning theory with hippocampal coding without a clear, evidence-dense core."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:14.467489+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__04
+    parent_topic_id: behavioral_paradigms_and_navigation_tasks
+    parent_label: "Behavioral Paradigms and Navigation Tasks"
+    provisional_label: "Behavioral Paradigms and Navigation Tasks: successor representation, hierarchical planning, hierarchical"
+    candidate_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - balaguer2016_hierarchical_planning_subway
+      - brunec2022_predictive_representations_hierarchies
+      - coutrot2022_entropy_street_navigation
+      - dayan1993_successor_representation
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kim2026_hippocampus_smallworld
+      - olson2020_secondary_motor_cortex_navigation
+      - tomov2020_hierarchical_planning_representation
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    anchor_papers:
+      - dayan1993_successor_representation
+      - wientjes2024_successor_representation
+      - tomov2020_hierarchical_planning_representation
+      - brunec2022_predictive_representations_hierarchies
+      - alonso2021_hexmaze_cognitive_map
+    core_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - balaguer2016_hierarchical_planning_subway
+      - brunec2022_predictive_representations_hierarchies
+      - coutrot2022_entropy_street_navigation
+      - dayan1993_successor_representation
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kim2026_hippocampus_smallworld
+      - olson2020_secondary_motor_cortex_navigation
+    supporting_papers:
+      - tomov2020_hierarchical_planning_representation
+      - wientjes2024_successor_representation
+      - yoshida2006_resolution_uncertainty
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 3
+      average_pair_weight: 4.09
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - hierarchical_rl
+        - model_based_rl
+        - model_free_rl
+        - bayesian_inference
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - medial_prefrontal_cortex
+        - anterior_cingulate_cortex
+        - entorhinal_cortex
+        - dorsolateral_prefrontal_cortex
+      tasks:
+        - navigation_task
+        - virtual_navigation
+        - hexmaze
+        - t_maze
+      keywords:
+        - successor_representation
+        - hierarchical_planning
+        - hierarchical
+        - planning
+        - medial_prefrontal_cortex
+        - map
+    rationale: "Sub-cluster inside Behavioral Paradigms and Navigation Tasks with 11 papers and 3 internal citation edges."
+    judgment_status: judged
+    refined_label: "Successor representation and hierarchical planning in navigation"
+    page_type: topic
+    page_worthiness: 4
+    keep: true
+    judge_summary: "A focused page on how successor representations support multiscale or hierarchical planning in navigation tasks, linking reinforcement-learning theory to hippocampal–prefrontal predictive maps and maze/virtual navigation evidence."
+    judge_reason_short: "Coherent, specific cluster with clear anchor papers around SR and hierarchical planning in navigation."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:15.002549+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: anterior_cingulate_future_state_and_model_based_control__01
+    parent_topic_id: anterior_cingulate_future_state_and_model_based_control
+    parent_label: "Anterior Cingulate Future-State and Model-Based Control"
+    provisional_label: "Anterior Cingulate Future-State and Model-Based Control: value, ventromedial prefrontal cortex, hierarchical reinforcement learning"
+    candidate_papers:
+      - behrens2007_learning_value_information_uncertain
+      - brunec2022_predictive_representations_hierarchies
+      - demartino2023_value_based_goals_abstraction
+      - haber2014_reward_circuit_incentive_learning
+      - janssen2022_hierarchical_rl_motor_sequences
+      - momennejad2018_offline_replay_planning
+      - veselic2025_cognitive_map_value_vmPFC
+      - wientjes2024_successor_representation
+    anchor_papers:
+      - momennejad2018_offline_replay_planning
+      - behrens2007_learning_value_information_uncertain
+      - haber2014_reward_circuit_incentive_learning
+      - brunec2022_predictive_representations_hierarchies
+      - wientjes2024_successor_representation
+    core_papers:
+      - behrens2007_learning_value_information_uncertain
+      - brunec2022_predictive_representations_hierarchies
+      - demartino2023_value_based_goals_abstraction
+      - haber2014_reward_circuit_incentive_learning
+      - janssen2022_hierarchical_rl_motor_sequences
+      - momennejad2018_offline_replay_planning
+      - veselic2025_cognitive_map_value_vmPFC
+      - wientjes2024_successor_representation
+    supporting_papers: []
+    source_signals:
+      support_count: 8
+      internal_citation_edges: 2
+      average_pair_weight: 6.58
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_based_rl
+        - hierarchical_rl
+        - model_free_rl
+        - bayesian_inference
+      brain_regions:
+        - anterior_cingulate_cortex
+        - prefrontal_cortex
+        - striatum
+        - hippocampus
+        - orbitofrontal_cortex
+        - ventromedial_prefrontal_cortex
+      tasks:
+        - virtual_navigation
+        - foraging_task
+        - navigation_task
+      keywords:
+        - value
+        - ventromedial_prefrontal_cortex
+        - hierarchical_reinforcement_learning
+        - anterior_cingulate_cortex
+        - fmri
+        - successor_representation
+    rationale: "Sub-cluster inside Anterior Cingulate Future-State and Model-Based Control with 8 papers and 2 internal citation edges."
+    judgment_status: judged
+    refined_label: "ACC future-state representations and planning"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "The proposed subtopic bundles several weakly unified themes—value, vmPFC, and hierarchical reinforcement learning—around ACC future-state control. The cited papers support a broader network-level planning literature rather than a tight, ACC-specific, evidence-dense page."
+    judge_reason_short: "Too broad and heterogeneous; weak ACC-specific coherence."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:15.592274+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: anterior_cingulate_future_state_and_model_based_control__02
+    parent_topic_id: anterior_cingulate_future_state_and_model_based_control
+    parent_label: "Anterior Cingulate Future-State and Model-Based Control"
+    provisional_label: "Anterior Cingulate Future-State and Model-Based Control: model based reinforcement learning, model free reinforcement learning, temporal difference learning"
+    candidate_papers:
+      - akam2021_anterior_cingulate_model
+      - daw2005_uncertainty_prefrontal_striatal
+      - huang2020_model_based_model_free_neural
+      - loosen2020_computational_psychiatry_ocd
+      - lowet2020_distributional_reinforcement_brain
+      - schultz1997_neural_substrate_reward_pred
+      - wilson2013_ofc_cognitive_map
+    anchor_papers:
+      - schultz1997_neural_substrate_reward_pred
+      - daw2005_uncertainty_prefrontal_striatal
+      - akam2021_anterior_cingulate_model
+      - loosen2020_computational_psychiatry_ocd
+      - lowet2020_distributional_reinforcement_brain
+    core_papers:
+      - akam2021_anterior_cingulate_model
+      - daw2005_uncertainty_prefrontal_striatal
+      - huang2020_model_based_model_free_neural
+      - loosen2020_computational_psychiatry_ocd
+      - lowet2020_distributional_reinforcement_brain
+      - schultz1997_neural_substrate_reward_pred
+      - wilson2013_ofc_cognitive_map
+    supporting_papers: []
+    source_signals:
+      support_count: 7
+      internal_citation_edges: 3
+      average_pair_weight: 9.19
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - temporal_difference_learning
+        - hierarchical_rl
+      brain_regions:
+        - prefrontal_cortex
+        - anterior_cingulate_cortex
+        - striatum
+        - orbitofrontal_cortex
+        - dorsomedial_striatum
+        - amygdala
+      tasks:
+        - two_step_task
+        - probabilistic_reversal_learning
+      keywords:
+        - model_based_reinforcement_learning
+        - model_free_reinforcement_learning
+        - temporal_difference_learning
+        - based
+        - reward_prediction_error
+        - basal_ganglia
+    rationale: "Sub-cluster inside Anterior Cingulate Future-State and Model-Based Control with 7 papers and 3 internal citation edges."
+    judgment_status: judged
+    refined_label: "Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control"
+    page_type: methods
+    page_worthiness: 3
+    keep: true
+    judge_summary: "A narrowly framed methods page on the computational distinction between model-based and model-free reinforcement learning, and how ACC future-state signals are interpreted within that framework, is justified. It should stay centered on ACC-relevant tasks and evidence rather than general reinforcement learning or temporal-difference theory."
+    judge_reason_short: "Keep only as an ACC-focused computational-frameworks page; the broader RL concepts alone are too general."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:17.170490+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
+  -
+    subtopic_id: anterior_cingulate_future_state_and_model_based_control__03
+    parent_topic_id: anterior_cingulate_future_state_and_model_based_control
+    parent_label: "Anterior Cingulate Future-State and Model-Based Control"
+    provisional_label: "Anterior Cingulate Future-State and Model-Based Control: route planning, hippocampal prefrontal interactions, detours"
+    candidate_papers:
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - rushworth2011_prefrontal_reward_decision
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+    anchor_papers:
+      - rushworth2011_prefrontal_reward_decision
+      - patai2021_versatile_wayfinder_prefrontal
+      - patai2021_prefrontal_spatial_navigation
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+    core_papers:
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - rushworth2011_prefrontal_reward_decision
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+    supporting_papers: []
+    source_signals:
+      support_count: 4
+      internal_citation_edges: 0
+      average_pair_weight: 8.96
+      target_cluster_count: 3
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - model_free_rl
+        - bayesian_inference
+      brain_regions:
+        - prefrontal_cortex
+        - anterior_cingulate_cortex
+        - orbitofrontal_cortex
+        - dorsolateral_prefrontal_cortex
+        - ventromedial_prefrontal_cortex
+        - hippocampus
+      tasks:
+        - virtual_navigation
+        - foraging_task
+        - detour_task
+      keywords:
+        - route_planning
+        - hippocampal_prefrontal_interactions
+        - detours
+        - wayfinding
+        - replay
+        - theta_oscillations
+    rationale: "Sub-cluster inside Anterior Cingulate Future-State and Model-Based Control with 4 papers and 0 internal citation edges."
+    judgment_status: judged
+    refined_label: "Prefrontal–hippocampal interactions in route planning and detour navigation"
+    page_type: reject
+    page_worthiness: 2
+    keep: false
+    judge_summary: "This subtopic is too broad and weakly tied to the parent ACC future-state/model-based control theme. The supporting papers are mostly general reviews of prefrontal contributions to navigation or reward-guided decision-making rather than a focused, evidence-dense literature on ACC-specific future-state coding during route planning or detours."
+    judge_reason_short: "Broad navigation/planning cluster with weak ACC specificity and limited direct support."
+    judge_metadata:
+      judged_at: "2026-04-12T19:46:16.462877+00:00"
+      provider: openai_api
+      model: gpt-5.4
+      prompt_version: subtopic-judge-v1
