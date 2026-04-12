@@ -1,8 +1,8 @@
-generated_at: "2026-04-12T14:32:33.163144+00:00"
-edge_count: 522
+generated_at: "2026-04-12T14:36:03.154654+00:00"
+edge_count: 585
 auto_accept_count: 524
-judged_accept_count: 2
-unresolved_count: 191
+judged_accept_count: 156
+unresolved_count: 37
 edges:
   -
     source: adams_delusions_inference_attractors
@@ -42,6 +42,18 @@ edges:
       judge_status: accepted_by_judge
   -
     source: akam2021_anterior_cingulate_model
+    target: daw2005_uncertainty_prefrontal_striatal
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Computational framework"
+      mention_text: "Daw et al., 2005"
+      evidence_excerpt: "model-free RL framework (Daw et al., 2005; Sutton and Barto, 1998)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: akam2021_anterior_cingulate_model
     target: daw2011_model_based_striatal_prediction
     type: cites
     confidence: high
@@ -50,6 +62,18 @@ edges:
       section: "Background & motivation"
       mention_text: "Daw et al. 2011"
       evidence_excerpt: ", the two-step task, Daw et al. 2011) were not well-suited to rodent neurophysiology, and had not been combined with single-unit recordings or causal manipulations in anterior cingulate cortex (ACC)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: akam2021_dopamine_model_based_rl
+    target: daw2005_uncertainty_prefrontal_striatal
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Daw et al. 2005"
+      evidence_excerpt: "The parallel model-based/model-free framework (Daw et al. 2005; Balleine & Dickinson 1998) assigns striatal dopamine primarily to model-free learning, with prefrontal cortex and hippocampus supporting model-based learning"
       extraction_method: body_author_year
       judge_status: accepted_by_judge
   -
@@ -66,10 +90,22 @@ edges:
       judge_status: skipped_deterministic
   -
     source: amengual2022_pfc_multiplexing_behavior
-    target: gao2017_neural_dimensionality_dynamics
+    target: fusi2016_mixed_selectivity_cognition
     type: cites
     confidence: high
     mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Fusi et al. 2016"
+      evidence_excerpt: "2013; Fusi et al. 2016)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: amengual2022_pfc_multiplexing_behavior
+    target: gao2017_neural_dimensionality_dynamics
+    type: cites
+    confidence: high
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Gao et al. 2017"
@@ -125,11 +161,47 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: bakermans2020_reinforcement_learning_dopamine
+    target: lammel2014_dopamine_reward_aversion
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Lammel et al., 2014"
+      evidence_excerpt: ", 2003; Lammel et al., 2014) but lacked a mechanistic explanation within this framework"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: bakermans2020_reinforcement_learning_dopamine
+    target: schultz1997_neural_substrate_reward_pred
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Background & motivation"
+      mention_text: "Schultz et al. (1997)"
+      evidence_excerpt: "This model elegantly explained the phasic firing of dopamine neurons first observed by Schultz et al. (1997), but left two open problems: (1) TD learning tracks only the mean of the reward distribution, discarding information about the variance or shape of possible outcomes, which is necessary for certain decisions (e"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: bao2004_connexin_protein_kinase_phosphorylation
+    target: lampe2000_connexin43_phosphorylation
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Lampe et al. (2000)"
+      evidence_excerpt: "Phosphorylation of the Cx43 CT domain by PKC was known to reduce dye coupling in multiple cell types, and Lampe et al. (2000) had established that Ser368 phosphorylation was necessary for the reduction in gap junctional communication by PKC agonists, but whether Ser372 also needed to be phosphorylated was unresolved"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: baram2021_entorhinal_ventromedial_rl
     target: behrens2018_cognitive_map_organizing_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Behrens et al. (2018)"
@@ -153,7 +225,7 @@ edges:
     target: garvert2017_relational_knowledge_maps
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Garvert et al. (2017)"
@@ -177,7 +249,7 @@ edges:
     target: stachenfeld2017_hippocampus_predictive_map
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Stachenfeld et al. (2017)"
@@ -189,13 +261,25 @@ edges:
     target: whittington2020_tolman_eichenbaum_machine
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Whittington et al. (2020)"
       evidence_excerpt: "- Whittington et al. (2020) — Tolman-Eichenbaum Machine unifying space and relational memory"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: baram2021_entorhinal_ventromedial_rl
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Wilson et al., 2014"
+      evidence_excerpt: ", 2020; Wilson et al., 2014), largely without direct empirical support in abstract RL tasks"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: baram2024_abstract_relational_map_consolidation
     target: behrens2018_cognitive_map_organizing_knowledge
@@ -213,7 +297,7 @@ edges:
     target: constantinescu2016_gridlike_conceptual_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Constantinescu et al. (2016)"
@@ -237,7 +321,7 @@ edges:
     target: whittington2020_tolman_eichenbaum_machine
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Whittington et al. (2020)"
@@ -297,7 +381,7 @@ edges:
     target: basu2021_ofc_navigation_goals
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Basu et al. (2021)"
@@ -340,6 +424,18 @@ edges:
       evidence_excerpt: "- Russek et al. (2017) PLoS Comput Biol — successor representation linking model-based and model-free RL"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: basu2023_goal_pointer_cognitive_map_ofc
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) Neuron — OFC as cognitive map of task space"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: basu2023_goal_pointer_cognitive_map_ofc
     target: zhou2021_schema_orbitofrontal
@@ -413,6 +509,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: behrens2018_cognitive_map_organizing_knowledge
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) — OFC lesions as latent-state RL deficit"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: bein2024_schemas_reinforcement_learning_pfc
     target: niv2019_representation_learning_task_states
     type: cites
@@ -429,13 +537,37 @@ edges:
     target: schuck2016_orbitofrontal_cortex_state
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Schuck et al. (2016)"
       evidence_excerpt: "- Schuck et al. (2016) — mOFC/vmPFC encodes latent states requiring memory"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: bein2024_schemas_reinforcement_learning_pfc
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) — mOFC as cognitive map of task states"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
+    source: bendor2012_biasing_hippocampal_replay_sleep
+    target: girardeau2009_ripples_spatial_memory
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Girardeau et al. 2009"
+      evidence_excerpt: "2003), and that disrupting ripple-associated activity impairs spatial learning (Girardeau et al. 2009; Ego-Stengel & Wilson 2010)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: berners2022_hippocampal_replay_experience
     target: pfeiffer2015_autoassociative_hippocampal_place_cells
@@ -474,6 +606,18 @@ edges:
       judge_status: skipped_deterministic
   -
     source: bernerslee2021_prefrontal_cortex_hippocampal
+    target: shin2019_hippocampal_prefrontal_replay
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Shin et al. (2019)"
+      evidence_excerpt: "- Shin et al. (2019) — awake replay and HP-PFC dynamics in spatial learning"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
+    source: bernerslee2021_prefrontal_cortex_hippocampal
     target: wikenheiser2015_theta_sequences_goals
     type: cites
     confidence: high
@@ -496,6 +640,42 @@ edges:
       evidence_excerpt: "- Griffiths, Kemp & Tenenbaum (2008) — Bayesian models of cognition"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: blancopolzo2024_dopamine_independent_reward
+    target: montague1996_predictive_hebbian_dopamine
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Montague et al. 1996"
+      evidence_excerpt: "The field's dominant account at the time of this paper is that dopamine neurons report RPEs, and these RPEs update cached or model-based value estimates that then drive choices (Montague et al. 1996; Schultz et al"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: blancopolzo2024_dopamine_independent_reward
+    target: schultz1997_neural_substrate_reward_pred
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Schultz et al. 1997"
+      evidence_excerpt: "1996; Schultz et al. 1997)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: bogacz2020_dopamine_action_inference
+    target: daw2005_uncertainty_prefrontal_striatal
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Daw et al. 2005"
+      evidence_excerpt: "A competing account (Daw et al. 2005) proposes that goal-directed behaviour arises from a cortical model-based system and habitual behaviour from a model-free striatal system learning via standard reward RPEs, with uncertainty arbitrating between them"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: bogacz2020_dopamine_action_inference
     target: haber2000_striatonigrostriatal_pathways
@@ -525,7 +705,7 @@ edges:
     target: montague1996_predictive_hebbian_dopamine
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Montague et al. 1996"
@@ -537,7 +717,7 @@ edges:
     target: schultz1997_neural_substrate_reward_pred
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Schultz et al. 1997"
@@ -545,11 +725,23 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: bohm2020_pfc_spatial_working_memory
+    target: fujisawa2008_assembly_prefrontal_cortex
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Fujisawa et al., 2008"
+      evidence_excerpt: ", 2003; Fujisawa et al., 2008)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: botvinick2008_hierarchical_behavior_prefrontal
     target: lashley1951_serial_order_behavior
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Lashley (1951)"
@@ -580,6 +772,18 @@ edges:
       evidence_excerpt: "- Behrens et al. (2018) — cognitive maps"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: botvinick2020_deep_reinforcement_learning_neuro
+    target: botvinick2009_hierarchical_behavior_reinforcement
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Botvinick et al. (2009)"
+      evidence_excerpt: "- Botvinick et al. (2009) — hierarchical RL and PFC"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: botvinick2020_deep_reinforcement_learning_neuro
     target: stachenfeld2017_hippocampus_predictive_map
@@ -725,6 +929,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: brunec2022_predictive_representations_hierarchies
+    target: stachenfeld2017_hippocampus_predictive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Stachenfeld et al. (2017)"
+      evidence_excerpt: "Stachenfeld et al. (2017) formalised the hippocampus as encoding a predictive map (SR) with scale varying along the dorsoventral axis"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: bush2015_grid_cells_navigation_vector
     target: fiete2008_grid_cells_position
     type: cites
@@ -772,6 +988,18 @@ edges:
       evidence_excerpt: "- Jeong et al. (2022) — dopamine as causal teaching signal"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: campbell2025_hardwired_circuit_td_learning
+    target: schultz1997_neural_substrate_reward_pred
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Schultz et al. (1997)"
+      evidence_excerpt: "The prevailing model, as framed by the paper's introduction, is that phasic dopamine activity encodes a TD reward prediction error (RPE) — the Schultz et al. (1997) model extended to include derivative-like ramping dopamine (Kim et al"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: chang2020_cuneiform_nucleus_locomotor_dbs
     target: roseberry2016_basal_ganglia_motor
@@ -845,6 +1073,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: claudi2021_brainrender_visualization_atlas
+    target: wang2020_allen_mouse_brain_atlas
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wang et al. 2020"
+      evidence_excerpt: "- Wang et al. 2020 — Allen Mouse Brain Common Coordinate Framework CCFv3"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: comrie2024_hippocampal_representations
     target: liu2021_experience_replay_nonlocal
     type: cites
@@ -909,7 +1149,7 @@ edges:
     target: solway2014_optimal_behavioral_hierarchy
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Solway et al. (2014)"
@@ -933,7 +1173,7 @@ edges:
     target: tomov2020_hierarchical_planning_representation
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Tomov et al. (2020)"
@@ -964,6 +1204,18 @@ edges:
       evidence_excerpt: "- Schuck et al. (2016) *Neuron* — human OFC represents state space"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: costa2022_orbitofrontal_cognitive_maps
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) *Neuron* — OFC as cognitive map of task space"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: coutureau2003_infralimbic_prefrontal_goal
     target: balleine1998_goal_directed_instrumental_action
@@ -1013,6 +1265,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: daw2011_model_based_striatal_prediction
+    target: daw2005_uncertainty_prefrontal_striatal
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Daw et al., 2005"
+      evidence_excerpt: "These systems were thought to compete for behavioural control (Daw et al., 2005) but to operate independently in the sense that the dopaminergic RPE signal was considered a pure product of the model-free system — reflecting only past reinforcement history and ignorant of task structure"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: daws2022_psilocybin_brain_integration
     target: rolls2016_non_reward_attractor_depression
     type: cites
@@ -1048,6 +1312,18 @@ edges:
       evidence_excerpt: "- Russek, Momennejad et al. (2017) — SR in human RL (PLoS Comp Biol)"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: decothi2022_predictive_spatial_navigation
+    target: stachenfeld2017_hippocampus_predictive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Stachenfeld et al. 2017"
+      evidence_excerpt: "The SR had been proposed as a neural candidate for hippocampal function (Stachenfeld et al. 2017; de Cothi & Barry 2020), but had not been tested against biological navigation behaviour in a large, dynamic, open-field spatial environment directly comparable across species"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: decothi2022_predictive_spatial_navigation
     target: tolman1948_cognitive_maps_rats
@@ -1145,6 +1421,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: denbakker2024_mpfc_spatial_swr
+    target: shin2019_hippocampal_prefrontal_replay
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Shin et al. (2019)"
+      evidence_excerpt: "- Shin et al. (2019) — non-local mPFC representations predictive of behavior, post-error engagement (ref [29])"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: dolan2013_goals_habits_brain_b
     target: balleine1998_goal_directed_instrumental_action
     type: cites
@@ -1156,6 +1444,18 @@ edges:
       evidence_excerpt: "- Balleine & Dickinson (1998) — goal-directed instrumental action and its cortical substrates"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: dolan2013_goals_habits_brain_b
+    target: daw2005_uncertainty_prefrontal_striatal
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Computational framework"
+      mention_text: "Daw et al., 2005"
+      evidence_excerpt: "Proposed arbitration criteria include relative uncertainty (Daw et al., 2005), cost-benefit analysis of computation time versus accuracy (Keramati et al"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: dolan2013_goals_habits_brain_b
     target: tolman1948_cognitive_maps_rats
@@ -1230,10 +1530,22 @@ edges:
       judge_status: skipped_deterministic
   -
     source: dorrell2023_actionable_grid_constraints
-    target: whittington2020_tolman_eichenbaum_machine
+    target: schaeffer2022_no_free_lunch_deep_learning_neuroscience
     type: cites
     confidence: high
     mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Schaeffer et al., 2022"
+      evidence_excerpt: ", 2019) derives grid-like responses from recurrent networks trained to path-integrate, but has been questioned for parameter sensitivity (Schaeffer et al., 2022) and reliance on experimentally unobserved place-cell decoder shapes (Sorscher et al"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: dorrell2023_actionable_grid_constraints
+    target: whittington2020_tolman_eichenbaum_machine
+    type: cites
+    confidence: high
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Whittington et al. (2020)"
@@ -1257,7 +1569,7 @@ edges:
     target: boccara2019_grid_goal_attractor
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Boccara et al. (2019)"
@@ -1269,7 +1581,7 @@ edges:
     target: butler2019_reward_locations_entorhinal_maps
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Butler et al. (2019)"
@@ -1293,7 +1605,7 @@ edges:
     target: whittington2023_disentanglement_constraints
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Whittington et al. (2023)"
@@ -1329,7 +1641,7 @@ edges:
     target: whittington2020_tolman_eichenbaum_machine
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Whittington et al. 2020"
@@ -1434,6 +1746,18 @@ edges:
       judge_status: skipped_deterministic
   -
     source: elgaby2023_behavioral_structure_mapping
+    target: samborska2021_hippocampus_prefrontal_gen
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Samborska et al. 2021"
+      evidence_excerpt: "- Samborska et al. 2021 (bioRxiv) — complementary task representations in hippocampus and PFC"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
+    source: elgaby2023_behavioral_structure_mapping
     target: whittington2020_tolman_eichenbaum_machine
     type: cites
     confidence: high
@@ -1473,7 +1797,7 @@ edges:
     target: tolman1948_cognitive_maps_rats
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Tolman (1948)"
@@ -1497,7 +1821,7 @@ edges:
     target: widloski2022_hippocampal_replay_barriers
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Widloski & Foster (2022)"
@@ -1533,7 +1857,7 @@ edges:
     target: davidson2009_hippocampal_replay_extended
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Davidson et al. (2009)"
@@ -1545,7 +1869,7 @@ edges:
     target: girardeau2009_ripples_spatial_memory
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Girardeau et al. (2009)"
@@ -1677,7 +2001,7 @@ edges:
     target: mehta2000_hippocampal_receptive_fields
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Mehta et al. (2000)"
@@ -1745,11 +2069,23 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: fuglstad2023_herbs_brain_registration
+    target: wang2020_allen_mouse_brain_atlas
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wang et al. 2020"
+      evidence_excerpt: "- Wang et al. 2020 (Allen Mouse Brain Common Coordinate Framework)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: fujisawa2022_replays_social_information
     target: behrens2018_cognitive_map_organizing_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Behrens et al. (2018)"
@@ -1761,7 +2097,7 @@ edges:
     target: mou_ji2022_observational_learning_replay
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Mou et al. (2022)"
@@ -1773,7 +2109,7 @@ edges:
     target: bialek2022_behavior_dynamics_analysis
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Bialek (2022)"
@@ -1797,7 +2133,7 @@ edges:
     target: constantinescu2016_gridlike_conceptual_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Constantinescu et al. (2016)"
@@ -1816,6 +2152,18 @@ edges:
       evidence_excerpt: "- Dayan (1993) — original successor representation paper"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: gatto2018_brainstem_locomotion_control
+    target: roseberry2016_basal_ganglia_motor
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Roseberry et al., 2016"
+      evidence_excerpt: "Prior work (Roseberry et al., 2016) had established that glutamatergic MLR neurons were necessary and sufficient for locomotion initiation and that basal ganglia structures provided strong presynaptic drive to MLR glutamatergic neurons"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: george2022_stdp_predictive_maps
     target: dayan1993_successor_representation
@@ -1845,7 +2193,7 @@ edges:
     target: dayan1993_successor_representation
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Dayan (1993)"
@@ -1917,7 +2265,7 @@ edges:
     target: girardeau2009_ripples_spatial_memory
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Girardeau et al. (2009)"
@@ -1929,7 +2277,7 @@ edges:
     target: vandeven2016_hippocampal_offline_reactivation
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Ven et al. (2016)"
@@ -2013,7 +2361,7 @@ edges:
     target: behrens2007_learning_value_information_uncertain
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Behrens et al. (2007)"
@@ -2037,7 +2385,7 @@ edges:
     target: montague1996_predictive_hebbian_dopamine
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Montague et al. (1996)"
@@ -2049,7 +2397,7 @@ edges:
     target: schultz1997_neural_substrate_reward_pred
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Schultz et al. (1997)"
@@ -2169,7 +2517,7 @@ edges:
     target: daw2011_model_based_striatal_prediction
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Daw et al. (2011)"
@@ -2181,7 +2529,7 @@ edges:
     target: schuck2016_orbitofrontal_cortex_state
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Schuck et al. (2016)"
@@ -2193,13 +2541,25 @@ edges:
     target: vopheusden2023_expertise_planning_depth
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Opheusden et al. (2023)"
       evidence_excerpt: "- van Opheusden et al. (2023) — Four-in-a-Row task and planning model"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: holton2023_planning_vmPFC_lesions
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014); Schuck et al. (2016) — OFC as cognitive map of task space"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: huang2020_model_based_model_free_neural
     target: russek2017_model_based_reinforcement
@@ -2241,7 +2601,7 @@ edges:
     target: nimmerjahn2004_sulforhodamine_astroglia
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Nimmerjahn et al. (2004)"
@@ -2261,6 +2621,42 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: ibl2025_reproducibility_electrophysiology
+    target: wang2020_allen_mouse_brain_atlas
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wang et al. (2020)"
+      evidence_excerpt: "- Wang et al. (2020) — Allen Common Coordinate Framework."
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
+    source: igata2021_prioritized_experience_replays
+    target: stachenfeld2017_hippocampus_predictive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Computational framework"
+      mention_text: "Stachenfeld et al., 2017"
+      evidence_excerpt: "The implicit formal structure: the hippocampus maintains a predictive map of task states (following Stachenfeld et al., 2017); SWR-associated replays implement something like memory sampling for value updating; the priority of which episodes get replayed is weighted by novelty and prediction error (rather than random or recency-based access)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: ito2015_prefrontal_thalamic_hippocampus
+    target: moser2008_place_cells_grid_cells
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Moser et al. 2008"
+      evidence_excerpt: "Before this paper, place cells were understood as part of an allocentric spatial map (O'Keefe & Nadel 1978; Moser et al. 2008) that faithfully encodes current position"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: ito2018_prefrontal_hippocampal_navigation
     target: buzsaki2015_hippocampal_sharp_wave_ripple
     type: cites
@@ -2272,6 +2668,18 @@ edges:
       evidence_excerpt: "- Buzsaki (2015) — sharp-wave ripple review"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: ito2018_prefrontal_hippocampal_navigation
+    target: constantinescu2016_gridlike_conceptual_knowledge
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "What this paper contributes"
+      mention_text: "Constantinescu et al., 2016"
+      evidence_excerpt: "The review also proposes that insights from spatial navigation may generalise to prefrontal–hippocampal interactions underlying non-spatial (conceptual) knowledge (citing Constantinescu et al., 2016)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: ito2018_prefrontal_hippocampal_navigation
     target: ito2015_prefrontal_thalamic_hippocampus
@@ -2325,7 +2733,7 @@ edges:
     target: fusi2016_mixed_selectivity_cognition
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Fusi et al. (2016)"
@@ -2385,7 +2793,7 @@ edges:
     target: badre2018_frontal_cortex_hierarchical_control
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Badre & Nee (2018)"
@@ -2454,10 +2862,22 @@ edges:
       judge_status: skipped_deterministic
   -
     source: johnson2007_hippocampus_decision
+    target: daw2005_uncertainty_prefrontal_striatal
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Daw et al., 2005"
+      evidence_excerpt: "Forward-looking activity had been proposed theoretically (Jensen & Lisman, 1998; Daw et al., 2005) and inferred from single-cell \"prospective\" firing, but direct ensemble-level evidence for discrete, path-selective prospective representations at choice points during active behaviour was lacking"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: johnson2007_hippocampus_decision
     target: jackson2006_hippocampal_sharp_waves_reactivation
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Jackson et al. (2006)"
@@ -2478,10 +2898,34 @@ edges:
       judge_status: skipped_deterministic
   -
     source: kaefer2020_mpfc_replay_ruleswitching
-    target: jadhav2016_hippocampal_prefrontal_swr
+    target: fujisawa2008_assembly_prefrontal_cortex
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Fujisawa et al., 2008"
+      evidence_excerpt: ", 2009), and the mPFC was known to have some spatial firing (Fujisawa et al., 2008; Hok et al"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: kaefer2020_mpfc_replay_ruleswitching
+    target: hok2005_goal_coding_prefrontal
     type: cites
     confidence: high
     mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Hok et al., 2005"
+      evidence_excerpt: ", 2008; Hok et al., 2005)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: kaefer2020_mpfc_replay_ruleswitching
+    target: jadhav2016_hippocampal_prefrontal_swr
+    type: cites
+    confidence: high
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Jadhav et al., 2016"
@@ -2517,7 +2961,7 @@ edges:
     target: jadhav2016_hippocampal_prefrontal_swr
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Jadhav et al. (2016)"
@@ -2529,13 +2973,25 @@ edges:
     target: stachenfeld2017_hippocampus_predictive_map
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Stachenfeld et al. (2017)"
       evidence_excerpt: "- Stachenfeld et al. (2017) — hippocampus as predictive map (successor representation)"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: kashay2022_anterior_cingulate_effort
+    target: akam2021_anterior_cingulate_model
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Akam et al. (2021)"
+      evidence_excerpt: "- Akam et al. (2021) — ACC predicts future states to mediate model-based action selection"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: kashay2022_anterior_cingulate_effort
     target: gabriel2022_behaviordepot_detection
@@ -2560,6 +3016,18 @@ edges:
       evidence_excerpt: "- Gabriel et al. (2022) — BehaviorDEPOT software"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: keramati2016_plan_until_habit
+    target: daw2011_model_based_striatal_prediction
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Daw et al. 2011"
+      evidence_excerpt: "The dominant framework (Daw, Niv & Dayan 2005; Daw et al. 2011) modelled the two systems as running in parallel, with a weighted average or a winner-takes-more competition at the output stage"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: khona2022_attractor_integrator
     target: burak2009_path_integration_grid_cells
@@ -2601,7 +3069,7 @@ edges:
     target: behrens2018_cognitive_map_organizing_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Behrens et al. (2018)"
@@ -2697,7 +3165,7 @@ edges:
     target: behrens2018_cognitive_map_organizing_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Behrens et al. (2018)"
@@ -2709,7 +3177,7 @@ edges:
     target: constantinescu2016_gridlike_conceptual_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Constantinescu et al. (2016)"
@@ -2757,13 +3225,25 @@ edges:
     target: barron2020_neuronal_computation_inferential
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Barron et al. 2020"
       evidence_excerpt: "- Barron et al. 2020 (Cell) — same inference task in humans and mice; hippocampal dependence"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: kurth2023_replay_compositional_computation
+    target: liu2019_human_replay_reorganizes
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "What this paper contributes"
+      mention_text: "Liu et al. 2019"
+      evidence_excerpt: "The existing finding that each replayed item is accompanied by abstract role codes (Liu et al. 2019) is reinterpreted as evidence for role-tagging, the hallmark of a compositional system"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: kurth_nelson2023_replay_compositional_b
     target: behrens2018_cognitive_map_organizing_knowledge
@@ -2805,7 +3285,7 @@ edges:
     target: liu2019_human_replay_reorganizes
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Liu et al. (2019)"
@@ -2865,7 +3345,7 @@ edges:
     target: behrens2018_cognitive_map_organizing_knowledge
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Behrens et al. (2018)"
@@ -2889,7 +3369,7 @@ edges:
     target: kurth_nelson2016_sequences_non_spatial
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Kurth-Nelson et al. (2016)"
@@ -3005,6 +3485,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: liu2023_hippocampal_associative_predictive
+    target: stachenfeld2017_hippocampus_predictive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Stachenfeld et al. 2017"
+      evidence_excerpt: "The literature also contained two partially competing theories of hippocampal function: one centred on episodic/associative memory (O'Keefe, Eichenbaum) and one on predictive map generation (Stachenfeld et al. 2017; Buckner 2010), with no consensus on which aspects of hippocampal activity implement which function"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: liu2023_hippocampus_amygdala_memory_formation
     target: buzsaki2015_hippocampal_sharp_wave_ripple
     type: cites
@@ -3101,11 +3593,23 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: lowet2020_distributional_reinforcement_brain
+    target: schultz1997_neural_substrate_reward_pred
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Schultz et al. (1997)"
+      evidence_excerpt: "This view, strongly supported by Schultz et al. (1997) and subsequent work, treated observed heterogeneity in dopamine neuron responses as noise or irrelevant variation around a common signal"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: machado2018_eigenoption_successor_representation
     target: barreto2017_successor_features_transfer_c
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Barreto et al. (2017)"
@@ -3172,6 +3676,18 @@ edges:
       evidence_excerpt: "- Fusi et al. (2016) — high-dimensional mixed selectivity for cognition"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: maggi2022_activity_subspaces_prefrontal
+    target: ito2015_prefrontal_thalamic_hippocampus
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Ito et al., 2015"
+      evidence_excerpt: ", 2003; Ito et al., 2015), and global shifts in mPfC population activity had been linked to strategy switching (Durstewitz et al"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning
     target: jadhav2016_hippocampal_prefrontal_swr
@@ -3244,6 +3760,18 @@ edges:
       evidence_excerpt: "- Kemp & Tenenbaum (2008) — discovery of structural form"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: mark2020_structural_knowledge_transfer
+    target: stachenfeld2017_hippocampus_predictive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Stachenfeld et al. 2017"
+      evidence_excerpt: "The paper positions the Successor Representation (SR; Dayan 1993; Stachenfeld et al. 2017) as the dominant computational model of cognitive maps"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: martinet2011_spatial_learning_action_planning
     target: hok2005_goal_coding_prefrontal
@@ -3393,7 +3921,7 @@ edges:
     target: tolman1948_cognitive_maps_rats
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Tolman (1948)"
@@ -3405,7 +3933,7 @@ edges:
     target: widloski2022_hippocampal_replay_barriers
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Widloski and Foster (2022)"
@@ -3448,6 +3976,18 @@ edges:
       evidence_excerpt: "- Paulk et al. (2022) — concurrent companion study (Nature Neuroscience 25, 252–263)"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: miranda2020_modelfree_modelsensitive_primates
+    target: daw2011_model_based_striatal_prediction
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Daw et al. 2011"
+      evidence_excerpt: "The two-stage task (Daw et al. 2011) had previously demonstrated this combination in humans, with ω typically ~40–60%"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
   -
     source: mishchanchuk2024_hidden_state_inference
     target: wikenheiser2016_cognitive_maps_hippocampus
@@ -3525,7 +4065,7 @@ edges:
     target: tolman1948_cognitive_maps_rats
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Tolman (1948)"
@@ -3681,7 +4221,7 @@ edges:
     target: adams2018_attractor_schizophrenia
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Adams et al. (2018)"
@@ -3837,13 +4377,25 @@ edges:
     target: schuck2016_orbitofrontal_cortex_state
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Schuck et al. 2016"
       evidence_excerpt: "Sutton & Barto (RL textbook); Gershman, Blei & Niv 2010 (latent-cause inference framework); Leong et al. 2017 (attention-weighted RL, Neuron); Schuck et al. 2016 (OFC cognitive map of state space, Neuron); Wilson et al. 2014 (OFC as cognitive map of task space, Neuron); Gershman et al. 2013 (gradual extinction, Front. Behav. Neurosci.); Schuck & Niv 2019 (hippocampal replay of task states, Science); Niv et al. 2015 (RL in multidimensional environments, J. Neurosci.); Silver et al. 2017 (AlphaGo); Mnih et al. 2015 (DQN/Atari)."
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: niv2019_representation_learning_task_states
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. 2014"
+      evidence_excerpt: "Sutton & Barto (RL textbook); Gershman, Blei & Niv 2010 (latent-cause inference framework); Leong et al. 2017 (attention-weighted RL, Neuron); Schuck et al. 2016 (OFC cognitive map of state space, Neuron); Wilson et al. 2014 (OFC as cognitive map of task space, Neuron); Gershman et al. 2013 (gradual extinction, Front. Behav. Neurosci.); Schuck & Niv 2019 (hippocampal replay of task states, Science); Niv et al. 2015 (RL in multidimensional environments, J. Neurosci.); Silver et al. 2017 (AlphaGo); Mnih et al. 2015 (DQN/Atari)."
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: nour2021_impaired_replay_schizophrenia
     target: barron2020_neuronal_computation_inferential
@@ -3945,7 +4497,7 @@ edges:
     target: bush2015_grid_cells_navigation_vector
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Bush et al. (2015)"
@@ -3969,7 +4521,7 @@ edges:
     target: stachenfeld2017_hippocampus_predictive_map
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Stachenfeld et al. (2017)"
@@ -3981,7 +4533,7 @@ edges:
     target: daw2005_uncertainty_prefrontal_striatal
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 3
     evidence:
       section: "Connections & keywords"
       mention_text: "Daw et al. (2005)"
@@ -4012,6 +4564,18 @@ edges:
       evidence_excerpt: "- Tolman (1948) — cognitive maps"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: odoherty2017_learning_reward_decision
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) — OFC state encoding"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: olafsdottir2015_place_cells_reward
     target: davidson2009_hippocampal_replay_extended
@@ -4301,6 +4865,30 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: pettersen2024_self_supervised_grid_cells
+    target: schaeffer2023_gridcells_spatial_rep
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Schaeffer et al. (2023)"
+      evidence_excerpt: "- Schaeffer et al. (2023), Xu et al. (2022) — Normative models with capacity constraints and path invariance/conformal isometry"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
+    source: pettersen2024_self_supervised_grid_cells
+    target: sorscher2022_grid_cells_path_integration
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Sorscher et al. (2022)"
+      evidence_excerpt: "- Cueva & Wei (2018), Banino et al. (2018), Sorscher et al. (2022) — Grid cells emerging in RNNs trained to path integrate"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: pfeiffer2015_autoassociative_hippocampal_place_cells
     target: davidson2009_hippocampal_replay_extended
     type: cites
@@ -4317,7 +4905,7 @@ edges:
     target: ambrose2016_reverse_replay_hippocampal
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Ambrose et al. (2016)"
@@ -4341,7 +4929,7 @@ edges:
     target: gupta2010_replay_not_simple_function
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Gupta et al. (2010)"
@@ -4781,6 +5369,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: samborska2021_hippocampus_prefrontal_gen
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "Tse et al. (2007, 2011) on schemas and memory consolidation; Harlow (1949) on learning sets; Wang et al. (2018) on prefrontal cortex as meta-RL system; Wilson et al. (2014), Schuck et al. (2016) on OFC as cognitive map; Behrens et al. (2018), Whittington et al. (2020) on Tolman-Eichenbaum machine; Zhou et al. (2020) on evolving schema representations in OFC; Fyhn et al. (2007) on hippocampal remapping and grid realignment; Marr (1971), McNaughton & O'Reilly (1995) on complementary learning systems"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: samborska2021_hippocampus_prefrontal_gen_b
     target: baram2021_entorhinal_ventromedial_rl
     type: cites
@@ -4865,6 +5465,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: schaeffer_grid_cell_pathintegration
+    target: sorscher2022_grid_cells_path_integration
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Sorscher et al. 2022"
+      evidence_excerpt: "- Sorscher et al. 2022 (Response to NFL)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: schmidt2021_mpfc_swr_dreadd
     target: girardeau2009_ripples_spatial_memory
     type: cites
@@ -4913,6 +5525,30 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: schuck2016_orbitofrontal_cortex_state
+    target: padoaschioppa2006_orbitofrontal_economic_value
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Padoa-Schioppa and Assad (2006)"
+      evidence_excerpt: "**Economic value representation:** Based on work by Padoa-Schioppa and Assad (2006), this view held that OFC neurons encode economic values of options, providing a common currency for decision-making"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: schuck2016_orbitofrontal_cortex_state
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al., 2014"
+      evidence_excerpt: "- Wilson et al., 2014 (theoretical foundation: OFC as cognitive map of task space)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: schuck2019_hippocampal_replay_nonspatial
     target: johnson2007_hippocampus_decision
     type: cites
@@ -4929,7 +5565,7 @@ edges:
     target: russek2017_model_based_reinforcement
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Russek et al. (2017)"
@@ -4941,13 +5577,25 @@ edges:
     target: schuck2016_orbitofrontal_cortex_state
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Schuck et al. (2016)"
       evidence_excerpt: "- Schuck et al. (2016) - orbitofrontal cognitive map of state space"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: schuck2019_hippocampal_replay_nonspatial
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) - OFC as cognitive map of task space"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: shamash2021_mice_multi_step_routes
     target: tolman1948_cognitive_maps_rats
@@ -5033,11 +5681,23 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: solway2014_optimal_behavioral_hierarchy
+    target: sutton1999_temporal_abstraction_rl
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Computational framework"
+      mention_text: "Sutton et al., 1999"
+      evidence_excerpt: "**Hierarchical Reinforcement Learning (options framework):** The paper adopts the options framework (Sutton et al., 1999) where options are temporally extended actions consisting of initiation sets, termination functions, and policies"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
     source: sorscher2022_grid_cells_path_integration
     target: schaeffer2022_no_free_lunch_deep_learning_neuroscience
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 6
     evidence:
       section: "Connections & keywords"
       mention_text: "Schaeffer et al. (2022)"
@@ -5049,7 +5709,7 @@ edges:
     target: stachenfeld2017_hippocampus_predictive_map
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Stachenfeld et al. 2017"
@@ -5285,11 +5945,23 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: tyson2022_brainreg_segmentation
+    target: wang2020_allen_mouse_brain_atlas
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wang et al. 2020"
+      evidence_excerpt: "Niedworok et al. 2016 (AMAP validation), Liu et al. 2020 (probe localization), Ragan et al. 2012 (serial two-photon tomography), Wang et al. 2020 (Allen CCFv3), Chon et al. 2019 (UAA), Jun et al. 2017 (Neuropixels), Senzai et al. 2019 (layer 5 LFP landmark), Claudi et al. 2020 (BrainGlobe Atlas API), Claudi et al. 2021 (brainrender)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: vandeven2016_hippocampal_offline_reactivation
     target: girardeau2009_ripples_spatial_memory
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Girardeau et al., 2009"
@@ -5469,7 +6141,7 @@ edges:
     target: ekstrom2003_spatial_navigation
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Ekstrom et al., 2003"
@@ -5889,7 +6561,7 @@ edges:
     target: gupta2010_replay_not_simple_function
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Gupta et al. (2010)"
@@ -5908,6 +6580,30 @@ edges:
       evidence_excerpt: "- Muller et al. (1996); Burgess and O'Keefe (1996) — cognitive graph theory"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: widloski2022_hippocampal_replay_barriers
+    target: stachenfeld2017_hippocampus_predictive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Prevailing model of the system under study"
+      mention_text: "Stachenfeld et al., 2017"
+      evidence_excerpt: "**Remapping enables contextual coding**: The hippocampus was thought to form distinct representations across contexts through remapping, enabling the formation of new cognitive maps adapted to context-specific needs (Smith and Mizumori, 2006; Stachenfeld et al., 2017)"
+      extraction_method: body_author_year
+      judge_status: accepted_by_judge
+  -
+    source: wientjes2024_successor_representation
+    target: botvinick2009_hierarchical_behavior_reinforcement
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Botvinick et al. (2009)"
+      evidence_excerpt: "Dayan (1993) - original successor representation formulation; Stachenfeld et al. (2017) - hippocampus as predictive map; Russek et al. (2017), Momennejad et al. (2017) - successor representation in human reinforcement learning; Schapiro et al. (2013), Lynn et al. (2020) - community structure and statistical learning; Botvinick et al. (2009), Holroyd & Verguts (2021) - hierarchical reinforcement learning and anterior cingulate cortex; McNamee et al. (2016), Tomov et al. (2020) - algorithms for hierarchical abstraction."
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: wientjes2024_successor_representation
     target: dayan1993_successor_representation
@@ -5944,6 +6640,18 @@ edges:
       evidence_excerpt: "Dayan (1993) - original successor representation formulation; Stachenfeld et al. (2017) - hippocampus as predictive map; Russek et al. (2017), Momennejad et al. (2017) - successor representation in human reinforcement learning; Schapiro et al. (2013), Lynn et al. (2020) - community structure and statistical learning; Botvinick et al. (2009), Holroyd & Verguts (2021) - hierarchical reinforcement learning and anterior cingulate cortex; McNamee et al. (2016), Tomov et al. (2020) - algorithms for hierarchical abstraction."
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: wientjes2024_successor_representation
+    target: schapiro2013_event_community_structure
+    type: cites
+    confidence: medium
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Schapiro et al. (2013)"
+      evidence_excerpt: "Dayan (1993) - original successor representation formulation; Stachenfeld et al. (2017) - hippocampus as predictive map; Russek et al. (2017), Momennejad et al. (2017) - successor representation in human reinforcement learning; Schapiro et al. (2013), Lynn et al. (2020) - community structure and statistical learning; Botvinick et al. (2009), Holroyd & Verguts (2021) - hierarchical reinforcement learning and anterior cingulate cortex; McNamee et al. (2016), Tomov et al. (2020) - algorithms for hierarchical abstraction."
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: wientjes2024_successor_representation
     target: stachenfeld2017_hippocampus_predictive_map
@@ -6029,6 +6737,18 @@ edges:
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
   -
+    source: wikenheiser2016_cognitive_maps_hippocampus
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) — Orbitofrontal cortex as a cognitive map of task space (OFC state space theory)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
     source: wilson2013_ofc_cognitive_map
     target: padoaschioppa2006_orbitofrontal_economic_value
     type: cites
@@ -6040,6 +6760,30 @@ edges:
       evidence_excerpt: "- Padoa-Schioppa & Assad (2006) - economic value encoding theory of OFC"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: wilson2017_good_practices_computing
+    target: wilson2014_best_practices_scientific
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. (2014)"
+      evidence_excerpt: "- Wilson et al. (2014) - \"Best Practices for Scientific Computing\" (predecessor paper for experienced computational researchers)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
+  -
+    source: wilson2017_scientific_computing
+    target: wilson2014_best_practices_scientific
+    type: cites
+    confidence: high
+    mention_count: 1
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. 2014"
+      evidence_excerpt: "- Wilson et al. 2014 \"Best Practices for Scientific Computing\" (predecessor paper for experienced researchers)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: wittmann2025_basis_functions_social
     target: behrens2018_cognitive_map_organizing_knowledge
@@ -6105,7 +6849,7 @@ edges:
     target: rouach2008_astrocyte_metabolism
     type: cites
     confidence: high
-    mention_count: 1
+    mention_count: 2
     evidence:
       section: "Connections & keywords"
       mention_text: "Rouach et al., 2008"
@@ -6256,6 +7000,18 @@ edges:
       evidence_excerpt: "- Tolman (1948); O'Keefe and Nadel (1978) — cognitive map theory"
       extraction_method: structured_key_citations
       judge_status: skipped_deterministic
+  -
+    source: zhou2021_schema_orbitofrontal
+    target: wilson2013_ofc_cognitive_map
+    type: cites
+    confidence: high
+    mention_count: 2
+    evidence:
+      section: "Connections & keywords"
+      mention_text: "Wilson et al. 2014"
+      evidence_excerpt: "Wilson et al. 2014 (OFC as cognitive map); Tse et al. 2007 (schemas and memory consolidation); McKenzie et al. 2014, 2013 (hippocampal schemas); Gilboa & Marlatte 2017 (neurobiology of schemas); Gallego et al. 2020 (manifold stability); Hirokawa et al. 2019 (OFC neuron types); Zhou et al. 2019 (prior OFC work on odour sequences)"
+      extraction_method: structured_key_citations
+      judge_status: accepted_by_judge
   -
     source: zutshi2023_sharp_wave_ripples_entorhinal
     target: girardeau2009_ripples_spatial_memory
