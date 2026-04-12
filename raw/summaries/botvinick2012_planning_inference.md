@@ -1,11 +1,16 @@
 ---
-source_file: botvinick2012_planning_inference.md
+source_file: "botvinick2012_planning_inference.md"
+paper_id: "botvinick2012_planning_inference"
 title: "Planning as inference"
-authors: Matthew Botvinick, Marc Toussaint
+authors: "Matthew Botvinick, Marc Toussaint"
 year: 2012
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: theoretical
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "theoretical"
+methods: ["electrophysiology"]
+brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "active_inference", "bayesian_inference"]
+keywords: ["solway", "a_and_botvinick", "m_m_2012_neural_network_implementation_of_pai_matched_to_primate_data", "toussaint", "m_and_storkey", "a_2006_foundational_pai_formulation_using_em", "rawlik", "k_et_al_2012_stochastic_optimal_control_via_approximate_inference", "kappen", "h_j_et_al_2012_optimal_control_as_graphical_model_inference", "friston", "k_et_al_2010_free_energy_active_inference_framework", "gold", "j_i_and_shadlen", "m_n_2007_neural_basis_of_perceptual_decision_making_drift_diffusion", "lau", "b_and_glimcher", "p_w_2008_action_value_coding_in_primate_striatum", "padoa_schioppa", "c_and_assad"]
 ---
 
 ### One-line summary

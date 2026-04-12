@@ -1,11 +1,18 @@
 ---
-source_file: knudsen2020_ofc_theta_learning.md
+source_file: "knudsen2020_ofc_theta_learning.md"
+paper_id: "knudsen2020_ofc_theta_learning"
 title: "Closed-Loop Theta Stimulation in the Orbitofrontal Cortex Prevents Reward-Based Learning"
-authors: Eric B. Knudsen, Joni D. Wallis
+authors: "Eric B. Knudsen, Joni D. Wallis"
 year: 2020
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque"]
+tasks: ["t_maze"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "orbitofrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["closed", "loop", "theta", "stimulation", "orbitofrontal", "cortex", "prevents", "reward", "based", "learning"]
+key_citations: ["daw2005_uncertainty_prefrontal_striatal", "behrens2018_cognitive_map_organizing_knowledge", "jones2005_theta_hippocampal_prefrontal", "padoaschioppa2006_orbitofrontal_economic_value", "wikenheiser2016_cognitive_maps_hippocampus"]
 ---
 
 ### One-line summary

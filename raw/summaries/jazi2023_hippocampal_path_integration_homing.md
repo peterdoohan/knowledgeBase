@@ -1,11 +1,18 @@
 ---
-source_file: jazi2023_hippocampal_path_integration_homing.md
+source_file: "jazi2023_hippocampal_path_integration_homing.md"
+paper_id: "jazi2023_hippocampal_path_integration_homing"
 title: "Hippocampal firing fields anchored to a moving object predict homing direction during path-integration-based behavior"
-authors: Maryam Najafian Jazi, Adrian Tymorek, Ting-Yun Yen, Felix Jose Kavarayil, Moritz Stingl, Sherman Richard Chau, Benay Baskurt, Celia García Vilela, Kevin Allen
+authors: "Maryam Najafian Jazi, Adrian Tymorek, Ting-Yun Yen, Felix Jose Kavarayil, Moritz Stingl, Sherman Richard Chau, Benay Baskurt, Celia Garc\u00eda Vilela, Kevin Allen"
 year: 2023
-journal: Nature Communications
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Communications"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["foraging_task"]
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "retrosplenial_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["valerio_and_taube_thalamic_hd_cell_drift_predicts_homing_error_prior_study_of_neural_activity_during_h_pi", "mcnaughton_et_al_2006_path_integration_and_the_neural_basis_of_the_cognitive_map", "nat_rev_neurosci", "maaswinkel", "jarrard_and_whishaw_1999_hippocampal_lesions_impair_h_pi", "rolls_and_omara_gothard_et_al_1996_hippocampal_cells_firing_relative_to_a_moveable_goal", "deshmukh_and_knierim", "hydal_et_al_landmark_vector_cells_object_vector_cells_in_hippocampus_and_mec", "allen_et_al_2014_glua1_ko", "impaired_grid_cell_periodicity_and_path_integration", "named_models_or_frameworks", "autopi_task_automated_path_integration_task_novel_paradigm_introduced_in_this_paper", "path_integration_h_pi", "homing_based_path_integration", "cardinal_bridge_lever_reference_frames_directional_reference_frame_analysis", "lever_box_anchored_firing_field_novel_cell_class_defined_in_this_paper", "brain_regions", "hippocampus_ca1", "medial_entorhinal_cortex_mec", "retrosplenial_cortex"]
 ---
 
 ### One-line summary

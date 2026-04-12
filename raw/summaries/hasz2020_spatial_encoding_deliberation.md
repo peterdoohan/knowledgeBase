@@ -1,11 +1,17 @@
 ---
-source_file: hasz2020_spatial_encoding_deliberation.md
+source_file: "hasz2020_spatial_encoding_deliberation.md"
+paper_id: "hasz2020_spatial_encoding_deliberation"
 title: "Spatial encoding in dorsomedial prefrontal cortex and hippocampus is related during deliberation"
-authors: Brendan M. Hasz, A. David Redish
+authors: "Brendan M. Hasz, A. David Redish"
 year: 2020
-journal: Hippocampus
-paper_type: empirical
-contribution_type: empirical
+journal: "Hippocampus"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "prelimbic_cortex"]
+keywords: ["spatial", "encoding", "dorsomedial", "prefrontal", "cortex", "hippocampus", "related", "during", "deliberation"]
+key_citations: ["redish2016_vicarious_trial_error_b", "johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

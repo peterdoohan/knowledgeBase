@@ -1,11 +1,17 @@
 ---
-source_file: park2020_basal_ganglia_action.md
-title: Basal Ganglia Circuits for Action Specification
-authors: Junchol Park, Luke T. Coddington, Joshua T. Dudman
+source_file: "park2020_basal_ganglia_action.md"
+paper_id: "park2020_basal_ganglia_action"
+title: "Basal Ganglia Circuits for Action Specification"
+authors: "Junchol Park, Luke T. Coddington, Joshua T. Dudman"
 year: 2020
-journal: Annual Review of Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Annual Review of Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["monkey"]
+methods: ["calcium_imaging", "optogenetics", "electrophysiology", "computational_modeling", "lesion"]
+brain_regions: ["striatum", "ventral_striatum", "ventral_tegmental_area", "substantia_nigra", "thalamus"]
+frameworks: ["reinforcement_learning"]
+keywords: ["basal", "ganglia", "circuits", "action", "specification"]
 ---
 
 ### One-line summary

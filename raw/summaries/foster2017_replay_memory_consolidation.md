@@ -1,11 +1,17 @@
 ---
-source_file: foster2017_replay_memory_consolidation.md
+source_file: "foster2017_replay_memory_consolidation.md"
+paper_id: "foster2017_replay_memory_consolidation"
 title: "Replay Comes of Age"
-authors: David J. Foster
+authors: "David J. Foster"
 year: 2017
-journal: Annual Review of Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Annual Review of Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+methods: ["bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning", "attractor_networks"]
+keywords: ["replay", "comes", "age"]
+key_citations: ["davidson2009_hippocampal_replay_extended", "gupta2010_replay_not_simple_function", "ambrose2016_reverse_replay_hippocampal"]
 ---
 
 ### One-line summary

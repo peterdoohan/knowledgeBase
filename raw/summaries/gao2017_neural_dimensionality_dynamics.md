@@ -1,11 +1,16 @@
 ---
-source_file: gao2017_neural_dimensionality_dynamics.md
-title: A theory of multineuronal dimensionality, dynamics and measurement
-authors: Peiran Gao, Eric Trautmann, Byron Yu, Gopal Santhanam, Stephen Ryu, Krishna Shenoy, Surya Ganguli
+source_file: "gao2017_neural_dimensionality_dynamics.md"
+paper_id: "gao2017_neural_dimensionality_dynamics"
+title: "A theory of multineuronal dimensionality, dynamics and measurement"
+authors: "Peiran Gao, Eric Trautmann, Byron Yu, Gopal Santhanam, Stephen Ryu, Krishna Shenoy, Surya Ganguli"
 year: 2017
-journal: bioRxiv (preprint)
-paper_type: computational
-contribution_type: theoretical
+journal: "bioRxiv (preprint)"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["macaque", "monkey"]
+brain_regions: ["hippocampus"]
+frameworks: ["neural_manifold"]
+keywords: ["theory", "multineuronal", "dimensionality", "dynamics", "measurement"]
 ---
 
 ### One-line summary

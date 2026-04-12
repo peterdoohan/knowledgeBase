@@ -1,11 +1,17 @@
 ---
-source_file: gatto2018_brainstem_locomotion_control.md
+source_file: "gatto2018_brainstem_locomotion_control.md"
+paper_id: "gatto2018_brainstem_locomotion_control"
 title: "Locomotion Control: Brainstem Circuits Satisfy the Need for Speed"
-authors: Graziana Gatto, Martyn Goulding
+authors: "Graziana Gatto, Martyn Goulding"
 year: 2018
-journal: Current Biology
-paper_type: review
-contribution_type: review
+journal: "Current Biology"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse"]
+methods: ["optogenetics"]
+brain_regions: ["striatum", "periaqueductal_gray"]
+keywords: ["locomotion", "control", "brainstem", "circuits", "satisfy", "need", "speed"]
+key_citations: ["roseberry2016_basal_ganglia_motor"]
 ---
 
 ### One-line summary

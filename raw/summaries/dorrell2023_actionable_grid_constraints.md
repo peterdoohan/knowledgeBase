@@ -1,11 +1,16 @@
 ---
-source_file: dorrell2023_actionable_grid_constraints.md
+source_file: "dorrell2023_actionable_grid_constraints.md"
+paper_id: "dorrell2023_actionable_grid_constraints"
 title: "Actionable Neural Representations: Grid Cells from Minimal Constraints"
-authors: William Dorrell, Peter Latham, Timothy E.J. Behrens, James C.R. Whittington
+authors: "William Dorrell, Peter Latham, Timothy E.J. Behrens, James C.R. Whittington"
 year: 2023
 journal: "International Conference on Learning Representations (ICLR 2023)"
-paper_type: computational
-contribution_type: theoretical
+paper_type: "computational"
+contribution_type: "theoretical"
+brain_regions: ["entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks", "tolman_eichenbaum_machine"]
+keywords: ["actionable", "neural", "representations", "grid", "cells", "minimal", "constraints"]
+key_citations: ["whittington2020_tolman_eichenbaum_machine", "whittington2023_disentanglement_constraints", "burak2009_path_integration_grid_cells", "schaeffer2022_no_free_lunch_deep_learning_neuroscience"]
 ---
 
 ### One-line summary

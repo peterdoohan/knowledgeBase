@@ -1,11 +1,16 @@
 ---
-source_file: rolls2021_attractor_neurodynamics_schizophrenia.md
-title: Attractor cortical neurodynamics, schizophrenia, and depression
-authors: Edmund T. Rolls
+source_file: "rolls2021_attractor_neurodynamics_schizophrenia.md"
+paper_id: "rolls2021_attractor_neurodynamics_schizophrenia"
+title: "Attractor cortical neurodynamics, schizophrenia, and depression"
+authors: "Edmund T. Rolls"
 year: 2021
-journal: Translational Psychiatry
-paper_type: computational
-contribution_type: theoretical
+journal: "Translational Psychiatry"
+paper_type: "computational"
+contribution_type: "theoretical"
+methods: ["fmri", "computational_modeling"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "thalamus", "posterior_cingulate_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["attractor", "cortical", "neurodynamics", "schizophrenia", "depression"]
 ---
 
 ### One-line summary

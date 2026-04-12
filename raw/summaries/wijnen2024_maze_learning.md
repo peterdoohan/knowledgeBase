@@ -1,11 +1,17 @@
 ---
-source_file: wijnen2024_maze_learning.md
+source_file: "wijnen2024_maze_learning.md"
+paper_id: "wijnen2024_maze_learning"
 title: "Rodent maze studies: from following simple rules to complex map learning"
-authors: Kjell Wijnen, Lisa Genzel, Jacqueline van der Meij
+authors: "Kjell Wijnen, Lisa Genzel, Jacqueline van der Meij"
 year: 2024
-journal: Brain Structure and Function
-paper_type: review
-contribution_type: review
+journal: "Brain Structure and Function"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse", "rat"]
+tasks: ["hexmaze", "navigation_task"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "striatum"]
+keywords: ["rodent", "maze", "studies", "following", "simple", "rules", "complex", "map", "learning"]
+key_citations: ["alonso2021_hexmaze_cognitive_map", "redish2016_vicarious_trial_error_b"]
 ---
 
 ### One-line summary

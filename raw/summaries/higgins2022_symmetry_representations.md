@@ -1,11 +1,15 @@
 ---
-source_file: higgins2022_symmetry_representations.md
-title: Symmetry-Based Representations for Artificial and Biological General Intelligence
-authors: Irina Higgins, Sébastien Racanière, Danilo Rezende
+source_file: "higgins2022_symmetry_representations.md"
+paper_id: "higgins2022_symmetry_representations"
+title: "Symmetry-Based Representations for Artificial and Biological General Intelligence"
+authors: "Irina Higgins, S\u00e9bastien Racani\u00e8re, Danilo Rezende"
 year: 2022
-journal: Frontiers in Computational Neuroscience
-paper_type: review
-contribution_type: theoretical
+journal: "Frontiers in Computational Neuroscience"
+paper_type: "review"
+contribution_type: "theoretical"
+methods: ["fmri", "representational_similarity_analysis"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "dorsolateral_prefrontal_cortex"]
+keywords: ["chang_and_tsao_2017_axis_based_coding_in_primate_it_face_patches", "higgins_et_al_2021a_direct_comparison_of_it_neurons_and_disentangled_ml_units", "bernardi_et_al_2020_disentangled_like_geometry_in_pfc_and_hippocampus", "kayaert_et_al_2005_factorised_shape_tuning_in_it", "bengio_et_al_2013_disentangled_representation_learning_review", "locatello_et_al_2019_impossibility_of_unsupervised_disentanglement", "cohen_and_welling_2016_group_equivariant_convolutional_networks", "dicarlo_and_cox_2007_untangling_invariant_object_recognition", "yamins_and_dicarlo_2016_deep_neural_networks_as_models_of_ventral_stream", "bronstein_et_al_2021_geometric_deep_learning", "higgins_et_al_2019_formal_definition_of_disentangled_representations_via_symmetries", "named_models_or_frameworks", "vae_variational_autoencoder_for_disentangled_representation_learning", "group_equivariant_cnns_g_cnns", "geometric_deep_learning", "disentangled_representation_learning", "predictive_coding_free_energy_principle_friston_2010", "representational_similarity_analysis_rsa", "noethers_theorem_physics_grounding", "brain_regions"]
 ---
 
 ### One-line summary

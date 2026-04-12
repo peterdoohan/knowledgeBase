@@ -1,11 +1,18 @@
 ---
-source_file: wikenheiser2016_cognitive_maps_hippocampus.md
+source_file: "wikenheiser2016_cognitive_maps_hippocampus.md"
+paper_id: "wikenheiser2016_cognitive_maps_hippocampus"
 title: "Over the river, through the woods: cognitive maps in the hippocampus and orbitofrontal cortex"
-authors: Andrew M. Wikenheiser, Geoffrey Schoenbaum
+authors: "Andrew M. Wikenheiser, Geoffrey Schoenbaum"
 year: 2016
-journal: Nature Reviews Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Nature Reviews Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["rat", "human"]
+tasks: ["t_maze"]
+methods: ["representational_similarity_analysis", "computational_modeling", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "striatum", "ventral_striatum", "ventral_tegmental_area", "retrosplenial_cortex", "amygdala"]
+frameworks: ["reinforcement_learning", "model_free_rl"]
+keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map_foundational_cognitive_map_theory", "tolman_1948_cognitive_maps_in_rats_and_men_original_cognitive_map_concept", "wilson_et_al_2014_orbitofrontal_cortex_as_a_cognitive_map_of_task_space_ofc_state_space_theory", "johnson_and_redish_2007_neural_ensembles_in_ca3_transiently_encode_paths_forward_hippocampal_prospective_coding", "steiner_and_redish_2012", "2014_ofc_reward_activity_during_deliberation_and_regret", "jones_et_al_2012_ofc_supports_behavior_using_inferred_but_not_cached_values", "pfeiffer_and_foster_2013_hippocampal_place_cell_sequences_depict_future_paths", "sutton_and_barto_1998_reinforcement_learning_an_introduction_rl_framework", "daw", "niv_and_dayan_2005_uncertainty_based_competition_between_prefrontal_and_striatal_systems", "named_models_or_frameworks", "cognitive_map_theory_tolman", "okeefe_and_nadel", "reinforcement_learning_rl_models", "model_based_vs_model_free_reinforcement_learning", "task_state_representation_framework_wilson_et_al_2014", "vicarious_trial_and_error_vte_behavior", "representational_similarity_analysis_rsa", "sensory_preconditioning_paradigm"]
 ---
 
 ### One-line summary

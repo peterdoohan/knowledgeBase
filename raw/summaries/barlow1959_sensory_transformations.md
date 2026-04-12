@@ -1,11 +1,13 @@
 ---
-source_file: barlow1959_sensory_transformations.md
+source_file: "barlow1959_sensory_transformations.md"
+paper_id: "barlow1959_sensory_transformations"
 title: "Possible Principles Underlying the Transformations of Sensory Messages"
-authors: H. B. Barlow
+authors: "H. B. Barlow"
 year: 1959
 journal: "In W. A. Rosenblith (Ed.), Sensory Communication (MIT Press chapter)"
-paper_type: review
-contribution_type: theoretical
+paper_type: "review"
+contribution_type: "theoretical"
+keywords: ["possible", "principles", "underlying", "transformations", "sensory", "messages"]
 ---
 
 ### One-line summary

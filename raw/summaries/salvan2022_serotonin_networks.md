@@ -1,11 +1,16 @@
 ---
-source_file: salvan2022_serotonin_networks.md
-title: Serotonin regulation of behavior via large-scale neuromodulation of serotonin receptor networks
-authors: Piergiorgio Salvan, Madalena Fonseca, Anderson M. Winkler, Antoine Beauchamp, Jason P. Lerch, Heidi Johansen-Berg
+source_file: "salvan2022_serotonin_networks.md"
+paper_id: "salvan2022_serotonin_networks"
+title: "Serotonin regulation of behavior via large-scale neuromodulation of serotonin receptor networks"
+authors: "Piergiorgio Salvan, Madalena Fonseca, Anderson M. Winkler, Antoine Beauchamp, Jason P. Lerch, Heidi Johansen-Berg"
 year: 2022
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+methods: ["optogenetics", "fmri"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "amygdala"]
+keywords: ["grandjean_et_al_2019_source_of_mouse_ofmri_data_used_in_the_study", "smith_et_al_2015_human_connectome_project_data_and_positive_negative_mode_framework", "dayan_and_huys_2008_computational_framework_for_serotonin", "inhibition", "and_negative_mood", "cools", "roberts_and_robbins_2008_serotoninergic_regulation_of_emotional_and_behavioral_control", "deakin_and_graeff_1991_5_ht_and_mechanisms_of_defence_aversive_processing_theory", "lein_et_al_2007", "hawrylycz_et_al_2012_allen_brain_institute_transcriptomic_atlases", "named_models_or_frameworks", "serotonin_receptor_networks_srns_the_core_construct_developed_in_this_paper", "transcriptomic_neuroimaging_mapping_the_methodological_approach_combining_gene_expression_with_fmri", "dual_regression_fsl_dr_the_statistical_technique_for_extracting_network_time_courses_and_connectivity_maps", "canonical_correlation_analysis_cca_the_multivariate_statistical_framework_linking_srns_to_behavior", "residualized_dr_stage_1_the_control_analysis_establishing_specificity_to_serotonin_receptors", "brain_regions", "dorsal_raphe_nucleus_drn", "amygdala", "temporal_cortex"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: momennejad2017_successor_representation_humans.md
+source_file: "momennejad2017_successor_representation_humans.md"
+paper_id: "momennejad2017_successor_representation_humans"
 title: "The successor representation in human reinforcement learning"
-authors: I. Momennejad, E. M. Russek, J. H. Cheong, M. M. Botvinick, N. D. Daw, S. J. Gershman
+authors: "I. Momennejad, E. M. Russek, J. H. Cheong, M. M. Botvinick, N. D. Daw, S. J. Gershman"
 year: 2017
-journal: Nature Human Behaviour
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Human Behaviour"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["two_step_task"]
+methods: ["fmri", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
+keywords: ["dayan_1993_original_proposal_of_the_successor_representation_neural_computation", "gershman_et_al_2012_sr_and_temporal_context_model", "daw_et_al_2011_model_based_influences_on_striatal_prediction_errors_two_step_task", "stachenfeld", "botvinick_and_gershman_2017", "preprint_hippocampus_as_predictive_map_place_cells_and_sr", "sutton_1991_dyna_architecture_model_based_experience_replay_for_sr_updating", "schapiro_et_al_2013_fmri_evidence_for_sr_like_representations_in_hippocampus_and_pfc", "garvert", "dolan_and_behrens_2017_abstract_relational_maps_in_hippocampalentorhinal_cortex", "tolman_1948_cognitive_maps_in_rats_and_men", "named_models_or_frameworks", "successor_representation_sr", "model_free_mf_temporal_difference_learning", "model_based_mb_reinforcement_learning", "hybrid_srmb_model", "srdyna_offline_replay_updating_the_sr", "mfmb_hybrid_daw_et_al_standard_two_system_account", "brain_regions", "hippocampus"]
 ---
 
 ### One-line summary

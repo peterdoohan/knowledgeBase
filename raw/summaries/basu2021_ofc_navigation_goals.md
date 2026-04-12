@@ -1,11 +1,17 @@
 ---
-source_file: basu2021_ofc_navigation_goals.md
+source_file: "basu2021_ofc_navigation_goals.md"
+paper_id: "basu2021_ofc_navigation_goals"
 title: "The orbitofrontal cortex maps future navigational goals"
-authors: Raunak Basu, Robert Gebauer, Tim Herfurth, Simon Kolb, Zahra Golipour, Tatjana Tchumatchenko, Hiroshi T. Ito
+authors: "Raunak Basu, Robert Gebauer, Tim Herfurth, Simon Kolb, Zahra Golipour, Tatjana Tchumatchenko, Hiroshi T. Ito"
 year: 2021
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["optogenetics", "tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "orbitofrontal_cortex"]
+keywords: ["orbitofrontal", "cortex", "maps", "future", "navigational", "goals"]
+key_citations: ["brown2016_prospective_goals_hippocampus"]
 ---
 
 ### One-line summary

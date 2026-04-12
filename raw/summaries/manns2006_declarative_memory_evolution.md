@@ -1,11 +1,16 @@
 ---
-source_file: manns2006_declarative_memory_evolution.md
-title: Evolution of Declarative Memory
-authors: Joseph R. Manns, Howard Eichenbaum
+source_file: "manns2006_declarative_memory_evolution.md"
+paper_id: "manns2006_declarative_memory_evolution"
+title: "Evolution of Declarative Memory"
+authors: "Joseph R. Manns, Howard Eichenbaum"
 year: 2006
-journal: Hippocampus
-paper_type: review
-contribution_type: theoretical
+journal: "Hippocampus"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["mouse", "rat", "human", "macaque", "monkey"]
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex"]
+keywords: ["evolution", "declarative", "memory"]
 ---
 
 ### One-line summary

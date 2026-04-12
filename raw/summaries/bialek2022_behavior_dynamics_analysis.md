@@ -1,11 +1,13 @@
 ---
-source_file: bialek2022_behavior_dynamics_analysis.md
-title: On the dimensionality of behavior
-authors: William Bialek
+source_file: "bialek2022_behavior_dynamics_analysis.md"
+paper_id: "bialek2022_behavior_dynamics_analysis"
+title: "On the dimensionality of behavior"
+authors: "William Bialek"
 year: 2022
-journal: PNAS
-paper_type: computational
-contribution_type: theoretical
+journal: "PNAS"
+paper_type: "computational"
+contribution_type: "theoretical"
+keywords: ["dimensionality", "behavior"]
 ---
 
 ### One-line summary

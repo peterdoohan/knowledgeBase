@@ -1,11 +1,18 @@
 ---
-source_file: gupta2012_theta_sequences_experience.md
+source_file: "gupta2012_theta_sequences_experience.md"
+paper_id: "gupta2012_theta_sequences_experience"
 title: "Segmentation of spatial experience by hippocampal theta sequences"
-authors: Anoopum S Gupta, Matthijs A A van der Meer, David S Touretzky, A David Redish
+authors: "Anoopum S Gupta, Matthijs A A van der Meer, David S Touretzky, A David Redish"
 year: 2012
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze"]
+methods: ["electrophysiology", "tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "striatum", "ventral_striatum"]
+keywords: ["segmentation", "spatial", "experience", "hippocampal", "theta", "sequences"]
+key_citations: ["gupta2010_replay_not_simple_function", "foster2007_theta_sequences_hippocampus", "johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

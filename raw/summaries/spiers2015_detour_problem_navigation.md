@@ -1,11 +1,19 @@
 ---
-source_file: spiers2015_detour_problem_navigation.md
-title: Solving the detour problem in navigation: a model of prefrontal and hippocampal interactions
-authors: Hugo J. Spiers, Sam J. Gilbert
+source_file: "spiers2015_detour_problem_navigation.md"
+paper_id: "spiers2015_detour_problem_navigation"
+title: "Solving the detour problem in navigation: a model of prefrontal and hippocampal interactions"
+authors: "Hugo J. Spiers, Sam J. Gilbert"
 year: 2015
-journal: Frontiers in Human Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Frontiers in Human Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["detour_task", "navigation_task"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "striatum", "retrosplenial_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["detour_problem", "spatial_navigation", "prefrontal_cortex", "hippocampus", "cognitive_map", "prediction_error", "route_planning", "model_based_control", "reinforcement_learning", "goal_directed_behavior", "virtual_reality", "place_cells", "subgoal_processing", "frontopolar_cortex", "solving", "detour", "problem", "navigation", "model", "prefrontal"]
+key_citations: ["tolman1948_cognitive_maps_rats", "daw2011_model_based_striatal_prediction"]
 ---
 
 ### One-line summary

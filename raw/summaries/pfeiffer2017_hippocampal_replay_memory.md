@@ -1,11 +1,16 @@
 ---
-source_file: pfeiffer2017_hippocampal_replay_memory.md
-title: The content of hippocampal "replay"
-authors: Brad E. Pfeiffer
+source_file: "pfeiffer2017_hippocampal_replay_memory.md"
+paper_id: "pfeiffer2017_hippocampal_replay_memory"
+title: "The content of hippocampal \"replay\""
+authors: "Brad E. Pfeiffer"
 year: 2017
-journal: Hippocampus
-paper_type: review
-contribution_type: review
+journal: "Hippocampus"
+paper_type: "review"
+contribution_type: "review"
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "amygdala"]
+frameworks: ["reinforcement_learning", "attractor_networks"]
+keywords: ["content", "hippocampal", "replay"]
+key_citations: ["davidson2009_hippocampal_replay_extended", "gupta2010_replay_not_simple_function", "ambrose2016_reverse_replay_hippocampal", "lee2002_memory_sequential_experience"]
 ---
 
 ### One-line summary

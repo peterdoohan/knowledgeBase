@@ -1,11 +1,16 @@
 ---
-source_file: montague1996_predictive_hebbian_dopamine.md
-title: A Framework for Mesencephalic Dopamine Systems Based on Predictive Hebbian Learning
-authors: P. Read Montague, Peter Dayan, Terrence J. Sejnowski
+source_file: "montague1996_predictive_hebbian_dopamine.md"
+paper_id: "montague1996_predictive_hebbian_dopamine"
+title: "A Framework for Mesencephalic Dopamine Systems Based on Predictive Hebbian Learning"
+authors: "P. Read Montague, Peter Dayan, Terrence J. Sejnowski"
 year: 1996
-journal: The Journal of Neuroscience
-paper_type: computational
-contribution_type: theoretical
+journal: "The Journal of Neuroscience"
+paper_type: "computational"
+contribution_type: "theoretical"
+methods: ["computational_modeling"]
+brain_regions: ["prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala"]
+frameworks: ["reinforcement_learning", "temporal_difference_learning"]
+keywords: ["framework", "mesencephalic", "dopamine", "systems", "based", "predictive", "hebbian", "learning"]
 ---
 
 ### One-line summary

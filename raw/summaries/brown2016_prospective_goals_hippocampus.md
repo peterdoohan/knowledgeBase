@@ -1,11 +1,19 @@
 ---
-source_file: brown2016_prospective_goals_hippocampus.md
-title: Prospective representation of navigational goals in the human hippocampus
-authors: Thackery I. Brown, Valerie A. Carr, Karen F. LaRocque, Serra E. Favila, Alan M. Gordon, Ben Bowles, Jeremy N. Bailenson, Anthony D. Wagner
+source_file: "brown2016_prospective_goals_hippocampus.md"
+paper_id: "brown2016_prospective_goals_hippocampus"
+title: "Prospective representation of navigational goals in the human hippocampus"
+authors: "Thackery I. Brown, Valerie A. Carr, Karen F. LaRocque, Serra E. Favila, Alan M. Gordon, Ben Bowles, Jeremy N. Bailenson, Anthony D. Wagner"
 year: 2016
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["virtual_navigation"]
+methods: ["fmri"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "striatum", "ventral_striatum", "retrosplenial_cortex", "medial_temporal_lobe"]
+frameworks: ["successor_representation"]
+keywords: ["prospective", "representation", "navigational", "goals", "human", "hippocampus"]
+key_citations: ["johnson2007_hippocampus_decision", "spiers2015_detour_problem_navigation"]
 ---
 
 ### One-line summary

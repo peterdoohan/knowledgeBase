@@ -1,11 +1,19 @@
 ---
-source_file: stella2019_hippocampal_reactivation_brownian.md
-title: Hippocampal Reactivation of Random Trajectories Resembling Brownian Diffusion
-authors: Federico Stella, Peter Baracskay, Joseph O'Neill, Jozsef Csicsvari
+source_file: "stella2019_hippocampal_reactivation_brownian.md"
+paper_id: "stella2019_hippocampal_reactivation_brownian"
+title: "Hippocampal Reactivation of Random Trajectories Resembling Brownian Diffusion"
+authors: "Federico Stella, Peter Baracskay, Joseph O'Neill, Jozsef Csicsvari"
 year: 2019
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field", "foraging_task"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["hippocampal", "reactivation", "random", "trajectories", "resembling", "brownian", "diffusion"]
+key_citations: ["gupta2010_replay_not_simple_function", "lee2002_memory_sequential_experience"]
 ---
 
 ### One-line summary

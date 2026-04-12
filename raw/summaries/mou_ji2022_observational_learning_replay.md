@@ -1,11 +1,18 @@
 ---
-source_file: mou_ji2022_observational_learning_replay.md
+source_file: "mou_ji2022_observational_learning_replay.md"
+paper_id: "mou_ji2022_observational_learning_replay"
 title: "Observational learning promotes hippocampal remote awake replay toward future reward locations"
-authors: Xiang Mou, Abhishekh Pokhrel, Prakul Suresh, Daoyun Ji
+authors: "Xiang Mou, Abhishekh Pokhrel, Prakul Suresh, Daoyun Ji"
 year: 2022
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze"]
+methods: ["tetrode_recording", "bayesian_decoding", "lesion"]
+brain_regions: ["hippocampus_ca1"]
+keywords: ["observational", "learning", "promotes", "hippocampal", "remote", "awake", "replay", "toward", "future", "reward"]
+key_citations: ["davidson2009_hippocampal_replay_extended"]
 ---
 
 ### One-line summary

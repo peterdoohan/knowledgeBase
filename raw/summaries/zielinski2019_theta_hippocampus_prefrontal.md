@@ -1,11 +1,16 @@
 ---
-source_file: zielinski2019_theta_hippocampus_prefrontal.md
-title: Coherent Coding of Spatial Position Mediated by Theta Oscillations in the Hippocampus and Prefrontal Cortex
-authors: Mark C. Zielinski, Justin D. Shin, Shantanu P. Jadhav
+source_file: "zielinski2019_theta_hippocampus_prefrontal.md"
+paper_id: "zielinski2019_theta_hippocampus_prefrontal"
+title: "Coherent Coding of Spatial Position Mediated by Theta Oscillations in the Hippocampus and Prefrontal Cortex"
+authors: "Mark C. Zielinski, Justin D. Shin, Shantanu P. Jadhav"
 year: 2019
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex"]
+keywords: ["theta_oscillations", "hippocampal_prefrontal_synchrony", "spatial_coding", "phase_locking", "phase_precession", "bayesian_decoding", "ensemble_activity", "working_memory", "place_cells", "coherent_coding", "theta_phase", "spatial_memory", "w_track_task", "population_decoding", "coherent", "coding", "spatial", "position", "mediated", "theta"]
 ---
 
 ### One-line summary

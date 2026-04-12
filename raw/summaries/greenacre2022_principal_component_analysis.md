@@ -1,11 +1,13 @@
 ---
-source_file: greenacre2022_principal_component_analysis.md
+source_file: "greenacre2022_principal_component_analysis.md"
+paper_id: "greenacre2022_principal_component_analysis"
 title: "Principal component analysis"
-authors: Michael Greenacre, Patrick J. F. Groenen, Trevor Hastie, Alfonso Iodice D'Enza, Angelos Markos, Elena Tuzhilina
+authors: "Michael Greenacre, Patrick J. F. Groenen, Trevor Hastie, Alfonso Iodice D'Enza, Angelos Markos, Elena Tuzhilina"
 year: 2022
-journal: Nature Reviews Methods Primers
-paper_type: review
-contribution_type: methodological
+journal: "Nature Reviews Methods Primers"
+paper_type: "review"
+contribution_type: "methodological"
+keywords: ["principal", "component", "analysis"]
 ---
 
 ### One-line summary

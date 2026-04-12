@@ -1,11 +1,19 @@
 ---
-source_file: comrie2024_hippocampal_representations.md
+source_file: "comrie2024_hippocampal_representations.md"
+paper_id: "comrie2024_hippocampal_representations"
 title: "Hippocampal representations of alternative possibilities are flexibly generated to meet cognitive demands"
-authors: Alison E. Comrie, Emily J. Monroe, Ari E. Kahn, Eric L. Denovellis, Abhilasha Joshi, Jennifer A. Guidera, Timothy A. Krausz, Joshua D. Berke, Nathaniel D. Daw, Loren M. Frank
+authors: "Alison E. Comrie, Emily J. Monroe, Ari E. Kahn, Eric L. Denovellis, Abhilasha Joshi, Jennifer A. Guidera, Timothy A. Krausz, Joshua D. Berke, Nathaniel D. Daw, Loren M. Frank"
 year: 2024
-journal: bioRxiv (preprint, posted September 23, 2024)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint, posted September 23, 2024)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["foraging_task"]
+methods: ["tetrode_recording", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl"]
+keywords: ["hippocampal", "representations", "alternative", "possibilities", "flexibly", "generated", "meet", "cognitive", "demands"]
+key_citations: ["liu2021_experience_replay_nonlocal"]
 ---
 
 ### One-line summary

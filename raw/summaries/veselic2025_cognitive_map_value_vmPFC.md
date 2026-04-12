@@ -1,11 +1,18 @@
 ---
-source_file: veselic2025_cognitive_map_value_vmPFC.md
-title: A cognitive map for value-guided choice in the ventromedial prefrontal cortex
-authors: Sebastijan Veselic, Timothy H. Muller, Elena Gutierrez, Timothy E.J. Behrens, Laurence T. Hunt, James L. Butler, Steven W. Kennerley
+source_file: "veselic2025_cognitive_map_value_vmPFC.md"
+paper_id: "veselic2025_cognitive_map_value_vmPFC"
+title: "A cognitive map for value-guided choice in the ventromedial prefrontal cortex"
+authors: "Sebastijan Veselic, Timothy H. Muller, Elena Gutierrez, Timothy E.J. Behrens, Laurence T. Hunt, James L. Butler, Steven W. Kennerley"
 year: 2025
-journal: Cell
-paper_type: empirical
-contribution_type: empirical
+journal: "Cell"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque"]
+methods: ["electrophysiology"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "medial_temporal_lobe"]
+frameworks: ["reinforcement_learning", "tolman_eichenbaum_machine"]
+keywords: ["cognitive_map", "grid_like_coding", "hexadirectional_modulation", "theta_oscillations", "sharp_wave_ripples", "value_guided_decision_making", "ventromedial_prefrontal_cortex", "vector_based_navigation", "economic_choice", "abstract_space", "phase_dependent_coding", "replay", "non_human_primate", "electrophysiology", "local_field_potential", "cognitive", "map", "value", "guided", "choice"]
+key_citations: ["bush2015_grid_cells_navigation_vector", "bongioanni2021_novel_choice_neural", "constantinescu2016_gridlike_conceptual_knowledge", "behrens2018_cognitive_map_organizing_knowledge", "fyhn2007_remapping_grid_realignment"]
 ---
 
 ### One-line summary

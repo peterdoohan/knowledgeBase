@@ -1,11 +1,15 @@
 ---
-source_file: sorscher2022_neural_geometry_few_shot.md
-title: Neural representational geometry underlies few-shot concept learning
-authors: Ben Sorscher, Surya Ganguli, Haim Sompolinsky
+source_file: "sorscher2022_neural_geometry_few_shot.md"
+paper_id: "sorscher2022_neural_geometry_few_shot"
+title: "Neural representational geometry underlies few-shot concept learning"
+authors: "Ben Sorscher, Surya Ganguli, Haim Sompolinsky"
 year: 2022
-journal: Proceedings of the National Academy of Sciences
-paper_type: computational
-contribution_type: theoretical
+journal: "Proceedings of the National Academy of Sciences"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["human", "macaque"]
+brain_regions: ["visual_cortex"]
+keywords: ["lake_et_al_2015_science_human_level_concept_learning_through_probabilistic_program_induction", "majaj_et_al_2015_j_neurosci_it_population_responses_predict_human_object_recognition", "yamins_et_al_2014_pnas_performance_optimized_hierarchical_models_predict_neural_responses", "kriegeskorte_et_al_2008_neuron_matching_categorical_object_representations_in_humans_and_monkeys", "murphy_2004_the_big_book_of_concepts_cognitive_theories_of_concept_learning", "rosch_and_mervis_1975_cognit_psychol_family_resemblances_and_prototype_theory", "cohen_et_al_2020_nat_commun_separability_and_geometry_of_object_manifolds_in_deep_neural_networks", "chung_et_al_2018_phys_rev_x_classification_and_geometry_of_general_perceptual_manifolds", "named_models_or_frameworks", "prototype_learning_cognitive_model_implemented_neurally", "exemplar_learning_nearest_neighbor_classifier", "max_margin_learning_svm", "concept_manifolds_geometric_framework", "signal_to_noise_ratio_snr_theory_of_few_shot_learning", "deep_neural_networks_as_models_of_ventral_visual_stream_resnet50", "alexnet", "vgg19", "etc", "glove_word_vector_embeddings_for_zero_shot_learning", "procrustes_analysis_for_language_vision_alignment"]
 ---
 
 ### One-line summary

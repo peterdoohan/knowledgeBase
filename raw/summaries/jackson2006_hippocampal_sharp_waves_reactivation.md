@@ -1,11 +1,18 @@
 ---
-source_file: jackson2006_hippocampal_sharp_waves_reactivation.md
+source_file: "jackson2006_hippocampal_sharp_waves_reactivation.md"
+paper_id: "jackson2006_hippocampal_sharp_waves_reactivation"
 title: "Hippocampal Sharp Waves and Reactivation during Awake States Depend on Repeated Sequential Experience"
-authors: Jadin C. Jackson, Adam Johnson, A. David Redish
+authors: "Jadin C. Jackson, Adam Johnson, A. David Redish"
 year: 2006
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["linear_track", "foraging_task"]
+methods: ["tetrode_recording", "computational_modeling"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["hippocampal", "sharp", "waves", "reactivation", "during", "awake", "states", "depend", "repeated", "sequential"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: alonso2021_hexmaze_cognitive_map.md
+source_file: "alonso2021_hexmaze_cognitive_map.md"
+paper_id: "alonso2021_hexmaze_cognitive_map"
 title: "The HexMaze: A Previous Knowledge Task on Map Learning for Mice"
-authors: Alejandra Alonso, Levan Bokeria, Jacqueline van der Meij, Anumita Samanta, Ronny Eichler, Ali Lotfi, Patrick Spooner, Irene Navarro Lobato, Lisa Genzel
+authors: "Alejandra Alonso, Levan Bokeria, Jacqueline van der Meij, Anumita Samanta, Ronny Eichler, Ali Lotfi, Patrick Spooner, Irene Navarro Lobato, Lisa Genzel"
 year: 2021
-journal: eNeuro
-paper_type: empirical
-contribution_type: empirical
+journal: "eNeuro"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+tasks: ["hexmaze", "navigation_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "hierarchical_rl"]
+keywords: ["hexmaze", "previous", "knowledge", "task", "map", "learning", "mice"]
 ---
 
 ### One-line summary

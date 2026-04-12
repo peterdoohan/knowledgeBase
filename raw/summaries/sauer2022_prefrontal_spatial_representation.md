@@ -1,11 +1,16 @@
 ---
-source_file: sauer2022_prefrontal_spatial_representation.md
-title: Topographically organized representation of space and context in the medial prefrontal cortex
-authors: Jonas-Frederic Sauer, Shani Folschweiller, Marlene Bartos
+source_file: "sauer2022_prefrontal_spatial_representation.md"
+paper_id: "sauer2022_prefrontal_spatial_representation"
+title: "Topographically organized representation of space and context in the medial prefrontal cortex"
+authors: "Jonas-Frederic Sauer, Shani Folschweiller, Marlene Bartos"
 year: 2022
-journal: PNAS
-paper_type: empirical
-contribution_type: empirical
+journal: "PNAS"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["virtual_navigation"]
+brain_regions: ["hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex"]
+keywords: ["spellman_et_al_2015_hippocampal_prefrontal_input_supports_spatial_encoding", "hainmueller_and_bartos_2018_hippocampal_remapping_dynamics", "jay_and_witter_1991_hippocampal_pfc_projection_topography", "ito_et_al_2015_prefrontal_thalamic_hippocampal_circuit_for_navigation", "harvey_et_al_2012_parietal_cortex_spatial_sequences", "mao_et_al_2017_retrosplenial_spatial_context_coding", "named_models_or_frameworks", "virtual_reality_navigation_paradigm", "spatial_information_si_metric", "theta_oscillation_coupling_analysis", "support_vector_machine_position_decoding", "global_remapping_hippocampal_framework", "brain_regions", "medial_prefrontal_cortex_mpfc", "dorsal_mpfc_secondary_motor_cortex", "cingulate_cortex", "ventral_mpfc_prelimbic_cortex", "medial_orbital_cortex", "hippocampal_ca1", "entorhinal_cortex"]
 ---
 
 ### One-line summary

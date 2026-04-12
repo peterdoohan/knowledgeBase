@@ -1,11 +1,19 @@
 ---
-source_file: samborska2021_hippocampus_prefrontal_gen.md
-title: Complementary task representations in hippocampus and prefrontal cortex for generalising the structure of problems
-authors: Veronika Samborska, James Butler, Mark Walton, Timothy E.J. Behrens, Thomas Akam
+source_file: "samborska2021_hippocampus_prefrontal_gen.md"
+paper_id: "samborska2021_hippocampus_prefrontal_gen"
+title: "Complementary task representations in hippocampus and prefrontal cortex for generalising the structure of problems"
+authors: "Veronika Samborska, James Butler, Mark Walton, Timothy E.J. Behrens, Thomas Akam"
 year: 2021
-journal: bioRxiv
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+tasks: ["probabilistic_reversal_learning"]
+methods: ["electrophysiology", "representational_similarity_analysis", "behavioral_analysis"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "tolman_eichenbaum_machine"]
+keywords: ["abstraction", "generalisation", "transfer_learning", "meta_learning", "schema", "reversal_learning", "representational_similarity_analysis", "singular_value_decomposition", "prefrontal_cortex", "hippocampus", "cellular_modes", "temporal_modes", "policy_representation", "remapping", "learning_set", "task_structure", "sensorimotor", "electrophysiology", "single_unit_recording", "mouse"]
+key_citations: ["wilson2014_best_practices_scientific", "schuck2016_orbitofrontal_cortex_state", "behrens2018_cognitive_map_organizing_knowledge", "whittington2020_tolman_eichenbaum_machine", "fyhn2007_remapping_grid_realignment"]
 ---
 
 ### One-line summary

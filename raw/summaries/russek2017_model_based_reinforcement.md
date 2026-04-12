@@ -1,11 +1,18 @@
 ---
-source_file: russek2017_model_based_reinforcement.md
-title: Predictive representations can link model-based reinforcement learning to model-free mechanisms
-authors: Evan M. Russek, Ida Momennejad, Matthew M. Botvinick, Samuel J. Gershman, Nathaniel D. Daw
+source_file: "russek2017_model_based_reinforcement.md"
+paper_id: "russek2017_model_based_reinforcement"
+title: "Predictive representations can link model-based reinforcement learning to model-free mechanisms"
+authors: "Evan M. Russek, Ida Momennejad, Matthew M. Botvinick, Samuel J. Gershman, Nathaniel D. Daw"
 year: 2017
-journal: PLoS Computational Biology
-paper_type: computational
-contribution_type: theoretical
+journal: "PLoS Computational Biology"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["detour_task", "navigation_task"]
+methods: ["lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_tegmental_area", "substantia_nigra"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
+keywords: ["successor_representation", "reinforcement_learning", "model_based", "model_free", "temporal_difference_learning", "dopamine", "striatum", "hippocampus", "prefrontal_cortex", "replay", "planning", "reward_revaluation", "detour_task", "latent_learning", "cognitive_map", "grid_world", "markov_decision_process", "state_representation", "predictive_coding", "predictive"]
+key_citations: ["dayan1993_successor_representation", "tolman1948_cognitive_maps_rats", "ostlund2005_prefrontal_cortex_habits"]
 ---
 
 ### One-line summary

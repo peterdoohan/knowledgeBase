@@ -1,11 +1,18 @@
 ---
-source_file: lee2022_task_specificity_parietal.md
+source_file: "lee2022_task_specificity_parietal.md"
+paper_id: "lee2022_task_specificity_parietal"
 title: "Task specificity in mouse parietal cortex"
-authors: Julie J. Lee, Michael Krumin, Kenneth D. Harris, Matteo Carandini
+authors: "Julie J. Lee, Michael Krumin, Kenneth D. Harris, Matteo Carandini"
 year: 2022
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["t_maze", "virtual_navigation"]
+methods: ["calcium_imaging"]
+brain_regions: ["hippocampus", "amygdala", "visual_cortex"]
+frameworks: ["reinforcement_learning", "mixed_selectivity"]
+keywords: ["task", "specificity", "mouse", "parietal", "cortex"]
 ---
 
 ### One-line summary

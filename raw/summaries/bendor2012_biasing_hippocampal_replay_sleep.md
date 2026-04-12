@@ -1,11 +1,19 @@
 ---
-source_file: bendor2012_biasing_hippocampal_replay_sleep.md
-title: Biasing the content of hippocampal replay during sleep
-authors: Daniel Bendor, Matthew A. Wilson
+source_file: "bendor2012_biasing_hippocampal_replay_sleep.md"
+paper_id: "bendor2012_biasing_hippocampal_replay_sleep"
+title: "Biasing the content of hippocampal replay during sleep"
+authors: "Daniel Bendor, Matthew A. Wilson"
 year: 2012
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat", "human"]
+tasks: ["linear_track"]
+methods: ["tetrode_recording", "computational_modeling", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["biasing", "content", "hippocampal", "replay", "during", "sleep"]
+key_citations: ["girardeau2009_ripples_spatial_memory"]
 ---
 
 ### One-line summary

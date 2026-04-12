@@ -1,11 +1,16 @@
 ---
-source_file: kennerley2009_frontal_outcome_value.md
+source_file: "kennerley2009_frontal_outcome_value.md"
+paper_id: "kennerley2009_frontal_outcome_value"
 title: "Evaluating choices by single neurons in the frontal lobe: outcome value encoded across multiple decision variables"
-authors: Steven W. Kennerley, Jonathan D. Wallis
+authors: "Steven W. Kennerley, Jonathan D. Wallis"
 year: 2009
-journal: European Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "European Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque"]
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex"]
+keywords: ["evaluating", "choices", "single", "neurons", "frontal", "lobe", "outcome", "value", "encoded", "across"]
 ---
 
 ### One-line summary

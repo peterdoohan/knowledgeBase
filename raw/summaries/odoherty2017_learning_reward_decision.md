@@ -1,11 +1,18 @@
 ---
-source_file: odoherty2017_learning_reward_decision.md
+source_file: "odoherty2017_learning_reward_decision.md"
+paper_id: "odoherty2017_learning_reward_decision"
 title: "Learning, Reward, and Decision Making"
-authors: John P. O'Doherty, Jeffrey Cockburn, Wolfgang M. Pauli
+authors: "John P. O'Doherty, Jeffrey Cockburn, Wolfgang M. Pauli"
 year: 2017
-journal: Annual Review of Psychology
-paper_type: review
-contribution_type: review
+journal: "Annual Review of Psychology"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["electrophysiology", "fmri", "computational_modeling", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "prelimbic_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "hierarchical_rl"]
+keywords: ["learning", "reward", "decision", "making"]
+key_citations: ["daw2005_uncertainty_prefrontal_striatal", "schultz1997_neural_substrate_reward_pred", "tolman1948_cognitive_maps_rats", "wilson2014_best_practices_scientific"]
 ---
 
 ### One-line summary

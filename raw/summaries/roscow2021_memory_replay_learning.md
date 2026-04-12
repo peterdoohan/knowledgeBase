@@ -1,11 +1,17 @@
 ---
-source_file: roscow2021_memory_replay_learning.md
+source_file: "roscow2021_memory_replay_learning.md"
+paper_id: "roscow2021_memory_replay_learning"
 title: "Learning offline: memory replay in biological and artificial reinforcement learning"
-authors: Emma L. Roscow, Raymond Chua, Rui Ponte Costa, Matt W. Jones, Nathan Lepora
+authors: "Emma L. Roscow, Raymond Chua, Rui Ponte Costa, Matt W. Jones, Nathan Lepora"
 year: 2021
-journal: Trends in Neurosciences
-paper_type: review
-contribution_type: review
+journal: "Trends in Neurosciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["computational_modeling"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "ventral_tegmental_area", "amygdala", "visual_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["mnih_et_al_2015_dqn_atari", "silver_et_al_2016_alphago", "mcclelland_et_al_1995_complementary_learning_systems", "wilson_and_mcnaughton_1994_hippocampal_replay_discovery", "lin_1992_experience_replay_in_ai", "schaul_et_al_2016_prioritised_experience_replay", "lee_et_al_2017_generative_replay", "named_models_or_frameworks", "deep_q_network_dqn", "complementary_learning_systems_theory", "reinforcement_learning_rl", "q_learning", "temporal_difference_learning", "experience_replay_prioritised_experience_replay", "generative_replay", "elastic_weight_consolidation", "successor_representations", "predictive_coding", "catastrophic_interference", "brain_regions"]
 ---
 
 ### One-line summary

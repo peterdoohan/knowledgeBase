@@ -1,11 +1,17 @@
 ---
-source_file: bogacz2020_dopamine_action_inference.md
-title: Dopamine role in learning and action inference
-authors: Rafal Bogacz
+source_file: "bogacz2020_dopamine_action_inference.md"
+paper_id: "bogacz2020_dopamine_action_inference"
+title: "Dopamine role in learning and action inference"
+authors: "Rafal Bogacz"
 year: 2020
-journal: eLife
-paper_type: computational
-contribution_type: theoretical
+journal: "eLife"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["probabilistic_reversal_learning"]
+brain_regions: ["striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus"]
+frameworks: ["reinforcement_learning", "active_inference", "bayesian_inference", "temporal_difference_learning"]
+keywords: ["dopamine", "role", "learning", "action", "inference"]
+key_citations: ["schultz1997_neural_substrate_reward_pred", "miller2019_retrosplenial_spatial_learning", "haber2000_striatonigrostriatal_pathways", "montague1996_predictive_hebbian_dopamine", "daw2005_uncertainty_prefrontal_striatal"]
 ---
 
 ### One-line summary

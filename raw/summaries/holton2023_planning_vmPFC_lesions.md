@@ -1,11 +1,19 @@
 ---
-source_file: holton2023_planning_vmPFC_lesions.md
+source_file: "holton2023_planning_vmPFC_lesions.md"
+paper_id: "holton2023_planning_vmPFC_lesions"
 title: "Disentangling the component processes in complex planning impairments following ventromedial prefrontal lesions"
-authors: Eleanor Holton, Bas van Opheusden, Jan Grohn, Harry Ward, John Grogan, Patricia L Lockwood, Ili Ma, Wei Ji Ma, Sanjay G Manohar
+authors: "Eleanor Holton, Bas van Opheusden, Jan Grohn, Harry Ward, John Grogan, Patricia L Lockwood, Ili Ma, Wei Ji Ma, Sanjay G Manohar"
 year: 2023
-journal: (preprint / eLife submission)
-paper_type: empirical
-contribution_type: empirical
+journal: "(preprint / eLife submission)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["two_step_task"]
+methods: ["lesion", "behavioral_analysis"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["disentangling", "component", "processes", "complex", "planning", "impairments", "following", "ventromedial", "prefrontal", "lesions"]
+key_citations: ["vopheusden2023_expertise_planning_depth", "daw2011_model_based_striatal_prediction", "wilson2014_best_practices_scientific", "schuck2016_orbitofrontal_cortex_state"]
 ---
 
 ### One-line summary

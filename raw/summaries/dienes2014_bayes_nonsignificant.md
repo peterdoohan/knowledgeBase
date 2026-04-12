@@ -1,11 +1,14 @@
 ---
-source_file: dienes2014_bayes_nonsignificant.md
+source_file: "dienes2014_bayes_nonsignificant.md"
+paper_id: "dienes2014_bayes_nonsignificant"
 title: "Using Bayes to get the most out of non-significant results"
-authors: Zoltan Dienes
+authors: "Zoltan Dienes"
 year: 2014
-journal: Frontiers in Psychology
-paper_type: review
-contribution_type: methodological
+journal: "Frontiers in Psychology"
+paper_type: "review"
+contribution_type: "methodological"
+frameworks: ["bayesian_inference"]
+keywords: ["jeffreys_1939_1961_original_bayes_factor_framework_and_cutoffs", "cohen_1988", "1990_power_analysis_and_critiques_of_nhst", "rouder_et_al_2009_bayes_factors_for_psychology", "default_priors", "kruschke_2010a", "2011", "2013_bayesian_data_analysis", "inference_by_intervals", "royall_1997_likelihood_inference_and_evidence", "cumming_2011_confidence_intervals_and_dance_of_the_p_values", "wagenmakers_2007_critique_of_p_values_in_psychology", "gallistel_2009_bayes_factors_in_neuroscience", "dienes_2008_online_bayes_calculator_and_introductory_text", "named_models_or_frameworks", "bayes_factor_jeffreys", "dienes_2008_online_bayes_factor_calculator", "null_hypothesis_significance_testing_nhst", "inference_by_intervals_confidence_intervals", "credibility_intervals"]
 ---
 
 ### One-line summary

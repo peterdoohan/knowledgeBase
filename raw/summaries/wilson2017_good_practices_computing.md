@@ -1,11 +1,14 @@
 ---
-source_file: wilson2017_good_practices_computing.md
-title: Good enough practices in scientific computing
-authors: Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal
+source_file: "wilson2017_good_practices_computing.md"
+paper_id: "wilson2017_good_practices_computing"
+title: "Good enough practices in scientific computing"
+authors: "Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal"
 year: 2017
-journal: PLoS Computational Biology
-paper_type: review
-contribution_type: review
+journal: "PLoS Computational Biology"
+paper_type: "review"
+contribution_type: "review"
+keywords: ["wilson_et_al_2014_best_practices_for_scientific_computing_predecessor_paper_for_experienced_computational_researchers", "gentzkow_and_shapiro_2014_code_and_data_for_the_social_sciences_a_practitioners_guide", "noble_2009_a_quick_guide_to_organizing_computational_biology_projects", "wickham_2014_tidy_data_journal_of_statistical_software", "hunt_and_thomas_1999_the_pragmatic_programmer", "martin_2008_clean_code", "mcconnell_2004_code_complete", "named_models_or_frameworks", "tidy_data_principles_wickham", "software_carpentry_data_carpentry_teaching_methodology", "manual_versioning_workflow", "version_control_systems_git", "mercurial", "subversion", "brain_regions", "not_applicable", "keywords", "scientific_computing", "research_reproducibility", "data_management"]
+key_citations: ["wilson2014_best_practices_scientific"]
 ---
 
 ### One-line summary

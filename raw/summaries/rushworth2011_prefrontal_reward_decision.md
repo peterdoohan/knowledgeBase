@@ -1,11 +1,18 @@
 ---
-source_file: rushworth2011_prefrontal_reward_decision.md
-title: Frontal Cortex and Reward-Guided Learning and Decision-Making
-authors: Matthew F.S. Rushworth, MaryAnn P. Noonan, Erie D. Boorman, Mark E. Walton, Timothy E. Behrens
+source_file: "rushworth2011_prefrontal_reward_decision.md"
+paper_id: "rushworth2011_prefrontal_reward_decision"
+title: "Frontal Cortex and Reward-Guided Learning and Decision-Making"
+authors: "Matthew F.S. Rushworth, MaryAnn P. Noonan, Erie D. Boorman, Mark E. Walton, Timothy E. Behrens"
 year: 2011
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+species: ["human", "macaque"]
+tasks: ["foraging_task"]
+methods: ["fmri", "lesion"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "bayesian_inference"]
+keywords: ["padoa_schioppa_and_assad_2006", "2008_offer_value_and_chosen_value_neurons_in_ofc", "behrens_et_al_2007", "2008_volatility_guided_learning_and_social_value_in_acc", "boorman_et_al_2009", "2011_counterfactual_choice_in_apfc", "noonan_et_al_2010_double_dissociation_of_mofc_and_lofc_lesions", "kennerley_et_al_2006", "2009_acc_and_ofc_action_stimulus_value_encoding", "rudebeck_and_murray_2011_dissociable_effects_of_ofc_lesions", "daw_et_al_2006_exploratory_decisions_and_cortical_substrates", "plassmann_et_al_2007", "2010_willingness_to_pay_and_goal_value_in_vmpfc", "kable_and_glimcher_2007_subjective_value_and_intertemporal_choice", "named_models_or_frameworks", "reinforcement_learning_sutton_and_barto", "1998_prediction_errors_and_value_learning", "becker_degroot_marschak_bdm_method_willingness_to_pay_measurement", "optimal_foraging_theory_marginal_value_theorem_charnov", "1976_reward_rate_and_patch_leaving_decisions"]
 ---
 
 ### One-line summary

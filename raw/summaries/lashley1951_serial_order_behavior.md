@@ -1,11 +1,14 @@
 ---
-source_file: lashley1951_serial_order_behavior.md
+source_file: "lashley1951_serial_order_behavior.md"
+paper_id: "lashley1951_serial_order_behavior"
 title: "The Problem of Serial Order in Behavior"
-authors: K. S. Lashley
+authors: "K. S. Lashley"
 year: 1951
 journal: "Cerebral Mechanisms in Behavior: The Hixon Symposium (ed. L. A. Jeffress)"
-paper_type: review
-contribution_type: theoretical
+paper_type: "review"
+contribution_type: "theoretical"
+brain_regions: ["visual_cortex"]
+keywords: ["problem", "serial", "order", "behavior"]
 ---
 
 ### One-line summary

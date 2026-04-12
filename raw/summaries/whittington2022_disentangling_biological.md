@@ -1,11 +1,17 @@
 ---
-source_file: whittington2022_disentangling_biological.md
+source_file: "whittington2022_disentangling_biological.md"
+paper_id: "whittington2022_disentangling_biological"
 title: "Disentangling with biological constraints: A theory of functional cell types"
-authors: James C.R. Whittington, Will Dorrell, Surya Ganguli, Timothy E.J. Behrens
+authors: "James C.R. Whittington, Will Dorrell, Surya Ganguli, Timothy E.J. Behrens"
 year: 2022
-journal: Preprint (under review)
-paper_type: computational
-contribution_type: theoretical
+journal: "Preprint (under review)"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "visual_cortex"]
+frameworks: ["mixed_selectivity"]
+keywords: ["disentangling", "biological", "constraints", "theory", "functional", "cell", "types"]
+key_citations: ["boccara2019_grid_goal_attractor", "butler2019_reward_locations_entorhinal_maps"]
 ---
 
 ### One-line summary

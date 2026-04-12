@@ -1,11 +1,16 @@
 ---
-source_file: otchy2015_neural_circuit_motor.md
+source_file: "otchy2015_neural_circuit_motor.md"
+paper_id: "otchy2015_neural_circuit_motor"
 title: "Acute off-target effects of neural circuit manipulations"
-authors: Timothy M. Otchy, Steffen B. E. Wolff, Juliana Y. Rhee, Cengiz Pehlevan, Risa Kawai, Alexandre Kempf, Sharon M. H. Gobes, Bence P. Ölveczky
+authors: "Timothy M. Otchy, Steffen B. E. Wolff, Juliana Y. Rhee, Cengiz Pehlevan, Risa Kawai, Alexandre Kempf, Sharon M. H. Gobes, Bence P. \u00d6lveczky"
 year: 2015
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["optogenetics", "computational_modeling", "lesion"]
+brain_regions: ["striatum", "thalamus"]
+keywords: ["acute", "off", "target", "effects", "neural", "circuit", "manipulations"]
 ---
 
 ### One-line summary

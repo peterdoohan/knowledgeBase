@@ -1,11 +1,18 @@
 ---
-source_file: boccara2019_grid_goal_attractor.md
-title: The entorhinal cognitive map is attracted to goals
-authors: Charlotte N. Boccara, Michele Nardin, Federico Stella, Joseph O'Neill, Jozsef Csicsvari
+source_file: "boccara2019_grid_goal_attractor.md"
+paper_id: "boccara2019_grid_goal_attractor"
+title: "The entorhinal cognitive map is attracted to goals"
+authors: "Charlotte N. Boccara, Michele Nardin, Federico Stella, Joseph O'Neill, Jozsef Csicsvari"
 year: 2019
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field"]
+methods: ["electrophysiology", "tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["entorhinal", "cognitive", "map", "attracted", "goals"]
 ---
 
 ### One-line summary

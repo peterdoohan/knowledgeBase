@@ -1,11 +1,19 @@
 ---
-source_file: neupane2022_mental_navigation_entorhinal_cortex.md
+source_file: "neupane2022_mental_navigation_entorhinal_cortex.md"
+paper_id: "neupane2022_mental_navigation_entorhinal_cortex"
 title: "Vector production via mental navigation in the entorhinal cortex"
-authors: Sujaya Neupane, Ila Fiete, Mehrdad Jazayeri
+authors: "Sujaya Neupane, Ila Fiete, Mehrdad Jazayeri"
 year: 2022
-journal: bioRxiv (preprint, posted December 15, 2022)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint, posted December 15, 2022)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque", "monkey"]
+tasks: ["navigation_task"]
+methods: ["electrophysiology", "computational_modeling"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks", "tolman_eichenbaum_machine"]
+keywords: ["vector", "production", "via", "mental", "navigation", "entorhinal", "cortex"]
+key_citations: ["tolman1948_cognitive_maps_rats", "constantinescu2016_gridlike_conceptual_knowledge", "whittington2020_tolman_eichenbaum_machine", "burak2009_path_integration_grid_cells"]
 ---
 
 ### One-line summary

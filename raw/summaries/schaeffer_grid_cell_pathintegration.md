@@ -1,11 +1,17 @@
 ---
-source_file: schaeffer_grid_cell_pathintegration.md
-title: Disentangling Fact from Grid Cell Fiction in Trained Deep Path Integrators
-authors: Rylan Schaeffer, Mikail Khona, Sanmi Koyejo, Ila Rani Fiete
+source_file: "schaeffer_grid_cell_pathintegration.md"
+paper_id: "schaeffer_grid_cell_pathintegration"
+title: "Disentangling Fact from Grid Cell Fiction in Trained Deep Path Integrators"
+authors: "Rylan Schaeffer, Mikail Khona, Sanmi Koyejo, Ila Rani Fiete"
 year: 2023
-journal: arXiv (response paper, original NFL in NeurIPS 2022)
-paper_type: computational
-contribution_type: theoretical
+journal: "arXiv (response paper, original NFL in NeurIPS 2022)"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["disentangling", "fact", "grid", "cell", "fiction", "trained", "deep", "path", "integrators"]
+key_citations: ["schaeffer2022_no_free_lunch_deep_learning_neuroscience", "sorscher2022_neural_geometry_few_shot"]
 ---
 
 ### One-line summary

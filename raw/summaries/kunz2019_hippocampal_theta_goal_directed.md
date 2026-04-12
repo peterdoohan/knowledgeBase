@@ -1,11 +1,17 @@
 ---
-source_file: kunz2019_hippocampal_theta_goal_directed.md
+source_file: "kunz2019_hippocampal_theta_goal_directed.md"
+paper_id: "kunz2019_hippocampal_theta_goal_directed"
 title: "Hippocampal theta phases organize the reactivation of large-scale electrophysiological representations during goal-directed navigation"
-authors: Lukas Kunz, Liang Wang, Daniel Lachner-Piza, Hui Zhang, Armin Brandt, Matthias Dümpelmann, Peter C. Reinacher, Volker A. Coenen, Dong Chen, Wen-Xu Wang, Wenjing Zhou, Shuli Liang, Philip Grewe, Christian G. Bien, Anne Bierbrauer, Tobias Navarro Schröder, Andreas Schulze-Bonhage, Nikolai Axmacher
+authors: "Lukas Kunz, Liang Wang, Daniel Lachner-Piza, Hui Zhang, Armin Brandt, Matthias D\u00fcmpelmann, Peter C. Reinacher, Volker A. Coenen, Dong Chen, Wen-Xu Wang, Wenjing Zhou, Shuli Liang, Philip Grewe, Christian G. Bien, Anne Bierbrauer, Tobias Navarro Schr\u00f6der, Andreas Schulze-Bonhage, Nikolai Axmacher"
 year: 2019
-journal: Science Advances
-paper_type: empirical
-contribution_type: empirical
+journal: "Science Advances"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["object_location_task", "navigation_task"]
+methods: ["representational_similarity_analysis"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex"]
+keywords: ["lisman_and_idiart_1995_original_theta_subcycle_model_for_working_memory_capacity", "lisman_and_jensen_2013_theta_gamma_neural_code_review", "fuentemilla_et_al_2010", "curr_biol_theta_coupled_periodic_replay_in_working_memory", "bahramisharif_et_al_2018", "plos_biol_serial_representation_at_letter_selective_sites_at_distinct_theta_phases", "watrous_et_al_2018", "elife_phase_tuned_neuronal_firing_for_contextual_navigational_goals_modal_algorithm", "jones_and_wilson_2005", "plos_biol_theta_coordination_of_hippocampalprefrontal_interactions_in_spatial_memory", "feierstein_et_al_2006", "neuron_spatial_goals_in_rat_orbitofrontal_cortex", "chanales_et_al_2017", "curr_biol_representational_repulsion_for_overlapping_spatial_memories", "kriegeskorte_et_al_2008_representational_similarity_analysis_framework", "bush_et_al_2017", "pnas_human_hippocampal_theta_during_navigation", "named_models_or_frameworks", "theta_phase_coding_theta_subcycle_model", "representational_similarity_analysis_rsa"]
 ---
 
 ### One-line summary

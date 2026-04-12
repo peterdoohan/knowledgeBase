@@ -1,11 +1,13 @@
 ---
-source_file: bouhadjar2022_coherent_noise_sequence_replay.md
+source_file: "bouhadjar2022_coherent_noise_sequence_replay.md"
+paper_id: "bouhadjar2022_coherent_noise_sequence_replay"
 title: "Coherent noise enables probabilistic sequence replay in spiking neuronal networks"
-authors: Younes Bouhadjar, Dirk J. Wouters, Markus Diesmann, Tom Tetzlaff
+authors: "Younes Bouhadjar, Dirk J. Wouters, Markus Diesmann, Tom Tetzlaff"
 year: 2022
-journal: bioRxiv (preprint, June 2022)
-paper_type: computational
-contribution_type: theoretical
+journal: "bioRxiv (preprint, June 2022)"
+paper_type: "computational"
+contribution_type: "theoretical"
+keywords: ["coherent", "noise", "enables", "probabilistic", "sequence", "replay", "spiking", "neuronal", "networks"]
 ---
 
 ### One-line summary

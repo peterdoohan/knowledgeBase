@@ -1,11 +1,16 @@
 ---
-source_file: loosen2020_computational_psychiatry_ocd.md
-title: Towards a computational psychiatry of juvenile obsessive-compulsive disorder
-authors: Alisa M. Loosen, Tobias U. Hauser
+source_file: "loosen2020_computational_psychiatry_ocd.md"
+paper_id: "loosen2020_computational_psychiatry_ocd"
+title: "Towards a computational psychiatry of juvenile obsessive-compulsive disorder"
+authors: "Alisa M. Loosen, Tobias U. Hauser"
 year: 2020
-journal: Neuroscience and Biobehavioral Reviews
-paper_type: review
-contribution_type: theoretical
+journal: "Neuroscience and Biobehavioral Reviews"
+paper_type: "review"
+contribution_type: "theoretical"
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "amygdala"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "hierarchical_rl"]
+keywords: ["towards", "computational", "psychiatry", "juvenile", "obsessive", "compulsive", "disorder"]
+key_citations: ["daw2011_model_based_striatal_prediction", "schultz1997_neural_substrate_reward_pred", "russek2017_model_based_reinforcement"]
 ---
 
 ### One-line summary

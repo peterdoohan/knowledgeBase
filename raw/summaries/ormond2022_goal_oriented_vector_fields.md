@@ -1,11 +1,18 @@
 ---
-source_file: ormond2022_goal_oriented_vector_fields.md
-title: Hippocampal place cells have goal-oriented vector fields during navigation
-authors: Jake Ormond, John O'Keefe
+source_file: "ormond2022_goal_oriented_vector_fields.md"
+paper_id: "ormond2022_goal_oriented_vector_fields"
+title: "Hippocampal place cells have goal-oriented vector fields during navigation"
+authors: "Jake Ormond, John O'Keefe"
 year: 2022
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field", "foraging_task"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "lateral_entorhinal_cortex"]
+frameworks: ["mixed_selectivity"]
+keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map_foundational_framework", "wood_et_al_2018", "nature_original_honeycomb_maze_paper", "sarel_et_al_2017", "science_vectorial_goal_representations_in_bat_hippocampus", "jercog_et_al_2019", "nature_communications_heading_relative_to_reference_points_modulates_mouse_place_cells", "dupret_et_al_2010", "nature_neuroscience_place_field_reorganisation_toward_goals_and_memory", "mcnaughton_et_al_1983", "experimental_brain_research_directional_place_cell_firing_in_linear_tracks", "hardcastle_et_al_2017", "neuron_ln_modelling_approach_for_mixed_selectivity", "redish_2016", "nature_reviews_neuroscience_vicarious_trial_and_error", "named_models_or_frameworks", "cognitive_map_okeefe_and_nadel", "convergence_sink_consink_introduced_in_this_paper", "fantail_model_introduced_in_this_paper", "linear_nonlinear_poisson_ln_nested_model_hardcastle_et_al_2017"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: correa2023_resource_rational_task_decomposition.md
-title: Humans decompose tasks by trading off utility and computational cost
-authors: Carlos G. Correa, Mark K. Ho, Frederick Callaway, Nathaniel D. Daw, Thomas L. Griffiths
+source_file: "correa2023_resource_rational_task_decomposition.md"
+paper_id: "correa2023_resource_rational_task_decomposition"
+title: "Humans decompose tasks by trading off utility and computational cost"
+authors: "Carlos G. Correa, Mark K. Ho, Frederick Callaway, Nathaniel D. Daw, Thomas L. Griffiths"
 year: 2023
-journal: Unknown (preprint or journal — publication venue not stated in source text)
-paper_type: computational
-contribution_type: theoretical
+journal: "Unknown (preprint or journal \u2014 publication venue not stated in source text)"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["computational_modeling"]
+frameworks: ["reinforcement_learning", "bayesian_inference"]
+keywords: ["humans", "decompose", "tasks", "trading", "off", "utility", "computational", "cost"]
+key_citations: ["solway2014_optimal_behavioral_hierarchy", "tomov2020_hierarchical_planning_representation", "botvinick2009_hierarchically_organized_behavior", "stachenfeld2017_hippocampus_predictive_map"]
 ---
 
 ### One-line summary

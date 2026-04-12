@@ -1,11 +1,16 @@
 ---
-source_file: panteleeva2020_hunting_behavior_rodents.md
-title: Facultative Hunting Behavior in Rodents as a Possible Evolutionarily Stable Strategy
-authors: S.N. Panteleeva, J.V. Levenets, Zh.I. Reznikova
+source_file: "panteleeva2020_hunting_behavior_rodents.md"
+paper_id: "panteleeva2020_hunting_behavior_rodents"
+title: "Facultative Hunting Behavior in Rodents as a Possible Evolutionarily Stable Strategy"
+authors: "S.N. Panteleeva, J.V. Levenets, Zh.I. Reznikova"
 year: 2020
-journal: Biology Bulletin Reviews
-paper_type: empirical
-contribution_type: empirical
+journal: "Biology Bulletin Reviews"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["foraging_task"]
+brain_regions: ["amygdala"]
+keywords: ["maynard_smith_and_price_1973_ess_theory_foundation", "eisenberg_and_leyhausen_1972_phylogenesis_of_predatory_behavior_in_mammals", "kreiter_and_timberlake_1988_predation_in_peromyscus_mice", "experience_dependence", "konczal_et_al_2016_genomic_response_to_selection_for_predatory_behavior_in_bank_voles", "han_et_al_2017_neural_control_of_predatory_hunting_by_central_amygdala", "reznikova_et_al_2017_hunting_behavior_in_field_mice", "fragmentation_of_stereotypes", "named_models_or_frameworks", "evolutionarily_stable_strategy_ess_theory", "fixed_complex_of_actions_fca_innate_releasing_mechanisms", "first_order_markov_process_for_behavioral_sequence_analysis", "leyhausen_eisenberg_framework_for_evolution_of_predatory_behavior", "brain_regions", "central_nucleus_of_the_amygdala_cited_from_han_et_al", "2017", "not_studied_here", "keywords", "facultative_hunting_behavior", "predatory_behavior"]
 ---
 
 ### One-line summary

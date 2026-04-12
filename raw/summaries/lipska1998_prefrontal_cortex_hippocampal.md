@@ -1,11 +1,16 @@
 ---
-source_file: lipska1998_prefrontal_cortex_hippocampal.md
+source_file: "lipska1998_prefrontal_cortex_hippocampal.md"
+paper_id: "lipska1998_prefrontal_cortex_hippocampal"
 title: "Excitotoxic Lesions of the Rat Medial Prefrontal Cortex: Effects on Abnormal Behaviors Associated with Neonatal Hippocampal Damage"
-authors: Barbara K. Lipska, Hassen A. Al-Amin, Daniel R. Weinberger
+authors: "Barbara K. Lipska, Hassen A. Al-Amin, Daniel R. Weinberger"
 year: 1998
-journal: Neuropsychopharmacology
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuropsychopharmacology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "infralimbic_cortex", "striatum", "nucleus_accumbens", "ventral_hippocampus"]
+keywords: ["excitotoxic", "lesions", "rat", "medial", "prefrontal", "cortex", "effects", "abnormal", "behaviors", "associated"]
 ---
 
 ### One-line summary

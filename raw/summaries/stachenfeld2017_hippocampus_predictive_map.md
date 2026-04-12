@@ -1,11 +1,17 @@
 ---
-source_file: stachenfeld2017_hippocampus_predictive_map.md
+source_file: "stachenfeld2017_hippocampus_predictive_map.md"
+paper_id: "stachenfeld2017_hippocampus_predictive_map"
 title: "The hippocampus as a predictive map"
-authors: Kimberly L Stachenfeld, Matthew M Botvinick, Samuel J Gershman
+authors: "Kimberly L Stachenfeld, Matthew M Botvinick, Samuel J Gershman"
 year: 2017
-journal: Nature Neuroscience
-paper_type: computational
-contribution_type: theoretical
+journal: "Nature Neuroscience"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["morris_water_maze"]
+methods: ["fmri"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "medial_temporal_lobe"]
+frameworks: ["reinforcement_learning", "model_free_rl", "successor_representation", "temporal_difference_learning"]
+keywords: ["successor_representation", "place_cells", "grid_cells", "hippocampus", "entorhinal_cortex", "reinforcement_learning", "cognitive_map", "predictive_coding", "temporal_difference_learning", "model_based_vs_model_free", "spectral_graph_theory", "eigendecomposition", "hierarchical_planning", "subgoal_discovery", "reward_sensitivity", "remapping", "policy_dependence", "backward_skewing", "community_structure", "spatiotemporal_coding"]
 ---
 
 ### One-line summary

@@ -1,11 +1,16 @@
 ---
-source_file: badre2018_frontal_cortex_hierarchical_control.md
+source_file: "badre2018_frontal_cortex_hierarchical_control.md"
+paper_id: "badre2018_frontal_cortex_hierarchical_control"
 title: "Frontal Cortex and the Hierarchical Control of Behavior"
-authors: David Badre, Derek Evan Nee
+authors: "David Badre, Derek Evan Nee"
 year: 2018
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: theoretical
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["fmri", "dynamic_causal_modelling", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "thalamus"]
+keywords: ["koechlin_et_al_2003_science_original_cascade_architecture_model_of_pfc", "badre_and_desposito_2007_j_cogn_neurosci_fmri_evidence_for_rostrocaudal_abstraction_gradient", "nee_and_desposito_2016_elife_dynamic_causal_modelling_placing_mid_dlpfc_as_hierarchical_apex", "nee_and_brown_2013_cereb_cortex_frontostriatal_and_frontoparietal_networks_in_hierarchical_wm_gating", "chatham_et_al_2014_neuron_corticostriatal_output_gating", "voytek_et_al_2015_nat_neurosci_theta_gamma_coupling_in_frontal_hierarchical_control", "desrochers_et_al_2015_neuron_necessity_of_rlpfc_for_higher_level_sequential_behavior_tms", "collins_and_frank_2013_psychol_rev_hierarchical_task_set_learning", "reynolds_et_al_2012_plos_one_test_of_adaptive_maintenance_vs_abstraction_hypotheses", "badre_et_al_2009_nat_neurosci_hierarchical_control_deficits_after_frontal_lesions", "named_models_or_frameworks", "rostrocaudal_abstraction_gradient_hypothesis", "cascade_model_koechlin_et_al_2003", "unitary_hub_controller_architecture", "hierarchical_control_architecture", "corticostriatal_gating_model_frank", "oreilly", "chatham_et_al", "hierarchical_error_representation_model_box_3", "guided_activation_model_stroop"]
 ---
 
 ### One-line summary

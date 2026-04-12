@@ -1,11 +1,17 @@
 ---
-source_file: moser2008_place_cells_grid_cells.md
+source_file: "moser2008_place_cells_grid_cells.md"
+paper_id: "moser2008_place_cells_grid_cells"
 title: "Place Cells, Grid Cells, and the Brain's Spatial Representation System"
-authors: Edvard I. Moser, Emilio Kropff, May-Britt Moser
+authors: "Edvard I. Moser, Emilio Kropff, May-Britt Moser"
 year: 2008
-journal: Annual Review of Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Annual Review of Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "striatum", "retrosplenial_cortex", "thalamus"]
+frameworks: ["attractor_networks"]
+keywords: ["place", "cells", "grid", "brains", "spatial", "representation", "system"]
+key_citations: ["johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

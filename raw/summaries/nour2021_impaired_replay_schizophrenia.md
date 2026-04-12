@@ -1,11 +1,17 @@
 ---
-source_file: nour2021_impaired_replay_schizophrenia.md
-title: Impaired neural replay of inferred relationships in schizophrenia
-authors: Matthew M. Nour, Yunzhe Liu, Atheeshaan Arumuham, Zeb Kurth-Nelson, Raymond J. Dolan
+source_file: "nour2021_impaired_replay_schizophrenia.md"
+paper_id: "nour2021_impaired_replay_schizophrenia"
+title: "Impaired neural replay of inferred relationships in schizophrenia"
+authors: "Matthew M. Nour, Yunzhe Liu, Atheeshaan Arumuham, Zeb Kurth-Nelson, Raymond J. Dolan"
 year: 2021
-journal: Cell
-paper_type: empirical
-contribution_type: empirical
+journal: "Cell"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+methods: ["representational_similarity_analysis"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_temporal_lobe"]
+keywords: ["impaired", "neural", "replay", "inferred", "relationships", "schizophrenia"]
+key_citations: ["liu2019_human_replay_reorganizes", "kurth_nelson2016_sequences_non_spatial", "suh2013_impaired_ripple", "barron2020_neuronal_computation_inferential", "behrens2018_cognitive_map_organizing_knowledge", "garvert2017_relational_knowledge_maps"]
 ---
 
 ### One-line summary

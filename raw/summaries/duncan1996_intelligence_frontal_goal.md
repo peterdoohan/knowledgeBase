@@ -1,11 +1,15 @@
 ---
-source_file: duncan1996_intelligence_frontal_goal.md
+source_file: "duncan1996_intelligence_frontal_goal.md"
+paper_id: "duncan1996_intelligence_frontal_goal"
 title: "Intelligence and the Frontal Lobe: The Organization of Goal-Directed Behavior"
-authors: John Duncan, Hazel Emslie, Phyllis Williams, Roger Johnson, Charles Freer
+authors: "John Duncan, Hazel Emslie, Phyllis Williams, Roger Johnson, Charles Freer"
 year: 1996
-journal: Cognitive Psychology
-paper_type: empirical
-contribution_type: empirical
+journal: "Cognitive Psychology"
+paper_type: "empirical"
+contribution_type: "empirical"
+methods: ["lesion"]
+brain_regions: ["prefrontal_cortex", "dorsolateral_prefrontal_cortex"]
+keywords: ["intelligence", "frontal", "lobe", "organization", "goal", "directed", "behavior"]
 ---
 
 ### One-line summary

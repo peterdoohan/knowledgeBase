@@ -1,11 +1,14 @@
 ---
-source_file: seabold2010_statsmodels_econometric.md
+source_file: "seabold2010_statsmodels_econometric.md"
+paper_id: "seabold2010_statsmodels_econometric"
 title: "Statsmodels: Econometric and Statistical Modeling with Python"
-authors: Skipper Seabold, Josef Perktold
+authors: "Skipper Seabold, Josef Perktold"
 year: 2010
-journal: Proceedings of the 9th Python in Science Conference (SciPy 2010)
-paper_type: methodological
-contribution_type: methodological
+journal: "Proceedings of the 9th Python in Science Conference (SciPy 2010)"
+paper_type: "methodological"
+contribution_type: "methodological"
+methods: ["behavioral_analysis"]
+keywords: ["statsmodels", "econometric", "statistical", "modeling", "python"]
 ---
 
 ### One-line summary

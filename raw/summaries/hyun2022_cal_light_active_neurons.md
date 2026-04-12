@@ -1,11 +1,16 @@
 ---
-source_file: hyun2022_cal_light_active_neurons.md
+source_file: "hyun2022_cal_light_active_neurons.md"
+paper_id: "hyun2022_cal_light_active_neurons"
 title: "Tagging active neurons by soma-targeted Cal-Light"
-authors: Jung Ho Hyun, Kenichiro Nagahama, Ho Namkung, Neymi Mignocchi, Seung-Eon Roh, Patrick Hannan, Sarah Krüssel, Chuljung Kwak, Abigail McElroy, Bian Liu, Mingguang Cui, Seunghwan Lee, Dongmin Lee, Richard L. Huganir, Paul F. Worley, Akira Sawa, Hyung-Bae Kwon
+authors: "Jung Ho Hyun, Kenichiro Nagahama, Ho Namkung, Neymi Mignocchi, Seung-Eon Roh, Patrick Hannan, Sarah Kr\u00fcssel, Chuljung Kwak, Abigail McElroy, Bian Liu, Mingguang Cui, Seunghwan Lee, Dongmin Lee, Richard L. Huganir, Paul F. Worley, Akira Sawa, Hyung-Bae Kwon"
 year: 2022
-journal: Nature Communications
-paper_type: empirical
-contribution_type: methodological
+journal: "Nature Communications"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse"]
+methods: ["optogenetics"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex", "medial_prefrontal_cortex"]
+keywords: ["lee_et_al_2017", "nat_biotechnol_original_cal_light_system", "ref_8", "kim_et_al_2020", "cell_flare_calcium_light_switch", "ref_7", "wang_et_al_2017", "nat_biotechnol_cal2_system", "ref_10", "sanchez_et_al_2020", "pnas_engineered_ca2_activated_protease", "ref_9", "shemesh_et_al_2017", "nat_neurosci_soma_targeted_channelrhodopsin", "source_of_ka2_kv2_1_targeting_motifs", "ref_16", "guenthner_et_al_2013", "neuron_trap_ieg_system", "ref_1", "liu_et_al_2012"]
 ---
 
 ### One-line summary

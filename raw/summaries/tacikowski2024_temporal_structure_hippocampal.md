@@ -1,11 +1,17 @@
 ---
-source_file: tacikowski2024_temporal_structure_hippocampal.md
-title: Human hippocampal and entorhinal neurons encode the temporal structure of experience
-authors: Pawel Tacikowski, Güldamla Kalender, Davide Ciliberti, Itzhak Fried
+source_file: "tacikowski2024_temporal_structure_hippocampal.md"
+paper_id: "tacikowski2024_temporal_structure_hippocampal"
+title: "Human hippocampal and entorhinal neurons encode the temporal structure of experience"
+authors: "Pawel Tacikowski, G\u00fcldamla Kalender, Davide Ciliberti, Itzhak Fried"
 year: 2024
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "orbitofrontal_cortex", "amygdala"]
+frameworks: ["reinforcement_learning", "successor_representation", "tolman_eichenbaum_machine"]
+keywords: ["human", "hippocampal", "entorhinal", "neurons", "encode", "temporal", "structure", "experience"]
+key_citations: ["stachenfeld2017_hippocampus_predictive_map", "schapiro2013_event_representation_memory", "garvert2017_relational_knowledge_maps", "whittington2022_disentangling_biological"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: patai2021_prefrontal_spatial_navigation.md
-title: The Versatile Wayfinder: Prefrontal Contributions to Spatial Navigation
-authors: Eva Zita Patai, Hugo J. Spiers
+source_file: "patai2021_prefrontal_spatial_navigation.md"
+paper_id: "patai2021_prefrontal_spatial_navigation"
+title: "The Versatile Wayfinder: Prefrontal Contributions to Spatial Navigation"
+authors: "Eva Zita Patai, Hugo J. Spiers"
 year: 2021
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: review
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["virtual_navigation", "navigation_task"]
+methods: ["fmri", "lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "posterior_cingulate_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["maguire_et_al_1998_earliest_study_showing_pfc_activation_during_virtual_navigation", "ekstrom_et_al_2003_seminal_human_intracranial_recording_study_showing_goal_selective_frontal_neurons", "spiers_and_maguire_2006", "2007_real_world_navigation_studies", "tolman_1948_cognitive_map_theory", "miller_and_cohen_2001_integrative_theory_of_pfc_function", "redish_2016_vte_and_hippocampal_function", "named_models_or_frameworks", "cognitive_map_theory_tolman", "core_navigation_network_hippocampus", "parahippocampus", "retrosplenial_cortex", "posterior_parietal_cortex", "hierarchical_planning_framework", "reinforcement_learning_model_based_and_model_free", "predictive_coding", "default_mode_network", "vicarious_trial_and_error_vte", "hippocampal_replay_and_preplay", "state_space_representation"]
 ---
 
 ### One-line summary

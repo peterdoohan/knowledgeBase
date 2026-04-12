@@ -1,11 +1,14 @@
 ---
-source_file: hayes2020_complex_systems_psychotherapy.md
-title: A complex systems approach to the study of change in psychotherapy
-authors: Adele M. Hayes, Leigh A. Andrews
+source_file: "hayes2020_complex_systems_psychotherapy.md"
+paper_id: "hayes2020_complex_systems_psychotherapy"
+title: "A complex systems approach to the study of change in psychotherapy"
+authors: "Adele M. Hayes, Leigh A. Andrews"
 year: 2020
-journal: BMC Medicine
-paper_type: review
-contribution_type: theoretical
+journal: "BMC Medicine"
+paper_type: "review"
+contribution_type: "theoretical"
+methods: ["computational_modeling"]
+keywords: ["complex", "systems", "approach", "study", "change", "psychotherapy"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: chung2022_neural_recording_neuropixels.md
-title: High-density single-unit human cortical recordings using the Neuropixels probe
-authors: Jason E. Chung, Kristin K. Sellers, Matthew K. Leonard, Laura Gwilliams, Duo Xu, Maximilian E. Dougherty, Viktor Kharazia, Sean L. Metzger, Marleen Welkenhuysen, Barundeb Dutta, Edward F. Chang
+source_file: "chung2022_neural_recording_neuropixels.md"
+paper_id: "chung2022_neural_recording_neuropixels"
+title: "High-density single-unit human cortical recordings using the Neuropixels probe"
+authors: "Jason E. Chung, Kristin K. Sellers, Matthew K. Leonard, Laura Gwilliams, Duo Xu, Maximilian E. Dougherty, Viktor Kharazia, Sean L. Metzger, Marleen Welkenhuysen, Barundeb Dutta, Edward F. Chang"
 year: 2022
-journal: Neuron
-paper_type: empirical
-contribution_type: methodological
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["human"]
+methods: ["electrophysiology", "neuropixels"]
+brain_regions: ["superior_temporal_gyrus"]
+keywords: ["high", "density", "single", "unit", "human", "cortical", "recordings", "neuropixels", "probe"]
+key_citations: ["paulk2022_neuropixels_human_cortex", "buccino2020_spikeinterface_spike_sorting"]
 ---
 
 ### One-line summary

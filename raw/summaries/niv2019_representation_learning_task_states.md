@@ -1,11 +1,18 @@
 ---
-source_file: niv2019_representation_learning_task_states.md
-title: Learning task-state representations
-authors: Yael Niv
+source_file: "niv2019_representation_learning_task_states.md"
+paper_id: "niv2019_representation_learning_task_states"
+title: "Learning task-state representations"
+authors: "Yael Niv"
 year: 2019
-journal: Nature Neuroscience
-paper_type: review
-contribution_type: theoretical
+journal: "Nature Neuroscience"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["rat", "human"]
+methods: ["electrophysiology", "fmri", "computational_modeling", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_striatum", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["representation_learning", "task_state_representation", "attention_weighted_reinforcement_learning", "latent_cause_inference", "orbitofrontal_cortex_cognitive_map", "dimensionality_reduction", "partially_observable_states", "fear_extinction", "spontaneous_recovery", "bayesian_clustering", "prediction_error", "frontoparietal_attention_network", "learning", "task", "state", "representations"]
+key_citations: ["schuck2016_orbitofrontal_cortex_state", "wilson2014_best_practices_scientific"]
 ---
 
 ### One-line summary

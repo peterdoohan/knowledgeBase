@@ -1,11 +1,19 @@
 ---
-source_file: haber2014_reward_circuit_incentive_learning.md
+source_file: "haber2014_reward_circuit_incentive_learning.md"
+paper_id: "haber2014_reward_circuit_incentive_learning"
 title: "The Neural Network Underlying Incentive-Based Learning: Implications for Interpreting Circuit Disruptions in Psychiatric Disorders"
-authors: Suzanne N. Haber, Timothy E.J. Behrens
+authors: "Suzanne N. Haber, Timothy E.J. Behrens"
 year: 2014
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["foraging_task"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus", "mediodorsal_thalamus", "amygdala"]
+frameworks: ["reinforcement_learning", "temporal_difference_learning"]
+keywords: ["neural", "network", "underlying", "incentive", "based", "learning", "implications", "interpreting", "circuit", "disruptions"]
+key_citations: ["behrens2007_learning_value_information_uncertain"]
 ---
 
 ### One-line summary

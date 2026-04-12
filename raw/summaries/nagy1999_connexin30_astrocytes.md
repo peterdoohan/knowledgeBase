@@ -1,11 +1,15 @@
 ---
-source_file: nagy1999_connexin30_astrocytes.md
+source_file: "nagy1999_connexin30_astrocytes.md"
+paper_id: "nagy1999_connexin30_astrocytes"
 title: "Connexin30 in Rodent, Cat and Human Brain: Selective Expression in Gray Matter Astrocytes, Co-localization with Connexin43 at Gap Junctions and Late Developmental Appearance"
-authors: J. I. Nagy, D. Patel, P. A. Y. Ochalski, G. L. Stelmack
+authors: "J. I. Nagy, D. Patel, P. A. Y. Ochalski, G. L. Stelmack"
 year: 1999
-journal: Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat", "human"]
+brain_regions: ["substantia_nigra", "thalamus"]
+keywords: ["connexin30", "rodent", "cat", "human", "brain", "selective", "expression", "gray", "matter", "astrocytes"]
 ---
 
 ### One-line summary

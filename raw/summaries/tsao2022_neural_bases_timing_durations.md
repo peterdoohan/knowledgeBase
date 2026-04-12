@@ -1,11 +1,16 @@
 ---
-source_file: tsao2022_neural_bases_timing_durations.md
-title: The neural bases for timing of durations
-authors: Albert Tsao, S. Aryana Yousefzadeh, Warren H. Meck, May-Britt Moser, Edvard I. Moser
+source_file: "tsao2022_neural_bases_timing_durations.md"
+paper_id: "tsao2022_neural_bases_timing_durations"
+title: "The neural bases for timing of durations"
+authors: "Albert Tsao, S. Aryana Yousefzadeh, Warren H. Meck, May-Britt Moser, Edvard I. Moser"
 year: 2022
-journal: Nature Reviews Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Nature Reviews Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["human", "monkey"]
+methods: ["fmri", "representational_similarity_analysis", "computational_modeling"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum", "substantia_nigra", "thalamus", "amygdala", "medial_temporal_lobe", "visual_cortex", "primary_auditory_cortex"]
+keywords: ["neural", "bases", "timing", "durations"]
 ---
 
 ### One-line summary

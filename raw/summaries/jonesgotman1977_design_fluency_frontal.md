@@ -1,11 +1,14 @@
 ---
-source_file: jonesgotman1977_design_fluency_frontal.md
-title: Design Fluency: The Invention of Nonsense Drawings after Focal Cortical Lesions (inferred — see note)
-authors: Jones-Gotman, M., Milner, B. (inferred — see note)
-year: 1977 (inferred — see note)
-journal: Neuropsychologia (inferred — see note)
-paper_type: empirical
-contribution_type: empirical
+source_file: "jonesgotman1977_design_fluency_frontal.md"
+paper_id: "jonesgotman1977_design_fluency_frontal"
+title: "Design Fluency: The Invention of Nonsense Drawings after Focal Cortical Lesions (inferred \u2014 see note)"
+authors: "Jones-Gotman, M., Milner, B. (inferred \u2014 see note)"
+year: "1977 (inferred \u2014 see note)"
+journal: "Neuropsychologia (inferred \u2014 see note)"
+paper_type: "empirical"
+contribution_type: "empirical"
+methods: ["lesion"]
+keywords: ["design", "fluency", "invention", "nonsense", "drawings", "after", "focal", "cortical", "lesions", "inferred"]
 ---
 
 > **CONVERSION FAILURE NOTE**: The PDF-to-Markdown conversion for this file failed catastrophically. Almost the entire paper is represented as omitted images (`picture [...] intentionally omitted`). Only four data tables are machine-readable. The paper identity, title, authors, year, and journal below are **inferred** from the table content and cannot be verified from the file. The filename `miranda2020_model_free_reinforcement.md` was clearly wrong (it implies a 2020 reinforcement learning paper by Miranda et al., which does not match the content at all). The corrected filename `jonesgotman1977_design_fluency_frontal.md` is a best guess based on the visible data. **This summary should be verified against the original PDF before use.**

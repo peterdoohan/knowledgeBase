@@ -1,11 +1,16 @@
 ---
-source_file: ivanov2021_psychotropic_drugs_mental_illness.md
-title: "Why Psychotropic Drugs Don't Cure Mental Illness—But Should They?"
-authors: Iliyan Ivanov, Jeffrey M. Schwartz
+source_file: "ivanov2021_psychotropic_drugs_mental_illness.md"
+paper_id: "ivanov2021_psychotropic_drugs_mental_illness"
+title: "Why Psychotropic Drugs Don't Cure Mental Illness\u2014But Should They?"
+authors: "Iliyan Ivanov, Jeffrey M. Schwartz"
 year: 2021
-journal: Frontiers in Psychiatry
-paper_type: review
-contribution_type: theoretical
+journal: "Frontiers in Psychiatry"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+brain_regions: ["prefrontal_cortex", "amygdala"]
+frameworks: ["bayesian_inference"]
+keywords: ["psychotropic_drugs", "translational_research_limitations", "psychiatric_pharmacology", "subjective_experience", "language_and_psychiatry", "bio_psycho_social_model", "computational_psychiatry", "self_efficacy", "mental_illness_trajectory", "consciousness_and_psychopathology", "fear_vs_anxiety_circuits", "integrative_treatment", "why", "psychotropic", "drugs", "dont", "cure", "mental", "illnessbut", "should"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: akam2021_dopamine_model_based_rl.md
+source_file: "akam2021_dopamine_model_based_rl.md"
+paper_id: "akam2021_dopamine_model_based_rl"
 title: "What is dopamine doing in model-based reinforcement learning?"
-authors: Thomas Akam, Mark E Walton
+authors: "Thomas Akam, Mark E Walton"
 year: 2021
-journal: Current Opinion in Behavioral Sciences
-paper_type: review
-contribution_type: theoretical
+journal: "Current Opinion in Behavioral Sciences"
+paper_type: "review"
+contribution_type: "theoretical"
+methods: ["optogenetics", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
+keywords: ["keywords_dopamine", "reward_prediction_error_rpe", "state_prediction_error_spe", "model_based_reinforcement_learning", "model_free_reinforcement_learning", "successor_representation", "surprise_signal", "basal_ganglia", "striatum", "hippocampus", "offline_planning", "sharp_wave_ripples", "cortico_basal_ganglia_loops", "volume_transmission", "dopamine_heterogeneity", "temporal_difference_learning", "unblocking", "optogenetics", "vta", "snc"]
+key_citations: ["daw2005_uncertainty_prefrontal_striatal"]
 ---
 
 ### One-line summary

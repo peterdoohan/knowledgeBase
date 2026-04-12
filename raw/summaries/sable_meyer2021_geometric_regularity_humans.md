@@ -1,11 +1,15 @@
 ---
-source_file: sable_meyer2021_geometric_regularity_humans.md
-title: Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity
-authors: Mathias Sablé-Meyer, Joël Fagot, Serge Caparos, Timo van Kerkoerle, Marie Amalric, Stanislas Dehaene
+source_file: "sable_meyer2021_geometric_regularity_humans.md"
+paper_id: "sable_meyer2021_geometric_regularity_humans"
+title: "Sensitivity to geometric shape regularity in humans and baboons: A putative signature of human singularity"
+authors: "Mathias Sabl\u00e9-Meyer, Jo\u00ebl Fagot, Serge Caparos, Timo van Kerkoerle, Marie Amalric, Stanislas Dehaene"
 year: 2021
-journal: Proceedings of the National Academy of Sciences (PNAS)
-paper_type: empirical
-contribution_type: empirical
+journal: "Proceedings of the National Academy of Sciences (PNAS)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+brain_regions: ["prefrontal_cortex"]
+keywords: ["sensitivity", "geometric", "shape", "regularity", "humans", "baboons", "putative", "signature", "human", "singularity"]
 ---
 
 ### One-line summary

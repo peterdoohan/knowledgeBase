@@ -1,11 +1,17 @@
 ---
-source_file: jeong2022_mesolimbic_dopamine_causal.md
-title: Mesolimbic dopamine release conveys causal associations
-authors: Huijeong Jeong, Annie Taylor, Joseph R. Floeder, Martin Lohmann, Stefan Mihalas, Brenda Wu, Mingkang Zhou, Dennis A. Burke, Vijay Mohan K Namboodiri
+source_file: "jeong2022_mesolimbic_dopamine_causal.md"
+paper_id: "jeong2022_mesolimbic_dopamine_causal"
+title: "Mesolimbic dopamine release conveys causal associations"
+authors: "Huijeong Jeong, Annie Taylor, Joseph R. Floeder, Martin Lohmann, Stefan Mihalas, Brenda Wu, Mingkang Zhou, Dennis A. Burke, Vijay Mohan K Namboodiri"
 year: 2022
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["optogenetics"]
+brain_regions: ["orbitofrontal_cortex", "nucleus_accumbens", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning", "bayesian_inference"]
+keywords: ["mesolimbic", "dopamine", "release", "conveys", "causal", "associations"]
 ---
 
 ### One-line summary

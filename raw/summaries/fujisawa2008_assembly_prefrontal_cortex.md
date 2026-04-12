@@ -1,11 +1,16 @@
 ---
-source_file: fujisawa2008_assembly_prefrontal_cortex.md
-title: Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex
-authors: Shigeyoshi Fujisawa, Asohan Amarasingham, Matthew T Harrison, György Buzsáki
+source_file: "fujisawa2008_assembly_prefrontal_cortex.md"
+paper_id: "fujisawa2008_assembly_prefrontal_cortex"
+title: "Behavior-dependent short-term assembly dynamics in the medial prefrontal cortex"
+authors: "Shigeyoshi Fujisawa, Asohan Amarasingham, Matthew T Harrison, Gy\u00f6rgy Buzs\u00e1ki"
 year: 2008
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex"]
+keywords: ["behavior", "dependent", "short", "term", "assembly", "dynamics", "medial", "prefrontal", "cortex"]
 ---
 
 ### One-line summary

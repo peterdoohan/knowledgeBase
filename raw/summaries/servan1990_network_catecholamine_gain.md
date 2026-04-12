@@ -1,11 +1,14 @@
 ---
-source_file: servan1990_network_catecholamine_gain.md
-title: A Network Model of Catecholamine Effects: Gain, Signal-to-Noise Ratio, and Behavior
-authors: David Servan-Schreiber, Harry Printz, Jonathan D. Cohen
+source_file: "servan1990_network_catecholamine_gain.md"
+paper_id: "servan1990_network_catecholamine_gain"
+title: "A Network Model of Catecholamine Effects: Gain, Signal-to-Noise Ratio, and Behavior"
+authors: "David Servan-Schreiber, Harry Printz, Jonathan D. Cohen"
 year: 1990
-journal: Science 249(4971)
-paper_type: computational
-contribution_type: theoretical
+journal: "Science 249(4971)"
+paper_type: "computational"
+contribution_type: "theoretical"
+methods: ["computational_modeling"]
+keywords: ["network", "model", "catecholamine", "effects", "gain", "signal", "noise", "ratio", "behavior"]
 ---
 
 ### One-line summary

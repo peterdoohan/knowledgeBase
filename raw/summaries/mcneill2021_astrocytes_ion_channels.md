@@ -1,11 +1,17 @@
 ---
-source_file: mcneill2021_astrocytes_ion_channels.md
+source_file: "mcneill2021_astrocytes_ion_channels.md"
+paper_id: "mcneill2021_astrocytes_ion_channels"
 title: "Ion Channels and Electrophysiological Properties of Astrocytes: Implications for Emergent Stimulation Technologies"
-authors: Jessica McNeill, Christopher Rudyk, Michael E. Hildebrand, Natalina Salmaso
+authors: "Jessica McNeill, Christopher Rudyk, Michael E. Hildebrand, Natalina Salmaso"
 year: 2021
-journal: Frontiers in Cellular Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Frontiers in Cellular Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["optogenetics", "electrophysiology"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "striatum", "ventral_tegmental_area", "thalamus"]
+keywords: ["astrocyte_electrophysiology", "ion_channel_heterogeneity", "potassium_spatial_buffering", "kir4_1", "two_pore_domain_k_channels_trek1", "twik1", "voltage_gated_sodium_channels_nav", "calcium_signalling", "ip3r2", "gliotransmission", "optogenetics_in_astrocytes", "dreadds_in_astrocytes", "glial_syncytium", "reactive_astrogliosis", "astrocyte_subtype_diversity", "ion", "channels", "electrophysiological", "properties", "astrocytes"]
+key_citations: ["murphy-royal2020_stress_astrocyte_lactate_ltp"]
 ---
 
 ### One-line summary

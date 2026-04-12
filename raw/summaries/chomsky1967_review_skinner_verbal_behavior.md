@@ -1,11 +1,14 @@
 ---
-source_file: chomsky1967_review_skinner_verbal_behavior.md
+source_file: "chomsky1967_review_skinner_verbal_behavior.md"
+paper_id: "chomsky1967_review_skinner_verbal_behavior"
 title: "A Review of B. F. Skinner's Verbal Behavior"
-authors: Noam Chomsky
+authors: "Noam Chomsky"
 year: 1967
 journal: "Readings in the Psychology of Language (Prentice-Hall); originally Language, 35(1), 1959"
-paper_type: review
-contribution_type: theoretical
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+keywords: ["b_f_skinner", "verbal_behavior_1957_the_target_of_the_review", "behavior_of_organisms_1938_source_of_the_technical_definitions_under_scrutiny", "k_s_lashley", "the_problem_of_serial_order_in_behavior_1951_invoked_to_motivate_hierarchical_syntactic_structure", "h_f_harlow_intrinsic_motivation", "manipulation_drive", "inadequacy_of_physiological_drive_reduction", "n_tinbergen_instinctive_behavior", "sign_stimuli", "maturation_independent_of_learning", "d_l_thistlethwaite_latent_learning_review", "j_olds_brain_stimulation_reward", "reinforcement_independent_of_physiological_need", "g_a_miller", "e_galanter", "k_h_pribram", "plans_and_the_structure_of_behavior_1960", "j_a_fodor_1965_critique_of_meaning_as_rm", "e_lenneberg_1966_biological_bases_of_language"]
 ---
 
 ### One-line summary

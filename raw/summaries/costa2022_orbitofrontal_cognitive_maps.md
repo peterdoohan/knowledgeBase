@@ -1,11 +1,18 @@
 ---
-source_file: costa2022_orbitofrontal_cognitive_maps.md
+source_file: "costa2022_orbitofrontal_cognitive_maps.md"
+paper_id: "costa2022_orbitofrontal_cognitive_maps"
 title: "The role of the lateral orbitofrontal cortex in creating cognitive maps"
-authors: Kauê Machado Costa, Robert Scholz, Kevin Lloyd, Perla Moreno-Castilla, Matthew P. H. Gardner, Peter Dayan, Geoffrey Schoenbaum
+authors: "Kau\u00ea Machado Costa, Robert Scholz, Kevin Lloyd, Perla Moreno-Castilla, Matthew P. H. Gardner, Peter Dayan, Geoffrey Schoenbaum"
 year: 2022
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["optogenetics", "computational_modeling"]
+brain_regions: ["orbitofrontal_cortex", "amygdala", "basolateral_amygdala", "primary_auditory_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl"]
+keywords: ["role", "lateral", "orbitofrontal", "cortex", "creating", "cognitive", "maps"]
+key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "wilson2014_best_practices_scientific", "schuck2016_orbitofrontal_cortex_state"]
 ---
 
 ### One-line summary

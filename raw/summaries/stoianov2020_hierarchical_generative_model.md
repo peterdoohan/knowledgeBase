@@ -1,11 +1,16 @@
 ---
-source_file: stoianov2020_hierarchical_generative_model.md
-title: The hippocampal formation as a hierarchical generative model supporting generative replay and continual learning
-authors: Ivilin Stoianov, Domenico Maisto, Giovanni Pezzulo
+source_file: "stoianov2020_hierarchical_generative_model.md"
+paper_id: "stoianov2020_hierarchical_generative_model"
+title: "The hippocampal formation as a hierarchical generative model supporting generative replay and continual learning"
+authors: "Ivilin Stoianov, Domenico Maisto, Giovanni Pezzulo"
 year: 2020
-journal: bioRxiv (preprint)
-paper_type: computational
-contribution_type: theoretical
+journal: "bioRxiv (preprint)"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "ventral_striatum"]
+keywords: ["hippocampal", "formation", "hierarchical", "generative", "model", "supporting", "replay", "continual", "learning"]
+key_citations: ["stella2019_hippocampal_reactivation_brownian", "liu2019_human_replay_reorganizes"]
 ---
 
 ### One-line summary

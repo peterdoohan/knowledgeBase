@@ -1,11 +1,18 @@
 ---
-source_file: ouchi2024_predictive_grid_coding.md
-title: Predictive grid coding in the medial entorhinal cortex
-authors: Ayako Ouchi, Shigeyoshi Fujisawa
+source_file: "ouchi2024_predictive_grid_coding.md"
+paper_id: "ouchi2024_predictive_grid_coding"
+title: "Predictive grid coding in the medial entorhinal cortex"
+authors: "Ayako Ouchi, Shigeyoshi Fujisawa"
 year: 2024
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field", "foraging_task", "navigation_task"]
+methods: ["optogenetics", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["hafting_et_al_2005_nature_original_discovery_of_grid_cells_in_mec", "hafting_et_al_2008_nature_theta_phase_precession_and_phase_locking_of_mec_grid_cells", "burak_and_fiete_2009_plos_comp_biol_continuous_attractor_network_model_of_mec", "dragoi_and_buzsaki_2006_neuron_theta_sequences_in_ca1", "fernandez_ruiz_et_al_2017_neuron_dual_input_model_of_ca1_sequence_generation", "mec_layer_3_at_theta_peak", "liu_et_al_2023_science_optogenetic_perturbation_of_mec_disrupts_ca1_predictive_theta_sequences", "chaudhuri_vayalambrone_et_al_2023_cell_reports_spatial_vs_temporal_domain_of_prospective_coding_in_mec_hippocampus", "gardner_et_al_2022_nature_continuous_attractor_manifold_of_mec_grid_cell_population", "named_models_or_frameworks", "continuous_attractor_network_mec_grid_cell_model", "dual_input_model_of_ca1_mec_layer_3_ca3_inputs_at_different_theta_phases", "oscillatory_interference_model_of_theta_phase_precession", "soma_dendrite_interference_model_of_theta_phase_precession", "cognitive_map_theory_okeefe_and_nadel_1978", "brain_regions", "medial_entorhinal_cortex_mec", "layers_23", "ca1_hippocampus", "keywords"]
 ---
 
 ### One-line summary

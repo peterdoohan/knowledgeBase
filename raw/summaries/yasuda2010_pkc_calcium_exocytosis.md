@@ -1,11 +1,14 @@
 ---
-source_file: yasuda2010_pkc_calcium_exocytosis.md
-title: PKC-Dependent Inhibition of Ca2+-Dependent Exocytosis from Astrocytes
-authors: Keiichi Yasuda, Makoto Itakura, Kyota Aoyagi, Tsukiko Sugaya, Etsuko Nagata, Hideshi Ihara, Masami Takahashi
+source_file: "yasuda2010_pkc_calcium_exocytosis.md"
+paper_id: "yasuda2010_pkc_calcium_exocytosis"
+title: "PKC-Dependent Inhibition of Ca2+-Dependent Exocytosis from Astrocytes"
+authors: "Keiichi Yasuda, Makoto Itakura, Kyota Aoyagi, Tsukiko Sugaya, Etsuko Nagata, Hideshi Ihara, Masami Takahashi"
 year: 2010
-journal: GLIA
-paper_type: empirical
-contribution_type: empirical
+journal: "GLIA"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat", "human"]
+keywords: ["hepp_et_al", "1999_snap_23_expression_in_glial_cells", "nagy_et_al", "2002_pkc_dependent_phosphorylation_of_snap_25_at_ser187_in_neurons", "suzuki_and_verma", "2008_phosphorylation_of_snap_23_ser95_and_ser120_in_mast_cell_degranulation", "wick_et_al", "1993_hgh_assay_system_for_evaluating_exocytosis", "li_et_al", "2008_lysosomal_exocytosis_in_astrocytes", "named_models_or_frameworks", "snare_complex_mediated_vesicle_fusion", "hgh_human_growth_hormone_reporter_assay_for_exocytosis", "phorbol_ester_pma_activation_of_pkc_signaling", "brain_regions", "cerebral_cortex_source_of_primary_astrocyte_cultures", "keywords", "astrocyte_exocytosis", "protein_kinase_c_pkc", "snap_23_phosphorylation"]
 ---
 
 ### One-line summary

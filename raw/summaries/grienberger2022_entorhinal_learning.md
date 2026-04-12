@@ -1,11 +1,16 @@
 ---
-source_file: grienberger2022_entorhinal_learning.md
+source_file: "grienberger2022_entorhinal_learning.md"
+paper_id: "grienberger2022_entorhinal_learning"
 title: "Entorhinal cortex directs learning-related changes in CA1 representations"
-authors: Christine Grienberger, Jeffrey C. Magee
+authors: "Christine Grienberger, Jeffrey C. Magee"
 year: 2022
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["calcium_imaging", "optogenetics", "computational_modeling"]
+brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+keywords: ["entorhinal", "cortex", "directs", "learning", "related", "changes", "ca1", "representations"]
 ---
 
 ### One-line summary

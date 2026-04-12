@@ -1,11 +1,16 @@
 ---
-source_file: sakai2003_motor_learning_chunking.md
-title: Chunking during human visuomotor sequence learning
-authors: Katsuyuki Sakai, Katsuya Kitaguchi, Okihide Hikosaka
+source_file: "sakai2003_motor_learning_chunking.md"
+paper_id: "sakai2003_motor_learning_chunking"
+title: "Chunking during human visuomotor sequence learning"
+authors: "Katsuyuki Sakai, Katsuya Kitaguchi, Okihide Hikosaka"
 year: 2003
-journal: Experimental Brain Research
-paper_type: empirical
-contribution_type: empirical
+journal: "Experimental Brain Research"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+brain_regions: ["prefrontal_cortex", "striatum"]
+keywords: ["motor_sequence_learning", "chunking", "hierarchical_memory_representation", "visuomotor_learning", "explicit_learning", "intermanual_transfer", "motor_memory", "choice_time", "movement_time", "dominant_hemisphere", "procedural_memory", "motor_skill_acquisition", "sequence_organization", "working_memory_limitations", "during", "human", "visuomotor", "sequence", "learning"]
+key_citations: ["miller1956_magical_number_seven"]
 ---
 
 ### One-line summary

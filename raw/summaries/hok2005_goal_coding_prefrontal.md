@@ -1,11 +1,18 @@
 ---
-source_file: hok2005_goal_coding_prefrontal.md
+source_file: "hok2005_goal_coding_prefrontal.md"
+paper_id: "hok2005_goal_coding_prefrontal"
 title: "Coding for spatial goals in the prelimbic/infralimbic area of the rat frontal cortex"
-authors: V. Hok, E. Save, P. P. Lenck-Santini, B. Poucet
+authors: "V. Hok, E. Save, P. P. Lenck-Santini, B. Poucet"
 year: 2005
-journal: Proceedings of the National Academy of Sciences USA
-paper_type: empirical
-contribution_type: empirical
+journal: "Proceedings of the National Academy of Sciences USA"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["foraging_task", "navigation_task"]
+methods: ["electrophysiology"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "ventral_striatum"]
+keywords: ["coding", "spatial", "goals", "prelimbic", "infralimbic", "area", "rat", "frontal", "cortex"]
+key_citations: ["hollup2001_hippocampal_place_fields"]
 ---
 
 ### One-line summary

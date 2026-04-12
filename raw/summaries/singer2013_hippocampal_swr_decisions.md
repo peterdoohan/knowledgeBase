@@ -1,11 +1,18 @@
 ---
-source_file: singer2013_hippocampal_swr_decisions.md
-title: Hippocampal SWR Activity Predicts Correct Decisions during the Initial Learning of an Alternation Task
-authors: Annabelle C. Singer, Margaret F. Carr, Mattias P. Karlsson, Loren M. Frank
+source_file: "singer2013_hippocampal_swr_decisions.md"
+paper_id: "singer2013_hippocampal_swr_decisions"
+title: "Hippocampal SWR Activity Predicts Correct Decisions during the Initial Learning of an Alternation Task"
+authors: "Annabelle C. Singer, Margaret F. Carr, Mattias P. Karlsson, Loren M. Frank"
 year: 2013
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["hippocampal", "swr", "activity", "predicts", "correct", "decisions", "during", "initial", "learning", "alternation"]
+key_citations: ["girardeau2009_ripples_spatial_memory", "davidson2009_hippocampal_replay_extended", "gupta2010_replay_not_simple_function", "johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

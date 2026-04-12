@@ -1,11 +1,17 @@
 ---
-source_file: dorrell2022_actionable_grid_cells.md
-title: Actionable Neural Representations: Grid Cells from Minimal Constraints
-authors: William Dorrell, Peter E. Latham, Timothy E.J. Behrens, James C.R. Whittington
+source_file: "dorrell2022_actionable_grid_cells.md"
+paper_id: "dorrell2022_actionable_grid_cells"
+title: "Actionable Neural Representations: Grid Cells from Minimal Constraints"
+authors: "William Dorrell, Peter E. Latham, Timothy E.J. Behrens, James C.R. Whittington"
 year: 2022
-journal: Preprint (under review)
-paper_type: computational
-contribution_type: theoretical
+journal: "Preprint (under review)"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks", "tolman_eichenbaum_machine"]
+keywords: ["grid_cells", "actionable_representations", "group_theory", "representation_theory", "path_integration", "spatial_navigation", "hexagonal_tuning", "modularity", "continuous_attractor_networks", "efficient_coding", "non_negative_firing_rates", "constrained_optimization", "neural_coding", "cognitive_maps", "toroidal_topology", "zero_shot_inference", "fourier_analysis", "harmonic_tussle", "place_cells", "head_direction_cells"]
+key_citations: ["tolman1948_cognitive_maps_rats", "whittington2020_tolman_eichenbaum_machine", "burak2009_path_integration_grid_cells"]
 ---
 
 ### One-line summary

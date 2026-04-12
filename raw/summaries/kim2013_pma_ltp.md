@@ -1,11 +1,16 @@
 ---
-source_file: kim2013_pma_ltp.md
-title: "Phorbol 12-Myristate 13-Acetate Enhances Long-Term Potentiation in the Hippocampus through Activation of Protein Kinase C δ and ε"
-authors: Eung Chang Kim, Myeong Jong Lee, Sang Yep Shin, Geun Hee Seol, Seung Ho Han, Jaeyong Yee, Chan Kim, Sun Seek Min
+source_file: "kim2013_pma_ltp.md"
+paper_id: "kim2013_pma_ltp"
+title: "Phorbol 12-Myristate 13-Acetate Enhances Long-Term Potentiation in the Hippocampus through Activation of Protein Kinase C \u03b4 and \u03b5"
+authors: "Eung Chang Kim, Myeong Jong Lee, Sang Yep Shin, Geun Hee Seol, Seung Ho Han, Jaeyong Yee, Chan Kim, Sun Seek Min"
 year: 2013
-journal: Korean Journal of Physiology and Pharmacology
-paper_type: empirical
-contribution_type: empirical
+journal: "Korean Journal of Physiology and Pharmacology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+frameworks: ["reinforcement_learning"]
+keywords: ["phorbol", "myristate", "acetate", "enhances", "long", "term", "potentiation", "hippocampus", "through", "activation"]
 ---
 
 ### One-line summary

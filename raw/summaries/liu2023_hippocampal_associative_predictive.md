@@ -1,11 +1,19 @@
 ---
-source_file: liu2023_hippocampal_associative_predictive.md
+source_file: "liu2023_hippocampal_associative_predictive.md"
+paper_id: "liu2023_hippocampal_associative_predictive"
 title: "Associative and predictive hippocampal codes support memory-guided behaviors"
-authors: Can Liu, Ralitsa Todorova, Wenbo Tang, Azahara Oliva, Antonio Fernandez-Ruiz
+authors: "Can Liu, Ralitsa Todorova, Wenbo Tang, Azahara Oliva, Antonio Fernandez-Ruiz"
 year: 2023
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["linear_track"]
+methods: ["optogenetics", "computational_modeling", "bayesian_decoding"]
+brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["successor_representation"]
+keywords: ["stachenfeld", "botvinick_and_gershman_2017_hippocampus_as_a_predictive_map_nat_neurosci", "el_gaby_et_al_2021_emergent_neural_coactivity_code_for_dynamic_memory_nat_neurosci", "wang_et_al_2015_theta_sequences_essential_for_internally_generated_hippocampal_firing_fields_nat_neurosci", "girardeau_et_al_2009_swr_suppression_impairs_spatial_memory_nat_neurosci", "jadhav_et_al_2012_awake_swrs_support_spatial_memory_science", "fernandez_ruiz_et_al_2017_entorhinal_ca3_dual_input_control_via_theta_gamma_coupling_neuron", "dragoi_and_buzsaki_2006_temporal_encoding_of_place_sequences_by_ca3_assemblies_neuron", "harvey_et_al_2023_hippocampo_cortical_circuits_for_memory_encoding", "routing", "and_replay_neuron", "oliva_et_al_2020_ca2_swrs_reactivate_social_memory_nature", "named_models_or_frameworks", "associative_code_predictive_code_distinction_this_papers_framework", "successor_representation_stachenfeld_et_al", "cognitive_map_okeefe_and_nadel", "theta_sequences", "sharp_waveripple_swr_replay", "spike_timing_dependent_plasticity_stdp_symmetric_ca3ca3_and_asymmetric_ca3ca1", "conditioned_place_preference_cpp_task"]
+key_citations: ["stachenfeld2017_hippocampus_predictive_map"]
 ---
 
 ### One-line summary

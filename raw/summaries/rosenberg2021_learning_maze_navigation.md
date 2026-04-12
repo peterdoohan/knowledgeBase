@@ -1,11 +1,16 @@
 ---
-source_file: rosenberg2021_learning_maze_navigation.md
-title: Mice in a labyrinth show rapid learning, sudden insight, and efficient exploration
-authors: Matthew Rosenberg, Tony Zhang, Pietro Perona, Markus Meister
+source_file: "rosenberg2021_learning_maze_navigation.md"
+paper_id: "rosenberg2021_learning_maze_navigation"
+title: "Mice in a labyrinth show rapid learning, sudden insight, and efficient exploration"
+authors: "Matthew Rosenberg, Tony Zhang, Pietro Perona, Markus Meister"
 year: 2021
-journal: eLife
-paper_type: empirical
-contribution_type: empirical
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+brain_regions: ["hippocampus", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["tolman_ec_1948_cognitive_maps", "gallistel_et_al_2004_discontinuous_learning_curves", "carandini_and_churchland_2013_2afc_task_limitations", "bruce_1959_rapid_olfactory_learning_bruce_effect", "fanselow_and_bolles_1979_fear_conditioning", "fonio_et_al_2009_free_exploration_in_rodents", "wood_et_al_2018_honeycomb_maze", "behrens_et_al_2018_cognitive_maps_and_flexible_behavior", "named_models_or_frameworks", "cognitive_map_tolman", "biased_random_walk_model", "markov_chain_models_fixed_depth_and_variable_depth", "two_alternative_forced_choice_2afc_paradigm", "ariadnes_thread_theseus_strategy", "brain_regions", "hippocampus_implied", "for_cognitive_maps_and_path_integration", "prefrontal_cortex_implied", "for_behavioral_strategy_switching", "dopaminergic_systems_implied"]
 ---
 
 ### One-line summary

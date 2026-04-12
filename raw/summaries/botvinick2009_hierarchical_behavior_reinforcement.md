@@ -1,11 +1,16 @@
 ---
-source_file: botvinick2009_hierarchical_behavior_reinforcement.md
+source_file: "botvinick2009_hierarchical_behavior_reinforcement.md"
+paper_id: "botvinick2009_hierarchical_behavior_reinforcement"
 title: "Hierarchically organized behavior and its neural foundations: A reinforcement-learning perspective"
-authors: Matthew M. Botvinick, Yael Niv, Andrew C. Barto
+authors: "Matthew M. Botvinick, Yael Niv, Andrew C. Barto"
 year: 2009
-journal: Cognition
-paper_type: computational
-contribution_type: theoretical
+journal: "Cognition"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "dorsolateral_striatum", "ventral_striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "hierarchical_rl", "temporal_difference_learning"]
+keywords: ["sutton", "precup", "and_singh_1999_options_framework", "barto_and_mahadevan_2003_review_of_hrl", "dietterich_2000_maxq_framework", "parr_and_russell_1998_ham_framework", "daw", "niv", "and_dayan_2005_model_free_vs_model_based_rl_and_dual_mode_action_control", "schultz", "dayan", "and_montague_1997_dopamine_and_td_learning", "oreilly_and_frank_2006_frontostriatal_rl_and_working_memory", "miller_and_cohen_2001_guided_activation_theory_of_pfc", "montague", "and_sejnowski_1996_dopamine_as_prediction_error", "named_models_or_frameworks", "options_framework_sutton_et_al", "1999", "actor_critic_architecture"]
 ---
 
 ### One-line summary

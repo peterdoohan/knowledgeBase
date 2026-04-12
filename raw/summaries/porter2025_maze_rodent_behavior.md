@@ -1,11 +1,18 @@
 ---
-source_file: porter2025_maze_rodent_behavior.md
+source_file: "porter2025_maze_rodent_behavior.md"
+paper_id: "porter2025_maze_rodent_behavior"
 title: "Adapt-A-Maze: An Open-Source Adaptable and Automated Rodent Behavior Maze System"
-authors: "Blake S. Porter, Jacob M. Olson, Christopher A. Leppla, Éléonore Duvelle, John H. Bladon, Matthijs A. A. van der Meer, Shantanu P. Jadhav"
+authors: "Blake S. Porter, Jacob M. Olson, Christopher A. Leppla, \u00c9l\u00e9onore Duvelle, John H. Bladon, Matthijs A. A. van der Meer, Shantanu P. Jadhav"
 year: 2025
-journal: eNeuro
-paper_type: empirical
-contribution_type: methodological
+journal: "eNeuro"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["rat"]
+tasks: ["morris_water_maze"]
+methods: ["optogenetics", "electrophysiology", "tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "ventral_tegmental_area"]
+keywords: ["modular_maze", "open_source_hardware", "automated_behavior", "rodent_navigation", "electrophysiology_compatible", "lick_detection", "pneumatic_barriers", "spatial_memory", "reward_delivery", "reproducibility", "systems_neuroscience", "tetrode_recording", "place_cells", "dopamine_neurons", "sequence_memory", "adapt", "maze", "open", "source", "adaptable"]
+key_citations: ["wijnen2024_maze_learning"]
 ---
 
 ### One-line summary

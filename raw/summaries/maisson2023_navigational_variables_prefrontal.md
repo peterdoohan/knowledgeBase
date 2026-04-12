@@ -1,11 +1,18 @@
 ---
-source_file: maisson2023_navigational_variables_prefrontal.md
+source_file: "maisson2023_navigational_variables_prefrontal.md"
+paper_id: "maisson2023_navigational_variables_prefrontal"
 title: "Widespread coding of navigational variables in prefrontal cortex"
-authors: David J.-N. Maisson, Roberto Lopez Cervera, Benjamin Voloh, Indirah Conover, Mrunal Zambre, Jan Zimmermann, Benjamin Y. Hayden
+authors: "David J.-N. Maisson, Roberto Lopez Cervera, Benjamin Voloh, Indirah Conover, Mrunal Zambre, Jan Zimmermann, Benjamin Y. Hayden"
 year: 2023
-journal: Current Biology
-paper_type: empirical
-contribution_type: empirical
+journal: "Current Biology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque"]
+tasks: ["open_field", "foraging_task", "navigation_task"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
+frameworks: ["mixed_selectivity"]
+keywords: ["widespread", "coding", "navigational", "variables", "prefrontal", "cortex"]
+key_citations: ["behrens2018_cognitive_map_organizing_knowledge"]
 ---
 
 ### One-line summary

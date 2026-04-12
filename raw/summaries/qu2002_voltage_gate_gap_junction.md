@@ -1,11 +1,14 @@
 ---
-source_file: qu2002_voltage_gate_gap_junction.md
-title: Function of the voltage gate of gap junction channels: Selective exclusion of molecules
-authors: Yang Qu, Gerhard Dahl
+source_file: "qu2002_voltage_gate_gap_junction.md"
+paper_id: "qu2002_voltage_gate_gap_junction"
+title: "Function of the voltage gate of gap junction channels: Selective exclusion of molecules"
+authors: "Yang Qu, Gerhard Dahl"
 year: 2002
-journal: Proceedings of the National Academy of Sciences
-paper_type: empirical
-contribution_type: empirical
+journal: "Proceedings of the National Academy of Sciences"
+paper_type: "empirical"
+contribution_type: "empirical"
+methods: ["electrophysiology"]
+keywords: ["function", "voltage", "gate", "gap", "junction", "channels", "selective", "exclusion", "molecules"]
 ---
 
 ### One-line summary

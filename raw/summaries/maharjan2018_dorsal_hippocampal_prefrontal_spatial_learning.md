@@ -1,11 +1,18 @@
 ---
-source_file: maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning.md
-title: "Disruption of dorsal hippocampal – prefrontal interactions using chemogenetic inactivation impairs spatial learning"
-authors: Dennis M. Maharjan, Yu Y. Dai, Ethan H. Glantz, Shantanu P. Jadhav
+source_file: "maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning.md"
+paper_id: "maharjan2018_dorsal_hippocampal_prefrontal_spatial_learning"
+title: "Disruption of dorsal hippocampal \u2013 prefrontal interactions using chemogenetic inactivation impairs spatial learning"
+authors: "Dennis M. Maharjan, Yu Y. Dai, Ethan H. Glantz, Shantanu P. Jadhav"
 year: 2018
-journal: Neurobiology of Learning and Memory
-paper_type: empirical
-contribution_type: empirical
+journal: "Neurobiology of Learning and Memory"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["optogenetics", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "infralimbic_cortex", "ventral_hippocampus"]
+frameworks: ["reinforcement_learning"]
+keywords: ["disruption", "dorsal", "hippocampal", "prefrontal", "interactions", "chemogenetic", "inactivation", "impairs", "spatial", "learning"]
+key_citations: ["jadhav2016_hippocampal_prefrontal_swr"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: kashay2023_acc_effort_decision.md
-title: Neural activity in the anterior cingulate cortex is required for effort-based decision making
-authors: Adrienne Q. Kashay, Jovian Y. Cheung, Rahil N. Vaknalli, Molly J. Delaney, Michael B. Navarro Jr., Christabelle Junaidi, Faith Veenker, Morgan E. Neuwirth, Christopher J. Gabriel, Laura A. DeNardo, Scott A. Wilke
+source_file: "kashay2023_ACC_effort_decision.md"
+paper_id: "kashay2023_ACC_effort_decision"
+title: "Neural activity in the anterior cingulate cortex is required for effort-based decision making"
+authors: "Adrienne Q. Kashay, Jovian Y. Cheung, Rahil N. Vaknalli, Molly J. Delaney, Michael B. Navarro Jr., Christabelle Junaidi, Faith Veenker, Morgan E. Neuwirth, Christopher J. Gabriel, Laura A. DeNardo, Scott A. Wilke"
 year: 2023
-journal: bioRxiv (preprint)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat"]
+tasks: ["open_field", "t_maze"]
+methods: ["calcium_imaging", "optogenetics", "electrophysiology", "computational_modeling", "lesion"]
+brain_regions: ["anterior_cingulate_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "thalamus", "mediodorsal_thalamus", "amygdala", "basolateral_amygdala"]
+keywords: ["neural", "activity", "anterior", "cingulate", "cortex", "required", "effort", "based", "decision", "making"]
+key_citations: ["gabriel2022_behaviordepot_detection"]
 ---
 
 ### One-line summary

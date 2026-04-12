@@ -1,11 +1,14 @@
 ---
-source_file: carvalho2021_farm_object_centric.md
+source_file: "carvalho2021_farm_object_centric.md"
+paper_id: "carvalho2021_farm_object_centric"
 title: "Feature-Attending Recurrent Modules for Generalizing Object-Centric Behavior"
-authors: Wilka Carvalho, Andrew Lampinen, Kyriacos Nikiforou, Felix Hill, Murray Shanahan
+authors: "Wilka Carvalho, Andrew Lampinen, Kyriacos Nikiforou, Felix Hill, Murray Shanahan"
 year: 2021
-journal: ICLR (inferred from venue context; paper references 2021 submissions)
-paper_type: computational
-contribution_type: methodological
+journal: "ICLR (inferred from venue context; paper references 2021 submissions)"
+paper_type: "computational"
+contribution_type: "methodological"
+frameworks: ["reinforcement_learning"]
+keywords: ["feature", "attending", "recurrent", "modules", "generalizing", "object", "centric", "behavior"]
 ---
 
 ### One-line summary

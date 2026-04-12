@@ -1,11 +1,16 @@
 ---
-source_file: hulsmann2017_sulforhodamine101_astrocyte_imaging.md
-title: Limitations of Sulforhodamine 101 for Brain Imaging
-authors: Swen Hülsmann, Liya Hagos, Heike Heuer, Christian Schnell
+source_file: "hulsmann2017_sulforhodamine101_astrocyte_imaging.md"
+paper_id: "hulsmann2017_sulforhodamine101_astrocyte_imaging"
+title: "Limitations of Sulforhodamine 101 for Brain Imaging"
+authors: "Swen H\u00fclsmann, Liya Hagos, Heike Heuer, Christian Schnell"
 year: 2017
-journal: Frontiers in Cellular Neuroscience
-paper_type: empirical
-contribution_type: methodological
+journal: "Frontiers in Cellular Neuroscience"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+keywords: ["limitations", "sulforhodamine", "101", "brain", "imaging"]
+key_citations: ["nimmerjahn2004_sulforhodamine_astroglia", "schnell2015_oatp1c1_sr101_astrocytes", "hill2014_oligodendrocytes_sulforhodamine"]
 ---
 
 ### One-line summary

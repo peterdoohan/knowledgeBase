@@ -1,11 +1,17 @@
 ---
-source_file: lacroix2002_medial_prefrontal_spatial.md
+source_file: "lacroix2002_medial_prefrontal_spatial.md"
+paper_id: "lacroix2002_medial_prefrontal_spatial"
 title: "Effect of excitotoxic lesions of rat medial prefrontal cortex on spatial memory"
-authors: Laurent Lacroix, Ilsun White, Joram Feldon
+authors: "Laurent Lacroix, Ilsun White, Joram Feldon"
 year: 2002
-journal: Behavioural Brain Research
-paper_type: empirical
-contribution_type: empirical
+journal: "Behavioural Brain Research"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["morris_water_maze", "open_field", "navigation_task"]
+methods: ["lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "thalamus", "mediodorsal_thalamus"]
+keywords: ["effect", "excitotoxic", "lesions", "rat", "medial", "prefrontal", "cortex", "spatial", "memory"]
 ---
 
 ### One-line summary

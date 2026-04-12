@@ -1,11 +1,13 @@
 ---
-source_file: meunier2024_nonlinear_metalearning.md
+source_file: "meunier2024_nonlinear_metalearning.md"
+paper_id: "meunier2024_nonlinear_metalearning"
 title: "Nonlinear Meta-learning Can Guarantee Faster Rates"
-authors: Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe
+authors: "Dimitri Meunier, Zhu Li, Arthur Gretton, Samory Kpotufe"
 year: 2024
-journal: arXiv preprint (venue not stated in document)
-paper_type: computational
-contribution_type: theoretical
+journal: "arXiv preprint (venue not stated in document)"
+paper_type: "computational"
+contribution_type: "theoretical"
+keywords: ["nonlinear", "meta", "learning", "can", "guarantee", "faster", "rates"]
 ---
 
 ### One-line summary

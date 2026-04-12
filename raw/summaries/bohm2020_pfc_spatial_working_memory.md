@@ -1,11 +1,17 @@
 ---
-source_file: bohm2020_pfc_spatial_working_memory.md
+source_file: "bohm2020_pfc_spatial_working_memory.md"
+paper_id: "bohm2020_pfc_spatial_working_memory"
 title: "Canonical goal-selective representations are absent from prefrontal cortex in a spatial working memory task requiring behavioral flexibility"
-authors: Claudia Böhm, Albert K Lee
+authors: "Claudia B\u00f6hm, Albert K Lee"
 year: 2020
-journal: eLife
-paper_type: empirical
-contribution_type: empirical
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["electrophysiology", "neuropixels", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex", "infralimbic_cortex"]
+keywords: ["canonical", "goal", "selective", "representations", "absent", "prefrontal", "cortex", "spatial", "working", "memory"]
+key_citations: ["fujisawa2008_assembly_prefrontal_cortex"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: huang2020_model_based_model_free_neural.md
+source_file: "huang2020_model_based_model_free_neural.md"
+paper_id: "huang2020_model_based_model_free_neural"
 title: "Goal-oriented and habitual decisions: Neural signatures of model-based and model-free learning"
-authors: Yi Huang, Zachary A. Yaple, Rongjun Yu
+authors: "Yi Huang, Zachary A. Yaple, Rongjun Yu"
 year: 2020
-journal: NeuroImage
-paper_type: review
-contribution_type: review
+journal: "NeuroImage"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["two_step_task"]
+methods: ["fmri"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["model_based_reinforcement_learning", "model_free_reinforcement_learning", "neuroimaging_meta_analysis", "activation_likelihood_estimation", "ventral_striatum", "reward_prediction_error", "goal_directed_behaviour", "habitual_behaviour", "basal_ganglia", "prefrontal_cortex", "fmri", "computational_psychiatry", "goal", "oriented", "habitual", "decisions", "neural", "signatures", "model", "based"]
+key_citations: ["russek2017_model_based_reinforcement"]
 ---
 
 ### One-line summary

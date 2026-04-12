@@ -1,11 +1,16 @@
 ---
-source_file: piray2020_linear_reinforcement_learning.md
+source_file: "piray2020_linear_reinforcement_learning.md"
+paper_id: "piray2020_linear_reinforcement_learning"
 title: "Linear reinforcement learning: Flexible reuse of computation in planning, grid fields, and cognitive control"
-authors: Payam Piray, Nathaniel D. Daw
+authors: "Payam Piray, Nathaniel D. Daw"
 year: 2020
-journal: bioRxiv
-paper_type: computational
-contribution_type: theoretical
+journal: "bioRxiv"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["detour_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "striatum", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "temporal_difference_learning"]
+keywords: ["todorov_2007", "2009_linearly_solvable_mdps_and_control_theory_foundations", "dayan_1993_successor_representation", "stachenfeld_et_al_2017_sr_and_hippocampal_predictive_maps", "momennejad_et_al_2017", "russek_et_al_2017_sr_limitations_for_replanning", "tolman_1948_cognitive_maps_and_latent_learning", "hafting_et_al_2005_grid_cells", "solstad_et_al_2008_border_cells", "daw_et_al_2005_model_based_vs_model_free_rl", "kappen_2005_linear_control_theory", "named_models_or_frameworks", "linear_reinforcement_learning_linear_rl", "default_representation_dr", "successor_representation_sr", "markov_decision_processes_mdps", "bellman_equation", "model_based_rl", "model_free_rl", "kl_divergence_control_cost"]
 ---
 
 ### One-line summary

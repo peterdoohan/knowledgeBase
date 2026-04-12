@@ -1,11 +1,19 @@
 ---
-source_file: mugan_redish2024_environmental_complexity_decision.md
-title: Environmental complexity modulates information processing and the balance between decision-making systems
-authors: Ugurcan Mugan, Samantha L. Hoffman, A. David Redish
+source_file: "mugan_redish2024_environmental_complexity_decision.md"
+paper_id: "mugan_redish2024_environmental_complexity_decision"
+title: "Environmental complexity modulates information processing and the balance between decision-making systems"
+authors: "Ugurcan Mugan, Samantha L. Hoffman, A. David Redish"
 year: 2024
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["foraging_task"]
+methods: ["optogenetics", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "striatum", "dorsolateral_striatum"]
+frameworks: ["reinforcement_learning"]
+keywords: ["environmental", "complexity", "modulates", "information", "processing", "balance", "between", "decision", "making", "systems"]
+key_citations: ["redish2016_vicarious_trial_error_b", "gupta2012_theta_sequences_experience", "johnson2007_hippocampus_decision", "hasz2020_spatial_encoding_deliberation"]
 ---
 
 ### One-line summary

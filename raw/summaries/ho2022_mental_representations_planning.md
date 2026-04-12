@@ -1,11 +1,18 @@
 ---
-source_file: ho2022_mental_representations_planning.md
+source_file: "ho2022_mental_representations_planning.md"
+paper_id: "ho2022_mental_representations_planning"
 title: "People construct simplified mental representations to plan"
-authors: Mark K. Ho, David Abel, Carlos G. Correa, Michael L. Littman, Jonathan D. Cohen, Thomas L. Griffiths
+authors: "Mark K. Ho, David Abel, Carlos G. Correa, Michael L. Littman, Jonathan D. Cohen, Thomas L. Griffiths"
 year: 2022
-journal: Nature
-paper_type: computational
-contribution_type: theoretical
+journal: "Nature"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["mouse", "human"]
+tasks: ["navigation_task"]
+brain_regions: ["prefrontal_cortex"]
+frameworks: ["successor_representation"]
+keywords: ["people", "construct", "simplified", "mental", "representations", "plan"]
+key_citations: ["gershman2018_successor_representation_learning"]
 ---
 
 ### One-line summary

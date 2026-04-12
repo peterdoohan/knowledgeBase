@@ -1,11 +1,18 @@
 ---
-source_file: daw2005_uncertainty_prefrontal_striatal.md
+source_file: "daw2005_uncertainty_prefrontal_striatal.md"
+paper_id: "daw2005_uncertainty_prefrontal_striatal"
 title: "Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control"
-authors: Nathaniel D Daw, Yael Niv, Peter Dayan
+authors: "Nathaniel D Daw, Yael Niv, Peter Dayan"
 year: 2005
-journal: Nature Neuroscience
-paper_type: computational
-contribution_type: theoretical
+journal: "Nature Neuroscience"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["rat"]
+methods: ["lesion"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "infralimbic_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "amygdala", "basolateral_amygdala"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "temporal_difference_learning"]
+keywords: ["uncertainty", "based", "competition", "between", "prefrontal", "dorsolateral", "striatal", "systems", "behavioral", "control"]
+key_citations: ["coutureau2003_infralimbic_prefrontal_goal"]
 ---
 
 ### One-line summary

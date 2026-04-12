@@ -1,11 +1,17 @@
 ---
-source_file: gabriel2022_behaviordepot_detection.md
+source_file: "gabriel2022_behaviordepot_detection.md"
+paper_id: "gabriel2022_behaviordepot_detection"
 title: "BehaviorDEPOT is a simple, flexible tool for automated behavioral detection based on markerless pose tracking"
-authors: Christopher J Gabriel, Zachary Zeidler, Benita Jin, Changliang Guo, Caitlin M Goodpaster, Adrienne Q Kashay, Anna Wu, Molly Delaney, Jovian Cheung, Lauren E DiFazio, Melissa J Sharpe, Daniel Aharoni, Scott A Wilke, Laura A DeNardo
+authors: "Christopher J Gabriel, Zachary Zeidler, Benita Jin, Changliang Guo, Caitlin M Goodpaster, Adrienne Q Kashay, Anna Wu, Molly Delaney, Jovian Cheung, Lauren E DiFazio, Melissa J Sharpe, Daniel Aharoni, Scott A Wilke, Laura A DeNardo"
 year: 2022
-journal: eLife
-paper_type: empirical
-contribution_type: methodological
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse", "rat"]
+tasks: ["t_maze"]
+methods: ["calcium_imaging", "optogenetics", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex"]
+keywords: ["behaviordepot", "simple", "flexible", "tool", "automated", "behavioral", "detection", "based", "markerless", "pose"]
 ---
 
 ### One-line summary

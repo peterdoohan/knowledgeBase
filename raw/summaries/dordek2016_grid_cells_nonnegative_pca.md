@@ -1,11 +1,16 @@
 ---
-source_file: dordek2016_grid_cells_nonnegative_pca.md
+source_file: "dordek2016_grid_cells_nonnegative_pca.md"
+paper_id: "dordek2016_grid_cells_nonnegative_pca"
 title: "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis"
-authors: Yedidyah Dordek, Daniel Soudry, Ron Meir, Dori Derdikman
+authors: "Yedidyah Dordek, Daniel Soudry, Ron Meir, Dori Derdikman"
 year: 2016
-journal: eLife
-paper_type: computational
-contribution_type: theoretical
+journal: "eLife"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["extracting", "grid", "cell", "characteristics", "place", "inputs", "non", "negative", "principal", "component"]
 ---
 
 ### One-line summary

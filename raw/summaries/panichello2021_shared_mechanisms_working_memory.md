@@ -1,11 +1,17 @@
 ---
-source_file: panichello2021_shared_mechanisms_working_memory.md
+source_file: "panichello2021_shared_mechanisms_working_memory.md"
+paper_id: "panichello2021_shared_mechanisms_working_memory"
 title: "Shared mechanisms underlie the control of working memory and attention"
-authors: Matthew F. Panichello, Timothy J. Buschman
+authors: "Matthew F. Panichello, Timothy J. Buschman"
 year: 2021
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque"]
+methods: ["electrophysiology", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex"]
+frameworks: ["mixed_selectivity"]
+keywords: ["shared", "mechanisms", "underlie", "control", "working", "memory", "attention"]
 ---
 
 ### One-line summary

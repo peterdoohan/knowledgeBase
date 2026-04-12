@@ -1,11 +1,17 @@
 ---
-source_file: baker2022_representation_neuroscience_three_aspects.md
+source_file: "baker2022_representation_neuroscience_three_aspects.md"
+paper_id: "baker2022_representation_neuroscience_three_aspects"
 title: "Three aspects of representation in neuroscience"
-authors: Ben Baker, Benjamin Lansdell, Konrad P. Kording
+authors: "Ben Baker, Benjamin Lansdell, Konrad P. Kording"
 year: 2022
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: theoretical
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["computational_modeling"]
+brain_regions: ["hippocampus", "visual_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["three", "aspects", "representation", "neuroscience"]
 ---
 
 ### One-line summary

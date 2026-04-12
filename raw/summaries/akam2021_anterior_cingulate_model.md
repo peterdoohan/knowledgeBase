@@ -1,11 +1,19 @@
 ---
-source_file: akam2021_anterior_cingulate_model.md
+source_file: "akam2021_anterior_cingulate_model.md"
+paper_id: "akam2021_anterior_cingulate_model"
 title: "The Anterior Cingulate Cortex Predicts Future States to Mediate Model-Based Action Selection"
-authors: Thomas Akam, Ines Rodrigues-Vaz, Ivo Marcelo, Xiangyu Zhang, Michael Pereira, Rodrigo Freire Oliveira, Peter Dayan, Rui M. Costa
+authors: "Thomas Akam, Ines Rodrigues-Vaz, Ivo Marcelo, Xiangyu Zhang, Michael Pereira, Rodrigo Freire Oliveira, Peter Dayan, Rui M. Costa"
 year: 2021
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["two_step_task", "probabilistic_reversal_learning"]
+methods: ["calcium_imaging", "optogenetics", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "striatum", "dorsomedial_striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["model_based_reinforcement_learning", "model_free_reinforcement_learning", "anterior_cingulate_cortex_acc", "two_step_task", "state_prediction", "action_outcome_learning", "calcium_imaging", "optogenetics", "jaws", "gcamp6f", "miniscope", "mice", "sequential_decision_making", "transition_probability", "state_prediction_error", "goal_directed_behavior", "habitual_behavior", "dorsomedial_striatum", "alexander_and_brown_model", "forward_model"]
+key_citations: ["daw2011_model_based_striatal_prediction", "daw2005_uncertainty_prefrontal_striatal"]
 ---
 
 ### One-line summary

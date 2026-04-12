@@ -1,11 +1,14 @@
 ---
-source_file: ganguli2022_dimensionality_behavior.md
+source_file: "ganguli2022_dimensionality_behavior.md"
+paper_id: "ganguli2022_dimensionality_behavior"
 title: "Measuring the dimensionality of behavior"
-authors: Surya Ganguli
+authors: "Surya Ganguli"
 year: 2022
-journal: PNAS (Proceedings of the National Academy of Sciences), Vol. 119 No. 43
-paper_type: review
-contribution_type: theoretical
+journal: "PNAS (Proceedings of the National Academy of Sciences), Vol. 119 No. 43"
+paper_type: "review"
+contribution_type: "theoretical"
+keywords: ["measuring", "dimensionality", "behavior"]
+key_citations: ["bialek2022_behavior_dynamics_analysis", "gao2017_neural_dimensionality_dynamics"]
 ---
 
 ### One-line summary

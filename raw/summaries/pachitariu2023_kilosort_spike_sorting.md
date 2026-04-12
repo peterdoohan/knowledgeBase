@@ -1,11 +1,15 @@
 ---
-source_file: pachitariu2023_kilosort_spike_sorting.md
+source_file: "pachitariu2023_kilosort_spike_sorting.md"
+paper_id: "pachitariu2023_kilosort_spike_sorting"
 title: "Solving the spike sorting problem with Kilosort"
-authors: Marius Pachitariu, Shashwat Sridhar, Carsen Stringer
+authors: "Marius Pachitariu, Shashwat Sridhar, Carsen Stringer"
 year: 2023
-journal: bioRxiv (preprint, posted January 7, 2023)
-paper_type: computational
-contribution_type: methodological
+journal: "bioRxiv (preprint, posted January 7, 2023)"
+paper_type: "computational"
+contribution_type: "methodological"
+methods: ["electrophysiology", "neuropixels"]
+keywords: ["solving", "spike", "sorting", "problem", "kilosort"]
+key_citations: ["buccino2020_spikeinterface_spike_sorting"]
 ---
 
 ### One-line summary

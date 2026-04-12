@@ -1,11 +1,16 @@
 ---
-source_file: hollup2001_hippocampal_place_fields.md
+source_file: "hollup2001_hippocampal_place_fields.md"
+paper_id: "hollup2001_hippocampal_place_fields"
 title: "Accumulation of Hippocampal Place Fields at the Goal Location in an Annular Watermaze Task"
-authors: Stig A. Hollup, Sturla Molden, James G. Donnett, May-Britt Moser, Edvard I. Moser
+authors: "Stig A. Hollup, Sturla Molden, James G. Donnett, May-Britt Moser, Edvard I. Moser"
 year: 2001
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["tetrode_recording", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
+keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map_foundational_cognitive_map_framework", "muller_et_al_1987_spatial_firing_patterns_in_a_fixed_environment_uniform_distribution_baseline", "morris_et_al_1982_place_navigation_impaired_in_hippocampal_lesion_rats_watermaze_paradigm", "okeefe_and_dostrovsky_1971_discovery_of_place_cells", "wilson_and_mcnaughton_1993_dynamics_of_hippocampal_ensemble_code_for_space", "frank_et_al_2000_trajectory_encoding_in_hippocampus_and_entorhinal_cortex_prospective_coding_context", "wood_et_al_1999", "2000_goal_approach_correlates_and_memory_episode_encoding_in_hippocampus", "named_models_or_frameworks", "cognitive_map_okeefe_and_nadel", "1978", "annular_watermaze_task_novel_paradigm_introduced_in_this_paper", "misplace_cells_okeefe", "1976", "ranck", "1973", "brain_regions", "dorsal_ca1_hippocampus", "keywords", "hippocampal_place_cells"]
 ---
 
 ### One-line summary

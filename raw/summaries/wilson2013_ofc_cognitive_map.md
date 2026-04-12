@@ -1,11 +1,16 @@
 ---
-source_file: wilson2013_ofc_cognitive_map.md
-title: Orbitofrontal Cortex as a Cognitive Map of Task Space
-authors: Robert C. Wilson, Yuji K. Takahashi, Geoffrey Schoenbaum, Yael Niv
+source_file: "wilson2013_ofc_cognitive_map.md"
+paper_id: "wilson2013_ofc_cognitive_map"
+title: "Orbitofrontal Cortex as a Cognitive Map of Task Space"
+authors: "Robert C. Wilson, Yuji K. Takahashi, Geoffrey Schoenbaum, Yael Niv"
 year: 2014
-journal: Neuron
-paper_type: computational
-contribution_type: theoretical
+journal: "Neuron"
+paper_type: "computational"
+contribution_type: "theoretical"
+methods: ["computational_modeling", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "ventral_tegmental_area", "substantia_nigra"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["butter_1969_reversal_learning_in_ofc_lesioned_monkeys", "takahashi_et_al_2011_vta_dopamine_recordings_after_ofc_lesions", "padoa_schioppa_and_assad_2006_economic_value_encoding_theory_of_ofc", "rescorla_and_wagner_1972_classical_conditioning_theory", "sutton_and_barto_1998_reinforcement_learning_textbook", "daw", "niv_and_dayan_2005_model_based_vs_model_free_rl", "schultz", "dayan_and_montague_1997_dopamine_prediction_errors", "gershman", "blei_and_niv_2010_context", "learning_and_extinction", "walton_et_al_2010_credit_assignment_theory_of_ofc", "noonan_et_al_2010", "2012_lateral_vs_medial_ofc_functions", "named_models_or_frameworks", "reinforcement_learning_rl_framework", "model_free_rl_q_learning", "rescorla_wagner", "model_based_rl"]
 ---
 
 ### One-line summary

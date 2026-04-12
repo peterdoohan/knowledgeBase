@@ -1,11 +1,18 @@
 ---
-source_file: hartley2003_wayfinding_route.md
-title: The Well-Worn Route and the Path Less Traveled: Distinct Neural Bases of Route Following and Wayfinding in Humans
-authors: Tom Hartley, Eleanor A. Maguire, Hugo J. Spiers, Neil Burgess
+source_file: "hartley2003_wayfinding_route.md"
+paper_id: "hartley2003_wayfinding_route"
+title: "The Well-Worn Route and the Path Less Traveled: Distinct Neural Bases of Route Following and Wayfinding in Humans"
+authors: "Tom Hartley, Eleanor A. Maguire, Hugo J. Spiers, Neil Burgess"
 year: 2003
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["virtual_navigation", "navigation_task"]
+methods: ["fmri"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "retrosplenial_cortex"]
+keywords: ["well", "worn", "route", "path", "less", "traveled", "distinct", "neural", "bases", "following"]
+key_citations: ["tolman1948_cognitive_maps_rats"]
 ---
 
 ### One-line summary

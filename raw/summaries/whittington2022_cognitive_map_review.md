@@ -1,11 +1,18 @@
 ---
-source_file: whittington2022_cognitive_map_review.md
-title: How to build a cognitive map
-authors: James C. R. Whittington, David McCaffary, Jacob J. W. Bakermans, Timothy E. J. Behrens
+source_file: "whittington2022_cognitive_map_review.md"
+paper_id: "whittington2022_cognitive_map_review"
+title: "How to build a cognitive map"
+authors: "James C. R. Whittington, David McCaffary, Jacob J. W. Bakermans, Timothy E. J. Behrens"
 year: 2022
-journal: Nature Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Nature Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+tasks: ["navigation_task"]
+methods: ["computational_modeling"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum"]
+frameworks: ["reinforcement_learning", "successor_representation", "attractor_networks", "tolman_eichenbaum_machine", "compositionality"]
+keywords: ["build", "cognitive", "map"]
+key_citations: ["tolman1948_cognitive_maps_rats", "stachenfeld2017_hippocampus_predictive_map", "whittington2020_tolman_eichenbaum_machine", "behrens2018_cognitive_map_organizing_knowledge", "burak2009_path_integration_grid_cells"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: kleinflugge2022_medial_orbital_frontal.md
+source_file: "kleinflugge2022_medial_orbital_frontal.md"
+paper_id: "kleinflugge2022_medial_orbital_frontal"
 title: "Medial and orbital frontal cortex in decision-making and flexible behavior"
-authors: Miriam C. Klein-Flügge, Alessandro Bongioanni, Matthew F.S. Rushworth
+authors: "Miriam C. Klein-Fl\u00fcgge, Alessandro Bongioanni, Matthew F.S. Rushworth"
 year: 2022
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+species: ["rat", "human", "macaque"]
+tasks: ["foraging_task"]
+methods: ["optogenetics", "electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_tegmental_area", "substantia_nigra"]
+frameworks: ["attractor_networks"]
+keywords: ["fouragnan_et_al_2019_dacc_counterfactual_value_and_tus_causal_evidence", "bongioanni_et_al_2021_amfc_grid_like_coding_and_tus_in_macaques", "klein_flugge_et_al_2019_amfc_structure_encoding", "dissociation_from_posterior_ofc", "tervo_et_al_2021_dacc_microcircuit_dissociation_exploration_vs_persistence", "amemori_and_graybiel_2012_pgacc_cost_benefit_microstimulation", "friedman_et_al_2015_pgacc_striosome_pathway_optogenetics", "rudebeck_et_al_2013_ofc_lesions_and_reversal_task_performance_in_primates", "wang_2002", "wong_and_wang_2006_biophysical_attractor_network_model", "behrens_et_al_2018_cognitive_map_framework", "hayden_and_niv_2021_challenge_to_economic_value_representations_in_ofc", "kolling_et_al_2012", "2018_dacc_foraging_and_explore_exploit_signals", "padoa_schioppa_and_conen_2017_area_13_offer_value_neurons", "named_models_or_frameworks", "marginal_value_theorem_charnov_1976_foraging_opportunity_cost", "biophysical_attractor_network_wang_model_vmpfc_choice_comparison", "grid_cell_cognitive_map_framework_behrens_et_al_2018", "whittington_et_al_2020_amfc_abstract_space_coding"]
+key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "whittington2020_tolman_eichenbaum_machine"]
 ---
 
 ### One-line summary

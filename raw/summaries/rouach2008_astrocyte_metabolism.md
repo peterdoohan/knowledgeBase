@@ -1,11 +1,15 @@
 ---
-source_file: rouach2008_astrocyte_metabolism.md
-title: Astroglial Metabolic Networks Sustain Hippocampal Synaptic Transmission
-authors: Nathalie Rouach, Annette Koulakoff, Veronica Abudara, Klaus Willecke, Christian Giaume
+source_file: "rouach2008_astrocyte_metabolism.md"
+paper_id: "rouach2008_astrocyte_metabolism"
+title: "Astroglial Metabolic Networks Sustain Hippocampal Synaptic Transmission"
+authors: "Nathalie Rouach, Annette Koulakoff, Veronica Abudara, Klaus Willecke, Christian Giaume"
 year: 2008
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+keywords: ["astroglial", "metabolic", "networks", "sustain", "hippocampal", "synaptic", "transmission"]
 ---
 
 ### One-line summary

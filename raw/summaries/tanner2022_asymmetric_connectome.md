@@ -1,11 +1,15 @@
 ---
-source_file: tanner2022_asymmetric_connectome.md
+source_file: "tanner2022_asymmetric_connectome.md"
+paper_id: "tanner2022_asymmetric_connectome"
 title: "Redefining the connectome: A multi-modal, asymmetric, weighted, and signed description of anatomical connectivity"
-authors: Jacob Tanner, Joshua Faskowitz, Andreia Sofia Teixeira, Caio Seguin, Ludovico Coletta, Alessandro Gozzi, Bratislav Misic, Richard F. Betzel
+authors: "Jacob Tanner, Joshua Faskowitz, Andreia Sofia Teixeira, Caio Seguin, Ludovico Coletta, Alessandro Gozzi, Bratislav Misic, Richard F. Betzel"
 year: 2022
-journal: bioRxiv (preprint, posted December 19, 2022)
-paper_type: computational
-contribution_type: methodological
+journal: "bioRxiv (preprint, posted December 19, 2022)"
+paper_type: "computational"
+contribution_type: "methodological"
+species: ["mouse", "human"]
+methods: ["fmri"]
+keywords: ["redefining", "connectome", "multi", "modal", "asymmetric", "weighted", "signed", "description", "anatomical", "connectivity"]
 ---
 
 ### One-line summary

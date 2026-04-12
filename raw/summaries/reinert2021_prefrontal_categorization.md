@@ -1,11 +1,17 @@
 ---
-source_file: reinert2021_prefrontal_categorization.md
+source_file: "reinert2021_prefrontal_categorization.md"
+paper_id: "reinert2021_prefrontal_categorization"
 title: "Mouse prefrontal cortex represents learned rules for categorization"
-authors: Sandra Reinert, Mark Hübener, Tobias Bonhoeffer, Pieter M. Goltstein
+authors: "Sandra Reinert, Mark H\u00fcbener, Tobias Bonhoeffer, Pieter M. Goltstein"
 year: 2021
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["calcium_imaging", "bayesian_decoding"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "striatum"]
+frameworks: ["mixed_selectivity"]
+keywords: ["mouse", "prefrontal", "cortex", "represents", "learned", "rules", "categorization"]
 ---
 
 ### One-line summary

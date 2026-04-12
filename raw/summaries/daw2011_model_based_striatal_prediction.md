@@ -1,11 +1,18 @@
 ---
-source_file: daw2011_model_based_striatal_prediction.md
+source_file: "daw2011_model_based_striatal_prediction.md"
+paper_id: "daw2011_model_based_striatal_prediction"
 title: "Model-Based Influences on Humans' Choices and Striatal Prediction Errors"
-authors: Nathaniel D. Daw, Samuel J. Gershman, Ben Seymour, Peter Dayan, Raymond J. Dolan
+authors: "Nathaniel D. Daw, Samuel J. Gershman, Ben Seymour, Peter Dayan, Raymond J. Dolan"
 year: 2011
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["fmri", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "temporal_difference_learning"]
+keywords: ["model", "based", "influences", "humans", "choices", "striatal", "prediction", "errors"]
+key_citations: ["daw2005_uncertainty_prefrontal_striatal"]
 ---
 
 ### One-line summary

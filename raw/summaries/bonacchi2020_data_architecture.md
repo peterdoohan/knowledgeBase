@@ -1,11 +1,15 @@
 ---
-source_file: bonacchi2020_data_architecture.md
-title: Data architecture for a large-scale neuroscience collaboration
-authors: Niccolò Bonacchi, Gaelle Chapuis, Anne Churchland, Kenneth D. Harris, Max Hunter, Cyrille Rossant, Maho Sasaki, Shan Shen, Nicholas Steinmetz, Edgar Y. Walker, Olivier Winter, Miles Wells
+source_file: "bonacchi2020_data_architecture.md"
+paper_id: "bonacchi2020_data_architecture"
+title: "Data architecture for a large-scale neuroscience collaboration"
+authors: "Niccol\u00f2 Bonacchi, Gaelle Chapuis, Anne Churchland, Kenneth D. Harris, Max Hunter, Cyrille Rossant, Maho Sasaki, Shan Shen, Nicholas Steinmetz, Edgar Y. Walker, Olivier Winter, Miles Wells"
 year: 2020
-journal: bioRxiv (preprint)
-paper_type: empirical
-contribution_type: methodological
+journal: "bioRxiv (preprint)"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse"]
+methods: ["electrophysiology", "neuropixels"]
+keywords: ["data", "architecture", "large", "scale", "neuroscience", "collaboration"]
 ---
 
 ### One-line summary

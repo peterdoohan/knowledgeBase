@@ -1,11 +1,16 @@
 ---
-source_file: anderson2019_cannabidiol_clobazam_seizure.md
+source_file: "anderson2019_cannabidiol_clobazam_seizure.md"
+paper_id: "anderson2019_cannabidiol_clobazam_seizure"
 title: "Coadministered cannabidiol and clobazam: Preclinical evidence for both pharmacodynamic and pharmacokinetic interactions"
-authors: Lyndsey L. Anderson, Nathan L. Absalom, Sarah V. Abelev, Ivan K. Low, Peter T. Doohan, Lewis J. Martin, Mary Chebib, Iain S. McGregor, Jonathon C. Arnold
+authors: "Lyndsey L. Anderson, Nathan L. Absalom, Sarah V. Abelev, Ivan K. Low, Peter T. Doohan, Lewis J. Martin, Mary Chebib, Iain S. McGregor, Jonathon C. Arnold"
 year: 2019
-journal: Epilepsia
-paper_type: empirical
-contribution_type: empirical
+journal: "Epilepsia"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+methods: ["electrophysiology"]
+brain_regions: ["hippocampus"]
+keywords: ["coadministered", "cannabidiol", "clobazam", "preclinical", "evidence", "both", "pharmacodynamic", "pharmacokinetic", "interactions"]
 ---
 
 ### One-line summary

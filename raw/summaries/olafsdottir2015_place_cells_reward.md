@@ -1,11 +1,19 @@
 ---
-source_file: olafsdottir2015_place_cells_reward.md
+source_file: "olafsdottir2015_place_cells_reward.md"
+paper_id: "olafsdottir2015_place_cells_reward"
 title: "Hippocampal place cells construct reward related sequences through unexplored space"
-authors: H Freyja Olafsdottir, Caswell Barry, Aman B Saleem, Demis Hassabis, Hugo J Spiers
+authors: "H Freyja Olafsdottir, Caswell Barry, Aman B Saleem, Demis Hassabis, Hugo J Spiers"
 year: 2015
-journal: eLife
-paper_type: empirical
-contribution_type: empirical
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["hippocampal", "place", "cells", "construct", "reward", "related", "sequences", "through", "unexplored", "space"]
+key_citations: ["davidson2009_hippocampal_replay_extended", "singer2009_reward_reactivation_hippocampus", "lee2002_memory_sequential_experience"]
 ---
 
 ### One-line summary

@@ -1,11 +1,16 @@
 ---
-source_file: delcorsso2012_cx36_camkii.md
-title: Calmodulin dependent protein kinase increases conductance at gap junctions formed by the neuronal gap junction protein Connexin36
-authors: Cristiane del Corsso, Rodolfo Iglesias, Georg Zoidl, Rolf Dermietzel, David C. Spray
+source_file: "delcorsso2012_cx36_camkii.md"
+paper_id: "delcorsso2012_cx36_camkii"
+title: "Calmodulin dependent protein kinase increases conductance at gap junctions formed by the neuronal gap junction protein Connexin36"
+authors: "Cristiane del Corsso, Rodolfo Iglesias, Georg Zoidl, Rolf Dermietzel, David C. Spray"
 year: 2012
-journal: Brain Research
-paper_type: empirical
-contribution_type: empirical
+journal: "Brain Research"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat"]
+methods: ["electrophysiology"]
+brain_regions: ["thalamus"]
+keywords: ["connexin36", "cx36", "electrical_synapse", "gap_junction", "camkii", "calmodulin_dependent_protein_kinase_ii", "synaptic_plasticity", "phosphorylation", "run_up", "junctional_conductance", "neuroblastoma", "patch_clamp", "channel_open_probability", "calmodulin", "dependent", "protein", "kinase", "increases", "conductance", "gap"]
 ---
 
 ### One-line summary

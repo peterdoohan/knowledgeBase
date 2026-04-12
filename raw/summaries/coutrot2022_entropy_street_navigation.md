@@ -1,11 +1,15 @@
 ---
-source_file: coutrot2022_entropy_street_navigation.md
-title: Entropy of city street networks linked to future spatial navigation ability
-authors: A. Coutrot, E. Manley, S. Goodroe, C. Gahnstrom, G. Filomena, D. Yesiltepe, R. C. Dalton, J. M. Wiener, C. Hölscher, M. Hornberger, H. J. Spiers
+source_file: "coutrot2022_entropy_street_navigation.md"
+paper_id: "coutrot2022_entropy_street_navigation"
+title: "Entropy of city street networks linked to future spatial navigation ability"
+authors: "A. Coutrot, E. Manley, S. Goodroe, C. Gahnstrom, G. Filomena, D. Yesiltepe, R. C. Dalton, J. M. Wiener, C. H\u00f6lscher, M. Hornberger, H. J. Spiers"
 year: 2022
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["navigation_task"]
+keywords: ["entropy", "city", "street", "networks", "linked", "future", "spatial", "navigation", "ability"]
 ---
 
 ### One-line summary

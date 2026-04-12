@@ -1,11 +1,17 @@
 ---
-source_file: adams2021_pyramidal_synaptic_gain.md
+source_file: "adams2021_pyramidal_synaptic_gain.md"
+paper_id: "adams2021_pyramidal_synaptic_gain"
 title: "Computational Modeling of Electroencephalography and Functional Magnetic Resonance Imaging Paradigms Indicates a Consistent Loss of Pyramidal Cell Synaptic Gain in Schizophrenia"
-authors: Rick A. Adams, Dimitris Pinotsis, Konstantinos Tsirlis, Leonhardt Unruh, Aashna Mahajan, Ana Montero Horas, Laura Convertino, Ann Summerfelt, Hemalatha Sampath, Xiaoming Michael Du, Peter Kochunov, Jie Lisa Ji, Grega Repovs, John D. Murray, Karl J. Friston, L. Elliot Hong, Alan Anticevic
+authors: "Rick A. Adams, Dimitris Pinotsis, Konstantinos Tsirlis, Leonhardt Unruh, Aashna Mahajan, Ana Montero Horas, Laura Convertino, Ann Summerfelt, Hemalatha Sampath, Xiaoming Michael Du, Peter Kochunov, Jie Lisa Ji, Grega Repovs, John D. Murray, Karl J. Friston, L. Elliot Hong, Alan Anticevic"
 year: 2022
-journal: Biological Psychiatry
-paper_type: computational
-contribution_type: empirical
+journal: "Biological Psychiatry"
+paper_type: "computational"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["fmri", "dynamic_causal_modelling", "parametric_empirical_bayes", "computational_modeling"]
+brain_regions: ["superior_temporal_gyrus", "inferior_frontal_gyrus", "primary_auditory_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["computational", "modeling", "electroencephalography", "functional", "magnetic", "resonance", "imaging", "paradigms", "indicates", "consistent"]
 ---
 
 ### One-line summary

@@ -1,11 +1,13 @@
 ---
-source_file: higgins2018_disentangled_representations.md
+source_file: "higgins2018_disentangled_representations.md"
+paper_id: "higgins2018_disentangled_representations"
 title: "Towards a Definition of Disentangled Representations"
-authors: Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo Rezende, Alexander Lerchner
+authors: "Irina Higgins, David Amos, David Pfau, Sebastien Racaniere, Loic Matthey, Danilo Rezende, Alexander Lerchner"
 year: 2018
-journal: arXiv preprint (December 2018)
-paper_type: computational
-contribution_type: theoretical
+journal: "arXiv preprint (December 2018)"
+paper_type: "computational"
+contribution_type: "theoretical"
+keywords: ["towards", "definition", "disentangled", "representations"]
 ---
 
 ### One-line summary

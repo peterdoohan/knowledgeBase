@@ -1,11 +1,15 @@
 ---
-source_file: pospisil2024_fly_connectome_effectome.md
-title: The fly connectome reveals a path to the effectome
-authors: Dean A. Pospisil, Max J. Aragon, Sven Dorkenwald, Arie Matsliah, Amy R. Sterling, Philipp Schlegel, Szi-chieh Yu, Claire E. McKellar, Marta Costa, Katharina Eichler, Gregory S. X. E. Jefferis, Mala Murthy, Jonathan W. Pillow
+source_file: "pospisil2024_fly_connectome_effectome.md"
+paper_id: "pospisil2024_fly_connectome_effectome"
+title: "The fly connectome reveals a path to the effectome"
+authors: "Dean A. Pospisil, Max J. Aragon, Sven Dorkenwald, Arie Matsliah, Amy R. Sterling, Philipp Schlegel, Szi-chieh Yu, Claire E. McKellar, Marta Costa, Katharina Eichler, Gregory S. X. E. Jefferis, Mala Murthy, Jonathan W. Pillow"
 year: 2024
-journal: Nature
-paper_type: computational
-contribution_type: methodological
+journal: "Nature"
+paper_type: "computational"
+contribution_type: "methodological"
+methods: ["optogenetics"]
+frameworks: ["bayesian_inference", "attractor_networks"]
+keywords: ["dorkenwald_et_al_2024_flywire_whole_brain_connectome", "zheng_et_al_2018_em_volume_of_adult_drosophila_brain", "schlegel_et_al_2024_whole_brain_annotation_and_multi_connectome_cell_typing", "angrist", "imbens_and_rubin_1996_foundational_iv_methods_in_statistics", "jazayeri_and_afraz_2017_navigating_neural_space_in_search_of_the_neural_code", "das_and_fiete_2020_systematic_errors_in_connectivity_inferred_from_activity", "marinescu", "lawlor_and_kording_2018_quasi_experimental_causality_in_neuroscience", "lin_et_al_2024_network_statistics_of_whole_brain_drosophila_connectome", "eckstein_et_al_2024_neurotransmitter_classification_from_em_images", "varshney_et_al_2011_structural_properties_of_c_elegans_neuronal_network", "shinomiya_et_al_2022_neuronal_circuits_integrating_visual_motion_in_drosophila", "seelig_and_jayaraman_2013_feature_detection_in_drosophila_central_complex", "turner_evans_et_al_2020_neuroanatomical_ultrastructure_of_biological_ring_attractor", "hulse_et_al_2021_connectome_of_drosophila_central_complex", "named_models_or_frameworks", "instrumental_variables_iv_estimation", "two_stage_least_squares_2sls", "iv_bayes_estimator_connectome_prior_bayesian_regression"]
 ---
 
 ### One-line summary

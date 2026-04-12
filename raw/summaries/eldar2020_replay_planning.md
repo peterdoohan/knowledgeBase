@@ -1,11 +1,19 @@
 ---
-source_file: eldar2020_replay_planning.md
-title: The roles of online and offline replay in planning
-authors: Eran Eldar, Gaëlle Lièvre, Peter Dayan, Raymond J Dolan
+source_file: "eldar2020_replay_planning.md"
+paper_id: "eldar2020_replay_planning"
+title: "The roles of online and offline replay in planning"
+authors: "Eran Eldar, Ga\u00eblle Li\u00e8vre, Peter Dayan, Raymond J Dolan"
 year: 2020
-journal: eLife
-paper_type: empirical
-contribution_type: empirical
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["two_step_task", "navigation_task"]
+methods: ["computational_modeling"]
+brain_regions: ["hippocampus"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["roles", "online", "offline", "replay", "planning"]
+key_citations: ["momennejad2018_offline_replay_planning", "daw2011_model_based_striatal_prediction", "kurth_nelson2016_sequences_non_spatial", "liu2019_human_replay_reorganizes", "stachenfeld2017_hippocampus_predictive_map"]
 ---
 
 ### One-line summary

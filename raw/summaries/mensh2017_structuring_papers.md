@@ -1,11 +1,13 @@
 ---
-source_file: mensh2017_structuring_papers.md
-title: Ten simple rules for structuring papers
-authors: Brett Mensh, Konrad Kording
+source_file: "mensh2017_structuring_papers.md"
+paper_id: "mensh2017_structuring_papers"
+title: "Ten simple rules for structuring papers"
+authors: "Brett Mensh, Konrad Kording"
 year: 2017
-journal: PLoS Computational Biology
-paper_type: review
-contribution_type: methodological
+journal: "PLoS Computational Biology"
+paper_type: "review"
+contribution_type: "methodological"
+keywords: ["scientific_writing", "manuscript_structure", "context_content_conclusion", "c_c_c_scheme", "abstract_writing", "introduction_structure", "results_section", "discussion_section", "logical_flow", "reader_centred_communication", "paper_outlining", "scientific_communication", "ten", "simple", "rules", "structuring", "papers"]
 ---
 
 ### One-line summary

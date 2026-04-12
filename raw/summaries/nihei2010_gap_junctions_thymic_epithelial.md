@@ -1,11 +1,14 @@
 ---
-source_file: nihei2010_gap_junctions_thymic_epithelial.md
+source_file: "nihei2010_gap_junctions_thymic_epithelial.md"
+paper_id: "nihei2010_gap_junctions_thymic_epithelial"
 title: "Modulatory effects of cAMP and PKC activation on gap junctional intercellular communication among thymic epithelial cells"
-authors: Oscar K Nihei, Paula C Fonseca, Nara M Rubim, Andre G Bonavita, Jurandy SPO Lyra, Sandra Neves-dos-Santos, Antonio C Campos de Carvalho, David C Spray, Wilson Savino, Luiz A Alves
+authors: "Oscar K Nihei, Paula C Fonseca, Nara M Rubim, Andre G Bonavita, Jurandy SPO Lyra, Sandra Neves-dos-Santos, Antonio C Campos de Carvalho, David C Spray, Wilson Savino, Luiz A Alves"
 year: 2010
-journal: BMC Cell Biology
-paper_type: empirical
-contribution_type: empirical
+journal: "BMC Cell Biology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+keywords: ["modulatory", "effects", "camp", "pkc", "activation", "gap", "junctional", "intercellular", "communication", "among"]
 ---
 
 ### One-line summary

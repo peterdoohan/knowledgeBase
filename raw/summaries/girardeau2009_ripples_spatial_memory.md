@@ -1,11 +1,16 @@
 ---
-source_file: girardeau2009_ripples_spatial_memory.md
+source_file: "girardeau2009_ripples_spatial_memory.md"
+paper_id: "girardeau2009_ripples_spatial_memory"
 title: "Selective suppression of hippocampal ripples impairs spatial memory"
-authors: Gabrielle Girardeau, Karim Benchenane, Sidney I Wiener, György Buzsáki, Michaël B Zugaro
+authors: "Gabrielle Girardeau, Karim Benchenane, Sidney I Wiener, Gy\u00f6rgy Buzs\u00e1ki, Micha\u00ebl B Zugaro"
 year: 2009
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex"]
+keywords: ["selective", "suppression", "hippocampal", "ripples", "impairs", "spatial", "memory"]
 ---
 
 ### One-line summary

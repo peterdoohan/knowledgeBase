@@ -1,11 +1,17 @@
 ---
-source_file: kravitz2010_basal_ganglia_optogenetic.md
+source_file: "kravitz2010_basal_ganglia_optogenetic.md"
+paper_id: "kravitz2010_basal_ganglia_optogenetic"
 title: "Regulation of parkinsonian motor behaviours by optogenetic control of basal ganglia circuitry"
-authors: Alexxai V. Kravitz, Benjamin S. Freeze, Philip R. L. Parker, Kenneth Kay, Myo T. Thwin, Karl Deisseroth, Anatol C. Kreitzer
+authors: "Alexxai V. Kravitz, Benjamin S. Freeze, Philip R. L. Parker, Kenneth Kay, Myo T. Thwin, Karl Deisseroth, Anatol C. Kreitzer"
 year: 2010
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["optogenetics", "electrophysiology", "lesion"]
+brain_regions: ["striatum", "dorsomedial_striatum", "substantia_nigra"]
+frameworks: ["reinforcement_learning"]
+keywords: ["regulation", "parkinsonian", "motor", "behaviours", "optogenetic", "control", "basal", "ganglia", "circuitry"]
 ---
 
 ### One-line summary

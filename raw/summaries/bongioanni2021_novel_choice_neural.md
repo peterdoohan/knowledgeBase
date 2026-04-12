@@ -1,11 +1,16 @@
 ---
-source_file: bongioanni2021_novel_choice_neural.md
+source_file: "bongioanni2021_novel_choice_neural.md"
+paper_id: "bongioanni2021_novel_choice_neural"
 title: "Activation and disruption of a neural mechanism for novel choice in monkeys"
-authors: Alessandro Bongioanni, Davide Folloni, Lennart Verhagen, Jérôme Sallet, Miriam C. Klein-Flügge, Matthew F. S. Rushworth
+authors: "Alessandro Bongioanni, Davide Folloni, Lennart Verhagen, J\u00e9r\u00f4me Sallet, Miriam C. Klein-Fl\u00fcgge, Matthew F. S. Rushworth"
 year: 2021
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human", "macaque", "monkey"]
+methods: ["fmri", "repetition_suppression", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "striatum"]
+keywords: ["activation", "disruption", "neural", "mechanism", "novel", "choice", "monkeys"]
 ---
 
 ### One-line summary

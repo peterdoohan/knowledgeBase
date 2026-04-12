@@ -1,11 +1,18 @@
 ---
-source_file: momennejad2020_successor_representations_replay.md
+source_file: "momennejad2020_successor_representations_replay.md"
+paper_id: "momennejad2020_successor_representations_replay"
 title: "Learning Structures: Predictive Representations, Replay, and Generalization"
-authors: Ida Momennejad
+authors: "Ida Momennejad"
 year: 2020
-journal: Current Opinion in Behavioral Sciences
-paper_type: review
-contribution_type: review
+journal: "Current Opinion in Behavioral Sciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["electrophysiology", "fmri"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "medial_temporal_lobe"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "hierarchical_rl", "temporal_difference_learning"]
+keywords: ["learning", "structures", "predictive", "representations", "replay", "generalization"]
+key_citations: ["dayan1993_successor_representation"]
 ---
 
 ### One-line summary

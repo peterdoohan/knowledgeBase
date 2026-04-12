@@ -1,11 +1,19 @@
 ---
-source_file: miranda2020_modelfree_modelsensitive_primates.md
-title: Combined model-free and model-sensitive reinforcement learning in non-human primates
-authors: Bruno Miranda, W. M. Nishantha Malalasekera, Timothy E. Behrens, Peter Dayan, Steven W. Kennerley
+source_file: "miranda2020_modelfree_modelsensitive_primates.md"
+paper_id: "miranda2020_modelfree_modelsensitive_primates"
+title: "Combined model-free and model-sensitive reinforcement learning in non-human primates"
+authors: "Bruno Miranda, W. M. Nishantha Malalasekera, Timothy E. Behrens, Peter Dayan, Steven W. Kennerley"
 year: 2020
-journal: PLOS Computational Biology
-paper_type: computational
-contribution_type: empirical
+journal: "PLOS Computational Biology"
+paper_type: "computational"
+contribution_type: "empirical"
+species: ["human", "monkey"]
+tasks: ["two_step_task"]
+methods: ["computational_modeling", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "temporal_difference_learning"]
+keywords: ["combined", "model", "free", "sensitive", "reinforcement", "learning", "non", "human", "primates"]
+key_citations: ["daw2011_model_based_striatal_prediction"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: vollan2025_left_right_theta_sweeps.md
-title: Left–right-alternating theta sweeps in entorhinal–hippocampal maps of space
-authors: Abraham Z. Vollan, Richard J. Gardner, May-Britt Moser, Edvard I. Moser
+source_file: "vollan2025_left_right_theta_sweeps.md"
+paper_id: "vollan2025_left_right_theta_sweeps"
+title: "Left\u2013right-alternating theta sweeps in entorhinal\u2013hippocampal maps of space"
+authors: "Abraham Z. Vollan, Richard J. Gardner, May-Britt Moser, Edvard I. Moser"
 year: 2025
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field", "linear_track", "foraging_task", "navigation_task"]
+methods: ["neuropixels", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["leftright", "alternating", "theta", "sweeps", "entorhinalhippocampal", "maps", "space"]
+key_citations: ["burak2009_path_integration_grid_cells"]
 ---
 
 ### One-line summary

@@ -1,11 +1,16 @@
 ---
-source_file: carlson2018_hybrid_electrodes_seizure.md
-title: Safety and Utility of Hybrid Depth Electrodes for Seizure Localization and Single-Unit Neuronal Recording
-authors: April A. Carlson, Ueli Rutishauser, Adam N. Mamelak
+source_file: "carlson2018_hybrid_electrodes_seizure.md"
+paper_id: "carlson2018_hybrid_electrodes_seizure"
+title: "Safety and Utility of Hybrid Depth Electrodes for Seizure Localization and Single-Unit Neuronal Recording"
+authors: "April A. Carlson, Ueli Rutishauser, Adam N. Mamelak"
 year: 2018
-journal: Stereotactic and Functional Neurosurgery
-paper_type: empirical
-contribution_type: empirical
+journal: "Stereotactic and Functional Neurosurgery"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["electrophysiology"]
+brain_regions: ["hippocampus", "anterior_cingulate_cortex", "orbitofrontal_cortex", "amygdala"]
+keywords: ["safety", "utility", "hybrid", "depth", "electrodes", "seizure", "localization", "single", "unit", "neuronal"]
 ---
 
 ### One-line summary

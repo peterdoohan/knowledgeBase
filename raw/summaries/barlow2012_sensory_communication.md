@@ -1,11 +1,15 @@
 ---
-source_file: barlow2012_sensory_communication.md
+source_file: "barlow2012_sensory_communication.md"
+paper_id: "barlow2012_sensory_communication"
 title: "Possible Principles Underlying the Transformations of Sensory Messages"
-authors: H. B. Barlow
+authors: "H. B. Barlow"
 year: 2012
-journal: "Sensory Communication (MIT Press, ed. W. A. Rosenblith) — Chapter 13"
-paper_type: review
-contribution_type: theoretical
+journal: "Sensory Communication (MIT Press, ed. W. A. Rosenblith) \u2014 Chapter 13"
+paper_type: "review"
+contribution_type: "theoretical"
+brain_regions: ["visual_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["possible", "principles", "underlying", "transformations", "sensory", "messages"]
 ---
 
 ### One-line summary

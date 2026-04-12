@@ -1,11 +1,17 @@
 ---
-source_file: dahmani2015_prefrontal_navigation_strategies.md
+source_file: "dahmani2015_prefrontal_navigation_strategies.md"
+paper_id: "dahmani2015_prefrontal_navigation_strategies"
 title: "Dissociable contributions of the prefrontal cortex to hippocampus- and caudate nucleus-dependent virtual navigation strategies"
-authors: Louisa Dahmani, Véronique D. Bohbot
+authors: "Louisa Dahmani, V\u00e9ronique D. Bohbot"
 year: 2015
-journal: Neurobiology of Learning and Memory
-paper_type: empirical
-contribution_type: empirical
+journal: "Neurobiology of Learning and Memory"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["virtual_navigation", "navigation_task"]
+methods: ["fmri", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex"]
+keywords: ["dissociable", "contributions", "prefrontal", "cortex", "hippocampus", "caudate", "nucleus", "dependent", "virtual", "navigation"]
 ---
 
 ### One-line summary

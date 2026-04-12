@@ -1,11 +1,17 @@
 ---
-source_file: ostlund2005_prefrontal_cortex_habits.md
+source_file: "ostlund2005_prefrontal_cortex_habits.md"
+paper_id: "ostlund2005_prefrontal_cortex_habits"
 title: "Lesions of Medial Prefrontal Cortex Disrupt the Acquisition But Not the Expression of Goal-Directed Learning"
-authors: Sean B. Ostlund, Bernard W. Balleine
+authors: "Sean B. Ostlund, Bernard W. Balleine"
 year: 2005
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["lesion"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "dorsomedial_striatum", "nucleus_accumbens", "thalamus", "mediodorsal_thalamus", "amygdala", "basolateral_amygdala"]
+keywords: ["lesions", "medial", "prefrontal", "cortex", "disrupt", "acquisition", "but", "not", "expression", "goal"]
+key_citations: ["coutureau2003_infralimbic_prefrontal_goal", "balleine1998_goal_directed_instrumental_action"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: mishchanchuk2024_hidden_state_inference.md
+source_file: "mishchanchuk2024_hidden_state_inference.md"
+paper_id: "mishchanchuk2024_hidden_state_inference"
 title: "Hidden state inference requires abstract contextual representations in ventral hippocampus"
-authors: Karyna Mishchanchuk, Gabrielle Gregoriou, Albert Qu, Alizée Kastler, Quentin Huys, Linda Wilbrecht, Andrew F. MacAskill
+authors: "Karyna Mishchanchuk, Gabrielle Gregoriou, Albert Qu, Aliz\u00e9e Kastler, Quentin Huys, Linda Wilbrecht, Andrew F. MacAskill"
 year: 2024
-journal: bioRxiv (preprint, posted May 2024)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint, posted May 2024)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["probabilistic_reversal_learning"]
+methods: ["calcium_imaging", "computational_modeling", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "nucleus_accumbens", "ventral_hippocampus"]
+frameworks: ["reinforcement_learning", "bayesian_inference"]
+keywords: ["hidden", "state", "inference", "requires", "abstract", "contextual", "representations", "ventral", "hippocampus"]
+key_citations: ["wikenheiser2016_cognitive_maps_hippocampus"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: atiya2021_metacognition_attractor.md
+source_file: "atiya2021_metacognition_attractor.md"
+paper_id: "atiya2021_metacognition_attractor"
 title: "Explaining distortions in metacognition with an attractor network model of decision uncertainty"
-authors: Nadim A. A. Atiya, Quentin J. M. Huys, Raymond J. Dolan, Stephen M. Fleming
+authors: "Nadim A. A. Atiya, Quentin J. M. Huys, Raymond J. Dolan, Stephen M. Fleming"
 year: 2021
-journal: PLoS Computational Biology
-paper_type: computational
-contribution_type: theoretical
+journal: "PLoS Computational Biology"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["lesion"]
+brain_regions: ["prefrontal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["explaining", "distortions", "metacognition", "attractor", "network", "model", "decision", "uncertainty"]
 ---
 
 ### One-line summary

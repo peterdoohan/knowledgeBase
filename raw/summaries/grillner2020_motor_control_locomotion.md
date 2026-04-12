@@ -1,11 +1,16 @@
 ---
-source_file: grillner2020_motor_control_locomotion.md
+source_file: "grillner2020_motor_control_locomotion.md"
+paper_id: "grillner2020_motor_control_locomotion"
 title: "Current Principles of Motor Control, with Special Reference to Vertebrate Locomotion"
-authors: Sten Grillner, Abdeljabbar El Manira
+authors: "Sten Grillner, Abdeljabbar El Manira"
 year: 2020
-journal: Physiological Reviews
-paper_type: review
-contribution_type: review
+journal: "Physiological Reviews"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse", "human"]
+methods: ["optogenetics", "computational_modeling"]
+brain_regions: ["striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus", "zona_incerta", "periaqueductal_gray"]
+keywords: ["current", "principles", "motor", "control", "special", "reference", "vertebrate", "locomotion"]
 ---
 
 ### One-line summary

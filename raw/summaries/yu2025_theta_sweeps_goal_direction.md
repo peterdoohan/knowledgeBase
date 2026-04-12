@@ -1,11 +1,18 @@
 ---
-source_file: yu2025_theta_sweeps_goal_direction.md
-title: Hippocampal theta sweeps indicate goal direction
-authors: Changmin Yu, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess
+source_file: "yu2025_theta_sweeps_goal_direction.md"
+paper_id: "yu2025_theta_sweeps_goal_direction"
+title: "Hippocampal theta sweeps indicate goal direction"
+authors: "Changmin Yu, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess"
 year: 2025
-journal: bioRxiv
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field", "navigation_task"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "retrosplenial_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["okeefe_and_nadel_1978_the_hippocampus_as_a_cognitive_map_foundational_theory", "skaggs_et_al_1996", "foster_and_wilson_2007_theta_sequences_and_phase_precession", "johnson_and_redish_2007", "gupta_et_al_2012", "kay_et_al_2020_path_sampling_and_future_encoding", "wikenheiser_and_redish_2015_hippocampal_theta_sequences_reflect_current_goals", "pfeiffer_and_foster_2013_replay_depicts_future_paths_to_remembered_goals", "chu_et_al_2024", "ji_et_al_2025_continuous_attractor_network_models_of_theta_sweeps", "ormond_and_okeefe_2022_place_cells_have_goal_oriented_vector_fields", "named_models_or_frameworks", "cognitive_map_theory_okeefe_and_nadel", "continuous_attractor_network_can_model", "hierarchical_attractor_network_model_dc_conjunctive_gc_gc_pc", "theta_phase_precession_procession_framework", "firing_rate_adaptation_model", "brain_regions", "hippocampal_ca1_place_cells", "theta_sweeps"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: duvelle2023_temporal_hippocampal_inference.md
+source_file: "duvelle2023_temporal_hippocampal_inference.md"
+paper_id: "duvelle2023_temporal_hippocampal_inference"
 title: "Temporal context and latent state inference in the hippocampal splitter signal"
-authors: Éléonore Duvelle, Roddy M Grieves, Matthijs AA van der Meer
+authors: "\u00c9l\u00e9onore Duvelle, Roddy M Grieves, Matthijs AA van der Meer"
 year: 2023
-journal: eLife
-paper_type: review
-contribution_type: theoretical
+journal: "eLife"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+tasks: ["t_maze"]
+methods: ["calcium_imaging", "representational_similarity_analysis"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "striatum", "retrosplenial_cortex"]
+frameworks: ["successor_representation", "latent_state_inference", "tolman_eichenbaum_machine"]
+keywords: ["temporal", "context", "latent", "state", "inference", "hippocampal", "splitter", "signal"]
+key_citations: ["whittington2020_tolman_eichenbaum_machine", "stachenfeld2017_hippocampus_predictive_map", "ito2015_prefrontal_thalamic_hippocampus"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: pannasch2011_astroglial_networks_synaptic.md
-title: Astroglial networks scale synaptic activity and plasticity
-authors: Ulrike Pannasch, Lydia Vargová, Jürgen Reingruber, Pascal Ezan, David Holcman, Christian Giaume, Eva Syková, Nathalie Rouach
+source_file: "pannasch2011_astroglial_networks_synaptic.md"
+paper_id: "pannasch2011_astroglial_networks_synaptic"
+title: "Astroglial networks scale synaptic activity and plasticity"
+authors: "Ulrike Pannasch, Lydia Vargov\u00e1, J\u00fcrgen Reingruber, Pascal Ezan, David Holcman, Christian Giaume, Eva Sykov\u00e1, Nathalie Rouach"
 year: 2011
-journal: Proceedings of the National Academy of Sciences
-paper_type: empirical
-contribution_type: empirical
+journal: "Proceedings of the National Academy of Sciences"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["electrophysiology"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
+keywords: ["astrocytes", "gap_junctions", "connexin_30", "connexin_43", "synaptic_transmission", "glutamate_transporters", "potassium_buffering", "extracellular_space", "long_term_potentiation", "long_term_depression", "silent_synapses", "hippocampus", "tripartite_synapse", "neuroglial_interactions", "synaptic_scaling", "astroglial", "networks", "scale", "synaptic", "activity"]
+key_citations: ["rouach2008_astrocyte_metabolism"]
 ---
 
 ### One-line summary

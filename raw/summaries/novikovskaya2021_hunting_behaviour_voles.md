@@ -1,11 +1,14 @@
 ---
-source_file: novikovskaya2021_hunting_behaviour_voles.md
-title: Hunting behaviour in arvicoline rodents
-authors: A Novikovskaya, E Kizilova, J Levenets, S Panteleeva, N Lopatina, Y Litvinov, Z Reznikova
+source_file: "novikovskaya2021_hunting_behaviour_voles.md"
+paper_id: "novikovskaya2021_hunting_behaviour_voles"
+title: "Hunting behaviour in arvicoline rodents"
+authors: "A Novikovskaya, E Kizilova, J Levenets, S Panteleeva, N Lopatina, Y Litvinov, Z Reznikova"
 year: 2021
-journal: IOP Conference Series: Earth and Environmental Science
-paper_type: empirical
-contribution_type: empirical
+journal: "IOP Conference Series: Earth and Environmental Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+keywords: ["hunting", "behaviour", "arvicoline", "rodents"]
+key_citations: ["reznikova2017_hunting_behavior_mouse"]
 ---
 
 ### One-line summary

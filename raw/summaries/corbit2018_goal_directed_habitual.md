@@ -1,11 +1,19 @@
 ---
-source_file: corbit2018_goal_directed_habitual.md
+source_file: "corbit2018_goal_directed_habitual.md"
+paper_id: "corbit2018_goal_directed_habitual"
 title: "Understanding the balance between goal-directed and habitual behavioral control"
-authors: Laura H. Corbit
+authors: "Laura H. Corbit"
 year: 2018
-journal: Current Opinion in Behavioral Sciences
-paper_type: review
-contribution_type: review
+journal: "Current Opinion in Behavioral Sciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["two_step_task", "t_maze"]
+methods: ["optogenetics", "electrophysiology", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "infralimbic_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["understanding", "balance", "between", "goal", "directed", "habitual", "behavioral", "control"]
+key_citations: ["coutureau2003_infralimbic_prefrontal_goal", "balleine1998_goal_directed_instrumental_action"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: meisenhelter2022_human_brain_recording.md
+source_file: "meisenhelter2022_human_brain_recording.md"
+paper_id: "meisenhelter2022_human_brain_recording"
 title: "Probing the human brain at single-neuron resolution with high-density cortical recordings"
-authors: Stephen Meisenhelter, Ueli Rutishauser
+authors: "Stephen Meisenhelter, Ueli Rutishauser"
 year: 2022
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["electrophysiology", "neuropixels"]
+brain_regions: ["prefrontal_cortex"]
+keywords: ["probing", "human", "brain", "single", "neuron", "resolution", "high", "density", "cortical", "recordings"]
+key_citations: ["chung2022_neural_recording_neuropixels", "paulk2022_neuropixels_human_cortex"]
 ---
 
 ### One-line summary

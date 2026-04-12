@@ -1,11 +1,17 @@
 ---
-source_file: wang2021_oligodendrocyte_astrocytic_stress.md
+source_file: "wang2021_oligodendrocyte_astrocytic_stress.md"
+paper_id: "wang2021_oligodendrocyte_astrocytic_stress"
 title: "Reduced Oligodendrocyte Precursor Cell Impairs Astrocytic Development in Early Life Stress"
-authors: Yuxin Wang, Yixun Su, Guangdan Yu, Xiaorui Wang, Xiaoying Chen, Bin Yu, Yijun Cheng, Rui Li, Juan C. Sáez, Chenju Yi, Lan Xiao, Jianqin Niu
+authors: "Yuxin Wang, Yixun Su, Guangdan Yu, Xiaorui Wang, Xiaoying Chen, Bin Yu, Yijun Cheng, Rui Li, Juan C. S\u00e1ez, Chenju Yi, Lan Xiao, Jianqin Niu"
 year: 2021
-journal: Advanced Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Advanced Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["open_field"]
+methods: ["calcium_imaging"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+keywords: ["allen_and_lyons_2018_glial_cell_interactions_in_cns_function", "rouach_et_al_2008_astrocytic_networks_and_neuronal_activity", "kang_et_al_2010_pdgfra_creer_for_opc_targeting", "yuen_et_al_2014_wnt7a_b_in_opc_and_vascular_development", "daneman_et_al_2009_wnt_signaling_in_blood_brain_barrier", "murphy_royal_et_al_2020_stress_induced_astrocytic_network_impairment", "named_models_or_frameworks", "parental_isolation_mouse_model_early_life_stress", "pdgfra_creer_dta_opc_ablation_model", "wnt_catenin_signaling_pathway", "gap_frap_fluorescence_recovery_after_photobleaching_for_gap_junction_function", "rna_seq_transcriptome_analysis", "brain_regions", "hippocampus_ca1", "cerebral_cortex", "keywords", "oligodendrocyte_precursor_cell", "astrocyte_development", "wnt_signaling", "wnt7a"]
 ---
 
 ### One-line summary

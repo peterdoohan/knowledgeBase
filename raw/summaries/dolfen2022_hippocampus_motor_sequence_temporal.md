@@ -1,11 +1,17 @@
 ---
-source_file: dolfen2022_hippocampus_motor_sequence_temporal.md
-title: The hippocampus binds movements to their temporal position in a motor sequence
-authors: Nina Dolfen, Serena Reverberi, Hans Op de Beeck, Bradley R. King, Genevieve Albouy
+source_file: "dolfen2022_hippocampus_motor_sequence_temporal.md"
+paper_id: "dolfen2022_hippocampus_motor_sequence_temporal"
+title: "The hippocampus binds movements to their temporal position in a motor sequence"
+authors: "Nina Dolfen, Serena Reverberi, Hans Op de Beeck, Bradley R. King, Genevieve Albouy"
 year: 2022
-journal: bioRxiv (preprint)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["fmri", "representational_similarity_analysis", "behavioral_analysis"]
+brain_regions: ["hippocampus"]
+keywords: ["hippocampus", "binds", "movements", "their", "temporal", "position", "motor", "sequence"]
+key_citations: ["davis2013_homeostatic_signaling_neural_stabilization"]
 ---
 
 ### One-line summary

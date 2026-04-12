@@ -1,11 +1,16 @@
 ---
-source_file: mcnaughton2022_route_cognitive_map.md
-title: Route selection with a cognitive map
-authors: Bruce L. McNaughton, Rajat Saxena
+source_file: "mcnaughton2022_route_cognitive_map.md"
+paper_id: "mcnaughton2022_route_cognitive_map"
+title: "Route selection with a cognitive map"
+authors: "Bruce L. McNaughton, Rajat Saxena"
 year: 2022
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+species: ["rat"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "anterior_cingulate_cortex", "striatum"]
+keywords: ["route", "selection", "cognitive", "map"]
+key_citations: ["tolman1948_cognitive_maps_rats", "widloski2022_hippocampal_replay_barriers", "johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

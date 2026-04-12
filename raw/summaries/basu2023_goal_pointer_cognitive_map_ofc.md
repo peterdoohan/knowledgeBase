@@ -1,11 +1,19 @@
 ---
-source_file: basu2023_goal_pointer_cognitive_map_ofc.md
-title: A goal pointer for a cognitive map in the orbitofrontal cortex
-authors: Raunak Basu, Hiroshi T. Ito
+source_file: "basu2023_goal_pointer_cognitive_map_ofc.md"
+paper_id: "basu2023_goal_pointer_cognitive_map_ofc"
+title: "A goal pointer for a cognitive map in the orbitofrontal cortex"
+authors: "Raunak Basu, Hiroshi T. Ito"
 year: 2023
-journal: Current Opinion in Neurobiology
-paper_type: review
-contribution_type: review
+journal: "Current Opinion in Neurobiology"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["navigation_task"]
+methods: ["optogenetics", "electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "ventral_tegmental_area", "substantia_nigra", "retrosplenial_cortex", "amygdala"]
+frameworks: ["reinforcement_learning", "model_free_rl", "successor_representation"]
+keywords: ["goal", "pointer", "cognitive", "map", "orbitofrontal", "cortex"]
+key_citations: ["basu2021_ofc_navigation_goals", "russek2017_model_based_reinforcement", "campagner2023_cortico_collicular_shelter", "wilson2014_best_practices_scientific", "zhou2021_schema_orbitofrontal", "bohm2020_pfc_spatial_working_memory"]
 ---
 
 ### One-line summary

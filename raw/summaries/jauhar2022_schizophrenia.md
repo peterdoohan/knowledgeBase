@@ -1,11 +1,14 @@
 ---
-source_file: jauhar2022_schizophrenia.md
+source_file: "jauhar2022_schizophrenia.md"
+paper_id: "jauhar2022_schizophrenia"
 title: "Schizophrenia"
-authors: Sameer Jauhar, Mandy Johnstone, Peter J McKenna
+authors: "Sameer Jauhar, Mandy Johnstone, Peter J McKenna"
 year: 2022
-journal: The Lancet
-paper_type: review
-contribution_type: review
+journal: "The Lancet"
+paper_type: "review"
+contribution_type: "review"
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_tegmental_area", "thalamus", "amygdala", "superior_temporal_gyrus"]
+keywords: ["schizophrenia"]
 ---
 
 ### One-line summary

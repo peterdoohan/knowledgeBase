@@ -1,11 +1,16 @@
 ---
-source_file: sagiv_experience_replay_prioritization.md
-title: Prioritizing experience replay when future goals are unknown
-authors: Yotam Sagiv, Thomas Akam, Ilana B. Witten, Nathaniel D. Daw
-year: unknown
-journal: unknown
-paper_type: computational
-contribution_type: theoretical
+source_file: "sagiv_experience_replay_prioritization.md"
+paper_id: "sagiv_experience_replay_prioritization"
+title: "Prioritizing experience replay when future goals are unknown"
+authors: "Yotam Sagiv, Thomas Akam, Ilana B. Witten, Nathaniel D. Daw"
+year: "unknown"
+journal: "unknown"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["open_field", "linear_track", "navigation_task"]
+brain_regions: ["hippocampus", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation"]
+keywords: ["dayan_1993_successor_representation", "garvert", "dolan_and_behrens_2017_abstract_relational_knowledge_in_hippocampus", "kaelbling_1993_learning_to_achieve_goals", "mattar_and_daw_2018_prioritized_memory_access_and_hippocampal_replay", "russek_et_al_2017_predictive_representations_linking_model_based_and_model_free_rl", "sharpe_et_al_2017_dopamine_and_model_based_associations", "sutton_1990_dyna_architecture_for_learning", "planning", "and_reacting", "named_models_or_frameworks", "dyna_reinforcement_learning_architecture", "successor_representation_sr", "geodesic_representation_gr", "prioritized_experience_replay", "rational_prioritization_theory", "cognitive_map_hypothesis", "markov_decision_process_mdp", "q_learning", "brain_regions"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: ito2018_prefrontal_hippocampal_navigation.md
-title: "Prefrontal–hippocampal interactions for spatial navigation"
-authors: Hiroshi T. Ito
+source_file: "ito2018_prefrontal_hippocampal_navigation.md"
+paper_id: "ito2018_prefrontal_hippocampal_navigation"
+title: "Prefrontal\u2013hippocampal interactions for spatial navigation"
+authors: "Hiroshi T. Ito"
 year: 2018
-journal: Neuroscience Research
-paper_type: review
-contribution_type: review
+journal: "Neuroscience Research"
+paper_type: "review"
+contribution_type: "review"
+species: ["rat", "human"]
+tasks: ["navigation_task"]
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "ventromedial_prefrontal_cortex", "thalamus"]
+keywords: ["prefrontalhippocampal", "interactions", "spatial", "navigation"]
+key_citations: ["ito2015_prefrontal_thalamic_hippocampus", "buzsaki2015_hippocampal_sharp_wave_ripple"]
 ---
 
 ### One-line summary

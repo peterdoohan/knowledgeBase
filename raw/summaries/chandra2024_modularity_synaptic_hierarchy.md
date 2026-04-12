@@ -1,11 +1,16 @@
 ---
-source_file: chandra2024_modularity_synaptic_hierarchy.md
+source_file: "chandra2024_modularity_synaptic_hierarchy.md"
+paper_id: "chandra2024_modularity_synaptic_hierarchy"
 title: "Self-organized emergence of modularity, hierarchy, and mirror reversals from competitive synaptic growth in a developmental model of the visual pathway"
-authors: Sarthak Chandra, Mikail Khona, Talia Konkle, Ila R. Fiete
+authors: "Sarthak Chandra, Mikail Khona, Talia Konkle, Ila R. Fiete"
 year: 2024
-journal: bioRxiv (preprint, doi: 10.1101/2024.01.07.574543)
-paper_type: computational
-contribution_type: theoretical
+journal: "bioRxiv (preprint, doi: 10.1101/2024.01.07.574543)"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["mouse", "human", "macaque"]
+brain_regions: ["visual_cortex", "primary_auditory_cortex"]
+frameworks: ["reinforcement_learning"]
+keywords: ["self", "organized", "emergence", "modularity", "hierarchy", "mirror", "reversals", "competitive", "synaptic", "growth"]
 ---
 
 ### One-line summary

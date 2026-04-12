@@ -1,11 +1,15 @@
 ---
-source_file: hill2014_oligodendrocytes_sulforhodamine.md
-title: In vivo imaging of oligodendrocytes with sulforhodamine 101
-authors: Robert A. Hill, Jaime Grutzendler
+source_file: "hill2014_oligodendrocytes_sulforhodamine.md"
+paper_id: "hill2014_oligodendrocytes_sulforhodamine"
+title: "In vivo imaging of oligodendrocytes with sulforhodamine 101"
+authors: "Robert A. Hill, Jaime Grutzendler"
 year: 2014
-journal: Nature Methods
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Methods"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["calcium_imaging"]
+keywords: ["vivo", "imaging", "oligodendrocytes", "sulforhodamine", "101"]
 ---
 
 ### One-line summary

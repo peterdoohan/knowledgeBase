@@ -1,11 +1,19 @@
 ---
-source_file: wen2024_entorhinal_maps_flexible_navigation.md
-title: One-shot entorhinal maps enable flexible navigation in novel environments
-authors: John H. Wen, Ben Sorscher, Emily A. Aery Jones, Surya Ganguli, Lisa M. Giocomo
+source_file: "wen2024_entorhinal_maps_flexible_navigation.md"
+paper_id: "wen2024_entorhinal_maps_flexible_navigation"
+title: "One-shot entorhinal maps enable flexible navigation in novel environments"
+authors: "John H. Wen, Ben Sorscher, Emily A. Aery Jones, Surya Ganguli, Lisa M. Giocomo"
 year: 2024
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["navigation_task"]
+methods: ["neuropixels", "computational_modeling"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "visual_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["one", "shot", "entorhinal", "maps", "enable", "flexible", "navigation", "novel", "environments"]
+key_citations: ["fyhn2007_remapping_grid_realignment"]
 ---
 
 ### One-line summary

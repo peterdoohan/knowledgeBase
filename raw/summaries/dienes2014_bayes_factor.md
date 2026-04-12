@@ -1,11 +1,14 @@
 ---
-source_file: dienes2014_bayes_factor.md
+source_file: "dienes2014_bayes_factor.md"
+paper_id: "dienes2014_bayes_factor"
 title: "Using Bayes to get the most out of non-significant results"
-authors: Zoltan Dienes
+authors: "Zoltan Dienes"
 year: 2014
-journal: Frontiers in Psychology
-paper_type: review
-contribution_type: methodological
+journal: "Frontiers in Psychology"
+paper_type: "review"
+contribution_type: "methodological"
+frameworks: ["bayesian_inference"]
+keywords: ["jeffreys_1939_1961_original_bayes_factor_framework_and_threshold_conventions", "rouder_et_al_2009_bayesian_t_tests_and_default_bayes_factors", "gallistel_2009_importance_of_proving_the_null", "bayes_factor_methodology", "royall_1997_likelihood_paradigm_and_stopping_rule_independence", "cumming_2011_dance_of_the_p_values", "confidence_interval_inference", "kruschke_2010a", "2013b_bayesian_data_analysis_and_rope_based_inference", "cohen_1988_statistical_power_analysis", "wagenmakers_2007_practical_critique_of_p_values", "dienes_2008", "2011_prior_bayes_factor_work_by_the_author", "named_models_or_frameworks", "dienes_2008_online_bayes_factor_calculator", "jeffreys_scale_of_evidence_b_3_b_1_3", "lindleys_paradox", "equivalence_testing_rogers", "howard_and_vessey", "1993"]
 ---
 
 ### One-line summary

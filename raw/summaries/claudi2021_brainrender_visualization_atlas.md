@@ -1,11 +1,17 @@
 ---
-source_file: claudi2021_brainrender_visualization_atlas.md
+source_file: "claudi2021_brainrender_visualization_atlas.md"
+paper_id: "claudi2021_brainrender_visualization_atlas"
 title: "Visualizing anatomically registered data with brainrender"
-authors: Federico Claudi, Adam L Tyson, Luigi Petrucco, Troy W Margrie, Ruben Portugues, Tiago Branco
+authors: "Federico Claudi, Adam L Tyson, Luigi Petrucco, Troy W Margrie, Ruben Portugues, Tiago Branco"
 year: 2021
-journal: eLife
-paper_type: computational
-contribution_type: methodological
+journal: "eLife"
+paper_type: "computational"
+contribution_type: "methodological"
+species: ["mouse", "human"]
+methods: ["neuropixels"]
+brain_regions: ["hippocampus", "thalamus", "periaqueductal_gray"]
+keywords: ["visualizing", "anatomically", "registered", "data", "brainrender"]
+key_citations: ["wang2020_alternating_theta_sequences"]
 ---
 
 ### One-line summary

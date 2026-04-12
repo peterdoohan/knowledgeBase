@@ -1,11 +1,14 @@
 ---
-source_file: won1998_astrocytes_proenkephalin.md
+source_file: "won1998_astrocytes_proenkephalin.md"
+paper_id: "won1998_astrocytes_proenkephalin"
 title: "The stimulation of rat astrocytes with phorbol-12-myristate-13-acetate increases the proenkephalin mRNA: involvement of proto-oncogenes"
-authors: Je-Seong Won, Dong-Keun Song, Yung-Hi Kim, Sung-Oh Huh, Hong-Won Suh
+authors: "Je-Seong Won, Dong-Keun Song, Yung-Hi Kim, Sung-Oh Huh, Hong-Won Suh"
 year: 1998
-journal: Molecular Brain Research
-paper_type: empirical
-contribution_type: empirical
+journal: "Molecular Brain Research"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+keywords: ["comb_et_al_1986_identification_of_camp_and_phorbol_ester_inducible_dna_element_in_proenk_promoter", "sonnenberg_et_al_1989_regulation_of_proenkephalin_by_fos_and_jun", "theodoridu_et_al_1994_interaction_of_protein_kinases_a_and_c_in_proenk_gene_regulation_in_astroglial_cells", "mar_et_al_1992_role_of_proto_oncogenes_in_proenk_mrna_regulation_in_bovine_adrenal_chromaffin_cells", "yoshikawa_and_sabol_1986_proenkephalin_gene_expression_in_c6_rat_glioma_cells", "named_models_or_frameworks", "second_messenger_third_messenger_signaling_cascade", "ap_1_transcription_factor_complex_fos_jun_family", "creb_cre_signaling_pathway", "pkc_activation_pathway", "brain_regions", "cerebral_cortex_source_of_primary_astrocyte_cultures", "not_applicable_cell_culture_study", "keywords_proenkephalin", "astrocytes", "proto_oncogenes", "c_fos", "fra_1", "c_jun", "ap_1"]
 ---
 
 ### One-line summary

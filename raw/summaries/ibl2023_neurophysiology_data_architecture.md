@@ -1,11 +1,15 @@
 ---
-source_file: ibl2023_neurophysiology_data_architecture.md
-title: A modular architecture for organizing, processing and sharing neurophysiology data
-authors: The International Brain Laboratory, Niccolò Bonacchi, Gaelle A. Chapuis, Anne K. Churchland, Eric E. J. DeWitt, Mayo Faulkner, Kenneth D. Harris, Julia M. Huntenburg, Max Hunter, Inês C. Laranjeira, Cyrille Rossant, Maho Sasaki, Michael M. Schartner, Shan Shen, Nicholas A. Steinmetz, Edgar Y. Walker, Steven J. West, Olivier Winter, Miles J. Wells
+source_file: "ibl2023_neurophysiology_data_architecture.md"
+paper_id: "ibl2023_neurophysiology_data_architecture"
+title: "A modular architecture for organizing, processing and sharing neurophysiology data"
+authors: "The International Brain Laboratory, Niccol\u00f2 Bonacchi, Gaelle A. Chapuis, Anne K. Churchland, Eric E. J. DeWitt, Mayo Faulkner, Kenneth D. Harris, Julia M. Huntenburg, Max Hunter, In\u00eas C. Laranjeira, Cyrille Rossant, Maho Sasaki, Michael M. Schartner, Shan Shen, Nicholas A. Steinmetz, Edgar Y. Walker, Steven J. West, Olivier Winter, Miles J. Wells"
 year: 2023
-journal: Nature Methods
-paper_type: empirical
-contribution_type: methodological
+journal: "Nature Methods"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse"]
+methods: ["electrophysiology"]
+keywords: ["modular", "architecture", "organizing", "processing", "sharing", "neurophysiology", "data"]
 ---
 
 ### One-line summary

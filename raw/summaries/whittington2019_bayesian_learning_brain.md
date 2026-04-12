@@ -1,11 +1,17 @@
 ---
-source_file: whittington2019_bayesian_learning_brain.md
-title: A Bayesian account of learning and generalising representations in the brain
-authors: James C.R. Whittington
+source_file: "whittington2019_bayesian_learning_brain.md"
+paper_id: "whittington2019_bayesian_learning_brain"
+title: "A Bayesian account of learning and generalising representations in the brain"
+authors: "James C.R. Whittington"
 year: 2019
-journal: DPhil Thesis, University of Oxford
-paper_type: computational
-contribution_type: theoretical
+journal: "DPhil Thesis, University of Oxford"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex", "striatum", "thalamus"]
+frameworks: ["bayesian_inference", "attractor_networks", "tolman_eichenbaum_machine"]
+keywords: ["predictive_coding", "backpropagation", "biological_credit_assignment", "tolman_eichenbaum_machine", "grid_cells", "place_cells", "cognitive_maps", "relational_memory", "structural_generalization", "zero_shot_inference", "factorized_representations", "path_integration", "attractor_networks", "entorhinal_cortex", "hippocampus", "transitive_inference", "social_hierarchy", "bayesian_inference", "hebbian_plasticity", "neural_representation_learning"]
+key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "tolman1948_cognitive_maps_rats", "stachenfeld2017_hippocampus_predictive_map"]
 ---
 
 ### One-line summary

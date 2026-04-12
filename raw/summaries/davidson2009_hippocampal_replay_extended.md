@@ -1,11 +1,19 @@
 ---
-source_file: davidson2009_hippocampal_replay_extended.md
+source_file: "davidson2009_hippocampal_replay_extended.md"
+paper_id: "davidson2009_hippocampal_replay_extended"
 title: "Hippocampal Replay of Extended Experience"
-authors: Thomas J. Davidson, Fabian Kloosterman, Matthew A. Wilson
+authors: "Thomas J. Davidson, Fabian Kloosterman, Matthew A. Wilson"
 year: 2009
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["linear_track"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["hippocampal", "replay", "extended", "experience"]
+key_citations: ["lee2002_memory_sequential_experience", "johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

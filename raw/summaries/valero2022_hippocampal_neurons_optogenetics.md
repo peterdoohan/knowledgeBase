@@ -1,11 +1,18 @@
 ---
-source_file: valero2022_hippocampal_neurons_optogenetics.md
-title: Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics
-authors: Manuel Valero, Ipshita Zutshi, Euisik Yoon, György Buzsáki
+source_file: "valero2022_hippocampal_neurons_optogenetics.md"
+paper_id: "valero2022_hippocampal_neurons_optogenetics"
+title: "Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics"
+authors: "Manuel Valero, Ipshita Zutshi, Euisik Yoon, Gy\u00f6rgy Buzs\u00e1ki"
 year: 2022
-journal: Science
-paper_type: empirical
-contribution_type: empirical
+journal: "Science"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat"]
+tasks: ["linear_track"]
+methods: ["optogenetics", "bayesian_decoding"]
+brain_regions: ["hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["grienberger_et_al_2017_nat_neurosci_tuned_excitation_blanket_inhibition_model", "okeefe_and_nadel_1978_hippocampus_as_cognitive_map", "bittner_et_al_2015_nat_neurosci_synaptic_potentiation_mechanisms_in_place_cells", "wilson_and_mcnaughton_1993", "1994_place_cell_ensemble_coding_and_reactivation", "grosmark_and_buzsaki_2016_science_spw_r_and_memory_consolidation", "dragoi_and_tonegawa_2011_nature_preconfigured_hippocampal_assembly_sequences", "named_models_or_frameworks", "tuned_excitation_blanket_inhibition_model", "balanced_network_model", "reciprocal_network_model", "hippocampal_cognitive_map_framework", "attractor_network_model_of_place_cells", "pattern_separation_and_pattern_completion_framework", "brain_regions", "hippocampal_ca1_primary", "hippocampal_ca3_implied", "entorhinal_cortex_implied", "keywords", "optogenetics"]
 ---
 
 ### One-line summary

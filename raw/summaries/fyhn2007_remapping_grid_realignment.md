@@ -1,11 +1,18 @@
 ---
-source_file: fyhn2007_remapping_grid_realignment.md
+source_file: "fyhn2007_remapping_grid_realignment.md"
+paper_id: "fyhn2007_remapping_grid_realignment"
 title: "Hippocampal remapping and grid realignment in entorhinal cortex"
-authors: Marianne Fyhn, Torkel Hafting, Alessandro Treves, May-Britt Moser, Edvard I. Moser
+authors: "Marianne Fyhn, Torkel Hafting, Alessandro Treves, May-Britt Moser, Edvard I. Moser"
 year: 2007
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["foraging_task"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["hippocampal", "remapping", "grid", "realignment", "entorhinal", "cortex"]
 ---
 
 ### One-line summary

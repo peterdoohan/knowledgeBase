@@ -1,11 +1,16 @@
 ---
-source_file: devuyst2009_calcium_connexin43_hemichannels.md
+source_file: "devuyst2009_calcium_connexin43_hemichannels.md"
+paper_id: "devuyst2009_calcium_connexin43_hemichannels"
 title: "Ca2+ regulation of connexin 43 hemichannels in C6 glioma and glial cells"
-authors: Elke De Vuyst, Nan Wang, Elke Decrock, Marijke De Bock, Mathieu Vinken, Marijke Van Moorhem, Charles Lai, Maxime Culot, Vera Rogiers, Romeo Cecchelli, Christian C. Naus, W. Howard Evans, Luc Leybaert
+authors: "Elke De Vuyst, Nan Wang, Elke Decrock, Marijke De Bock, Mathieu Vinken, Marijke Van Moorhem, Charles Lai, Maxime Culot, Vera Rogiers, Romeo Cecchelli, Christian C. Naus, W. Howard Evans, Luc Leybaert"
 year: 2009
-journal: Cell Calcium
-paper_type: empirical
-contribution_type: empirical
+journal: "Cell Calcium"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["calcium_imaging"]
+brain_regions: ["primary_auditory_cortex"]
+keywords: ["ca2", "regulation", "connexin", "hemichannels", "glioma", "glial", "cells"]
 ---
 
 ### One-line summary

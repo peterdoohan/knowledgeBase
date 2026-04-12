@@ -1,11 +1,16 @@
 ---
-source_file: kubska2021_single_neuron_cognition.md
+source_file: "kubska2021_single_neuron_cognition.md"
+paper_id: "kubska2021_single_neuron_cognition"
 title: "How Human Single-Neuron Recordings Can Help Us Understand Cognition: Insights from Memory Studies"
-authors: Zuzanna Roma Kubska, Jan Kaminski
+authors: "Zuzanna Roma Kubska, Jan Kaminski"
 year: 2021
-journal: Brain Sciences
-paper_type: review
-contribution_type: review
+journal: "Brain Sciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["electrophysiology"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_tegmental_area", "substantia_nigra", "amygdala", "medial_temporal_lobe"]
+keywords: ["quian_quiroga_et_al_2005_nature_original_concept_cell_discovery_jennifer_aniston_neuron", "quian_quiroga_et_al_2009_current_biology_multimodal_encoding_by_single_mtl_neurons", "quian_quiroga_2012_nature_reviews_neuroscience_concept_cells_review", "ison_et_al_2015_neuron_rapid_one_shot_associative_encoding_by_concept_cells", "kaminski_et_al_2017_nature_neuroscience_first_evidence_for_persistent_activity_in_human_wm", "kornblith_et_al_2017_current_biology_concurrent_human_mtl_persistent_activity_in_wm", "kaminski_et_al_2018_current_biology_novelty_sensitive_dopaminergic_neurons_in_human_sn", "rutishauser_et_al_2006", "2008", "2010_novelty_dependent_neurons_in_human_hippocampus_amygdala", "rutishauser_et_al_2018_neuron_memory_strength_and_confidence_neurons_in_human_ppc", "lisman_and_grace_2005_neuron_hippocampal_vta_loop_model", "kaminski_et_al_2020_neuron_phase_rate_coding_in_human_wm", "boran_et_al_2019_science_advances_hippocampal_persistent_activity_and_cortical_coupling_in_wm", "baddeley_and_hitch_1974", "cowan_2001", "oberauer_2002_competing_wm_models", "named_models_or_frameworks", "lisman_grace_hippocampal_vta_sn_loop", "baddeley_hitch_working_memory_model"]
 ---
 
 ### One-line summary

@@ -1,11 +1,15 @@
 ---
-source_file: omer2022_hippocampal_time_cells.md
+source_file: "omer2022_hippocampal_time_cells.md"
+paper_id: "omer2022_hippocampal_time_cells"
 title: "Contextual and pure time coding for self and other in the hippocampus"
-authors: David B. Omer, Liora Las, Nachum Ulanovsky
+authors: "David B. Omer, Liora Las, Nachum Ulanovsky"
 year: 2022
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+methods: ["electrophysiology", "tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+keywords: ["contextual", "pure", "time", "coding", "self", "other", "hippocampus"]
 ---
 
 ### One-line summary

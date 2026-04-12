@@ -1,11 +1,18 @@
 ---
-source_file: hamid2021_dopamine_waves_credit_assignment.md
+source_file: "hamid2021_dopamine_waves_credit_assignment.md"
+paper_id: "hamid2021_dopamine_waves_credit_assignment"
 title: "Wave-like dopamine dynamics as a mechanism for spatiotemporal credit assignment"
-authors: Arif A. Hamid, Michael J. Frank, Christopher I. Moore
+authors: "Arif A. Hamid, Michael J. Frank, Christopher I. Moore"
 year: 2021
-journal: Cell
-paper_type: empirical
-contribution_type: empirical
+journal: "Cell"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["calcium_imaging", "computational_modeling"]
+brain_regions: ["striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_tegmental_area", "substantia_nigra"]
+frameworks: ["reinforcement_learning", "temporal_difference_learning"]
+keywords: ["wave", "like", "dopamine", "dynamics", "mechanism", "spatiotemporal", "credit", "assignment"]
+key_citations: ["schultz1997_neural_substrate_reward_pred", "montague1996_predictive_hebbian_dopamine"]
 ---
 
 ### One-line summary

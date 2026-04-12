@@ -1,11 +1,17 @@
 ---
-source_file: bakermans2020_reinforcement_learning_dopamine.md
-title: "Reinforcement Learning: Full Glass or Empty — Depends Who You Ask"
-authors: Jacob J.W. Bakermans, Timothy H. Muller, Timothy E.J. Behrens
+source_file: "bakermans2020_reinforcement_learning_dopamine.md"
+paper_id: "bakermans2020_reinforcement_learning_dopamine"
+title: "Reinforcement Learning: Full Glass or Empty \u2014 Depends Who You Ask"
+authors: "Jacob J.W. Bakermans, Timothy H. Muller, Timothy E.J. Behrens"
 year: 2020
-journal: Current Biology
-paper_type: review
-contribution_type: review
+journal: "Current Biology"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse"]
+brain_regions: ["ventral_tegmental_area"]
+frameworks: ["reinforcement_learning", "temporal_difference_learning"]
+keywords: ["reinforcement", "learning", "full", "glass", "empty", "depends", "who", "you", "ask"]
+key_citations: ["schultz1997_neural_substrate_reward_pred", "lammel2014_dopamine_reward_aversion_b"]
 ---
 
 ### One-line summary

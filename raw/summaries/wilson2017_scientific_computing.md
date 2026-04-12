@@ -1,11 +1,14 @@
 ---
-source_file: wilson2017_scientific_computing.md
-title: Good enough practices in scientific computing
-authors: Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK
+source_file: "wilson2017_scientific_computing.md"
+paper_id: "wilson2017_scientific_computing"
+title: "Good enough practices in scientific computing"
+authors: "Wilson G, Bryan J, Cranston K, Kitzes J, Nederbragt L, Teal TK"
 year: 2017
-journal: PLOS Computational Biology
-paper_type: review
-contribution_type: review
+journal: "PLOS Computational Biology"
+paper_type: "review"
+contribution_type: "review"
+frameworks: ["bayesian_inference"]
+keywords: ["wilson_et_al_2014_best_practices_for_scientific_computing_predecessor_paper_for_experienced_researchers", "gentzkow_and_shapiro_2014_code_and_data_for_the_social_sciences", "noble_2009_a_quick_guide_to_organizing_computational_biology_projects", "wickham_2014_tidy_data", "sandve_et_al_2013_ten_simple_rules_for_reproducible_computational_research", "hart_et_al_2016_ten_simple_rules_for_digital_data_storage", "named_models_or_frameworks", "tidy_data_principles_wickham", "software_carpentry_data_carpentry_workshop_methodology", "manual_versioning_vs_version_control_systems", "project_organization_templates_nobles_rules", "brain_regions", "not_applicable", "keywords", "reproducible_research", "data_management", "version_control", "software_engineering", "tidy_data", "scientific_computing"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: binz2024_meta_learning_cognition.md
-title: Meta-Learned Models of Cognition
-authors: Marcel Binz, Ishita Dasgupta, Akshay Jagadish, Matthew Botvinick, Jane X. Wang, Eric Schulz
+source_file: "binz2024_meta_learning_cognition.md"
+paper_id: "binz2024_meta_learning_cognition"
+title: "Meta-Learned Models of Cognition"
+authors: "Marcel Binz, Ishita Dasgupta, Akshay Jagadish, Matthew Botvinick, Jane X. Wang, Eric Schulz"
 year: 2024
-journal: Psychological Review (preprint / in press)
-paper_type: review
-contribution_type: theoretical
+journal: "Psychological Review (preprint / in press)"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+tasks: ["two_step_task"]
+brain_regions: ["hippocampus", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "bayesian_inference"]
+keywords: ["meta", "learned", "models", "cognition"]
+key_citations: ["kemp2008_structural_discovery_form"]
 ---
 
 ### One-line summary

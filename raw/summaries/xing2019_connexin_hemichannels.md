@@ -1,11 +1,15 @@
 ---
-source_file: xing2019_connexin_hemichannels.md
-title: Connexin Hemichannels in Astrocytes: Role in CNS Disorders
-authors: LingYan Xing, Tuo Yang, ShuSen Cui, Gang Chen
+source_file: "xing2019_connexin_hemichannels.md"
+paper_id: "xing2019_connexin_hemichannels"
+title: "Connexin Hemichannels in Astrocytes: Role in CNS Disorders"
+authors: "LingYan Xing, Tuo Yang, ShuSen Cui, Gang Chen"
 year: 2019
-journal: Frontiers in Molecular Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Frontiers in Molecular Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse", "rat", "human"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "substantia_nigra"]
+keywords: ["connexin", "hemichannels", "astrocytes", "role", "cns", "disorders"]
 ---
 
 ### One-line summary

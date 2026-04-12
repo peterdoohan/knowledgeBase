@@ -1,11 +1,17 @@
 ---
-source_file: liu2023_hippocampus_amygdala_memory_formation.md
+source_file: "liu2023_hippocampus_amygdala_memory_formation.md"
+paper_id: "liu2023_hippocampus_amygdala_memory_formation"
 title: "Emerging many-to-one weighted mapping in hippocampus-amygdala network underlies memory formation"
-authors: Jun Liu, Arron F Hall, Dong V Wang
+authors: "Jun Liu, Arron F Hall, Dong V Wang"
 year: 2023
-journal: bioRxiv (preprint)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["optogenetics", "electrophysiology", "tetrode_recording", "behavioral_analysis"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "amygdala", "basolateral_amygdala"]
+keywords: ["emerging", "many", "one", "weighted", "mapping", "hippocampus", "amygdala", "network", "underlies", "memory"]
+key_citations: ["fernandez2019_ripples_memory_consolidation", "girardeau2009_ripples_spatial_memory", "buzsaki2015_hippocampal_sharp_wave_ripple"]
 ---
 
 ### One-line summary

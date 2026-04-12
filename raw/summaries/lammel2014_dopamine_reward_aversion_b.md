@@ -1,11 +1,17 @@
 ---
-source_file: lammel2014_dopamine_reward_aversion_b.md
+source_file: "lammel2014_dopamine_reward_aversion_b.md"
+paper_id: "lammel2014_dopamine_reward_aversion_b"
 title: "Reward and aversion in a heterogeneous midbrain dopamine system"
-authors: Stephan Lammel, Byung Kook Lim, Robert C. Malenka
+authors: "Stephan Lammel, Byung Kook Lim, Robert C. Malenka"
 year: 2014
-journal: Neuropharmacology
-paper_type: review
-contribution_type: review
+journal: "Neuropharmacology"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse"]
+methods: ["optogenetics", "electrophysiology"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "striatum", "dorsolateral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala", "basolateral_amygdala"]
+frameworks: ["reinforcement_learning"]
+keywords: ["reward", "aversion", "heterogeneous", "midbrain", "dopamine", "system"]
 ---
 
 ### One-line summary

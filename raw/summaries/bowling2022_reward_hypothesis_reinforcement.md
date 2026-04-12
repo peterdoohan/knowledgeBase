@@ -1,11 +1,16 @@
 ---
-source_file: bowling2022_reward_hypothesis_reinforcement.md
+source_file: "bowling2022_reward_hypothesis_reinforcement.md"
+paper_id: "bowling2022_reward_hypothesis_reinforcement"
 title: "Settling the Reward Hypothesis"
-authors: Michael Bowling, John D. Martin, David Abel, Will Dabney
+authors: "Michael Bowling, John D. Martin, David Abel, Will Dabney"
 year: 2022
-journal: DeepMind Technical Report
-paper_type: computational
-contribution_type: theoretical
+journal: "DeepMind Technical Report"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["human"]
+frameworks: ["reinforcement_learning"]
+keywords: ["settling", "reward", "hypothesis"]
+key_citations: ["silver2021_reward_artificial_intelligence"]
 ---
 
 ### One-line summary

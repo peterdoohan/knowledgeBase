@@ -1,11 +1,15 @@
 ---
-source_file: buccino2020_spikeinterface_spike_sorting.md
+source_file: "buccino2020_spikeinterface_spike_sorting.md"
+paper_id: "buccino2020_spikeinterface_spike_sorting"
 title: "SpikeInterface, a unified framework for spike sorting"
-authors: Alessio P Buccino, Cole L Hurwitz, et al.
+authors: "Alessio P Buccino, Cole L Hurwitz, et al."
 year: 2020
-journal: eLife
-paper_type: computational
-contribution_type: methodological
+journal: "eLife"
+paper_type: "computational"
+contribution_type: "methodological"
+species: ["rat"]
+methods: ["electrophysiology", "neuropixels"]
+keywords: ["spikeinterface", "unified", "framework", "spike", "sorting"]
 ---
 
 ### One-line summary

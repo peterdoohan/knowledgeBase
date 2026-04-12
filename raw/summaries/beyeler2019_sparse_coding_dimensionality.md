@@ -1,11 +1,16 @@
 ---
-source_file: beyeler2019_sparse_coding_dimensionality.md
+source_file: "beyeler2019_sparse_coding_dimensionality.md"
+paper_id: "beyeler2019_sparse_coding_dimensionality"
 title: "Neural correlates of sparse coding and dimensionality reduction"
-authors: Michael Beyeler, Emily L. Rounds, Kristofor D. Carlson, Nikil Dutt, Jeffrey L. Krichmar
+authors: "Michael Beyeler, Emily L. Rounds, Kristofor D. Carlson, Nikil Dutt, Jeffrey L. Krichmar"
 year: 2019
-journal: PLoS Computational Biology
-paper_type: review
-contribution_type: review
+journal: "PLoS Computational Biology"
+paper_type: "review"
+contribution_type: "review"
+tasks: ["navigation_task"]
+methods: ["computational_modeling"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "retrosplenial_cortex", "visual_cortex", "primary_auditory_cortex"]
+keywords: ["olshausen_ba_and_field_dj_1996", "1997_sparse_coding_and_v1_receptive_fields", "lee_dd_and_seung_hs_1999_nmf_and_parts_based_face_representations_in_it", "hoyer_po_2002", "2003_nonnegative_sparse_coding", "v1_modelling", "bar_gad_i_et_al_2000", "2003_rddr_model", "dimensionality_reduction_in_basal_ganglia", "beyeler_m_et_al_2016_nsc_model_of_mstd_responses", "rounds_el_et_al_2018_stdph_model_of_rsc_conjunctive_coding", "liu_jk_et_al_2017_spike_triggered_nmf_stnmf", "retinal_subunit_identification", "castro_jb_et_al_2013_nmf_applied_to_olfactory_perceptual_space", "stringer_c_et_al_2018", "2019_high_dimensional_v1_responses", "behaviour_mixed_representations", "carlson_kd_et_al_stdph_as_approximation_of_nmf", "named_models_or_frameworks", "nonnegative_sparse_coding_nsc"]
 ---
 
 ### One-line summary

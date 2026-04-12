@@ -1,11 +1,15 @@
 ---
-source_file: caplan2001_thought_disorder_adhd.md
+source_file: "caplan2001_thought_disorder_adhd.md"
+paper_id: "caplan2001_thought_disorder_adhd"
 title: "Thought Disorder in Attention-Deficit Hyperactivity Disorder"
-authors: Rochelle Caplan, Donald Guthrie, Beth Tang, Keith H. Nuechterlein, Robert F. Asarnow
+authors: "Rochelle Caplan, Donald Guthrie, Beth Tang, Keith H. Nuechterlein, Robert F. Asarnow"
 year: 2001
-journal: Journal of the American Academy of Child and Adolescent Psychiatry
-paper_type: empirical
-contribution_type: empirical
+journal: "Journal of the American Academy of Child and Adolescent Psychiatry"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+brain_regions: ["prefrontal_cortex", "superior_temporal_gyrus"]
+keywords: ["thought", "disorder", "attention", "deficit", "hyperactivity"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: tang2024_learning_grid_cells_predictive.md
-title: Learning Grid Cells by Predictive Coding
-authors: Mufeng Tang, Helen Barron, Rafal Bogacz
+source_file: "tang2024_learning_grid_cells_predictive.md"
+paper_id: "tang2024_learning_grid_cells_predictive"
+title: "Learning Grid Cells by Predictive Coding"
+authors: "Mufeng Tang, Helen Barron, Rafal Bogacz"
 year: 2024
-journal: Computational Biology / Conference Proceedings (ICLR)
-paper_type: computational
-contribution_type: theoretical
+journal: "Computational Biology / Conference Proceedings (ICLR)"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "medial_entorhinal_cortex", "visual_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["learning", "grid", "cells", "predictive", "coding"]
+key_citations: ["sorscher2023_grid_cells_unified_theory", "dordek2016_grid_cells_pca", "burak2009_path_integration_grid_cells"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: jensen2024_recurrent_planning_hippocampal_replay.md
+source_file: "jensen2024_recurrent_planning_hippocampal_replay.md"
+paper_id: "jensen2024_recurrent_planning_hippocampal_replay"
 title: "A recurrent network model of planning explains hippocampal replay and human behavior"
-authors: Kristopher T. Jensen, Guillaume Hennequin, Marcelo G. Mattar
+authors: "Kristopher T. Jensen, Guillaume Hennequin, Marcelo G. Mattar"
 year: 2024
-journal: Nature Neuroscience
-paper_type: computational
-contribution_type: theoretical
+journal: "Nature Neuroscience"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["rat", "human"]
+tasks: ["navigation_task"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl"]
+keywords: ["recurrent", "network", "model", "planning", "explains", "hippocampal", "replay", "human", "behavior"]
+key_citations: ["foster2017_replay_memory_consolidation", "jadhav2016_hippocampal_prefrontal_swr", "widloski2022_hippocampal_replay_barriers"]
 ---
 
 ### One-line summary

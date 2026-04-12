@@ -1,11 +1,17 @@
 ---
-source_file: barron2021_cross_species_neuroscience.md
+source_file: "barron2021_cross_species_neuroscience.md"
+paper_id: "barron2021_cross_species_neuroscience"
 title: "Cross-species neuroscience: closing the explanatory gap"
-authors: Helen C. Barron, Rogier B. Mars, David Dupret, Jason P. Lerch, Cassandra Sampaio-Baptista
+authors: "Helen C. Barron, Rogier B. Mars, David Dupret, Jason P. Lerch, Cassandra Sampaio-Baptista"
 year: 2021
-journal: Philosophical Transactions of the Royal Society B
-paper_type: review
-contribution_type: theoretical
+journal: "Philosophical Transactions of the Royal Society B"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["calcium_imaging", "optogenetics", "electrophysiology", "neuropixels", "fmri", "representational_similarity_analysis", "computational_modeling"]
+brain_regions: ["hippocampus", "visual_cortex"]
+frameworks: ["reinforcement_learning", "temporal_difference_learning"]
+keywords: ["krizhevsky_et_al_deep_neural_networks_visual_cortex_229", "kriegeskorte_et_al_rsa_framework_204", "207", "208", "rescorla_and_wagner", "schultz_et_al_td_learning_and_dopamine_215218", "jun_et_al_neuropixels_probes_79", "boto_et_al_wearable_opm_meg_10", "tolman_cognitive_maps_186", "brodmann_cytoarchitecture_across_species_112", "named_models_or_frameworks", "representational_similarity_analysis_rsa", "temporal_difference_td_learning_rescorlawagner_algorithm", "physiologically_based_pharmacokinetic_pbpk_modelling", "connectivity_blueprints_cross_species_mri_homology_mapping", "allometric_scaling", "brain_regions", "hippocampus", "inferotemporal_cortex_area_it", "primary_visual_cortex_v1"]
 ---
 
 ### One-line summary

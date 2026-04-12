@@ -1,11 +1,19 @@
 ---
-source_file: keramati2016_plan_until_habit.md
+source_file: "keramati2016_plan_until_habit.md"
+paper_id: "keramati2016_plan_until_habit"
 title: "Adaptive integration of habits into depth-limited planning defines a habitual-goal directed spectrum"
-authors: Mehdi Keramati, Peter Smittenaar, Raymond J. Dolan, Peter Dayan
+authors: "Mehdi Keramati, Peter Smittenaar, Raymond J. Dolan, Peter Dayan"
 year: 2016
-journal: Proceedings of the National Academy of Sciences (PNAS)
-paper_type: empirical
-contribution_type: theoretical
+journal: "Proceedings of the National Academy of Sciences (PNAS)"
+paper_type: "empirical"
+contribution_type: "theoretical"
+species: ["human"]
+tasks: ["two_step_task"]
+methods: ["behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "striatum", "dorsomedial_striatum", "amygdala"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl"]
+keywords: ["adaptive", "integration", "habits", "depth", "limited", "planning", "defines", "habitual", "goal", "directed"]
+key_citations: ["daw2011_model_based_striatal_prediction"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: suh2013_impaired_ripple.md
-title: Impaired Hippocampal Ripple-Associated Replay in a Mouse Model of Schizophrenia
-authors: Junghyup Suh, David J. Foster, Heydar Davoudi, Matthew A. Wilson, Susumu Tonegawa
+source_file: "suh2013_impaired_ripple.md"
+paper_id: "suh2013_impaired_ripple"
+title: "Impaired Hippocampal Ripple-Associated Replay in a Mouse Model of Schizophrenia"
+authors: "Junghyup Suh, David J. Foster, Heydar Davoudi, Matthew A. Wilson, Susumu Tonegawa"
 year: 2013
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["linear_track"]
+methods: ["electrophysiology", "tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+keywords: ["impaired", "hippocampal", "ripple", "associated", "replay", "mouse", "model", "schizophrenia"]
 ---
 
 ### One-line summary

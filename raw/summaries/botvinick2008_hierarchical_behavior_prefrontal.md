@@ -1,11 +1,18 @@
 ---
-source_file: botvinick2008_hierarchical_behavior_prefrontal.md
+source_file: "botvinick2008_hierarchical_behavior_prefrontal.md"
+paper_id: "botvinick2008_hierarchical_behavior_prefrontal"
 title: "Hierarchical models of behavior and prefrontal function"
-authors: Matthew M. Botvinick
+authors: "Matthew M. Botvinick"
 year: 2008
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: review
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["fmri"]
+brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
+frameworks: ["reinforcement_learning", "hierarchical_rl"]
+keywords: ["hierarchical", "models", "behavior", "prefrontal", "function"]
+key_citations: ["lashley1951_serial_order_behavior"]
 ---
 
 ### One-line summary

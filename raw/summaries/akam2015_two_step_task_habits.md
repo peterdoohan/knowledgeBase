@@ -1,11 +1,19 @@
 ---
-source_file: akam2015_two_step_task_habits.md
-title: Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task
-authors: Thomas Akam, Rui Costa, Peter Dayan
+source_file: "akam2015_two_step_task_habits.md"
+paper_id: "akam2015_two_step_task_habits"
+title: "Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task"
+authors: "Thomas Akam, Rui Costa, Peter Dayan"
 year: 2015
-journal: PLoS Computational Biology
-paper_type: computational
-contribution_type: methodological
+journal: "PLoS Computational Biology"
+paper_type: "computational"
+contribution_type: "methodological"
+species: ["human"]
+tasks: ["two_step_task"]
+methods: ["computational_modeling", "lesion", "behavioral_analysis"]
+brain_regions: ["striatum", "dorsomedial_striatum", "dorsolateral_striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation", "hierarchical_rl", "temporal_difference_learning", "latent_state_inference"]
+keywords: ["simple", "plans", "sophisticated", "habits", "state", "transition", "learning", "interactions", "two", "step"]
+key_citations: ["daw2011_model_based_striatal_prediction"]
 ---
 
 ### One-line summary

@@ -1,11 +1,16 @@
 ---
-source_file: pachitariu2024_kilosort4_spike_sorting.md
+source_file: "pachitariu2024_kilosort4_spike_sorting.md"
+paper_id: "pachitariu2024_kilosort4_spike_sorting"
 title: "Spike sorting with Kilosort4"
-authors: Marius Pachitariu, Shashwat Sridhar, Jacob Pennington, Carsen Stringer
+authors: "Marius Pachitariu, Shashwat Sridhar, Jacob Pennington, Carsen Stringer"
 year: 2024
-journal: Nature Methods
-paper_type: computational
-contribution_type: methodological
+journal: "Nature Methods"
+paper_type: "computational"
+contribution_type: "methodological"
+methods: ["electrophysiology", "neuropixels"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "anterior_cingulate_cortex", "prelimbic_cortex", "striatum", "thalamus", "visual_cortex"]
+keywords: ["spike", "sorting", "kilosort4"]
+key_citations: ["buccino2020_spikeinterface_spike_sorting"]
 ---
 
 ### One-line summary

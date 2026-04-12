@@ -1,11 +1,16 @@
 ---
-source_file: zeithamova2012_hippocampal_inference.md
+source_file: "zeithamova2012_hippocampal_inference.md"
+paper_id: "zeithamova2012_hippocampal_inference"
 title: "The hippocampus and inferential reasoning: building memories to navigate future decisions"
-authors: Dagmar Zeithamova, Margaret L. Schlichting, Alison R. Preston
+authors: "Dagmar Zeithamova, Margaret L. Schlichting, Alison R. Preston"
 year: 2012
-journal: Frontiers in Human Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Frontiers in Human Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["electrophysiology", "fmri", "computational_modeling", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "ventromedial_prefrontal_cortex", "striatum", "inferior_frontal_gyrus"]
+keywords: ["eichenbaum_and_cohen_2001", "squire_et_al_2004", "eichenbaum_et_al_2007", "preston_and_wagner_2007_foundational_hippocampal_memory_theory", "cohen_and_eichenbaum_1993", "oreilly_and_rudy_2001_relational_memory_theory_and_conjunctive_representations", "bunsey_and_eichenbaum_1996", "dusek_and_eichenbaum_1997_animal_lesion_studies_of_associative_and_transitive_inference", "heckers_et_al_2004", "preston_et_al_2004", "zalesak_and_heckers_2009_human_fmri_studies_of_hippocampal_activation_during_inference", "shohamy_and_wagner_2008", "zeithamova_and_preston_2010_integrative_encoding_processes", "mcclelland_et_al_1995", "wallenstein_et_al_1998_computational_models_of_hippocampal_function", "tse_et_al_2007", "2011_schema_dependent_learning_in_rodents", "tolman_1948", "okeefe_and_nadel_1978_cognitive_map_theory", "marr_1971_pattern_completion_theory"]
 ---
 
 ### One-line summary

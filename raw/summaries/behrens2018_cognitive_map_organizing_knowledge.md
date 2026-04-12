@@ -1,11 +1,19 @@
 ---
-source_file: behrens2018_cognitive_map_organizing_knowledge.md
+source_file: "behrens2018_cognitive_map_organizing_knowledge.md"
+paper_id: "behrens2018_cognitive_map_organizing_knowledge"
 title: "What Is a Cognitive Map? Organizing Knowledge for Flexible Behavior"
-authors: Timothy E.J. Behrens, Timothy H. Muller, James C.R. Whittington, Shirley Mark, Alon B. Baram, Kimberly L. Stachenfeld, Zeb Kurth-Nelson
+authors: "Timothy E.J. Behrens, Timothy H. Muller, James C.R. Whittington, Shirley Mark, Alon B. Baram, Kimberly L. Stachenfeld, Zeb Kurth-Nelson"
 year: 2018
-journal: Neuron
-paper_type: review
-contribution_type: theoretical
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+tasks: ["navigation_task"]
+methods: ["fmri", "lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation"]
+keywords: ["what", "cognitive", "map", "organizing", "knowledge", "flexible", "behavior"]
+key_citations: ["tolman1948_cognitive_maps_rats", "stachenfeld2017_hippocampus_predictive_map", "dordek2016_grid_cells_pca", "constantinescu2016_gridlike_conceptual_knowledge", "garvert2017_relational_knowledge_maps", "wilson2014_best_practices_scientific", "dayan1993_successor_representation"]
 ---
 
 ### One-line summary

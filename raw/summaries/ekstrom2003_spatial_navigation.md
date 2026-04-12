@@ -1,11 +1,17 @@
 ---
-source_file: ekstrom2003_spatial_navigation.md
+source_file: "ekstrom2003_spatial_navigation.md"
+paper_id: "ekstrom2003_spatial_navigation"
 title: "Cellular networks underlying human spatial navigation"
-authors: Arne D. Ekstrom, Michael J. Kahana, Jeremy B. Caplan, Tony A. Fields, Eve A. Isham, Ehren L. Newman, Itzhak Fried
+authors: "Arne D. Ekstrom, Michael J. Kahana, Jeremy B. Caplan, Tony A. Fields, Eve A. Isham, Ehren L. Newman, Itzhak Fried"
 year: 2003
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["virtual_navigation", "navigation_task"]
+methods: ["electrophysiology", "fmri"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "amygdala"]
+keywords: ["cellular", "networks", "underlying", "human", "spatial", "navigation"]
 ---
 
 ### One-line summary

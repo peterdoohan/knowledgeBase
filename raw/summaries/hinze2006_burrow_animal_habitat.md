@@ -1,11 +1,15 @@
 ---
-source_file: hinze2006_burrow_animal_habitat.md
+source_file: "hinze2006_burrow_animal_habitat.md"
+paper_id: "hinze2006_burrow_animal_habitat"
 title: "The burrow system of the African ice rat Otomys sloggetti robertsi"
-authors: Andrea Hinze, N. Pillay, S. Grab
+authors: "Andrea Hinze, N. Pillay, S. Grab"
 year: 2006
-journal: Mammalian Biology (Mamm. biol.)
-paper_type: empirical
-contribution_type: empirical
+journal: "Mammalian Biology (Mamm. biol.)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+keywords: ["burrow", "system", "african", "ice", "rat", "otomys", "sloggetti", "robertsi"]
+key_citations: ["hinze2006_ice_rat_burrow"]
 ---
 
 ### One-line summary

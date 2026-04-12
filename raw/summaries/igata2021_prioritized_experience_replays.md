@@ -1,11 +1,19 @@
 ---
-source_file: igata2021_prioritized_experience_replays.md
+source_file: "igata2021_prioritized_experience_replays.md"
+paper_id: "igata2021_prioritized_experience_replays"
 title: "Prioritized experience replays on a hippocampal predictive map for learning"
-authors: Hideyoshi Igata, Yuji Ikegaya, Takuya Sasaki
+authors: "Hideyoshi Igata, Yuji Ikegaya, Takuya Sasaki"
 year: 2021
-journal: PNAS (Proceedings of the National Academy of Sciences)
-paper_type: empirical
-contribution_type: empirical
+journal: "PNAS (Proceedings of the National Academy of Sciences)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["navigation_task"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus_ca1"]
+frameworks: ["reinforcement_learning"]
+keywords: ["prioritized", "experience", "replays", "hippocampal", "predictive", "map", "learning"]
+key_citations: ["stachenfeld2017_hippocampus_predictive_map"]
 ---
 
 ### One-line summary

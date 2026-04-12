@@ -1,11 +1,14 @@
 ---
-source_file: hood2017_cardiac_gap_junctions_phosphatases.md
-title: Regulation of cardiac gap junctions by protein phosphatases
-authors: Ashleigh R. Hood, Xun Ai, Steven M. Pogwizd
+source_file: "hood2017_cardiac_gap_junctions_phosphatases.md"
+paper_id: "hood2017_cardiac_gap_junctions_phosphatases"
+title: "Regulation of cardiac gap junctions by protein phosphatases"
+authors: "Ashleigh R. Hood, Xun Ai, Steven M. Pogwizd"
 year: 2017
-journal: Journal of Molecular and Cellular Cardiology
-paper_type: review
-contribution_type: review
+journal: "Journal of Molecular and Cellular Cardiology"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse", "rat"]
+keywords: ["ai_and_pogwizd_2005_circ_res_pp2a_co_localisation_with_cx43_in_hf", "remo_et_al_2011_circ_res_phosphatase_resistant_cx43_knock_in_mice", "ai_et_al_2011_cardiovasc_res_pak_1", "pp2a", "cx43_dephosphorylation_in_hf", "beardslee_et_al_2000_circ_res_ischaemia_induced_cx43_dephosphorylation", "jabr_et_al_2016_pflugers_arch_calcineurin_pp2b_regulation_of_cx43", "named_models_or_frameworks", "s3a_and_s3e_cx43_knock_in_mouse_models_non_phosphorylatable_and_phosphatase_resistant", "respectively", "pak_1_pp2a_cx43_regulatory_axis", "brain_regions_not_applicable_cardiac_paper", "keywords_connexin_43", "gap_junction", "cardiac_arrhythmia", "protein_phosphatase", "pp1", "cx43_dephosphorylation", "heart_failure", "pak_1"]
 ---
 
 ### One-line summary

@@ -1,11 +1,15 @@
 ---
-source_file: tolman1948_cognitive_maps_rats.md
-title: Cognitive Maps in Rats and Men
-authors: Edward C. Tolman
+source_file: "tolman1948_cognitive_maps_rats.md"
+paper_id: "tolman1948_cognitive_maps_rats"
+title: "Cognitive Maps in Rats and Men"
+authors: "Edward C. Tolman"
 year: 1948
-journal: Psychological Review
-paper_type: empirical
-contribution_type: theoretical
+journal: "Psychological Review"
+paper_type: "empirical"
+contribution_type: "theoretical"
+species: ["rat", "human"]
+tasks: ["y_maze", "navigation_task"]
+keywords: ["cognitive", "maps", "rats", "men"]
 ---
 
 ### One-line summary

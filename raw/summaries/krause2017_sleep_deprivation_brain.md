@@ -1,11 +1,16 @@
 ---
-source_file: krause2017_sleep_deprivation_brain.md
+source_file: "krause2017_sleep_deprivation_brain.md"
+paper_id: "krause2017_sleep_deprivation_brain"
 title: "The sleep-deprived human brain"
-authors: Adam J. Krause, Eti Ben Simon, Bryce A. Mander, Stephanie M. Greer, Jared M. Saletin, Andrea N. Goldstein-Piekarski, Matthew P. Walker
+authors: "Adam J. Krause, Eti Ben Simon, Bryce A. Mander, Stephanie M. Greer, Jared M. Saletin, Andrea N. Goldstein-Piekarski, Matthew P. Walker"
 year: 2017
-journal: Nature Reviews Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Nature Reviews Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["fmri"]
+brain_regions: ["hippocampus", "hippocampus_ca3", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "thalamus", "amygdala"]
+keywords: ["yoo_et_al_2007", "nat_neurosci_hippocampal_encoding_deficit_with_sd", "curr_biol_amygdala_hyper_reactivity_and_mpfc_disconnection_with_sd", "volkow_et_al_2012", "j_neurosci_pet_evidence_of_d2_3r_downregulation_in_striatum_after_sd", "goldstein_and_walker_2014", "annu_rev_clin_psychol_rem_sleep_noradrenaline_model_of_emotional_brain_function", "greer", "goldstein_and_walker_2013", "nat_commun_sd_and_food_desire_amygdala_insula_frontal", "mander_et_al_2016", "trends_neurosci_sleep", "nrem", "and_alzheimer_disease", "van_dongen_et_al_2003", "sleep_dose_dependent_attentional_effects_of_sleep_restriction", "borbely_1982_two_process_model_of_sleep_regulation", "goldstein_piekarski_et_al_2015", "j_neurosci_sd_impairs_social_threat_discrimination", "named_models_or_frameworks"]
 ---
 
 ### One-line summary

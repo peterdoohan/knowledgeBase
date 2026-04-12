@@ -1,11 +1,17 @@
 ---
-source_file: badre2019_hierarchical_cognitive_control_lobes.md
+source_file: "badre2019_hierarchical_cognitive_control_lobes.md"
+paper_id: "badre2019_hierarchical_cognitive_control_lobes"
 title: "Hierarchical cognitive control and the frontal lobes"
-authors: David Badre, Theresa M. Desrochers
+authors: "David Badre, Theresa M. Desrochers"
 year: 2019
 journal: "Handbook of Clinical Neurology, Vol. 163 (3rd series): The Frontal Lobes"
-paper_type: review
-contribution_type: review
+paper_type: "review"
+contribution_type: "review"
+methods: ["fmri", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
+frameworks: ["reinforcement_learning", "hierarchical_rl"]
+keywords: ["hierarchical", "cognitive", "control", "frontal", "lobes"]
+key_citations: ["badre2018_frontal_cortex_hierarchical_control"]
 ---
 
 ### One-line summary

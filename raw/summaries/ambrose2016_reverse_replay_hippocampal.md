@@ -1,11 +1,19 @@
 ---
-source_file: ambrose2016_reverse_replay_hippocampal.md
-title: Reverse Replay of Hippocampal Place Cells Is Uniquely Modulated by Changing Reward
-authors: R. Ellen Ambrose, Brad E. Pfeiffer, David J. Foster
+source_file: "ambrose2016_reverse_replay_hippocampal.md"
+paper_id: "ambrose2016_reverse_replay_hippocampal"
+title: "Reverse Replay of Hippocampal Place Cells Is Uniquely Modulated by Changing Reward"
+authors: "R. Ellen Ambrose, Brad E. Pfeiffer, David J. Foster"
 year: 2016
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["linear_track"]
+methods: ["tetrode_recording", "bayesian_decoding", "behavioral_analysis"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning"]
+keywords: ["reverse", "replay", "hippocampal", "place", "cells", "uniquely", "modulated", "changing", "reward"]
+key_citations: ["singer2009_reward_reactivation_hippocampus"]
 ---
 
 ### One-line summary

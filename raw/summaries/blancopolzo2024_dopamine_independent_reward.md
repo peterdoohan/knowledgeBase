@@ -1,11 +1,19 @@
 ---
-source_file: blancopolzo2024_dopamine_independent_reward.md
+source_file: "blancopolzo2024_dopamine_independent_reward.md"
+paper_id: "blancopolzo2024_dopamine_independent_reward"
 title: "Dopamine-independent effect of rewards on choices through hidden-state inference"
-authors: Marta Blanco-Pozo, Thomas Akam, Mark E. Walton
+authors: "Marta Blanco-Pozo, Thomas Akam, Mark E. Walton"
 year: 2024
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["two_step_task"]
+methods: ["calcium_imaging", "optogenetics", "computational_modeling"]
+brain_regions: ["prefrontal_cortex", "striatum", "dorsomedial_striatum", "nucleus_accumbens", "ventral_tegmental_area", "retrosplenial_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "bayesian_inference"]
+keywords: ["dopamine", "independent", "effect", "rewards", "choices", "through", "hidden", "state", "inference"]
+key_citations: ["montague1996_predictive_hebbian_dopamine", "schultz1997_neural_substrate_reward_pred"]
 ---
 
 ### One-line summary

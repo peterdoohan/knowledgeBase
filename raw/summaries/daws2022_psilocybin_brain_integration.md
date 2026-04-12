@@ -1,11 +1,15 @@
 ---
-source_file: daws2022_psilocybin_brain_integration.md
+source_file: "daws2022_psilocybin_brain_integration.md"
+paper_id: "daws2022_psilocybin_brain_integration"
 title: "Increased global integration in the brain after psilocybin therapy for depression"
-authors: Richard E. Daws, Christopher Timmermann, Bruna Giribaldi, James D. Sexton, Matthew B. Wall, David Erritzoe, Leor Roseman, David Nutt, Robin Carhart-Harris
+authors: "Richard E. Daws, Christopher Timmermann, Bruna Giribaldi, James D. Sexton, Matthew B. Wall, David Erritzoe, Leor Roseman, David Nutt, Robin Carhart-Harris"
 year: 2022
-journal: Nature Medicine
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Medicine"
+paper_type: "empirical"
+contribution_type: "empirical"
+methods: ["fmri"]
+keywords: ["increased", "global", "integration", "brain", "after", "psilocybin", "therapy", "depression"]
+key_citations: ["rolls2016_non_reward_attractor_depression"]
 ---
 
 ### One-line summary

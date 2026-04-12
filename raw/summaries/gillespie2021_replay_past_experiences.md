@@ -1,11 +1,18 @@
 ---
-source_file: gillespie2021_replay_past_experiences.md
+source_file: "gillespie2021_replay_past_experiences.md"
+paper_id: "gillespie2021_replay_past_experiences"
 title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
-authors: Anna K. Gillespie, Daniela A. Astudillo Maya, Eric L. Denovellis, Daniel F. Liu, David B. Kastner, Michael E. Coulter, Demetris K. Roumis, Uri T. Eden, Loren M. Frank
+authors: "Anna K. Gillespie, Daniela A. Astudillo Maya, Eric L. Denovellis, Daniel F. Liu, David B. Kastner, Michael E. Coulter, Demetris K. Roumis, Uri T. Eden, Loren M. Frank"
 year: 2021
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning"]
+keywords: ["hippocampal", "replay", "reflects", "specific", "past", "experiences", "rather", "than", "plan", "subsequent"]
+key_citations: ["igata2021_prioritized_experience_replays", "shin2019_hippocampal_prefrontal_replay_b", "gupta2010_replay_not_simple_function"]
 ---
 
 ### One-line summary

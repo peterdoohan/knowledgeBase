@@ -1,11 +1,16 @@
 ---
-source_file: schapiro2013_event_representation_memory.md
-title: Neural representations of events arise from temporal community structure
-authors: Anna C Schapiro, Timothy T Rogers, Natalia I Cordova, Nicholas B Turk-Browne, Matthew M Botvinick
+source_file: "schapiro2013_event_representation_memory.md"
+paper_id: "schapiro2013_event_representation_memory"
+title: "Neural representations of events arise from temporal community structure"
+authors: "Anna C Schapiro, Timothy T Rogers, Natalia I Cordova, Nicholas B Turk-Browne, Matthew M Botvinick"
 year: 2013
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: theoretical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["fmri", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "superior_temporal_gyrus", "inferior_frontal_gyrus"]
+keywords: ["reynolds", "zacks_and_braver_2007_computational_model_of_event_segmentation_from_prediction", "zacks_et_al_2001_brain_activity_time_locked_to_event_boundaries", "zacks_et_al_2011_prediction_error_in_event_segmentation", "rogers_and_mcclelland_2004_semantic_cognition_pdp_approach", "cleeremans_and_mcclelland_1991_learning_structure_of_event_sequences", "elman_1990_finding_structure_in_time", "schapiro", "kustner_and_turk_browne_2012_temporal_regularities_shaping_object_representations", "saffran", "aslin_and_newport_1996_statistical_learning_in_infants", "rosch_and_mervis_1975_family_resemblances_category_structure", "named_models_or_frameworks", "temporal_community_structure_theory_of_event_representation", "prediction_error_surprise_based_event_segmentation_contrastive_framework", "parallel_distributed_processing_pdp_connectionist_models_of_semantic_cognition", "parser_model_chunking_model", "contrasted_with_community_structure_approach", "hidden_layer_representational_clustering", "statistical_learning_framework"]
 ---
 
 ### One-line summary

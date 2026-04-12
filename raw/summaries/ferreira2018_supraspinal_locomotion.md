@@ -1,11 +1,17 @@
 ---
-source_file: ferreira2018_supraspinal_locomotion.md
-title: Connecting Circuits for Supraspinal Control of Locomotion
-authors: Manuel J. Ferreira-Pinto, Ludwig Ruder, Paolo Capelli, Silvia Arber
+source_file: "ferreira2018_supraspinal_locomotion.md"
+paper_id: "ferreira2018_supraspinal_locomotion"
+title: "Connecting Circuits for Supraspinal Control of Locomotion"
+authors: "Manuel J. Ferreira-Pinto, Ludwig Ruder, Paolo Capelli, Silvia Arber"
 year: 2018
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse", "rat"]
+methods: ["calcium_imaging", "optogenetics"]
+brain_regions: ["infralimbic_cortex", "striatum", "ventral_tegmental_area", "substantia_nigra", "thalamus", "amygdala", "visual_cortex", "periaqueductal_gray"]
+keywords: ["connecting", "circuits", "supraspinal", "control", "locomotion"]
+key_citations: ["roseberry2016_basal_ganglia_motor"]
 ---
 
 ### One-line summary

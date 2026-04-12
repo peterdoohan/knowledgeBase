@@ -1,11 +1,17 @@
 ---
-source_file: haber2000_striatonigrostriatal_pathways.md
+source_file: "haber2000_striatonigrostriatal_pathways.md"
+paper_id: "haber2000_striatonigrostriatal_pathways"
 title: "Striatonigrostriatal Pathways in Primates Form an Ascending Spiral from the Shell to the Dorsolateral Striatum"
-authors: Suzanne N. Haber, Julie L. Fudge, Nikolaus R. McFarland
+authors: "Suzanne N. Haber, Julie L. Fudge, Nikolaus R. McFarland"
 year: 2000
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque"]
+methods: ["electrophysiology"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "dorsolateral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra"]
+frameworks: ["reinforcement_learning", "hierarchical_rl"]
+keywords: ["striatonigrostriatal", "pathways", "primates", "form", "ascending", "spiral", "shell", "dorsolateral", "striatum"]
 ---
 
 ### One-line summary

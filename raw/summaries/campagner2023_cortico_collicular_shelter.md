@@ -1,11 +1,18 @@
 ---
-source_file: campagner2023_cortico_collicular_shelter.md
-title: A cortico-collicular circuit for orienting to shelter during escape
-authors: Dario Campagner, Ruben Vale, Yu Lin Tan, Panagiota Iordanidou, Oriol Pavón Arocas, Federico Claudi, A. Vanessa Stempel, Sepiedeh Keshavarzi, Rasmus S. Petersen, Troy W. Margrie, Tiago Branco
+source_file: "campagner2023_cortico_collicular_shelter.md"
+paper_id: "campagner2023_cortico_collicular_shelter"
+title: "A cortico-collicular circuit for orienting to shelter during escape"
+authors: "Dario Campagner, Ruben Vale, Yu Lin Tan, Panagiota Iordanidou, Oriol Pav\u00f3n Arocas, Federico Claudi, A. Vanessa Stempel, Sepiedeh Keshavarzi, Rasmus S. Petersen, Troy W. Margrie, Tiago Branco"
 year: 2023
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["navigation_task"]
+methods: ["optogenetics", "neuropixels", "computational_modeling"]
+brain_regions: ["anterior_cingulate_cortex", "retrosplenial_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["cortico", "collicular", "circuit", "orienting", "shelter", "during", "escape"]
 ---
 
 ### One-line summary

@@ -1,11 +1,19 @@
 ---
-source_file: yoshida2006_resolution_uncertainty.md
-title: Resolution of Uncertainty in Prefrontal Cortex
-authors: Wako Yoshida, Shin Ishii
+source_file: "yoshida2006_resolution_uncertainty.md"
+paper_id: "yoshida2006_resolution_uncertainty"
+title: "Resolution of Uncertainty in Prefrontal Cortex"
+authors: "Wako Yoshida, Shin Ishii"
 year: 2006
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["navigation_task"]
+methods: ["fmri"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "dorsolateral_prefrontal_cortex", "striatum", "substantia_nigra", "thalamus"]
+frameworks: ["bayesian_inference"]
+keywords: ["bayesian_inference", "uncertainty", "prefrontal_cortex", "pomdp", "hidden_markov_model", "belief_updating", "entropy", "navigation", "decision_making", "fmri", "partial_observability", "back_track", "belief_maintenance", "anterior_prefrontal_cortex", "medial_prefrontal_cortex", "state_estimation", "resolution", "prefrontal", "cortex"]
+key_citations: ["daw2005_uncertainty_prefrontal_striatal"]
 ---
 
 ### One-line summary

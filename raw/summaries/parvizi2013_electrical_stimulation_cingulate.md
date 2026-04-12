@@ -1,11 +1,16 @@
 ---
-source_file: parvizi2013_electrical_stimulation_cingulate.md
-title: The Will to Persevere Induced by Electrical Stimulation of the Human Cingulate Gyrus
-authors: Josef Parvizi, Vinitha Rangarajan, William Shirer, Nikita Desai, Michael D. Greicius
+source_file: "parvizi2013_electrical_stimulation_cingulate.md"
+paper_id: "parvizi2013_electrical_stimulation_cingulate"
+title: "The Will to Persevere Induced by Electrical Stimulation of the Human Cingulate Gyrus"
+authors: "Josef Parvizi, Vinitha Rangarajan, William Shirer, Nikita Desai, Michael D. Greicius"
 year: 2013
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["retrosplenial_cortex", "amygdala", "medial_temporal_lobe"]
+keywords: ["electrical_brain_stimulation", "intracranial_electrophysiology", "emotional_salience_network", "cingulo_opercular_network", "autonomic_arousal", "heart_rate", "interoception", "motivation", "perseverance", "endurance", "effort", "challenge", "epilepsy", "resting_state_fmri", "functional_connectivity", "anterior_cingulate_cortex", "midcingulate_cortex", "will", "persevere", "induced"]
 ---
 
 ### One-line summary

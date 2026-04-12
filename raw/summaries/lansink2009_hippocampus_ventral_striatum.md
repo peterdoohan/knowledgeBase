@@ -1,11 +1,18 @@
 ---
-source_file: lansink2009_hippocampus_ventral_striatum.md
+source_file: "lansink2009_hippocampus_ventral_striatum.md"
+paper_id: "lansink2009_hippocampus_ventral_striatum"
 title: "Hippocampus Leads Ventral Striatum in Replay of Place-Reward Information"
-authors: Carien S. Lansink, Pieter M. Goltstein, Jan V. Lankelma, Bruce L. McNaughton, Cyriel M. A. Pennartz
+authors: "Carien S. Lansink, Pieter M. Goltstein, Jan V. Lankelma, Bruce L. McNaughton, Cyriel M. A. Pennartz"
 year: 2009
-journal: PLoS Biology
-paper_type: empirical
-contribution_type: empirical
+journal: "PLoS Biology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "striatum", "ventral_striatum", "nucleus_accumbens"]
+frameworks: ["reinforcement_learning"]
+keywords: ["sleep_replay", "memory_consolidation", "place_cells", "reward_related_neurons", "hippocampal_striatal_reactivation", "sharp_wave_ripples", "theta_oscillations", "temporal_compression", "forward_replay", "spike_timing_dependent_plasticity", "explained_variance_method", "cross_structural_reactivation", "hippocampus", "leads", "ventral", "striatum", "replay", "place", "reward", "information"]
+key_citations: ["schultz1997_neural_substrate_reward_pred"]
 ---
 
 ### One-line summary

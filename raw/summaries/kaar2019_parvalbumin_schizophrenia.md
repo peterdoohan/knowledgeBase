@@ -1,11 +1,15 @@
 ---
-source_file: kaar2019_parvalbumin_schizophrenia.md
+source_file: "kaar2019_parvalbumin_schizophrenia.md"
+paper_id: "kaar2019_parvalbumin_schizophrenia"
 title: "Pre-frontal parvalbumin interneurons in schizophrenia: a meta-analysis of post-mortem studies"
-authors: Stephen J. Kaar, Ilinca Angelescu, Tiago Reis Marques, Oliver D. Howes
+authors: "Stephen J. Kaar, Ilinca Angelescu, Tiago Reis Marques, Oliver D. Howes"
 year: 2019
-journal: Journal of Neural Transmission
-paper_type: review
-contribution_type: review
+journal: "Journal of Neural Transmission"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+brain_regions: ["prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex"]
+keywords: ["pre", "frontal", "parvalbumin", "interneurons", "schizophrenia", "meta", "analysis", "post", "mortem", "studies"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: lewis2018_memory_replay_sleep_creative.md
+source_file: "lewis2018_memory_replay_sleep_creative.md"
+paper_id: "lewis2018_memory_replay_sleep_creative"
 title: "How Memory Replay in Sleep Boosts Creative Problem-Solving"
-authors: Penelope A. Lewis, Günther Knoblich, Gina Poe
+authors: "Penelope A. Lewis, G\u00fcnther Knoblich, Gina Poe"
 year: 2018
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: theoretical
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["electrophysiology", "computational_modeling"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "ventral_tegmental_area", "thalamus"]
+keywords: ["memory", "replay", "sleep", "boosts", "creative", "problem", "solving"]
+key_citations: ["schapiro2013_event_representation_memory"]
 ---
 
 ### One-line summary

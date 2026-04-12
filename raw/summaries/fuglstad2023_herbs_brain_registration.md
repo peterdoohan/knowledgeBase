@@ -1,11 +1,17 @@
 ---
-source_file: fuglstad2023_herbs_brain_registration.md
+source_file: "fuglstad2023_herbs_brain_registration.md"
+paper_id: "fuglstad2023_herbs_brain_registration"
 title: "Histological E-data Registration in rodent Brain Spaces"
-authors: Jingyi Guo Fuglstad, Pearl Saldanha, Jacopo Paglia, Jonathan R Whitlock
+authors: "Jingyi Guo Fuglstad, Pearl Saldanha, Jacopo Paglia, Jonathan R Whitlock"
 year: 2023
-journal: eLife
-paper_type: empirical
-contribution_type: methodological
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse", "rat"]
+methods: ["neuropixels"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "retrosplenial_cortex", "visual_cortex"]
+keywords: ["histological", "data", "registration", "rodent", "brain", "spaces"]
+key_citations: ["claudi2021_brainrender_visualization_atlas", "wang2020_alternating_theta_sequences"]
 ---
 
 ### One-line summary

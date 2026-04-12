@@ -1,11 +1,14 @@
 ---
-source_file: silver2021_reward_artificial_intelligence.md
-title: Reward is enough
-authors: David Silver, Satinder Singh, Doina Precup, Richard S. Sutton
+source_file: "silver2021_reward_artificial_intelligence.md"
+paper_id: "silver2021_reward_artificial_intelligence"
+title: "Reward is enough"
+authors: "David Silver, Satinder Singh, Doina Precup, Richard S. Sutton"
 year: 2021
-journal: Artificial Intelligence
-paper_type: review
-contribution_type: theoretical
+journal: "Artificial Intelligence"
+paper_type: "review"
+contribution_type: "theoretical"
+frameworks: ["reinforcement_learning"]
+keywords: ["sutton_and_barto_2018_reinforcement_learning_an_introduction_foundational_rl_text", "silver_et_al_2017_alphago_mastering_go_without_human_knowledge", "silver_et_al_2018_alphazero_mastering_chess_and_shogi", "nash_1950_equilibrium_points_in_n_person_games_game_theory", "mccarthy_1998_definition_of_intelligence", "simon_1955_bounded_rationality", "hutter_2005_universal_artificial_intelligence", "chomsky_2002_syntactic_structures_language", "mnih_et_al_2015_dqn_human_level_control_through_deep_rl", "named_models_or_frameworks", "reinforcement_learning_rl_framework", "agent_environment_protocol", "reward_is_enough_hypothesis", "alphazero_alphago_as_practical_examples", "nash_equilibrium_contrasted_approach", "behavioural_cloning_contrasted_approach", "computational_bounded_rationality_related_framework", "brain_regions", "not_applicable_theoretical_ai_paper", "keywords"]
 ---
 
 ### One-line summary

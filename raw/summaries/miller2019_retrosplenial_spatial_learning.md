@@ -1,11 +1,17 @@
 ---
-source_file: miller2019_retrosplenial_spatial_learning.md
-title: Retrosplenial Cortical Representations of Space and Future Goal Locations Develop with Learning
-authors: Adam M.P. Miller, William Mau, David M. Smith
+source_file: "miller2019_retrosplenial_spatial_learning.md"
+paper_id: "miller2019_retrosplenial_spatial_learning"
+title: "Retrosplenial Cortical Representations of Space and Future Goal Locations Develop with Learning"
+authors: "Adam M.P. Miller, William Mau, David M. Smith"
 year: 2019
-journal: Current Biology
-paper_type: empirical
-contribution_type: empirical
+journal: "Current Biology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze", "navigation_task"]
+methods: ["optogenetics", "electrophysiology", "tetrode_recording", "bayesian_decoding", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "ventral_striatum", "retrosplenial_cortex", "thalamus"]
+keywords: ["retrosplenial", "cortical", "representations", "space", "future", "goal", "locations", "develop", "learning"]
 ---
 
 ### One-line summary

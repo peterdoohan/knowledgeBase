@@ -1,11 +1,18 @@
 ---
-source_file: kurth_nelson2023_replay_compositional_b.md
+source_file: "kurth_nelson2023_replay_compositional_b.md"
+paper_id: "kurth_nelson2023_replay_compositional_b"
 title: "Replay and compositional computation"
-authors: Zeb Kurth-Nelson, Timothy Behrens, Greg Wayne, Kevin Miller, Lennart Luettgau, Ray Dolan, Yunzhe Liu, Philipp Schwartenbeck
+authors: "Zeb Kurth-Nelson, Timothy Behrens, Greg Wayne, Kevin Miller, Lennart Luettgau, Ray Dolan, Yunzhe Liu, Philipp Schwartenbeck"
 year: 2023
-journal: Neuron
-paper_type: review
-contribution_type: theoretical
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+tasks: ["t_maze", "hidden_graph_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "lateral_entorhinal_cortex", "prefrontal_cortex", "ventromedial_prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "tolman_eichenbaum_machine"]
+keywords: ["replay", "compositional", "computation"]
+key_citations: ["kurth_nelson2016_sequences_non_spatial", "liu2019_human_replay_reorganizes", "gupta2010_replay_not_simple_function", "behrens2018_cognitive_map_organizing_knowledge", "whittington2020_tolman_eichenbaum_machine"]
 ---
 
 ### One-line summary

@@ -1,11 +1,16 @@
 ---
-source_file: drew2015_cortical_locomotion_control.md
+source_file: "drew2015_cortical_locomotion_control.md"
+paper_id: "drew2015_cortical_locomotion_control"
 title: "Taking the next step: cortical contributions to the control of locomotion"
-authors: Trevor Drew, Daniel S Marigold
+authors: "Trevor Drew, Daniel S Marigold"
 year: 2015
-journal: Current Opinion in Neurobiology
-paper_type: review
-contribution_type: review
+journal: "Current Opinion in Neurobiology"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["fmri", "lesion"]
+brain_regions: ["striatum", "retrosplenial_cortex"]
+keywords: ["beloozerova_and_sirota_2003_ppc_area_5_during_cat_locomotion", "andujar", "lajoie_and_drew_2010_limb_independent_ppc_cells", "lajoie_and_drew_2007_ppc_lesion_effects_on_paw_placement", "marigold_and_drew_2011_ppc_during_visual_occlusion", "mcvea_and_pearson_2006", "mcvea", "taylor_and_pearson_2009_long_lasting_obstacle_working_memory_and_ppc_lesion", "krouchev_and_drew_2013_muscle_synergies_and_ptn_control_framework", "krouchev", "kalaska_and_drew_2006_synergy_identification_in_cat_locomotion", "petersen_et_al_2012_motor_cortex_drives_leg_muscles_in_humans_corticomuscular_coherence", "named_models_or_frameworks", "muscle_synergy_framework_gaussian_synergy_representation", "state_estimation_forward_model_shadmehr_and_krakauer", "2008", "mulliken_et_al", "central_pattern_generator_cpg_for_locomotion", "brain_regions", "posterior_parietal_cortex_area_5b"]
 ---
 
 ### One-line summary

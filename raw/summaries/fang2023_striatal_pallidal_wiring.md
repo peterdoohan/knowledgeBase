@@ -1,11 +1,18 @@
 ---
-source_file: fang2023_striatal_pallidal_wiring.md
-title: "Updating the striatal–pallidal wiring diagram"
-authors: Lisa Z. Fang, Meaghan C. Creed
+source_file: "fang2023_striatal_pallidal_wiring.md"
+paper_id: "fang2023_striatal_pallidal_wiring"
+title: "Updating the striatal\u2013pallidal wiring diagram"
+authors: "Lisa Z. Fang, Meaghan C. Creed"
 year: 2023
-journal: Nature Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Nature Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse"]
+methods: ["calcium_imaging", "optogenetics", "electrophysiology"]
+brain_regions: ["hippocampus", "orbitofrontal_cortex", "infralimbic_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "thalamus", "basolateral_amygdala", "ventral_hippocampus"]
+frameworks: ["reinforcement_learning"]
+keywords: ["updating", "striatalpallidal", "wiring", "diagram"]
+key_citations: ["kravitz2010_basal_ganglia_optogenetic"]
 ---
 
 ### One-line summary

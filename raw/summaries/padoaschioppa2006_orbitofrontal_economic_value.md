@@ -1,11 +1,16 @@
 ---
-source_file: padoaschioppa2006_orbitofrontal_economic_value.md
+source_file: "padoaschioppa2006_orbitofrontal_economic_value.md"
+paper_id: "padoaschioppa2006_orbitofrontal_economic_value"
 title: "Neurons in the orbitofrontal cortex encode economic value"
-authors: Camillo Padoa-Schioppa, John A. Assad
+authors: "Camillo Padoa-Schioppa, John A. Assad"
 year: 2006
-journal: Nature
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque", "monkey"]
+methods: ["electrophysiology"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "posterior_cingulate_cortex"]
+keywords: ["neurons", "orbitofrontal", "cortex", "encode", "economic", "value"]
 ---
 
 ### One-line summary

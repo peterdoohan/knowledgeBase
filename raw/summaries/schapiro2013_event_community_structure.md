@@ -1,11 +1,16 @@
 ---
-source_file: schapiro2013_event_community_structure.md
-title: Neural representations of events arise from temporal community structure
-authors: Anna C. Schapiro, Timothy T. Rogers, Natalia I. Cordova, Nicholas B. Turk-Browne, Matthew M. Botvinick
+source_file: "schapiro2013_event_community_structure.md"
+paper_id: "schapiro2013_event_community_structure"
+title: "Neural representations of events arise from temporal community structure"
+authors: "Anna C. Schapiro, Timothy T. Rogers, Natalia I. Cordova, Nicholas B. Turk-Browne, Matthew M. Botvinick"
 year: 2013
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["fmri", "computational_modeling", "behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "medial_prefrontal_cortex", "superior_temporal_gyrus", "inferior_frontal_gyrus"]
+keywords: ["zacks_et_al_2001_prior_work_on_event_segmentation_and_brain_activity_time_locked_to_perceptual_boundaries", "zacks_et_al_2007_prediction_error_computational_model_of_event_segmentation", "saffran_et_al_1996_statistical_learning_in_infants", "rogers_and_mcclelland_2004_semantic_cognition_and_parallel_distributed_processing", "elman_1990_finding_structure_in_time_simple_recurrent_networks", "cleeremans_and_mcclelland_1991_neural_network_model_of_event_sequence_learning", "turk_browne_et_al_2012_shaping_object_representations_based_on_temporal_regularities", "named_models_or_frameworks", "temporal_community_structure_theory_of_event_representation", "parallel_distributed_processing_pdp_connectionist_framework", "simple_feedforward_neural_network_with_backpropagation_learning", "parser_model_chunking_model_compared_against", "latent_semantic_analysis_lsa_context_based_semantic_learning_models", "brain_regions", "medial_prefrontal_cortex_mpfc", "inferior_frontal_gyrus_ifg", "bilateral", "anterior_insula", "anterior_temporal_lobe_atl", "left"]
 ---
 
 ### One-line summary

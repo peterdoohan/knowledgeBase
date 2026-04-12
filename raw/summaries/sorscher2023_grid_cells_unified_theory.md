@@ -1,11 +1,19 @@
 ---
-source_file: sorscher2023_grid_cells_unified_theory.md
-title: A unified theory for the computational and mechanistic origins of grid cells
-authors: Ben Sorscher, Gabriel C. Mel, Samuel A. Ocko, Lisa M. Giocomo, Surya Ganguli
+source_file: "sorscher2023_grid_cells_unified_theory.md"
+paper_id: "sorscher2023_grid_cells_unified_theory"
+title: "A unified theory for the computational and mechanistic origins of grid cells"
+authors: "Ben Sorscher, Gabriel C. Mel, Samuel A. Ocko, Lisa M. Giocomo, Surya Ganguli"
 year: 2023
-journal: Neuron
-paper_type: computational
-contribution_type: theoretical
+journal: "Neuron"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["rat"]
+tasks: ["navigation_task"]
+methods: ["electrophysiology"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["unified", "theory", "computational", "mechanistic", "origins", "grid", "cells"]
+key_citations: ["dordek2016_grid_cells_pca", "stachenfeld2017_hippocampus_predictive_map"]
 ---
 
 ### One-line summary

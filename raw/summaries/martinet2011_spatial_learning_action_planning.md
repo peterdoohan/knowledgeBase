@@ -1,11 +1,17 @@
 ---
-source_file: martinet2011_spatial_learning_action_planning.md
+source_file: "martinet2011_spatial_learning_action_planning.md"
+paper_id: "martinet2011_spatial_learning_action_planning"
 title: "Spatial Learning and Action Planning in a Prefrontal Cortical Network Model"
-authors: Louis-Emmanuel Martinet, Denis Sheynikhovich, Karim Benchenane, Angelo Arleo
+authors: "Louis-Emmanuel Martinet, Denis Sheynikhovich, Karim Benchenane, Angelo Arleo"
 year: 2011
-journal: PLoS Computational Biology
-paper_type: computational
-contribution_type: theoretical
+journal: "PLoS Computational Biology"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["rat"]
+tasks: ["detour_task", "navigation_task"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex", "striatum", "ventral_tegmental_area", "amygdala"]
+keywords: ["spatial", "learning", "action", "planning", "prefrontal", "cortical", "network", "model"]
+key_citations: ["hok2005_goal_coding_prefrontal"]
 ---
 
 ### One-line summary

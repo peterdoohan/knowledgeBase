@@ -1,11 +1,17 @@
 ---
-source_file: chang2020_cuneiform_nucleus_locomotor_dbs.md
+source_file: "chang2020_cuneiform_nucleus_locomotor_dbs.md"
+paper_id: "chang2020_cuneiform_nucleus_locomotor_dbs"
 title: "Dissecting Brainstem Locomotor Circuits: Converging Evidence for Cuneiform Nucleus Stimulation"
-authors: Stephano J. Chang, Iahn Cajigas, Ioan Opris, James D. Guest, Brian R. Noga
+authors: "Stephano J. Chang, Iahn Cajigas, Ioan Opris, James D. Guest, Brian R. Noga"
 year: 2020
-journal: Frontiers in Systems Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Frontiers in Systems Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse", "rat", "human"]
+methods: ["optogenetics", "lesion"]
+brain_regions: ["substantia_nigra", "periaqueductal_gray"]
+frameworks: ["reinforcement_learning"]
+keywords: ["shik_et_al_1966_original_mlr_discovery_in_cats", "caggiano_et_al_2018", "nature_optogenetic_dissection_of_cnf_vs_ppn_glutamatergic_neurons_and_locomotor_speed", "josset_et_al_2018", "current_biology_distinct_contributions_of_cnf_and_ppn_to_locomotion_in_freely_behaving_mice", "roseberry_et_al_2016", "cell_cell_type_specific_basal_ganglia_control_of_brainstem_locomotor_circuits", "goetz_et_al_2019", "neurosurgery_clinical_dbs_electrode_position_analysis_correlating_cnf_location_with_good_fog_outcomes", "dautan_et_al_2020", "biorxiv_membrane_properties_and_connectivity_distinguishing_cnf_from_ppn_glutamatergic_neurons", "capelli_et_al_2017", "nature_reticulospinal_neurons_necessary_and_sufficient_for_mlr_evoked_locomotion", "thevathasan_et_al_2018", "movement_disorders_clinical_review_of_ppn_dbs_in_parkinsons_disease", "karachi_et_al_2010", "jci_cholinergic_ppn_lesions_and_gait_balance_in_macaques", "named_models_or_frameworks", "mesencephalic_locomotor_region_mlr_physiologically_defined_supraspinal_locomotor_node", "lead_dbs_toolbox_for_dbs_electrode_localisation_and_visualisation_used_for_clinical_re_analysis"]
 ---
 
 ### One-line summary

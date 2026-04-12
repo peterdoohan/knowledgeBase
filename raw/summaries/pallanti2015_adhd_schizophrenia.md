@@ -1,11 +1,15 @@
 ---
-source_file: pallanti2015_adhd_schizophrenia.md
+source_file: "pallanti2015_adhd_schizophrenia.md"
+paper_id: "pallanti2015_adhd_schizophrenia"
 title: "Raising attention to attention deficit hyperactivity disorder in schizophrenia"
-authors: Stefano Pallanti, Luana Salerno
+authors: "Stefano Pallanti, Luana Salerno"
 year: 2015
-journal: World Journal of Psychiatry
-paper_type: review
-contribution_type: review
+journal: "World Journal of Psychiatry"
+paper_type: "review"
+contribution_type: "review"
+brain_regions: ["hippocampus", "prefrontal_cortex", "amygdala"]
+frameworks: ["reinforcement_learning"]
+keywords: ["kim_cohen_et_al_2003_prospective_longitudinal_study_showing_50_of_adults_with_schizophrenia_had_prior_juvenile_diagnoses_including_adhd", "dalsgaard_et_al_2014_adhd_in_childhood_associated_with_4_3_increased_schizophrenia_risk_in_adulthood", "hamshere_et_al_2013_shared_polygenic_contribution_between_childhood_adhd_and_adult_schizophrenia", "hart_et_al_snps_associated_with_dopaminergic_drug_challenge_enriched_for_adhd_and_schizophrenia_variants", "curran_et_al_2004_systematic_review_of_stimulant_use_and_psychosis_32_experimental_studies", "insel_et_al_2010_research_domain_criteria_rdoc_framework", "olincy_et_al_2000_p50_comparison_between_adhd_and_schizophrenia", "ross_and_colleagues_smooth_pursuit_eye_movements_in_schizophrenia_vs_adhd", "named_models_or_frameworks", "research_domain_criteria_rdoc", "sensitisation_theory_stimulant_induced_psychosis", "add_psychosis_bellak_et_al", "1987_proposed_diagnostic_category_for_attentional_psychosis_distinct_from_schizophrenia", "continuous_performance_test_cpt", "brain_regions", "prefrontal_cortex", "amygdala", "mesolimbic_dopamine_system", "hippocampus_sensory_gating_circuits", "frontal_subcortical_circuits"]
 ---
 
 ### One-line summary

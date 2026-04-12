@@ -1,11 +1,18 @@
 ---
-source_file: moneta2024_ofc_vmpfc_representational_spaces.md
+source_file: "moneta2024_ofc_vmpfc_representational_spaces.md"
+paper_id: "moneta2024_ofc_vmpfc_representational_spaces"
 title: "Representational spaces in orbitofrontal and ventromedial prefrontal cortex: task states, values, and beyond"
-authors: Nir Moneta, Shany Grossman, Nicolas W. Schuck
+authors: "Nir Moneta, Shany Grossman, Nicolas W. Schuck"
 year: 2024
-journal: Trends in Neurosciences
-paper_type: review
-contribution_type: review
+journal: "Trends in Neurosciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "medial_prefrontal_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "striatum"]
+frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "latent_state_inference", "mixed_selectivity"]
+keywords: ["representational", "spaces", "orbitofrontal", "ventromedial", "prefrontal", "cortex", "task", "states", "values", "beyond"]
+key_citations: ["padoaschioppa2006_orbitofrontal_economic_value"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: vicente2020_cortico_basal_ganglia_motor.md
+source_file: "vicente2020_cortico_basal_ganglia_motor.md"
+paper_id: "vicente2020_cortico_basal_ganglia_motor"
 title: "Cortico-basal ganglia circuits underlying dysfunctional control of motor behaviors in neuropsychiatric disorders"
-authors: Ana Mafalda Vicente, Gabriela J Martins, Rui M Costa
+authors: "Ana Mafalda Vicente, Gabriela J Martins, Rui M Costa"
 year: 2020
-journal: Current Opinion in Genetics and Development
-paper_type: review
-contribution_type: review
+journal: "Current Opinion in Genetics and Development"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse"]
+methods: ["optogenetics"]
+brain_regions: ["orbitofrontal_cortex", "prelimbic_cortex", "striatum", "dorsomedial_striatum", "dorsolateral_striatum", "ventral_striatum", "nucleus_accumbens", "substantia_nigra"]
+frameworks: ["reinforcement_learning", "model_free_rl"]
+keywords: ["cortico", "basal", "ganglia", "circuits", "underlying", "dysfunctional", "control", "motor", "behaviors", "neuropsychiatric"]
 ---
 
 ### One-line summary

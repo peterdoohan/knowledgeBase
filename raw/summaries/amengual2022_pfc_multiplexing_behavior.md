@@ -1,11 +1,17 @@
 ---
-source_file: amengual2022_pfc_multiplexing_behavior.md
+source_file: "amengual2022_pfc_multiplexing_behavior.md"
+paper_id: "amengual2022_pfc_multiplexing_behavior"
 title: "The cost of multiplexing: PFC integrates multiple sources of information in non-orthogonal components accounting for behavioral variability"
-authors: Julian L Amengual, Fabio Di Bello, Sameh Ben Hadj Hassen, Elaine Astrand, Suliann Ben Hamed
+authors: "Julian L Amengual, Fabio Di Bello, Sameh Ben Hadj Hassen, Elaine Astrand, Suliann Ben Hamed"
 year: 2022
-journal: bioRxiv (preprint, posted December 29, 2022)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint, posted December 29, 2022)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["macaque", "monkey"]
+brain_regions: ["prefrontal_cortex", "dorsolateral_prefrontal_cortex"]
+frameworks: ["mixed_selectivity", "neural_manifold"]
+keywords: ["cost", "multiplexing", "pfc", "integrates", "multiple", "sources", "information", "non", "orthogonal", "components"]
+key_citations: ["gao2017_neural_dimensionality_dynamics", "fusi2016_mixed_selectivity_cognition"]
 ---
 
 ### One-line summary

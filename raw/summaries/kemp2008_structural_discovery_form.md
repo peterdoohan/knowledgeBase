@@ -1,11 +1,14 @@
 ---
-source_file: kemp2008_structural_discovery_form.md
-title: The discovery of structural form
-authors: Charles Kemp, Joshua B. Tenenbaum
+source_file: "kemp2008_structural_discovery_form.md"
+paper_id: "kemp2008_structural_discovery_form"
+title: "The discovery of structural form"
+authors: "Charles Kemp, Joshua B. Tenenbaum"
 year: 2008
-journal: Proceedings of the National Academy of Sciences (PNAS)
-paper_type: computational
-contribution_type: theoretical
+journal: "Proceedings of the National Academy of Sciences (PNAS)"
+paper_type: "computational"
+contribution_type: "theoretical"
+frameworks: ["bayesian_inference", "structural_form_discovery"]
+keywords: ["discovery", "structural", "form"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: olson2020_secondary_motor_cortex_navigation.md
+source_file: "olson2020_secondary_motor_cortex_navigation.md"
+paper_id: "olson2020_secondary_motor_cortex_navigation"
 title: "Secondary Motor Cortex Transforms Spatial Information into Planned Action during Navigation"
-authors: Jacob M. Olson, Jamie K. Li, Sarah E. Montgomery, Douglas A. Nitz
+authors: "Jacob M. Olson, Jamie K. Li, Sarah E. Montgomery, Douglas A. Nitz"
 year: 2020
-journal: Current Biology
-paper_type: empirical
-contribution_type: empirical
+journal: "Current Biology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze", "navigation_task"]
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["hippocampus", "retrosplenial_cortex"]
+keywords: ["okeefe_and_dostrovsky_1971_place_cells", "nitz_2006", "2009_ppc_encoding_of_routes_and_spatial_context", "whitlock_et_al_various_ppc_spatial_and_action_encoding", "powell_and_redish_m2_choice_prediction_at_single_location", "alexander_and_nitz_rsc_ppc_spatial_representations", "various_m2_lesion_electrophysiology_studies_erlich", "sul", "murakami_cited_implicitly_via_4148", "named_models_or_frameworks", "choice_probability_cp_area_under_roc_used_as_the_primary_quantitative_framework_for_assessing_neural_discrimination", "generalized_linear_models_supplementary_analysis_of_contextual_variable_contributions", "triple_t_maze_multi_route_navigation_task_paradigm", "brain_regions", "secondary_motor_cortex_m2_medial_agranular_cortex", "posterior_parietal_cortex_ppc", "retrosplenial_cortex_rsc", "primary_motor_cortex_m1", "hippocampus", "entorhinal_cortex"]
 ---
 
 ### One-line summary

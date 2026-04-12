@@ -1,11 +1,18 @@
 ---
-source_file: foster2007_theta_sequences_hippocampus.md
-title: Hippocampal Theta Sequences
-authors: David J. Foster, Matthew A. Wilson
+source_file: "foster2007_theta_sequences_hippocampus.md"
+paper_id: "foster2007_theta_sequences_hippocampus"
+title: "Hippocampal Theta Sequences"
+authors: "David J. Foster, Matthew A. Wilson"
 year: 2007
-journal: Hippocampus
-paper_type: empirical
-contribution_type: empirical
+journal: "Hippocampus"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["navigation_task"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+keywords: ["hippocampal", "theta", "sequences"]
+key_citations: ["mehta2000_hippocampal_receptive_fields", "lee2002_memory_sequential_experience"]
 ---
 
 ### One-line summary

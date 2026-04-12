@@ -1,11 +1,17 @@
 ---
-source_file: piray2021_linear_reinforcement_planning.md
-title: Linear reinforcement learning in planning, grid fields, and cognitive control
-authors: Payam Piray, Nathaniel D. Daw
+source_file: "piray2021_linear_reinforcement_planning.md"
+paper_id: "piray2021_linear_reinforcement_planning"
+title: "Linear reinforcement learning in planning, grid fields, and cognitive control"
+authors: "Payam Piray, Nathaniel D. Daw"
 year: 2021
-journal: Nature Communications
-paper_type: computational
-contribution_type: theoretical
+journal: "Nature Communications"
+paper_type: "computational"
+contribution_type: "theoretical"
+tasks: ["detour_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "model_free_rl", "successor_representation"]
+keywords: ["linear", "reinforcement", "learning", "planning", "grid", "fields", "cognitive", "control"]
+key_citations: ["dayan1993_successor_representation", "stachenfeld2017_hippocampus_predictive_map", "tolman1948_cognitive_maps_rats", "momennejad2017_successor_representation_humans", "russek2017_model_based_reinforcement", "botvinick2012_planning_inference"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: hok2013_prefrontal_place_cells.md
+source_file: "hok2013_prefrontal_place_cells.md"
+paper_id: "hok2013_prefrontal_place_cells"
 title: "Prefrontal Cortex Focally Modulates Hippocampal Place Cell Firing Patterns"
-authors: Vincent Hok, Ehsan Chah, Etienne Save, Bruno Poucet
+authors: "Vincent Hok, Ehsan Chah, Etienne Save, Bruno Poucet"
 year: 2013
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["navigation_task"]
+methods: ["electrophysiology", "lesion"]
+brain_regions: ["hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "ventral_tegmental_area"]
+keywords: ["prefrontal", "cortex", "focally", "modulates", "hippocampal", "place", "cell", "firing", "patterns"]
+key_citations: ["hok2005_goal_coding_prefrontal"]
 ---
 
 ### One-line summary

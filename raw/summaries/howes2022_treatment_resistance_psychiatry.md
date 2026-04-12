@@ -1,11 +1,14 @@
 ---
-source_file: howes2022_treatment_resistance_psychiatry.md
+source_file: "howes2022_treatment_resistance_psychiatry.md"
+paper_id: "howes2022_treatment_resistance_psychiatry"
 title: "Treatment resistance in psychiatry: state of the art and new directions"
-authors: Oliver D. Howes, Michael E. Thase, Toby Pillinger
+authors: "Oliver D. Howes, Michael E. Thase, Toby Pillinger"
 year: 2022
-journal: Molecular Psychiatry
-paper_type: review
-contribution_type: review
+journal: "Molecular Psychiatry"
+paper_type: "review"
+contribution_type: "review"
+brain_regions: ["anterior_cingulate_cortex"]
+keywords: ["treatment", "resistance", "psychiatry", "state", "art", "new", "directions"]
 ---
 
 ### One-line summary

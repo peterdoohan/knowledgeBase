@@ -1,11 +1,17 @@
 ---
-source_file: wood2018_honeycomb_maze_spatial.md
-title: The honeycomb maze provides a novel test to study hippocampal-dependent spatial navigation
-authors: Ruth A. Wood, Marius Bauza, Julija Krupic, Stephen Burton, Andrea Delekate, Dennis Chan, John O'Keefe
+source_file: "wood2018_honeycomb_maze_spatial.md"
+paper_id: "wood2018_honeycomb_maze_spatial"
+title: "The honeycomb maze provides a novel test to study hippocampal-dependent spatial navigation"
+authors: "Ruth A. Wood, Marius Bauza, Julija Krupic, Stephen Burton, Andrea Delekate, Dennis Chan, John O'Keefe"
 year: 2018
-journal: Nature
-paper_type: empirical
-contribution_type: methodological
+journal: "Nature"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["rat"]
+tasks: ["morris_water_maze", "navigation_task"]
+methods: ["lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "medial_entorhinal_cortex", "ventral_hippocampus"]
+keywords: ["honeycomb", "maze", "provides", "novel", "test", "study", "hippocampal", "dependent", "spatial", "navigation"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: mehta2000_hippocampal_receptive_fields.md
-title: Experience-Dependent Asymmetric Shape of Hippocampal Receptive Fields
-authors: Mayank R. Mehta, Michael C. Quirk, Matthew A. Wilson
+source_file: "mehta2000_hippocampal_receptive_fields.md"
+paper_id: "mehta2000_hippocampal_receptive_fields"
+title: "Experience-Dependent Asymmetric Shape of Hippocampal Receptive Fields"
+authors: "Mayank R. Mehta, Michael C. Quirk, Matthew A. Wilson"
 year: 2000
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["linear_track"]
+methods: ["tetrode_recording", "computational_modeling"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
+keywords: ["experience", "dependent", "asymmetric", "shape", "hippocampal", "receptive", "fields"]
 ---
 
 ### One-line summary

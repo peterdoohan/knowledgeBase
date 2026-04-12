@@ -1,11 +1,15 @@
 ---
-source_file: wang2020_allen_mouse_brain_atlas.md
-title: The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas
-authors: Quanxin Wang, Song-Lin Ding, Yang Li, Josh Royall, David Feng, Phil Lesnar, Nile Graddis, Maitham Naeemi, Benjamin Facer, Anh Ho, Tim Dolbeare, Brandon Blanchard, Nick Dee, Wayne Wakeman, Karla E. Hirokawa, Aaron Szafer, Susan M. Sunkin, Seung Wook Oh, Amy Bernard, John W. Phillips, Michael Hawrylycz, Christof Koch, Hongkui Zeng, Julie A. Harris, Lydia Ng
+source_file: "wang2020_allen_mouse_brain_atlas.md"
+paper_id: "wang2020_allen_mouse_brain_atlas"
+title: "The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas"
+authors: "Quanxin Wang, Song-Lin Ding, Yang Li, Josh Royall, David Feng, Phil Lesnar, Nile Graddis, Maitham Naeemi, Benjamin Facer, Anh Ho, Tim Dolbeare, Brandon Blanchard, Nick Dee, Wayne Wakeman, Karla E. Hirokawa, Aaron Szafer, Susan M. Sunkin, Seung Wook Oh, Amy Bernard, John W. Phillips, Michael Hawrylycz, Christof Koch, Hongkui Zeng, Julie A. Harris, Lydia Ng"
 year: 2020
-journal: Cell
-paper_type: empirical
-contribution_type: methodological
+journal: "Cell"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prelimbic_cortex", "striatum", "nucleus_accumbens", "ventral_tegmental_area", "thalamus"]
+keywords: ["paxinos_and_franklin_2001", "2012_mouse_brain_in_stereotaxic_coordinates_mbsc", "dong_2008_allen_reference_atlas_ara", "swanson_2004", "2018_brain_maps_structure_of_the_rat_brain", "oh_et_al_2014_allen_mouse_brain_connectivity_atlas_ccfv2", "lein_et_al_2007_allen_brain_atlas_gene_expression", "fonov_et_al_2011_human_mri_population_average_template_methods", "wang_and_burkhalter_2007_mouse_visual_cortex_area_map", "named_models_or_frameworks", "allen_mouse_brain_common_coordinate_framework_v3_ccfv3", "serial_two_photon_tomography_stpt", "symmetric_diffeomorphic_registration_syn_algorithm", "laplace_based_cortical_coordinate_system_streamlines", "allen_reference_atlas_ara_ontology", "brain_maps_ontology_swanson", "mouse_brain_in_stereotaxic_coordinates_mbsc_ontology", "brain_regions", "isocortex_43_areas_with_6_layers_each", "olfactory_areas_main_olfactory_bulb"]
 ---
 
 ### One-line summary

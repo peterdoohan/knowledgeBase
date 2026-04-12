@@ -1,11 +1,18 @@
 ---
-source_file: baram2024_abstract_relational_map_consolidation.md
-title: An abstract relational map emerges in the human medial prefrontal cortex with consolidation
-authors: Alon Baram, Hamed Nili, Ines Barreiros, Veronika Samborska, Timothy E. J. Behrens, Mona M. Garvert
+source_file: "baram2024_abstract_relational_map_consolidation.md"
+paper_id: "baram2024_abstract_relational_map_consolidation"
+title: "An abstract relational map emerges in the human medial prefrontal cortex with consolidation"
+authors: "Alon Baram, Hamed Nili, Ines Barreiros, Veronika Samborska, Timothy E. J. Behrens, Mona M. Garvert"
 year: 2024
-journal: bioRxiv (preprint)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["fmri", "representational_similarity_analysis", "repetition_suppression"]
+brain_regions: ["entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "medial_temporal_lobe"]
+frameworks: ["tolman_eichenbaum_machine"]
+keywords: ["abstract", "relational", "map", "emerges", "human", "medial", "prefrontal", "cortex", "consolidation"]
+key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "whittington2020_tolman_eichenbaum_machine", "garvert2017_relational_knowledge_maps", "constantinescu2016_gridlike_conceptual_knowledge"]
 ---
 
 ### One-line summary

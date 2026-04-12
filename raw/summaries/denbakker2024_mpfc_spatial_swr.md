@@ -1,11 +1,17 @@
 ---
-source_file: denbakker2024_mpfc_spatial_swr.md
+source_file: "denbakker2024_mpfc_spatial_swr.md"
+paper_id: "denbakker2024_mpfc_spatial_swr"
 title: "Neurons in the medial prefrontal cortex are involved in spatial tuning and signaling upcoming choice independently from hippocampal sharp-wave ripples"
-authors: Hanna den Bakker, Fabian Kloosterman
+authors: "Hanna den Bakker, Fabian Kloosterman"
 year: 2024
-journal: bioRxiv (preprint)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["neuropixels", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex"]
+keywords: ["neurons", "medial", "prefrontal", "cortex", "involved", "spatial", "tuning", "signaling", "upcoming", "choice"]
+key_citations: ["shin2019_hippocampal_prefrontal_replay_b", "jadhav2016_hippocampal_prefrontal_swr"]
 ---
 
 ### One-line summary

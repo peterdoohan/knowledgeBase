@@ -1,11 +1,18 @@
 ---
-source_file: patai2021_versatile_wayfinder_prefrontal.md
-title: The Versatile Wayfinder: Prefrontal Contributions to Spatial Navigation
-authors: Eva Zita Patai, Hugo J. Spiers
+source_file: "patai2021_versatile_wayfinder_prefrontal.md"
+paper_id: "patai2021_versatile_wayfinder_prefrontal"
+title: "The Versatile Wayfinder: Prefrontal Contributions to Spatial Navigation"
+authors: "Eva Zita Patai, Hugo J. Spiers"
 year: 2021
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: review
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["human"]
+tasks: ["virtual_navigation", "detour_task", "navigation_task"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "ventromedial_prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "retrosplenial_cortex"]
+frameworks: ["reinforcement_learning", "model_free_rl", "attractor_networks"]
+keywords: ["tolman_1948_cognitive_map_theory", "miller_and_cohen_2001_integrative_theory_of_pfc_function", "maguire_et_al_1998_human_navigation_network_discovery", "ekstrom_et_al_2003_first_human_intracranial_recordings_of_navigation", "hartley_et_al_2003_route_following_vs_wayfinding_neural_bases", "spiers_and_maguire_2006_real_world_navigation_dynamics", "spiers_and_gilbert_2015_detour_problem_model_of_pfc_hippocampal_interactions", "foster_2017_review_of_hippocampal_replay", "redish_2016_vicarious_trial_and_error_review", "wikenheiser_and_schoenbaum_2016_cognitive_maps_in_hippocampus_and_ofc", "badre_and_nee_2018_hierarchical_control_of_behavior_by_frontal_cortex", "named_models_or_frameworks", "cognitive_map_theory_tolman", "hierarchical_planning_framework", "pfc_hippocampal_interaction_model_for_navigation", "state_space_representation_framework_ofc", "default_mode_network_dmn_in_navigation", "model_based_vs_model_free_reinforcement_learning", "vicarious_trial_and_error_vte_behavior", "attractor_network_models_mentioned"]
 ---
 
 ### One-line summary

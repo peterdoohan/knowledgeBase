@@ -1,11 +1,17 @@
 ---
-source_file: koolschijn2021_memory_recall_excitatory.md
+source_file: "koolschijn2021_memory_recall_excitatory.md"
+paper_id: "koolschijn2021_memory_recall_excitatory"
 title: "Memory recall involves a transient break in excitatory-inhibitory balance"
-authors: Renée S Koolschijn, Anna Shpektor, William T Clarke, I Betina Ip, David Dupret, Uzay E Emir, Helen C Barron
+authors: "Ren\u00e9e S Koolschijn, Anna Shpektor, William T Clarke, I Betina Ip, David Dupret, Uzay E Emir, Helen C Barron"
 year: 2021
-journal: eLife
-paper_type: empirical
-contribution_type: empirical
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+methods: ["fmri", "behavioral_analysis"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "visual_cortex"]
+keywords: ["memory", "recall", "involves", "transient", "break", "excitatory", "inhibitory", "balance"]
+key_citations: ["barron2020_neuronal_computation_inferential"]
 ---
 
 ### One-line summary

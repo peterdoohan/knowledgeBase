@@ -1,11 +1,13 @@
 ---
-source_file: wilson2014_best_practices_scientific.md
-title: Best Practices for Scientific Computing
-authors: Greg Wilson, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, Paul Wilson
+source_file: "wilson2014_best_practices_scientific.md"
+paper_id: "wilson2014_best_practices_scientific"
+title: "Best Practices for Scientific Computing"
+authors: "Greg Wilson, D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Kathryn D. Huff, Ian M. Mitchell, Mark D. Plumbley, Ben Waugh, Ethan P. White, Paul Wilson"
 year: 2014
-journal: PLoS Biology
-paper_type: review
-contribution_type: review
+journal: "PLoS Biology"
+paper_type: "review"
+contribution_type: "review"
+keywords: ["hannay_et_al_2009_scientific_software_development_survey", "prabhu_et_al_2011_computational_science_practice_survey", "hatton_1994", "1997_scientific_software_accuracy_studies", "merali_2010_nature_article_on_scientific_programming_errors", "fagan_1976_code_inspections", "mcconnell_2004_code_complete", "hunt_and_thomas_1999_the_pragmatic_programmer_dry_principle", "martin_2002_agile_software_development", "oram_and_wilson_2010_making_software", "named_models_or_frameworks", "agile_development_scrum_xp", "dry_dont_repeat_yourself_principle", "version_control_systems_vcs", "unit_testing_integration_testing_regression_testing", "defensive_programming", "build_tools_make", "scons", "code_review_pair_programming", "issue_tracking"]
 ---
 
 ### One-line summary

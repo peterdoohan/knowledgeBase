@@ -1,11 +1,15 @@
 ---
-source_file: darmohray2019_spatial_temporal_locomotor.md
-title: Spatial and Temporal Locomotor Learning in Mouse Cerebellum
-authors: Dana M. Darmohray, Jovin R. Jacobs, Hugo G. Marques, Megan R. Carey
+source_file: "darmohray2019_spatial_temporal_locomotor.md"
+paper_id: "darmohray2019_spatial_temporal_locomotor"
+title: "Spatial and Temporal Locomotor Learning in Mouse Cerebellum"
+authors: "Dana M. Darmohray, Jovin R. Jacobs, Hugo G. Marques, Megan R. Carey"
 year: 2019
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+methods: ["optogenetics"]
+keywords: ["spatial", "temporal", "locomotor", "learning", "mouse", "cerebellum"]
 ---
 
 ### One-line summary

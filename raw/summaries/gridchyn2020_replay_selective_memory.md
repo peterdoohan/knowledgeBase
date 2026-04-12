@@ -1,11 +1,17 @@
 ---
-source_file: gridchyn2020_replay_selective_memory.md
-title: Assembly-Specific Disruption of Hippocampal Replay Leads to Selective Memory Deficit
-authors: Igor Gridchyn, Philipp Schoenenberger, Joseph O'Neill, Jozsef Csicsvari
+source_file: "gridchyn2020_replay_selective_memory.md"
+paper_id: "gridchyn2020_replay_selective_memory"
+title: "Assembly-Specific Disruption of Hippocampal Replay Leads to Selective Memory Deficit"
+authors: "Igor Gridchyn, Philipp Schoenenberger, Joseph O'Neill, Jozsef Csicsvari"
 year: 2020
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["optogenetics", "tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex"]
+keywords: ["assembly", "specific", "disruption", "hippocampal", "replay", "leads", "selective", "memory", "deficit"]
+key_citations: ["girardeau2009_ripples_spatial_memory", "vandeven2016_hippocampal_offline_reactivation"]
 ---
 
 ### One-line summary

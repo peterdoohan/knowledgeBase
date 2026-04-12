@@ -1,11 +1,17 @@
 ---
-source_file: zhang2026_neural_decoding_correlations.md
-title: Exploiting correlations across trials and behavioral sessions to improve neural decoding
-authors: Yizi Zhang, Hanrui Lyu, Cole Hurwitz, Shuqi Wang, Charles Findling, Yanchen Wang, Felix Hubert, International Brain Laboratory, Alexandre Pouget, Erdem Varol, Liam Paninski
+source_file: "zhang2026_neural_decoding_correlations.md"
+paper_id: "zhang2026_neural_decoding_correlations"
+title: "Exploiting correlations across trials and behavioral sessions to improve neural decoding"
+authors: "Yizi Zhang, Hanrui Lyu, Cole Hurwitz, Shuqi Wang, Charles Findling, Yanchen Wang, Felix Hubert, International Brain Laboratory, Alexandre Pouget, Erdem Varol, Liam Paninski"
 year: 2026
-journal: Neuron
-paper_type: computational
-contribution_type: methodological
+journal: "Neuron"
+paper_type: "computational"
+contribution_type: "methodological"
+species: ["mouse", "monkey"]
+methods: ["neuropixels", "behavioral_analysis"]
+brain_regions: ["hippocampus_ca1", "nucleus_accumbens", "amygdala", "visual_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["neural_decoding", "multi_session_learning", "reduced_rank_regression", "state_space_models", "hidden_markov_models", "trial_to_trial_correlations", "dimensionality_reduction", "neuropixels", "international_brain_laboratory", "empirical_bayes", "interpretable_machine_learning", "brain_wide_mapping", "latent_variable_models", "autoregressive_models", "beta_mixture_models", "exploiting", "correlations", "across", "trials", "behavioral"]
 ---
 
 ### One-line summary

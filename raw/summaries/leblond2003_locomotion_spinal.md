@@ -1,11 +1,15 @@
 ---
-source_file: leblond2003_locomotion_spinal.md
+source_file: "leblond2003_locomotion_spinal.md"
+paper_id: "leblond2003_locomotion_spinal"
 title: "Treadmill Locomotion in the Intact and Spinal Mouse"
-authors: Hugues Leblond, Marion L'Espérance, Didier Orsal, Serge Rossignol
+authors: "Hugues Leblond, Marion L'Esp\u00e9rance, Didier Orsal, Serge Rossignol"
 year: 2003
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat"]
+tasks: ["open_field"]
+keywords: ["treadmill", "locomotion", "intact", "spinal", "mouse"]
 ---
 
 ### One-line summary

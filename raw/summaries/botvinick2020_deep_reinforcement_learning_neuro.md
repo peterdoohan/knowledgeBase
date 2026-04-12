@@ -1,11 +1,16 @@
 ---
-source_file: botvinick2020_deep_reinforcement_learning_neuro.md
+source_file: "botvinick2020_deep_reinforcement_learning_neuro.md"
+paper_id: "botvinick2020_deep_reinforcement_learning_neuro"
 title: "Deep Reinforcement Learning and Its Neuroscientific Implications"
-authors: Matthew Botvinick, Jane X. Wang, Will Dabney, Kevin J. Miller, Zeb Kurth-Nelson
+authors: "Matthew Botvinick, Jane X. Wang, Will Dabney, Kevin J. Miller, Zeb Kurth-Nelson"
 year: 2020
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_tegmental_area", "visual_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "hierarchical_rl"]
+keywords: ["deep", "reinforcement", "learning", "its", "neuroscientific", "implications"]
+key_citations: ["stachenfeld2017_hippocampus_predictive_map", "behrens2018_cognitive_map_organizing_knowledge", "botvinick2009_hierarchically_organized_behavior"]
 ---
 
 ### One-line summary

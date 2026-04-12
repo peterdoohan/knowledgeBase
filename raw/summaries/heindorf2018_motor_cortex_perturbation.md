@@ -1,11 +1,18 @@
 ---
-source_file: heindorf2018_motor_cortex_perturbation.md
-title: Mouse Motor Cortex Coordinates the Behavioral Response to Unpredicted Sensory Feedback
-authors: Matthias Heindorf, Silvia Arber, Georg B. Keller
+source_file: "heindorf2018_motor_cortex_perturbation.md"
+paper_id: "heindorf2018_motor_cortex_perturbation"
+title: "Mouse Motor Cortex Coordinates the Behavioral Response to Unpredicted Sensory Feedback"
+authors: "Matthias Heindorf, Silvia Arber, Georg B. Keller"
 year: 2018
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+tasks: ["navigation_task"]
+methods: ["calcium_imaging", "optogenetics", "lesion"]
+brain_regions: ["visual_cortex"]
+frameworks: ["active_inference"]
+keywords: ["mouse", "motor", "cortex", "coordinates", "behavioral", "response", "unpredicted", "sensory", "feedback"]
 ---
 
 ### One-line summary

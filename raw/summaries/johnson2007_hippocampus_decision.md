@@ -1,11 +1,18 @@
 ---
-source_file: johnson2007_hippocampus_decision.md
+source_file: "johnson2007_hippocampus_decision.md"
+paper_id: "johnson2007_hippocampus_decision"
 title: "Neural Ensembles in CA3 Transiently Encode Paths Forward of the Animal at a Decision Point"
-authors: Adam Johnson, A. David Redish
+authors: "Adam Johnson, A. David Redish"
 year: 2007
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["t_maze"]
+methods: ["electrophysiology", "tetrode_recording", "bayesian_decoding", "behavioral_analysis"]
+brain_regions: ["hippocampus_ca3", "orbitofrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens"]
+keywords: ["neural", "ensembles", "ca3", "transiently", "encode", "paths", "forward", "animal", "decision", "point"]
+key_citations: ["jackson2006_hippocampal_sharp_waves_reactivation", "daw2005_uncertainty_prefrontal_striatal"]
 ---
 
 ### One-line summary

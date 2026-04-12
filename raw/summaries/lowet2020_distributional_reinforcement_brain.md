@@ -1,11 +1,18 @@
 ---
-source_file: lowet2020_distributional_reinforcement_brain.md
+source_file: "lowet2020_distributional_reinforcement_brain.md"
+paper_id: "lowet2020_distributional_reinforcement_brain"
 title: "Distributional Reinforcement Learning in the Brain"
-authors: Adam S. Lowet, Qiao Zheng, Sara Matias, Jan Drugowitsch, Naoshige Uchida
+authors: "Adam S. Lowet, Qiao Zheng, Sara Matias, Jan Drugowitsch, Naoshige Uchida"
 year: 2020
-journal: Trends in Neurosciences
-paper_type: review
-contribution_type: review
+journal: "Trends in Neurosciences"
+paper_type: "review"
+contribution_type: "review"
+species: ["mouse"]
+methods: ["lesion"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "ventral_tegmental_area", "substantia_nigra", "amygdala"]
+frameworks: ["reinforcement_learning", "temporal_difference_learning"]
+keywords: ["distributional", "reinforcement", "learning", "brain"]
+key_citations: ["schultz1997_neural_substrate_reward_pred"]
 ---
 
 ### One-line summary

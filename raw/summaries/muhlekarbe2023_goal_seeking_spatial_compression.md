@@ -1,11 +1,19 @@
 ---
-source_file: muhlekarbe2023_goal_seeking_spatial_compression.md
+source_file: "muhlekarbe2023_goal_seeking_spatial_compression.md"
+paper_id: "muhlekarbe2023_goal_seeking_spatial_compression"
 title: "Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex"
-authors: Paul S. Muhle-Karbe, Hannah Sheahan, Giovanni Pezzulo, Hugo J. Spiers, Samson Chien, Nicolas W. Schuck, Christopher Summerfield
+authors: "Paul S. Muhle-Karbe, Hannah Sheahan, Giovanni Pezzulo, Hugo J. Spiers, Samson Chien, Nicolas W. Schuck, Christopher Summerfield"
 year: 2023
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["navigation_task"]
+methods: ["fmri", "representational_similarity_analysis", "computational_modeling"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "orbitofrontal_cortex", "visual_cortex"]
+frameworks: ["neural_manifold"]
+keywords: ["goal", "seeking", "compresses", "neural", "codes", "space", "human", "hippocampus", "orbitofrontal", "cortex"]
+key_citations: ["basu2021_ofc_navigation_goals", "nyberg2022_spatial_goal_coding", "brown2016_prospective_goals_hippocampus", "schuck2016_orbitofrontal_cortex_state"]
 ---
 
 ### One-line summary

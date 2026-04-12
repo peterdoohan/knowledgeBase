@@ -1,11 +1,16 @@
 ---
-source_file: hoang2021_successor_feature_landmarks.md
+source_file: "hoang2021_successor_feature_landmarks.md"
+paper_id: "hoang2021_successor_feature_landmarks"
 title: "Successor Feature Landmarks for Long-Horizon Goal-Conditioned Reinforcement Learning"
-authors: Christopher Hoang, Sungryull Sohn, Jongwook Choi, Wilka Carvalho, Honglak Lee
+authors: "Christopher Hoang, Sungryull Sohn, Jongwook Choi, Wilka Carvalho, Honglak Lee"
 year: 2021
 journal: "NeurIPS 2021"
-paper_type: computational
-contribution_type: theoretical
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["human"]
+frameworks: ["reinforcement_learning", "successor_representation"]
+keywords: ["successor", "feature", "landmarks", "long", "horizon", "goal", "conditioned", "reinforcement", "learning"]
+key_citations: ["dayan1993_successor_representation", "barreto2017_successor_features_transfer_c"]
 ---
 
 ### One-line summary

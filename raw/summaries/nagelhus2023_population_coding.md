@@ -1,11 +1,17 @@
 ---
-source_file: nagelhus2023_population_coding.md
+source_file: "nagelhus2023_population_coding.md"
+paper_id: "nagelhus2023_population_coding"
 title: "Object-centered population coding in CA1 of the hippocampus"
-authors: Anne Nagelhus, Sebastian O. Andersson, Soledad Gonzalo Cogno, Edvard I. Moser, May-Britt Moser
+authors: "Anne Nagelhus, Sebastian O. Andersson, Soledad Gonzalo Cogno, Edvard I. Moser, May-Britt Moser"
 year: 2023
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["open_field"]
+methods: ["tetrode_recording", "neuropixels", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+keywords: ["object", "centered", "population", "coding", "ca1", "hippocampus"]
 ---
 
 ### One-line summary

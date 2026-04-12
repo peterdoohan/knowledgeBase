@@ -1,11 +1,15 @@
 ---
-source_file: davis2013_homeostatic_signaling_neural_stabilization.md
+source_file: "davis2013_homeostatic_signaling_neural_stabilization.md"
+paper_id: "davis2013_homeostatic_signaling_neural_stabilization"
 title: "Homeostatic Signaling and the Stabilization of Neural Function"
-authors: Graeme W. Davis
+authors: "Graeme W. Davis"
 year: 2013
-journal: Neuron
-paper_type: review
-contribution_type: review
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "review"
+methods: ["calcium_imaging", "optogenetics", "electrophysiology", "computational_modeling"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "visual_cortex"]
+keywords: ["homeostatic", "signaling", "stabilization", "neural", "function"]
 ---
 
 ### One-line summary

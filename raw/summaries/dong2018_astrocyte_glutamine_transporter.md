@@ -1,11 +1,14 @@
 ---
-source_file: dong2018_astrocyte_glutamine_transporter.md
+source_file: "dong2018_astrocyte_glutamine_transporter.md"
+paper_id: "dong2018_astrocyte_glutamine_transporter"
 title: "PKC-Mediated Modulation of Astrocyte SNAT3 Glutamine Transporter Function at Synapses in Situ"
-authors: Wuxing Dong, Alison C. Todd, Angelika Bröer, Sarah R. Hulme, Stefan Bröer, Brian Billups
+authors: "Wuxing Dong, Alison C. Todd, Angelika Br\u00f6er, Sarah R. Hulme, Stefan Br\u00f6er, Brian Billups"
 year: 2018
-journal: International Journal of Molecular Sciences
-paper_type: empirical
-contribution_type: empirical
+journal: "International Journal of Molecular Sciences"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat"]
+keywords: ["pkc", "mediated", "modulation", "astrocyte", "snat3", "glutamine", "transporter", "function", "synapses", "situ"]
 ---
 
 ### One-line summary

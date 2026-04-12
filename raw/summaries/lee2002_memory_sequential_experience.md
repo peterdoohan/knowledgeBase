@@ -1,11 +1,17 @@
 ---
-source_file: lee2002_memory_sequential_experience.md
+source_file: "lee2002_memory_sequential_experience.md"
+paper_id: "lee2002_memory_sequential_experience"
 title: "Memory of Sequential Experience in the Hippocampus during Slow Wave Sleep"
-authors: Albert K. Lee, Matthew A. Wilson
+authors: "Albert K. Lee, Matthew A. Wilson"
 year: 2002
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat", "human"]
+tasks: ["navigation_task"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3"]
+keywords: ["memory", "sequential", "experience", "hippocampus", "during", "slow", "wave", "sleep"]
 ---
 
 ### One-line summary

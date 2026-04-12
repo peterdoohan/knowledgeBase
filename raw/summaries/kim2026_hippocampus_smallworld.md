@@ -1,11 +1,19 @@
 ---
-source_file: kim2026_hippocampus_smallworld.md
+source_file: "kim2026_hippocampus_smallworld.md"
+paper_id: "kim2026_hippocampus_smallworld"
 title: "The hippocampus as a small-world cognitive map"
-authors: Jason Z. Kim, James P. Sethna, Itai Cohen, Weinan Sun
+authors: "Jason Z. Kim, James P. Sethna, Itai Cohen, Weinan Sun"
 year: 2026
-journal: bioRxiv (preprint, posted February 8, 2026)
-paper_type: computational
-contribution_type: theoretical
+journal: "bioRxiv (preprint, posted February 8, 2026)"
+paper_type: "computational"
+contribution_type: "theoretical"
+species: ["mouse"]
+tasks: ["virtual_navigation", "navigation_task"]
+methods: ["calcium_imaging"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "prefrontal_cortex"]
+frameworks: ["successor_representation", "neural_manifold"]
+keywords: ["hippocampus", "small", "world", "cognitive", "map"]
+key_citations: ["liu2022_hippocampal_sharp_wave"]
 ---
 
 ### One-line summary

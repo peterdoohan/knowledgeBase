@@ -1,11 +1,18 @@
 ---
-source_file: kashay2022_anterior_cingulate_effort.md
+source_file: "kashay2022_anterior_cingulate_effort.md"
+paper_id: "kashay2022_anterior_cingulate_effort"
 title: "Neural activity in the anterior cingulate cortex is required for effort-based decision making"
-authors: Adrienne Q. Kashay, Jovian Y. Cheung, Rahil N. Vaknalli, Molly J. Delaney, Michael B. Navarro Jr., Christabelle Junaidi, Faith Veenker, Morgan E. Neuwirth, Christopher J. Gabriel, Laura A. DeNardo, Scott A. Wilke
+authors: "Adrienne Q. Kashay, Jovian Y. Cheung, Rahil N. Vaknalli, Molly J. Delaney, Michael B. Navarro Jr., Christabelle Junaidi, Faith Veenker, Morgan E. Neuwirth, Christopher J. Gabriel, Laura A. DeNardo, Scott A. Wilke"
 year: 2022
-journal: bioRxiv (preprint; doi: 10.1101/2022.03.22.485350; this version posted January 3, 2023)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint; doi: 10.1101/2022.03.22.485350; this version posted January 3, 2023)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "rat"]
+tasks: ["open_field", "t_maze"]
+methods: ["calcium_imaging", "optogenetics", "computational_modeling", "lesion", "behavioral_analysis"]
+brain_regions: ["anterior_cingulate_cortex", "orbitofrontal_cortex", "prelimbic_cortex", "striatum", "ventral_striatum", "nucleus_accumbens", "thalamus", "mediodorsal_thalamus", "amygdala", "basolateral_amygdala"]
+keywords: ["neural", "activity", "anterior", "cingulate", "cortex", "required", "effort", "based", "decision", "making"]
+key_citations: ["gabriel2022_behaviordepot_detection", "akam2021_dopamine_model_based_rl"]
 ---
 
 ### One-line summary

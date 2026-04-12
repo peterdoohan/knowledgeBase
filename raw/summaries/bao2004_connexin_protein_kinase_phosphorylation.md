@@ -1,11 +1,15 @@
 ---
-source_file: bao2004_connexin_protein_kinase_phosphorylation.md
-title: Mechanism of regulation of the gap junction protein connexin 43 by protein kinase C-mediated phosphorylation
-authors: Xiaoyong Bao, Guillermo A. Altenberg, Luis Reuss
+source_file: "bao2004_connexin_protein_kinase_phosphorylation.md"
+paper_id: "bao2004_connexin_protein_kinase_phosphorylation"
+title: "Mechanism of regulation of the gap junction protein connexin 43 by protein kinase C-mediated phosphorylation"
+authors: "Xiaoyong Bao, Guillermo A. Altenberg, Luis Reuss"
 year: 2004
-journal: American Journal of Physiology - Cell Physiology
-paper_type: empirical
-contribution_type: empirical
+journal: "American Journal of Physiology - Cell Physiology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+keywords: ["lampe_pd_et_al_2000", "j_cell_biol_prior_evidence_that_ser368_regulates_gap_junctional_communication_by_pkc", "lampe_pd_and_lau_af_2000", "arch_biochem_biophys_review_of_connexin_regulation_by_phosphorylation", "ek_vitorin_jf_et_al_1996", "biophys_j_proline_rich_region_and_ph_gating_mechanism", "morley_ge_et_al_1996", "biophys_j_ball_and_chain_model_of_cx43_ph_regulation", "delmar_m_et_al_2000_ball_and_chain_hypothesis_for_chemical_regulation_of_cx43", "li_h_et_al_1996", "j_cell_biol_hemichannel_regulation_in_cultured_cells", "john_sa_et_al_1999", "j_biol_chem_cx43_hemichannels_opened_by_metabolic_inhibition", "contreras_je_et_al_2002", "pnas_hemichannel_opening_in_astrocytes_under_metabolic_inhibition", "named_models_or_frameworks", "ball_and_chain_model_of_connexin_gating_proposed_by_delmar_and_colleagues", "brain_regions", "not_applicable_molecular_study", "cx43_relevant_to_brain_astrocytes_and_cardiomyocytes_in_the_pathophysiological_context_discussed"]
+key_citations: ["lampe2000_connexin43_phosphorylation"]
 ---
 
 ### One-line summary

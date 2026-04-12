@@ -1,11 +1,16 @@
 ---
-source_file: paulk2022_neuropixels_human_cortex.md
-title: Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex
-authors: Angelique C. Paulk, Yoav Kfir, Arjun R. Khanna, Martina L. Mustroph, Eric M. Trautmann, Dan J. Soper, Sergey D. Stavisky, Marleen Welkenhuysen, Barundeb Dutta, Krishna V. Shenoy, Leigh R. Hochberg, R. Mark Richardson, Ziv M. Williams, Sydney S. Cash
+source_file: "paulk2022_neuropixels_human_cortex.md"
+paper_id: "paulk2022_neuropixels_human_cortex"
+title: "Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex"
+authors: "Angelique C. Paulk, Yoav Kfir, Arjun R. Khanna, Martina L. Mustroph, Eric M. Trautmann, Dan J. Soper, Sergey D. Stavisky, Marleen Welkenhuysen, Barundeb Dutta, Krishna V. Shenoy, Leigh R. Hochberg, R. Mark Richardson, Ziv M. Williams, Sydney S. Cash"
 year: 2022
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: methodological
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["human"]
+methods: ["electrophysiology", "neuropixels"]
+brain_regions: ["prefrontal_cortex", "dorsolateral_prefrontal_cortex"]
+keywords: ["jun_et_al_2017_original_neuropixels_1_0_probe_description", "steinmetz_et_al_2021_neuropixels_2_0_improvements", "trautmann_et_al_2019_neuropixels_in_nhps", "population_dynamics_without_spike_sorting", "jia_et_al_2019_high_density_probes_reveal_dendritic_backpropagation_and_neuron_classification", "truccolo_et_al_2011_single_neuron_dynamics_in_human_focal_epilepsy", "cash_and_hochberg_2015_review_on_single_neurons_in_clinical_neurology", "named_models_or_frameworks", "neuropixels_probe_technology_1_0_and_1_0_s_variants", "kilosort_3_0_spike_sorting_algorithm", "wavemap_umap_louvain_clustering_for_waveform_classification", "burst_suppression_detection_algorithm_westover_et_al", "brain_regions", "dorsolateral_prefrontal_cortex_dlpfc", "lateral_temporal_lobe_cortex", "keywords", "neuropixels", "human_electrophysiology", "intraoperative_recording", "single_unit_activity"]
 ---
 
 ### One-line summary

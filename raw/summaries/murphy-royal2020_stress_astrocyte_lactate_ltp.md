@@ -1,11 +1,16 @@
 ---
-source_file: murphy-royal2020_stress_astrocyte_lactate_ltp.md
-title: Stress gates an astrocytic energy reservoir to impair synaptic plasticity
-authors: Ciaran Murphy-Royal, April D. Johnston, Andrew K. J. Boyce, Blanca Diaz-Castro, Adam Institoris, Govind Peringod, Oliver Zhang, Randy F. Stout, David C. Spray, Roger J. Thompson, Baljit S. Khakh, Jaideep S. Bains, Grant R. Gordon
+source_file: "murphy-royal2020_stress_astrocyte_lactate_ltp.md"
+paper_id: "murphy-royal2020_stress_astrocyte_lactate_ltp"
+title: "Stress gates an astrocytic energy reservoir to impair synaptic plasticity"
+authors: "Ciaran Murphy-Royal, April D. Johnston, Andrew K. J. Boyce, Blanca Diaz-Castro, Adam Institoris, Govind Peringod, Oliver Zhang, Randy F. Stout, David C. Spray, Roger J. Thompson, Baljit S. Khakh, Jaideep S. Bains, Grant R. Gordon"
 year: 2020
-journal: Nature Communications
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Communications"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["calcium_imaging", "electrophysiology"]
+brain_regions: ["hippocampus", "hippocampus_ca1"]
+keywords: ["rouach_et_al_2008_foundational_work_on_astrocyte_metabolic_networks_sustaining_hippocampal_synaptic_transmission", "pannasch_et_al_2011", "2014_connexin_30_43_roles_in_synaptic_plasticity_and_morphology", "suzuki_et_al_2011_astrocyte_neuron_lactate_transport_required_for_long_term_memory_formation", "kaouane_et_al_2012_glucocorticoids_induce_ptsd_like_memory_impairments", "henneberger_et_al_2010_astrocyte_d_serine_release_required_for_ltp", "named_models_or_frameworks", "astrocyte_neuron_lactate_shuttle_anls_hypothesis", "tripartite_synapse_concept", "astrocyte_syncytial_network_metabolic_coupling_model", "theta_burst_stimulation_tbs_protocol_for_ltp_induction", "astrocyte_fepsp_a_fepsp_recording_technique", "brain_regions", "somatosensory_cortex_neocortex_primary_site_for_rnaseq", "imaging", "and_electrophysiology", "hippocampus_ca1_ventral_replication_of_gap_junction_coupling_and_ltp_findings", "dorsal_hippocampus_viral_injection_site_for_dncx43_experiments", "keywords", "astrocyte_gap_junction_coupling"]
 ---
 
 ### One-line summary

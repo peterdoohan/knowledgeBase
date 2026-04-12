@@ -1,11 +1,17 @@
 ---
-source_file: mcnamara2017_dopamine_hippocampus.md
+source_file: "mcnamara2017_dopamine_hippocampus.md"
+paper_id: "mcnamara2017_dopamine_hippocampus"
 title: "Two sources of dopamine for the hippocampus"
-authors: Colin G. McNamara, David Dupret
+authors: "Colin G. McNamara, David Dupret"
 year: 2017
-journal: Trends in Neurosciences
-paper_type: review
-contribution_type: theoretical
+journal: "Trends in Neurosciences"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["mouse"]
+methods: ["optogenetics"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "prefrontal_cortex", "ventral_tegmental_area"]
+frameworks: ["reinforcement_learning"]
+keywords: ["two", "sources", "dopamine", "hippocampus"]
 ---
 
 ### One-line summary

@@ -1,11 +1,17 @@
 ---
-source_file: vanbeest2023_tracking_neurons_neuropixels.md
-title: Tracking neurons across days with high-density probes
-authors: Enny H. van Beest, Célian Bimbard, Julie M. J. Fabre, Flóra Takács, Philip Coen, Anna Lebedeva, Kenneth Harris, Matteo Carandini
+source_file: "vanbeest2023_tracking_neurons_neuropixels.md"
+paper_id: "vanbeest2023_tracking_neurons_neuropixels"
+title: "Tracking neurons across days with high-density probes"
+authors: "Enny H. van Beest, C\u00e9lian Bimbard, Julie M. J. Fabre, Fl\u00f3ra Tak\u00e1cs, Philip Coen, Anna Lebedeva, Kenneth Harris, Matteo Carandini"
 year: 2023
-journal: bioRxiv preprint
-paper_type: empirical
-contribution_type: methodological
+journal: "bioRxiv preprint"
+paper_type: "empirical"
+contribution_type: "methodological"
+species: ["mouse"]
+methods: ["electrophysiology", "neuropixels"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "striatum", "dorsomedial_striatum", "retrosplenial_cortex", "thalamus", "visual_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["steinmetz_et_al_2021_neuropixels_2_0_probe_development", "pachitariu_et_al_2016_kilosort_spike_sorting", "jun_et_al_2017_neuropixels_1_0", "juavinett_et_al_2019", "luo_et_al_2020", "van_daal_et_al_2021", "bimbard_et_al_2023_chronic_neuropixels_implantation_methods", "okun_et_al_2016", "steinmetz_et_al_2021_prior_concatenated_spike_sorting_approaches", "named_models_or_frameworks", "unitmatch_the_main_pipeline_developed_in_this_paper", "kilosort_spike_sorting_algorithm", "bombcell_quality_control_pipeline", "naive_bayes_classifier_statistical_framework_for_matching", "brain_regions", "visual_cortex_v1", "hippocampus", "dorsomedial_striatum", "superior_colliculus", "retrosplenial_cortex"]
 ---
 
 ### One-line summary

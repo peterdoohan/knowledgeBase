@@ -1,11 +1,16 @@
 ---
-source_file: vann2009_retrosplenial_cortex_memory.md
-title: What does the retrosplenial cortex do?
-authors: Seralynne D. Vann, John P. Aggleton, Eleanor A. Maguire
+source_file: "vann2009_retrosplenial_cortex_memory.md"
+paper_id: "vann2009_retrosplenial_cortex_memory"
+title: "What does the retrosplenial cortex do?"
+authors: "Seralynne D. Vann, John P. Aggleton, Eleanor A. Maguire"
 year: 2009
-journal: Nature Reviews Neuroscience
-paper_type: review
-contribution_type: review
+journal: "Nature Reviews Neuroscience"
+paper_type: "review"
+contribution_type: "review"
+species: ["rat", "human", "monkey"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex", "retrosplenial_cortex", "medial_temporal_lobe"]
+keywords: ["brodmann_1909_original_delineation_of_rsc_areas_29_and_30", "papez_1937_early_emotion_circuit_including_rsc", "vogt_et_al_2000_statement_that_nothing_is_known_about_its_function", "kobayashi_and_amaral_2000_2007_detailed_anatomical_connectivity_in_macaques", "van_groen_and_wyss_1990_2003_rat_rsc_connectivity", "burgess", "becker", "king_and_okeefe_2001_translation_model", "byrne", "becker_and_burgess_2007_extended_model_of_spatial_memory_and_imagery", "maguire_2001_neuroimaging_of_autobiographical_memory", "hassabis", "kumaran", "vann_and_maguire_2007_hippocampal_amnesia_and_imagination", "buckner_and_carroll_2007_self_projection_and_the_brain", "spiers_and_maguire_2006_navigation_in_the_real_world", "epstein_2008_parahippocampal_and_retrosplenial_contributions_to_navigation", "svoboda", "mckinnon_and_levine_2006_meta_analysis_of_autobiographical_memory", "named_models_or_frameworks"]
 ---
 
 ### One-line summary

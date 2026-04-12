@@ -1,11 +1,19 @@
 ---
-source_file: yu2018_hippocampal_cortical_memory.md
-title: Specific hippocampal representations are linked to generalized cortical representations in memory
-authors: Jai Y. Yu, Daniel F. Liu, Adrianna Loback, Irene Grossrubatscher, Loren M. Frank
+source_file: "yu2018_hippocampal_cortical_memory.md"
+paper_id: "yu2018_hippocampal_cortical_memory"
+title: "Specific hippocampal representations are linked to generalized cortical representations in memory"
+authors: "Jai Y. Yu, Daniel F. Liu, Adrianna Loback, Irene Grossrubatscher, Loren M. Frank"
 year: 2018
-journal: Nature Communications
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Communications"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["foraging_task"]
+methods: ["tetrode_recording"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "prelimbic_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["specific", "hippocampal", "representations", "linked", "generalized", "cortical", "memory"]
+key_citations: ["jadhav2016_hippocampal_prefrontal_swr"]
 ---
 
 ### One-line summary

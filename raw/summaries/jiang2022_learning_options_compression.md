@@ -1,11 +1,15 @@
 ---
-source_file: jiang2022_learning_options_compression.md
+source_file: "jiang2022_learning_options_compression.md"
+paper_id: "jiang2022_learning_options_compression"
 title: "Learning Options via Compression"
-authors: Yiding Jiang, Evan Zheran Liu, Benjamin Eysenbach, J. Zico Kolter, Chelsea Finn
+authors: "Yiding Jiang, Evan Zheran Liu, Benjamin Eysenbach, J. Zico Kolter, Chelsea Finn"
 year: 2022
-journal: NeurIPS 2022 (36th Conference on Neural Information Processing Systems)
-paper_type: computational
-contribution_type: methodological
+journal: "NeurIPS 2022 (36th Conference on Neural Information Processing Systems)"
+paper_type: "computational"
+contribution_type: "methodological"
+brain_regions: ["ventral_tegmental_area"]
+frameworks: ["reinforcement_learning", "hierarchical_rl"]
+keywords: ["learning", "options", "via", "compression"]
 ---
 
 ### One-line summary

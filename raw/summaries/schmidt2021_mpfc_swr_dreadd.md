@@ -1,11 +1,18 @@
 ---
-source_file: schmidt2021_mpfc_swr_dreadd.md
-title: Disrupting the medial prefrontal cortex with designer receptors exclusively activated by designer drug alters hippocampal sharp-wave ripples and their associated cognitive processes
-authors: Brandy Schmidt, A. David Redish
+source_file: "schmidt2021_mpfc_swr_dreadd.md"
+paper_id: "schmidt2021_mpfc_swr_dreadd"
+title: "Disrupting the medial prefrontal cortex with designer receptors exclusively activated by designer drug alters hippocampal sharp-wave ripples and their associated cognitive processes"
+authors: "Brandy Schmidt, A. David Redish"
 year: 2021
-journal: Hippocampus
-paper_type: empirical
-contribution_type: empirical
+journal: "Hippocampus"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["foraging_task", "navigation_task"]
+methods: ["optogenetics", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex", "prelimbic_cortex", "striatum", "ventral_striatum"]
+keywords: ["disrupting", "medial", "prefrontal", "cortex", "designer", "receptors", "exclusively", "activated", "drug", "alters"]
+key_citations: ["girardeau2009_ripples_spatial_memory", "shin2019_hippocampal_prefrontal_replay_b"]
 ---
 
 ### One-line summary

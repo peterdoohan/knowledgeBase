@@ -1,11 +1,17 @@
 ---
-source_file: rolls2016_non_reward_attractor_depression.md
-title: A non-reward attractor theory of depression
-authors: Edmund T. Rolls
+source_file: "rolls2016_non_reward_attractor_depression.md"
+paper_id: "rolls2016_non_reward_attractor_depression"
+title: "A non-reward attractor theory of depression"
+authors: "Edmund T. Rolls"
 year: 2016
-journal: Neuroscience and Biobehavioral Reviews
-paper_type: review
-contribution_type: theoretical
+journal: "Neuroscience and Biobehavioral Reviews"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human", "macaque"]
+methods: ["fmri", "lesion"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "amygdala", "medial_temporal_lobe"]
+frameworks: ["attractor_networks"]
+keywords: ["non", "reward", "attractor", "theory", "depression"]
 ---
 
 ### One-line summary

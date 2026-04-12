@@ -1,11 +1,17 @@
 ---
-source_file: zutshi2022_extrinsic_intrinsic_ca1.md
-title: Extrinsic control and intrinsic computation in the hippocampal CA1 circuit
-authors: Ipshita Zutshi, Manuel Valero, Antonio Fernández-Ruiz, György Buzsáki
+source_file: "zutshi2022_extrinsic_intrinsic_ca1.md"
+paper_id: "zutshi2022_extrinsic_intrinsic_ca1"
+title: "Extrinsic control and intrinsic computation in the hippocampal CA1 circuit"
+authors: "Ipshita Zutshi, Manuel Valero, Antonio Fern\u00e1ndez-Ruiz, Gy\u00f6rgy Buzs\u00e1ki"
 year: 2022
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["optogenetics", "lesion"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "medial_entorhinal_cortex"]
+frameworks: ["attractor_networks"]
+keywords: ["extrinsic", "control", "intrinsic", "computation", "hippocampal", "ca1", "circuit"]
 ---
 
 ### One-line summary

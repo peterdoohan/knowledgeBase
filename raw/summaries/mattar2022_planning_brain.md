@@ -1,11 +1,18 @@
 ---
-source_file: mattar2022_planning_brain.md
+source_file: "mattar2022_planning_brain.md"
+paper_id: "mattar2022_planning_brain"
 title: "Planning in the brain"
-authors: Marcelo G. Mattar, Máté Lengyel
+authors: "Marcelo G. Mattar, M\u00e1t\u00e9 Lengyel"
 year: 2022
-journal: Neuron
-paper_type: review
-contribution_type: theoretical
+journal: "Neuron"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+methods: ["electrophysiology", "fmri", "lesion"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex", "orbitofrontal_cortex", "striatum", "dorsomedial_striatum", "medial_temporal_lobe"]
+frameworks: ["reinforcement_learning", "model_based_rl", "successor_representation", "hierarchical_rl"]
+keywords: ["planning", "brain"]
+key_citations: ["daw2005_uncertainty_prefrontal_striatal", "tolman1948_cognitive_maps_rats", "dayan1993_successor_representation", "balleine1998_goal_directed_instrumental_action", "foster2007_theta_sequences_hippocampus", "johnson2007_hippocampus_decision"]
 ---
 
 ### One-line summary

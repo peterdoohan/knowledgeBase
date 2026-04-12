@@ -1,11 +1,15 @@
 ---
-source_file: rackauskas2007_gap_junction_permeability.md
-title: Permeability of homotypic and heterotypic gap junction channels formed of cardiac connexins mCx30.2, Cx40, Cx43, and Cx45
-authors: Mindaugas Rackauskas, Vytas K. Verselis, Feliksas F. Bukauskas
+source_file: "rackauskas2007_gap_junction_permeability.md"
+paper_id: "rackauskas2007_gap_junction_permeability"
+title: "Permeability of homotypic and heterotypic gap junction channels formed of cardiac connexins mCx30.2, Cx40, Cx43, and Cx45"
+authors: "Mindaugas Rackauskas, Vytas K. Verselis, Feliksas F. Bukauskas"
 year: 2007
-journal: American Journal of Physiology - Heart and Circulatory Physiology
-paper_type: empirical
-contribution_type: empirical
+journal: "American Journal of Physiology - Heart and Circulatory Physiology"
+paper_type: "empirical"
+contribution_type: "empirical"
+methods: ["calcium_imaging", "electrophysiology"]
+brain_regions: ["hippocampus", "thalamus"]
+keywords: ["weber_et_al_2004_compartmental_model_for_single_channel_permeability", "valiunas_et_al_2002_cx43_and_cx40_single_channel_permeability", "eckert_2006_gap_junctional_single_channel_permeability_in_mammalian_cells", "cao_et_al_1998_quantitative_analysis_of_connexin_specific_permeability_differences", "kreuzberg_et_al_2005_functional_properties_of_mouse_connexin30_2", "named_models_or_frameworks", "dual_whole_cell_patch_clamp_technique", "single_channel_permeability_p_calculation_methodology", "gap_junction_channel_gating_models_fast_and_slow_gating_mechanisms", "compartmental_model_for_dye_transfer_nitsche_et_al", "brain_regions", "cardiac_conduction_system_av_node", "specialized_conduction_tissue", "working_myocardium_atrial_and_ventricular_muscle", "hippocampus_neuronal_expression_of_mcx30_2", "cerebellum", "thalamus", "brainstem_neuronal_expression_of_mcx30_2", "keywords", "connexin"]
 ---
 
 ### One-line summary

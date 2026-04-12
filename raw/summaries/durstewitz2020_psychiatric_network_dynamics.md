@@ -1,11 +1,16 @@
 ---
-source_file: durstewitz2020_psychiatric_network_dynamics.md
+source_file: "durstewitz2020_psychiatric_network_dynamics.md"
+paper_id: "durstewitz2020_psychiatric_network_dynamics"
 title: "Psychiatric Illnesses as Disorders of Network Dynamics"
-authors: Daniel Durstewitz, Quentin J.M. Huys, Georgia Koppe
+authors: "Daniel Durstewitz, Quentin J.M. Huys, Georgia Koppe"
 year: 2020
 journal: "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
-paper_type: review
-contribution_type: theoretical
+paper_type: "review"
+contribution_type: "theoretical"
+methods: ["fmri", "dynamic_causal_modelling"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "anterior_cingulate_cortex", "orbitofrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum"]
+frameworks: ["attractor_networks"]
+keywords: ["psychiatric", "illnesses", "disorders", "network", "dynamics"]
 ---
 
 ### One-line summary

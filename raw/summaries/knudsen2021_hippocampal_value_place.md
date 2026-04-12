@@ -1,11 +1,18 @@
 ---
-source_file: knudsen2021_hippocampal_value_place.md
+source_file: "knudsen2021_hippocampal_value_place.md"
+paper_id: "knudsen2021_hippocampal_value_place"
 title: "Hippocampal neurons construct a map of an abstract value space"
-authors: Eric B. Knudsen, Joni D. Wallis
+authors: "Eric B. Knudsen, Joni D. Wallis"
 year: 2021
-journal: Cell
-paper_type: empirical
-contribution_type: empirical
+journal: "Cell"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human", "macaque"]
+methods: ["fmri"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "hippocampus_ca3", "entorhinal_cortex", "orbitofrontal_cortex"]
+frameworks: ["reinforcement_learning", "model_based_rl"]
+keywords: ["okeefe_and_dostrovsky_1971_original_hippocampal_place_cell_discovery", "okeefe_and_nadel_1978_cognitive_map_hypothesis", "behrens_et_al_2018_what_is_a_cognitive_map", "scoville_and_milner_1957_hippocampal_amnesia_in_h_m", "aronov_et_al_2017_non_spatial_auditory_hippocampal_mapping_in_rodents", "theves_et_al_2019_human_hippocampal_fmri_distances_in_abstract_feature_space", "constantinescu_et_al_2016_grid_like_coding_of_conceptual_knowledge_in_humans", "knudsen_and_wallis_2020_prior_behavioural_ofc_hippocampal_paper_with_the_same_task", "mehta_et_al_2000_experience_dependent_asymmetric_place_field_shaping", "fyhn_et_al_2007_hippocampal_remapping_and_grid_realignment", "baram_et_al_2021_entorhinal_vmpfc_abstract_structure_and_generalisation", "baraduc_et_al_2019_schema_cells_in_macaque_hippocampus", "named_models_or_frameworks", "cognitive_map_okeefe_and_nadel", "1978", "temporal_difference_rl_softmax_choice_model_sutton_and_barto", "1998", "spatial_information_content_metric_skaggs_et_al", "1993", "sparseness_index_treves_and_rolls"]
+key_citations: ["behrens2018_cognitive_map_organizing_knowledge", "constantinescu2016_gridlike_conceptual_knowledge"]
 ---
 
 ### One-line summary

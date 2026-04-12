@@ -1,11 +1,13 @@
 ---
-source_file: nishimori2024_feature_learning_benign_overfitting.md
+source_file: "nishimori2024_feature_learning_benign_overfitting.md"
+paper_id: "nishimori2024_feature_learning_benign_overfitting"
 title: "Feature learning and generalization error analysis of two-layer linear neural networks for high-dimensional inputs"
-authors: Hayato Nishimori, Taiji Suzuki
+authors: "Hayato Nishimori, Taiji Suzuki"
 year: 2024
-journal: Information Geometry
-paper_type: computational
-contribution_type: theoretical
+journal: "Information Geometry"
+paper_type: "computational"
+contribution_type: "theoretical"
+keywords: ["feature", "learning", "generalization", "error", "analysis", "two", "layer", "linear", "neural", "networks"]
 ---
 
 ### One-line summary

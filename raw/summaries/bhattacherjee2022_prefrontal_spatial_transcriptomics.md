@@ -1,11 +1,16 @@
 ---
-source_file: bhattacherjee2022_prefrontal_spatial_transcriptomics.md
+source_file: "bhattacherjee2022_prefrontal_spatial_transcriptomics.md"
+paper_id: "bhattacherjee2022_prefrontal_spatial_transcriptomics"
 title: "Understanding prefrontal cortex functions by decoding its molecular, cellular and circuit organization"
-authors: Aritra Bhattacherjee, Chao Zhang, Brianna Watson, Mohamed Nadhir Djekidel, Jeffrey R. Moffitt, Yi Zhang
+authors: "Aritra Bhattacherjee, Chao Zhang, Brianna Watson, Mohamed Nadhir Djekidel, Jeffrey R. Moffitt, Yi Zhang"
 year: 2022
-journal: bioRxiv (preprint, posted December 29, 2022)
-paper_type: empirical
-contribution_type: empirical
+journal: "bioRxiv (preprint, posted December 29, 2022)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["behavioral_analysis"]
+brain_regions: ["prefrontal_cortex", "anterior_cingulate_cortex", "prelimbic_cortex", "infralimbic_cortex", "striatum", "nucleus_accumbens", "amygdala", "periaqueductal_gray"]
+keywords: ["understanding", "prefrontal", "cortex", "functions", "decoding", "its", "molecular", "cellular", "circuit", "organization"]
 ---
 
 ### One-line summary

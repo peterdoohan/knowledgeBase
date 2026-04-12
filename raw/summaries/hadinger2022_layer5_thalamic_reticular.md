@@ -1,11 +1,16 @@
 ---
-source_file: hadinger2022_layer5_thalamic_reticular.md
+source_file: "hadinger2022_layer5_thalamic_reticular.md"
+paper_id: "hadinger2022_layer5_thalamic_reticular"
 title: "Region-selective control of the thalamic reticular nucleus via cortical layer 5 pyramidal cells"
-authors: Nóra Hádinger, Emília Bősz, Boglárka Tóth, Gil Vantomme, Anita Lüthi, László Acsády
+authors: "N\u00f3ra H\u00e1dinger, Em\u00edlia B\u0151sz, Bogl\u00e1rka T\u00f3th, Gil Vantomme, Anita L\u00fcthi, L\u00e1szl\u00f3 Acs\u00e1dy"
 year: 2022
-journal: Nature Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "Nature Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse"]
+methods: ["optogenetics", "electrophysiology"]
+brain_regions: ["prefrontal_cortex", "infralimbic_cortex", "mediodorsal_thalamus"]
+keywords: ["region", "selective", "control", "thalamic", "reticular", "nucleus", "via", "cortical", "layer", "pyramidal"]
 ---
 
 ### One-line summary

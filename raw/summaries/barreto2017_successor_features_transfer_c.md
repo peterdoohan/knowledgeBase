@@ -1,11 +1,15 @@
 ---
-source_file: barreto2017_successor_features_transfer_c.md
-title: Successor Features for Transfer in Reinforcement Learning
-authors: André Barreto, Will Dabney, Rémi Munos, Jonathan J. Hunt, Tom Schaul, Hado van Hasselt, David Silver
+source_file: "barreto2017_successor_features_transfer_c.md"
+paper_id: "barreto2017_successor_features_transfer_c"
+title: "Successor Features for Transfer in Reinforcement Learning"
+authors: "Andr\u00e9 Barreto, Will Dabney, R\u00e9mi Munos, Jonathan J. Hunt, Tom Schaul, Hado van Hasselt, David Silver"
 year: 2017
-journal: Advances in Neural Information Processing Systems (NIPS 2017)
-paper_type: computational
-contribution_type: theoretical
+journal: "Advances in Neural Information Processing Systems (NIPS 2017)"
+paper_type: "computational"
+contribution_type: "theoretical"
+frameworks: ["reinforcement_learning", "successor_representation"]
+keywords: ["successor", "features", "transfer", "reinforcement", "learning"]
+key_citations: ["dayan1993_successor_representation", "sutton1999_temporal_abstraction_rl"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: nardin2023_theta_oscillations_prefrontal_hippocampal.md
+source_file: "nardin2023_theta_oscillations_prefrontal_hippocampal.md"
+paper_id: "nardin2023_theta_oscillations_prefrontal_hippocampal"
 title: "Theta oscillations as a substrate for medial prefrontal-hippocampal assembly interactions"
-authors: Michele Nardin, Karola Kaefer, Federico Stella, Jozsef Csicsvari
+authors: "Michele Nardin, Karola Kaefer, Federico Stella, Jozsef Csicsvari"
 year: 2023
-journal: Cell Reports
-paper_type: empirical
-contribution_type: empirical
+journal: "Cell Reports"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["navigation_task"]
+methods: ["tetrode_recording", "behavioral_analysis"]
+brain_regions: ["hippocampus_ca1", "entorhinal_cortex", "prefrontal_cortex", "medial_prefrontal_cortex"]
+keywords: ["theta", "oscillations", "substrate", "medial", "prefrontal", "hippocampal", "assembly", "interactions"]
+key_citations: ["kaefer2020_replay_prefrontal_rule_switching", "zielinski2019_theta_hippocampus_prefrontal", "jones2005_theta_hippocampal_prefrontal"]
 ---
 
 ### One-line summary

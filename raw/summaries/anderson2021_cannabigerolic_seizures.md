@@ -1,11 +1,14 @@
 ---
-source_file: anderson2021_cannabigerolic_seizures.md
+source_file: "anderson2021_cannabigerolic_seizures.md"
+paper_id: "anderson2021_cannabigerolic_seizures"
 title: "Cannabigerolic acid, a major biosynthetic precursor molecule in cannabis, exhibits divergent effects on seizures in mouse models of epilepsy"
-authors: Lyndsey L. Anderson, Marika Heblinski, Nathan L. Absalom, Nicole A. Hawkins, Michael T. Bowen, Melissa J. Benson, Fan Zhang, Dilara Bahceci, Peter T. Doohan, Mary Chebib, Iain S. McGregor, Jennifer A. Kearney, Jonathon C. Arnold
+authors: "Lyndsey L. Anderson, Marika Heblinski, Nathan L. Absalom, Nicole A. Hawkins, Michael T. Bowen, Melissa J. Benson, Fan Zhang, Dilara Bahceci, Peter T. Doohan, Mary Chebib, Iain S. McGregor, Jennifer A. Kearney, Jonathon C. Arnold"
 year: 2021
-journal: British Journal of Pharmacology
-paper_type: empirical
-contribution_type: empirical
+journal: "British Journal of Pharmacology"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["mouse", "human"]
+keywords: ["anderson_et_al_2019", "epilepsia_cbd_clobazam_pharmacodynamic_and_pharmacokinetic_interactions", "anderson_et_al_2020", "bjp_cbd_and_9_thc_interactions_in_scn1a_mice", "devinsky_et_al_2017", "nejm_cbd_trial_in_dravet_syndrome", "hawkins_et_al_2017_scn1a_mouse_model_characterisation", "kaplan_et_al_2017_cbd_anticonvulsant_effects_in_scn1a_mice", "bakas_et_al_2017_cbd_as_gabaa_pam", "gray_and_whalley_2020_gpr55_and_cbd_anticonvulsant_mechanism", "named_models_or_frameworks", "scn1a_mouse_model_of_dravet_syndrome", "maximal_electroshock_mes_threshold_test", "6_hz_psychomotor_seizure_threshold_test", "pathhunter_arrestin_gpcr_screen_eurofins_discoverx", "brain_regions", "not_applicable_see_above", "keywords", "cannabigerolic_acid_cbga", "phytocannabinoid_acids"]
 ---
 
 ### One-line summary

@@ -1,11 +1,18 @@
 ---
-source_file: kaefer2020_mpfc_replay_ruleswitching.md
+source_file: "kaefer2020_mpfc_replay_ruleswitching.md"
+paper_id: "kaefer2020_mpfc_replay_ruleswitching"
 title: "Replay of Behavioral Sequences in the Medial Prefrontal Cortex during Rule Switching"
-authors: Karola Kaefer, Michele Nardin, Karel Blahna, Jozsef Csicsvari
+authors: "Karola Kaefer, Michele Nardin, Karel Blahna, Jozsef Csicsvari"
 year: 2020
-journal: Neuron
-paper_type: empirical
-contribution_type: empirical
+journal: "Neuron"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "bayesian_inference"]
+keywords: ["replay", "behavioral", "sequences", "medial", "prefrontal", "cortex", "during", "rule", "switching"]
+key_citations: ["jadhav2016_hippocampal_prefrontal_swr", "davidson2009_hippocampal_replay_extended", "singer2013_hippocampal_swr_decisions", "fujisawa2008_assembly_prefrontal_cortex", "hok2005_goal_coding_prefrontal"]
 ---
 
 ### One-line summary

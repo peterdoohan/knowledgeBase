@@ -1,11 +1,19 @@
 ---
-source_file: velasco2025_decision_precaching_planning.md
-title: Expert navigators deploy rational complexity–based decision precaching for large-scale real-world planning
-authors: Pablo Fernandez Velasco, Eva-Maria Griesbauer, Iva K. Brunec, Jeremy Morley, Ed Manley, Daniel C. McNamee, Hugo J. Spiers
+source_file: "velasco2025_decision_precaching_planning.md"
+paper_id: "velasco2025_decision_precaching_planning"
+title: "Expert navigators deploy rational complexity\u2013based decision precaching for large-scale real-world planning"
+authors: "Pablo Fernandez Velasco, Eva-Maria Griesbauer, Iva K. Brunec, Jeremy Morley, Ed Manley, Daniel C. McNamee, Hugo J. Spiers"
 year: 2025
-journal: Proceedings of the National Academy of Sciences (PNAS)
-paper_type: empirical
-contribution_type: empirical
+journal: "Proceedings of the National Academy of Sciences (PNAS)"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["navigation_task"]
+methods: ["computational_modeling", "behavioral_analysis"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "prefrontal_cortex"]
+frameworks: ["reinforcement_learning", "successor_representation", "hierarchical_rl"]
+keywords: ["expert", "navigators", "deploy", "rational", "complexitybased", "decision", "precaching", "large", "scale", "real"]
+key_citations: ["dayan1993_successor_representation", "botvinick2012_planning_inference", "botvinick2009_hierarchically_organized_behavior"]
 ---
 
 ### One-line summary

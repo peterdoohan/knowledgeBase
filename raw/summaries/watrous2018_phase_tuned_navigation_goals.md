@@ -1,11 +1,17 @@
 ---
-source_file: watrous2018_phase_tuned_navigation_goals.md
-title: Phase-tuned neuronal firing encodes human contextual representations for navigational goals
-authors: Andrew J Watrous, Jonathan Miller, Salman E Qasim, Itzhak Fried, Joshua Jacobs
+source_file: "watrous2018_phase_tuned_navigation_goals.md"
+paper_id: "watrous2018_phase_tuned_navigation_goals"
+title: "Phase-tuned neuronal firing encodes human contextual representations for navigational goals"
+authors: "Andrew J Watrous, Jonathan Miller, Salman E Qasim, Itzhak Fried, Joshua Jacobs"
 year: 2018
-journal: eLife
-paper_type: empirical
-contribution_type: empirical
+journal: "eLife"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["human"]
+tasks: ["navigation_task"]
+brain_regions: ["hippocampus", "entorhinal_cortex", "orbitofrontal_cortex", "amygdala", "medial_temporal_lobe"]
+keywords: ["phase", "tuned", "neuronal", "firing", "encodes", "human", "contextual", "representations", "navigational", "goals"]
+key_citations: ["ekstrom2003_spatial_navigation"]
 ---
 
 ### One-line summary

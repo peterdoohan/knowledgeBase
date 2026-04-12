@@ -1,11 +1,13 @@
 ---
-source_file: devinsky2018_cannabidiol_dravet_syndrome.md
+source_file: "devinsky2018_cannabidiol_dravet_syndrome.md"
+paper_id: "devinsky2018_cannabidiol_dravet_syndrome"
 title: "Long-term cannabidiol treatment in patients with Dravet syndrome: An open label extension trial"
-authors: Orrin Devinsky, Rima Nabbout, Ian Miller, Linda Laux, Marta Zolnowska, Stephen Wright, Claire Roberts
+authors: "Orrin Devinsky, Rima Nabbout, Ian Miller, Linda Laux, Marta Zolnowska, Stephen Wright, Claire Roberts"
 year: 2018
-journal: Epilepsia
-paper_type: empirical
-contribution_type: empirical
+journal: "Epilepsia"
+paper_type: "empirical"
+contribution_type: "empirical"
+keywords: ["cannabidiol", "dravet_syndrome", "scn1a", "treatment_resistant_epilepsy", "open_label_extension", "antiepileptic_drug", "long_term_safety", "seizure_frequency", "convulsive_seizures", "valproic_acid_interaction", "liver_enzyme_elevation", "sudep", "long", "term", "treatment", "patients", "dravet", "syndrome", "open", "label"]
 ---
 
 ### One-line summary

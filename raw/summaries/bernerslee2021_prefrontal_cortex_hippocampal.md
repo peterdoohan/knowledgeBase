@@ -1,11 +1,18 @@
 ---
-source_file: bernerslee2021_prefrontal_cortex_hippocampal.md
+source_file: "bernerslee2021_prefrontal_cortex_hippocampal.md"
+paper_id: "bernerslee2021_prefrontal_cortex_hippocampal"
 title: "Prefrontal Cortical Neurons Are Selective for Non-Local Hippocampal Representations during Replay and Behavior"
-authors: Alice Berners-Lee, Xiaojing Wu, David J. Foster
+authors: "Alice Berners-Lee, Xiaojing Wu, David J. Foster"
 year: 2021
-journal: The Journal of Neuroscience
-paper_type: empirical
-contribution_type: empirical
+journal: "The Journal of Neuroscience"
+paper_type: "empirical"
+contribution_type: "empirical"
+species: ["rat"]
+tasks: ["y_maze"]
+methods: ["tetrode_recording", "bayesian_decoding"]
+brain_regions: ["hippocampus", "hippocampus_ca1", "prefrontal_cortex", "medial_prefrontal_cortex"]
+keywords: ["prefrontal", "cortical", "neurons", "selective", "non", "local", "hippocampal", "representations", "during", "replay"]
+key_citations: ["jadhav2016_hippocampal_prefrontal_swr", "davidson2009_hippocampal_replay_extended", "shin2019_hippocampal_prefrontal_replay_b", "wikenheiser2015_theta_sequences_goals"]
 ---
 
 ### One-line summary

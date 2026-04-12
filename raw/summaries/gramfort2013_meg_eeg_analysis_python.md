@@ -1,11 +1,15 @@
 ---
-source_file: gramfort2013_meg_eeg_analysis_python.md
-title: MEG and EEG data analysis with MNE-Python
-authors: Alexandre Gramfort, Martin Luessi, Eric Larson, Denis A. Engemann, Daniel Strohmeier, Christian Brodbeck, Roman Goj, Mainak Jas, Teon Brooks, Lauri Parkkonen, Matti Hämäläinen
+source_file: "gramfort2013_meg_eeg_analysis_python.md"
+paper_id: "gramfort2013_meg_eeg_analysis_python"
+title: "MEG and EEG data analysis with MNE-Python"
+authors: "Alexandre Gramfort, Martin Luessi, Eric Larson, Denis A. Engemann, Daniel Strohmeier, Christian Brodbeck, Roman Goj, Mainak Jas, Teon Brooks, Lauri Parkkonen, Matti H\u00e4m\u00e4l\u00e4inen"
 year: 2013
-journal: Frontiers in Neuroscience
-paper_type: computational
-contribution_type: methodological
+journal: "Frontiers in Neuroscience"
+paper_type: "computational"
+contribution_type: "methodological"
+brain_regions: ["visual_cortex"]
+frameworks: ["bayesian_inference"]
+keywords: ["meg", "eeg", "data", "analysis", "mne", "python"]
 ---
 
 ### One-line summary

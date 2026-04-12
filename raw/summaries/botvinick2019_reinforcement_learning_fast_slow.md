@@ -1,11 +1,17 @@
 ---
-source_file: botvinick2019_reinforcement_learning_fast_slow.md
+source_file: "botvinick2019_reinforcement_learning_fast_slow.md"
+paper_id: "botvinick2019_reinforcement_learning_fast_slow"
 title: "Reinforcement Learning, Fast and Slow"
-authors: Matthew Botvinick, Sam Ritter, Jane X. Wang, Zeb Kurth-Nelson, Charles Blundell, Demis Hassabis
+authors: "Matthew Botvinick, Sam Ritter, Jane X. Wang, Zeb Kurth-Nelson, Charles Blundell, Demis Hassabis"
 year: 2019
-journal: Trends in Cognitive Sciences
-paper_type: review
-contribution_type: theoretical
+journal: "Trends in Cognitive Sciences"
+paper_type: "review"
+contribution_type: "theoretical"
+species: ["human"]
+brain_regions: ["hippocampus", "prefrontal_cortex", "dorsolateral_prefrontal_cortex", "striatum", "ventral_striatum"]
+frameworks: ["reinforcement_learning"]
+keywords: ["reinforcement", "learning", "fast", "slow"]
+key_citations: ["daw2011_model_based_striatal_prediction"]
 ---
 
 ### One-line summary
