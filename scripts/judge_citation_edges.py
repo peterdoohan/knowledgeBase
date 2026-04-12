@@ -4,9 +4,12 @@
 from __future__ import annotations
 
 import argparse
+import concurrent.futures
 import json
-import subprocess
+import os
 import sys
+import urllib.error
+import urllib.request
 from collections import OrderedDict
 from datetime import datetime, timezone
 from pathlib import Path
@@ -17,6 +20,7 @@ from normalize_summaries import DERIVED_DIR, PAPER_INDEX_PATH, parse_simple_yaml
 
 CITATION_CANDIDATES_PATH = DERIVED_DIR / "citation_candidates.yaml"
 JUDGMENTS_PATH = DERIVED_DIR / "citation_judgments.jsonl"
+DOTENV_PATH = DERIVED_DIR.parent / ".env"
 PROMPT_VERSION = "citation-judge-v1"
 JUDGE_SCHEMA = {
     "type": "object",
@@ -35,9 +39,14 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--provider",
-        choices=("claude",),
-        default="claude",
+        choices=("anthropic_api", "claude"),
+        default="anthropic_api",
         help="Judge backend to use.",
+    )
+    parser.add_argument(
+        "--model",
+        default="claude-opus-4-6",
+        help="Judge model name. For Anthropic API, defaults to Claude Opus 4.6.",
     )
     parser.add_argument(
         "--candidate-id",
@@ -50,6 +59,12 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=None,
         help="Limit the number of candidates judged in this run.",
+    )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=4,
+        help="Number of concurrent judge requests to run.",
     )
     parser.add_argument(
         "--force",
@@ -73,6 +88,20 @@ def append_jsonl(path: Path, record: Dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a") as handle:
         handle.write(json.dumps(record, sort_keys=True) + "\n")
+
+
+def load_dotenv(path: Path) -> None:
+    if not path.exists():
+        return
+    for raw_line in path.read_text().splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
 
 
 def load_paper_index() -> Dict[str, Dict[str, Any]]:
@@ -135,7 +164,18 @@ def build_prompt(candidate: Dict[str, Any], paper_index: Dict[str, Dict[str, Any
     )
 
 
+def parse_json_text(text: str) -> Dict[str, Any]:
+    cleaned = text.strip()
+    if cleaned.startswith("```"):
+        cleaned = cleaned.strip("`")
+        if cleaned.startswith("json"):
+            cleaned = cleaned[4:].strip()
+    return json.loads(cleaned)
+
+
 def run_claude(prompt: str) -> Dict[str, Any]:
+    import subprocess
+
     cmd = [
         "claude",
         "-p",
@@ -157,8 +197,79 @@ def run_claude(prompt: str) -> Dict[str, Any]:
     return json.loads(output)
 
 
+def run_anthropic_api(prompt: str, model: str) -> Dict[str, Any]:
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("ANTHROPIC_API_KEY is not set")
+
+    payload = {
+        "model": model,
+        "max_tokens": 256,
+        "temperature": 0,
+        "messages": [
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+    }
+    request = urllib.request.Request(
+        url="https://api.anthropic.com/v1/messages",
+        data=json.dumps(payload).encode("utf-8"),
+        headers={
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=120) as response:
+            body = response.read().decode("utf-8")
+    except urllib.error.HTTPError as exc:
+        error_body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"anthropic api error {exc.code}: {error_body}") from exc
+    except urllib.error.URLError as exc:
+        raise RuntimeError(f"anthropic api request failed: {exc}") from exc
+
+    parsed = json.loads(body)
+    parts = parsed.get("content", []) or []
+    text_chunks = [part.get("text", "") for part in parts if part.get("type") == "text"]
+    text = "\n".join(chunk for chunk in text_chunks if chunk).strip()
+    if not text:
+        raise RuntimeError("anthropic api returned no text content")
+    return parse_json_text(text)
+
+
+def judge_candidate(
+    candidate: Dict[str, Any],
+    paper_index: Dict[str, Dict[str, Any]],
+    provider: str,
+    model: str,
+) -> OrderedDict[str, Any]:
+    prompt = build_prompt(candidate, paper_index)
+    if provider == "anthropic_api":
+        result = run_anthropic_api(prompt, model)
+    else:
+        result = run_claude(prompt)
+    return OrderedDict(
+        [
+            ("candidate_id", candidate["candidate_id"]),
+            ("judged_at", datetime.now(timezone.utc).isoformat()),
+            ("provider", provider),
+            ("model", model),
+            ("prompt_version", PROMPT_VERSION),
+            ("accept", bool(result["accept"])),
+            ("best_target", result["best_target"]),
+            ("confidence", int(result["confidence"])),
+            ("reason_short", str(result["reason_short"]).strip()),
+        ]
+    )
+
+
 def main() -> int:
     args = parse_args()
+    load_dotenv(DOTENV_PATH)
     paper_index = load_paper_index()
     candidates = load_candidates()
     existing = {record["candidate_id"]: record for record in load_jsonl(JUDGMENTS_PATH)}
@@ -181,29 +292,36 @@ def main() -> int:
         print("No citation candidates require judgment.")
         return 0
 
+    max_workers = max(1, args.max_workers)
     judged = 0
-    for candidate in pending:
-        prompt = build_prompt(candidate, paper_index)
-        result = run_claude(prompt)
-        record = OrderedDict(
-            [
-                ("candidate_id", candidate["candidate_id"]),
-                ("judged_at", datetime.now(timezone.utc).isoformat()),
-                ("provider", args.provider),
-                ("prompt_version", PROMPT_VERSION),
-                ("accept", bool(result["accept"])),
-                ("best_target", result["best_target"]),
-                ("confidence", int(result["confidence"])),
-                ("reason_short", str(result["reason_short"]).strip()),
-            ]
-        )
-        append_jsonl(JUDGMENTS_PATH, record)
-        judged += 1
-        print(
-            f"[{judged}/{len(pending)}] {candidate['candidate_id']} "
-            f"accept={record['accept']} target={record['best_target']} conf={record['confidence']}"
-        )
-        sys.stdout.flush()
+    failed = 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {
+            executor.submit(judge_candidate, candidate, paper_index, args.provider, args.model): candidate
+            for candidate in pending
+        }
+        for future in concurrent.futures.as_completed(futures):
+            candidate = futures[future]
+            try:
+                record = future.result()
+            except Exception as exc:
+                failed += 1
+                print(
+                    f"[{judged + failed}/{len(pending)}] {candidate['candidate_id']} error={exc}",
+                    file=sys.stderr,
+                )
+                sys.stderr.flush()
+                continue
+
+            append_jsonl(JUDGMENTS_PATH, record)
+            judged += 1
+            print(
+                f"[{judged + failed}/{len(pending)}] {candidate['candidate_id']} "
+                f"accept={record['accept']} target={record['best_target']} conf={record['confidence']}"
+            )
+            sys.stdout.flush()
+
+    print(f"Completed judgments: {judged} succeeded, {failed} failed.")
 
     return 0
 
