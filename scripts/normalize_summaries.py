@@ -234,7 +234,7 @@ def parse_simple_yaml(text: str) -> Any:
         if index >= len(lines):
             return OrderedDict(), index
         stripped = lines[index].strip()
-        if stripped.startswith("- "):
+        if stripped == "-" or stripped.startswith("- "):
             items: List[Any] = []
             while index < len(lines):
                 index = nonempty(index)
@@ -242,9 +242,12 @@ def parse_simple_yaml(text: str) -> Any:
                     break
                 line = lines[index]
                 current_indent = line_indent(line)
-                if current_indent != indent or not line.strip().startswith("- "):
+                if current_indent != indent:
                     break
-                content = line.strip()[2:].strip()
+                stripped_line = line.strip()
+                if stripped_line != "-" and not stripped_line.startswith("- "):
+                    break
+                content = stripped_line[1:].strip()
                 index += 1
                 if content:
                     items.append(parse_inline_value(content))
@@ -260,7 +263,8 @@ def parse_simple_yaml(text: str) -> Any:
                 break
             line = lines[index]
             current_indent = line_indent(line)
-            if current_indent != indent or line.strip().startswith("- "):
+            stripped_line = line.strip()
+            if current_indent != indent or stripped_line == "-" or stripped_line.startswith("- "):
                 break
             match = re.match(r"^\s*([^:]+):\s*(.*)$", line)
             if not match:
