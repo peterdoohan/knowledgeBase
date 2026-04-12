@@ -1,0 +1,1616 @@
+generated_at: "2026-04-12T15:05:35.222435+00:00"
+parent_topic_count: 5
+subtopic_count: 21
+parent_topics:
+  -
+    topic_id: cognitive_maps
+    label: "Cognitive Maps"
+    support_count: 100
+    subtopic_count: 5
+    orphan_papers: []
+    target_cluster_count: 6
+  -
+    topic_id: schemas_and_generalization
+    label: "Schemas and Generalization"
+    support_count: 84
+    subtopic_count: 3
+    orphan_papers: []
+    target_cluster_count: 5
+  -
+    topic_id: hippocampal_replay
+    label: "Hippocampal Replay"
+    support_count: 71
+    subtopic_count: 5
+    orphan_papers: []
+    target_cluster_count: 5
+  -
+    topic_id: grid_cells_and_path_integration
+    label: "Grid Cells and Path Integration"
+    support_count: 66
+    subtopic_count: 4
+    orphan_papers: []
+    target_cluster_count: 4
+  -
+    topic_id: predictive_maps_and_successor_representation
+    label: "Predictive Maps and Successor Representation"
+    support_count: 58
+    subtopic_count: 4
+    orphan_papers: []
+    target_cluster_count: 4
+subtopics:
+  -
+    subtopic_id: cognitive_maps__01
+    parent_topic_id: cognitive_maps
+    parent_label: "Cognitive Maps"
+    provisional_label: "Cognitive Maps: place cells, grid cells, entorhinal cortex"
+    candidate_papers:
+      - boccara2019_grid_goal_attractor
+      - butler2019_reward_locations_entorhinal_maps
+      - decothi2022_predictive_spatial_navigation
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - duvelle2023_temporal_hippocampal_inference
+      - ekstrom2003_spatial_navigation
+      - epstein2017_cognitive_maps_humans
+      - epsztein2022_mental_replays_navigation
+      - fiete2008_grid_cells_position
+      - hartley2003_wayfinding_route
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - ito2018_prefrontal_hippocampal_navigation
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kim2026_hippocampus_smallworld
+      - kurth2023_replay_compositional_computation
+      - kurth_nelson2016_sequences_non_spatial
+      - long2024_border_cells_prefrontal
+      - mcnaughton2022_route_cognitive_map
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - redish2016_vicarious_trial_error_b
+      - russek2017_model_based_reinforcement
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - shamash2021_mice_multi_step_routes
+      - spiers2008_prefrontal_goal_navigation
+      - spiers2015_detour_problem_navigation
+      - stachenfeld2017_hippocampus_predictive_map
+      - stoianov2020_hierarchical_generative_model
+      - tacikowski2024_temporal_structure_hippocampal
+      - tang2024_learning_grid_cells_predictive
+      - taylor2024_generalization_transfer_memory
+      - watrous2018_phase_tuned_navigation_goals
+      - wen2024_entorhinal_maps_navigation_b
+      - whittington2019_bayesian_learning_brain
+      - whittington2022_cognitive_map_b
+      - widloski2022_hippocampal_replay_barriers
+      - wijnen2024_maze_learning
+      - wikenheiser2015_theta_sequences_goals
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - yu2015_hippocampal_cortical_interaction
+    anchor_papers:
+      - stachenfeld2017_hippocampus_predictive_map
+      - widloski2022_hippocampal_replay_barriers
+      - ekstrom2003_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+      - hok2005_goal_coding_prefrontal
+    core_papers:
+      - boccara2019_grid_goal_attractor
+      - butler2019_reward_locations_entorhinal_maps
+      - decothi2022_predictive_spatial_navigation
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - duvelle2023_temporal_hippocampal_inference
+      - ekstrom2003_spatial_navigation
+      - epstein2017_cognitive_maps_humans
+    supporting_papers:
+      - epsztein2022_mental_replays_navigation
+      - fiete2008_grid_cells_position
+      - hartley2003_wayfinding_route
+      - hok2005_goal_coding_prefrontal
+      - hok2013_prefrontal_place_cells
+      - ito2018_prefrontal_hippocampal_navigation
+      - jensen2024_recurrent_planning_hippocampal_replay
+    source_signals:
+      support_count: 43
+      internal_citation_edges: 19
+      average_pair_weight: 1.96
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - model_free_rl
+        - model_based_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - hippocampus_ca1
+        - striatum
+        - medial_prefrontal_cortex
+      tasks:
+        - virtual_navigation
+        - foraging_task
+        - navigation_task
+        - open_field
+        - detour_task
+        - t_maze
+      keywords:
+        - place_cells
+        - grid_cells
+        - entorhinal_cortex
+        - spatial_memory
+        - successor_representation
+        - replay
+    rationale: "Sub-cluster inside Cognitive Maps with 43 papers and 19 internal citation edges."
+  -
+    subtopic_id: cognitive_maps__02
+    parent_topic_id: cognitive_maps
+    parent_label: "Cognitive Maps"
+    provisional_label: "Cognitive Maps: grid cells, place cells, entorhinal cortex"
+    candidate_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - behrens2018_cognitive_map_organizing_knowledge
+      - bush2015_grid_cells_navigation_vector
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - fyhn2007_remapping_grid_realignment
+      - garvert2017_relational_knowledge_maps
+      - iyer2024_grid_cells_abstract_velocity
+      - kaplan2018_active_inference_navigation
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - liu2019_human_replay_reorganizes
+      - manns2009_cognitive_map_object_memory
+      - martinet2011_spatial_learning_action_planning
+      - mattar2022_planning_brain
+      - moser2008_place_cells_grid_cells
+      - neupane2022_mental_navigation_entorhinal
+      - nour2021_impaired_replay_schizophrenia
+      - nyberg2022_spatial_goal_coding
+      - ormond2022_goal_oriented_vector_fields
+      - peng2023_grid_cells_path_integration
+      - pettersen2024_self_supervised_grid_cells
+      - pfeiffer2017_hippocampal_replay_memory
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - raju2022_space_sequence
+      - samborska2021_hippocampus_prefrontal_gen
+      - schaeffer2022_no_free_lunch_deep_learning_neuroscience
+      - schaeffer_grid_cell_pathintegration
+      - sorscher2022_grid_cells_path_integration
+      - sorscher2023_grid_cells_unified_theory
+      - stella2019_hippocampal_reactivation_brownian
+      - tsitsiklis2020_spatial_targets_navigation
+      - velasco2025_decision_precaching_planning
+      - veselic2025_cognitive_map_value_vmPFC
+      - vollan2024_theta_sweeps_entorhinal
+      - vollan2025_left_right_theta_sweeps
+      - whitlock2012_functional_parietal_entorhinal
+    anchor_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - fyhn2007_remapping_grid_realignment
+      - liu2019_human_replay_reorganizes
+      - sorscher2022_grid_cells_path_integration
+      - nour2021_impaired_replay_schizophrenia
+    core_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - behrens2018_cognitive_map_organizing_knowledge
+      - bush2015_grid_cells_navigation_vector
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - fyhn2007_remapping_grid_realignment
+      - garvert2017_relational_knowledge_maps
+      - iyer2024_grid_cells_abstract_velocity
+    supporting_papers:
+      - kaplan2018_active_inference_navigation
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - liu2019_human_replay_reorganizes
+      - manns2009_cognitive_map_object_memory
+      - martinet2011_spatial_learning_action_planning
+      - mattar2022_planning_brain
+    source_signals:
+      support_count: 38
+      internal_citation_edges: 24
+      average_pair_weight: 2.66
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - successor_representation
+        - model_based_rl
+        - hierarchical_rl
+        - model_free_rl
+      brain_regions:
+        - hippocampus
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - prefrontal_cortex
+        - hippocampus_ca1
+        - hippocampus_ca3
+      tasks:
+        - foraging_task
+        - open_field
+        - detour_task
+        - linear_track
+        - hexmaze
+        - morris_water_maze
+      keywords:
+        - grid_cells
+        - place_cells
+        - entorhinal_cortex
+        - path_integration
+        - grid
+        - hippocampal_replay
+    rationale: "Sub-cluster inside Cognitive Maps with 38 papers and 24 internal citation edges."
+  -
+    subtopic_id: cognitive_maps__03
+    parent_topic_id: cognitive_maps
+    parent_label: "Cognitive Maps"
+    provisional_label: "Cognitive Maps: grid cells, path integration, place cells"
+    candidate_papers:
+      - baram2024_abstract_relational_map_consolidation
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - farzanfar2023_cognitive_maps_spatial
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_nature
+      - whittington2022_disentangling_biological
+      - whittington2023_disentanglement_constraints
+      - wientjes2024_successor_representation
+      - wood2018_honeycomb_maze_spatial
+    anchor_papers:
+      - whittington2020_tolman_eichenbaum_machine
+      - baram2024_abstract_relational_map_consolidation
+      - whittington2022_cognitive_map_nature
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - whittington2023_disentanglement_constraints
+    core_papers:
+      - baram2024_abstract_relational_map_consolidation
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - farzanfar2023_cognitive_maps_spatial
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_nature
+      - whittington2022_disentangling_biological
+      - whittington2023_disentanglement_constraints
+    supporting_papers:
+      - wientjes2024_successor_representation
+      - wood2018_honeycomb_maze_spatial
+    source_signals:
+      support_count: 10
+      internal_citation_edges: 3
+      average_pair_weight: 2.61
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - tolman_eichenbaum_machine
+        - successor_representation
+        - reinforcement_learning
+        - attractor_networks
+        - bayesian_inference
+        - model_free_rl
+      brain_regions:
+        - entorhinal_cortex
+        - hippocampus
+        - prefrontal_cortex
+        - medial_entorhinal_cortex
+        - medial_prefrontal_cortex
+        - hippocampus_ca1
+      tasks:
+        - navigation_task
+        - hexmaze
+        - virtual_navigation
+        - morris_water_maze
+      keywords:
+        - grid_cells
+        - path_integration
+        - place_cells
+        - map
+        - successor_representation
+        - cognitive
+    rationale: "Sub-cluster inside Cognitive Maps with 10 papers and 3 internal citation edges."
+  -
+    subtopic_id: cognitive_maps__04
+    parent_topic_id: cognitive_maps
+    parent_label: "Cognitive Maps"
+    provisional_label: "Cognitive Maps: entorhinal cortex, grid cells, continuous attractor networks"
+    candidate_papers:
+      - baram2021_entorhinal_ventromedial_rl
+      - piray2025_compositional_cognitive_map
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whittington2024_build_cognitive_map
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - baram2021_entorhinal_ventromedial_rl
+      - yu2025_theta_sweeps_goal_direction
+      - whittington2024_build_cognitive_map
+      - piray2025_compositional_cognitive_map
+      - wen2024_entorhinal_maps_flexible_navigation
+    core_papers:
+      - baram2021_entorhinal_ventromedial_rl
+      - piray2025_compositional_cognitive_map
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whittington2024_build_cognitive_map
+      - yu2025_theta_sweeps_goal_direction
+    supporting_papers: []
+    source_signals:
+      support_count: 5
+      internal_citation_edges: 0
+      average_pair_weight: 6.28
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - tolman_eichenbaum_machine
+        - successor_representation
+        - compositionality
+        - model_based_rl
+      brain_regions:
+        - hippocampus
+        - entorhinal_cortex
+        - prefrontal_cortex
+        - medial_prefrontal_cortex
+        - medial_entorhinal_cortex
+        - striatum
+      tasks:
+        - navigation_task
+        - open_field
+      keywords:
+        - entorhinal_cortex
+        - grid_cells
+        - continuous_attractor_networks
+        - credit_assignment
+        - entorhinal
+        - compositionality
+    rationale: "Sub-cluster inside Cognitive Maps with 5 papers and 0 internal citation edges."
+  -
+    subtopic_id: cognitive_maps__05
+    parent_topic_id: cognitive_maps
+    parent_label: "Cognitive Maps"
+    provisional_label: "Cognitive Maps: replay, grid cells, place cells"
+    candidate_papers:
+      - elgaby2023_behavioral_structure_mapping
+      - kurth_nelson2023_replay_compositional_b
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    anchor_papers:
+      - kurth_nelson2023_replay_compositional_b
+      - whittington2022_cognitive_map_review
+      - elgaby2023_behavioral_structure_mapping
+      - whittington2022_cognitive_maps_learning
+    core_papers:
+      - elgaby2023_behavioral_structure_mapping
+      - kurth_nelson2023_replay_compositional_b
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    supporting_papers: []
+    source_signals:
+      support_count: 4
+      internal_citation_edges: 0
+      average_pair_weight: 6.67
+      target_cluster_count: 6
+    top_terms:
+      frameworks:
+        - tolman_eichenbaum_machine
+        - attractor_networks
+        - reinforcement_learning
+        - model_based_rl
+        - successor_representation
+        - compositionality
+      brain_regions:
+        - hippocampus
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - prefrontal_cortex
+        - lateral_entorhinal_cortex
+        - medial_prefrontal_cortex
+      tasks:
+        - t_maze
+        - hidden_graph_task
+      keywords:
+        - replay
+        - grid_cells
+        - place_cells
+        - successor_representation
+        - path_integration
+        - generalization
+    rationale: "Sub-cluster inside Cognitive Maps with 4 papers and 0 internal citation edges."
+  -
+    subtopic_id: schemas_and_generalization__01
+    parent_topic_id: schemas_and_generalization
+    parent_label: "Schemas and Generalization"
+    provisional_label: "Schemas and Generalization: place cells, successor representation, hippocampal replay"
+    candidate_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - bein2024_schemas_reinforcement_learning_pfc
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - brunec2022_predictive_representations_hierarchies
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - decothi2022_predictive_spatial_navigation
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - epstein2017_cognitive_maps_humans
+      - farzanfar2023_cognitive_maps_spatial
+      - fujisawa2022_replays_social_information
+      - garvert2017_relational_knowledge_maps
+      - gershman2018_successor_representation_learning
+      - gillespie2021_replay_past_experiences
+      - girardeau2009_ripples_spatial_memory
+      - gridchyn2020_replay_selective_memory
+      - hartley2003_wayfinding_route
+      - ito2018_prefrontal_hippocampal_navigation
+      - kim2026_hippocampus_smallworld
+      - kleinflugge2022_medial_orbital_frontal
+      - knudsen2021_hippocampal_value_place
+      - kurth_nelson2023_replay_compositional_b
+      - liu2019_human_replay_reorganizes
+      - mattar2022_planning_brain
+      - mckenzie2022_hippocampal_replay
+      - momennejad2017_successor_representation_humans
+      - momennejad2020_successor_representations_replay
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - mugan_redish2024_environmental_complexity_decision
+      - muhlekarbe2023_goal_seeking_spatial_compression
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - nyberg2022_spatial_goal_coding
+      - odoherty2017_learning_reward_decision
+      - patai2021_prefrontal_spatial_navigation
+      - pfeiffer2017_hippocampal_replay_memory
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - raju2022_space_sequence
+      - redish2016_vicarious_trial_error_b
+      - russek2017_model_based_reinforcement
+      - sagiv_experience_replay_prioritization
+      - samborska2021_hippocampus_prefrontal_gen
+      - samborska2021_hippocampus_prefrontal_gen_b
+      - schmidt2021_mpfc_swr_dreadd
+      - schuck2016_orbitofrontal_cortex_state
+      - schuck2019_hippocampal_replay_nonspatial
+      - singer2009_reward_reactivation_hippocampus
+      - spiers2015_detour_problem_navigation
+      - stachenfeld2017_hippocampus_predictive_map
+      - stoianov2020_hierarchical_generative_model
+      - taylor2024_generalization_transfer_memory
+      - velasco2025_decision_precaching_planning
+      - veselic2025_cognitive_map_value_vmPFC
+      - whittington2019_bayesian_learning_brain
+      - wientjes2024_successor_representation
+      - wilson2013_ofc_cognitive_map
+    anchor_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - stachenfeld2017_hippocampus_predictive_map
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - wilson2013_ofc_cognitive_map
+      - russek2017_model_based_reinforcement
+    core_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - bein2024_schemas_reinforcement_learning_pfc
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - brunec2022_predictive_representations_hierarchies
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - comrie2024_hippocampal_representations
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - decothi2022_predictive_spatial_navigation
+    supporting_papers:
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - epstein2017_cognitive_maps_humans
+      - farzanfar2023_cognitive_maps_spatial
+      - fujisawa2022_replays_social_information
+      - garvert2017_relational_knowledge_maps
+      - gershman2018_successor_representation_learning
+    source_signals:
+      support_count: 58
+      internal_citation_edges: 59
+      average_pair_weight: 2.28
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - model_based_rl
+        - model_free_rl
+        - tolman_eichenbaum_machine
+        - attractor_networks
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - striatum
+        - orbitofrontal_cortex
+        - hippocampus_ca1
+      tasks:
+        - virtual_navigation
+        - foraging_task
+        - detour_task
+        - open_field
+        - navigation_task
+        - t_maze
+      keywords:
+        - place_cells
+        - successor_representation
+        - hippocampal_replay
+        - replay
+        - grid_cells
+        - memory_consolidation
+    rationale: "Sub-cluster inside Schemas and Generalization with 58 papers and 59 internal citation edges."
+  -
+    subtopic_id: schemas_and_generalization__02
+    parent_topic_id: schemas_and_generalization
+    parent_label: "Schemas and Generalization"
+    provisional_label: "Schemas and Generalization: place cells, replay, hippocampal replay"
+    candidate_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - baram2021_entorhinal_ventromedial_rl
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - duvelle2023_temporal_hippocampal_inference
+      - elgaby2023_behavioral_structure_mapping
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - gupta2010_replay_not_simple_function
+      - kurth2023_replay_compositional_computation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2025_compositional_cognitive_map
+      - tacikowski2024_temporal_structure_hippocampal
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_b
+      - widloski2022_hippocampal_replay_barriers
+      - wijnen2024_maze_learning
+      - wikenheiser2015_theta_sequences_goals
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - whittington2020_tolman_eichenbaum_machine
+      - gupta2010_replay_not_simple_function
+      - foster2017_replay_memory_consolidation
+      - widloski2022_hippocampal_replay_barriers
+      - baram2021_entorhinal_ventromedial_rl
+    core_papers:
+      - alonso2021_hexmaze_cognitive_map
+      - baram2021_entorhinal_ventromedial_rl
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - duvelle2023_temporal_hippocampal_inference
+      - elgaby2023_behavioral_structure_mapping
+      - findlay2021_replay_wake_sleep
+      - foster2017_replay_memory_consolidation
+      - gupta2010_replay_not_simple_function
+    supporting_papers:
+      - kurth2023_replay_compositional_computation
+      - patai2021_versatile_wayfinder_prefrontal
+      - piray2025_compositional_cognitive_map
+      - tacikowski2024_temporal_structure_hippocampal
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_b
+      - widloski2022_hippocampal_replay_barriers
+    source_signals:
+      support_count: 18
+      internal_citation_edges: 12
+      average_pair_weight: 3.11
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - tolman_eichenbaum_machine
+        - attractor_networks
+        - successor_representation
+        - model_free_rl
+        - latent_state_inference
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - striatum
+        - hippocampus_ca1
+        - medial_prefrontal_cortex
+      tasks:
+        - hexmaze
+        - t_maze
+        - linear_track
+        - virtual_navigation
+        - detour_task
+        - foraging_task
+      keywords:
+        - place_cells
+        - replay
+        - hippocampal_replay
+        - sharp_wave_ripples
+        - memory_consolidation
+        - successor_representation
+    rationale: "Sub-cluster inside Schemas and Generalization with 18 papers and 12 internal citation edges."
+  -
+    subtopic_id: schemas_and_generalization__03
+    parent_topic_id: schemas_and_generalization
+    parent_label: "Schemas and Generalization"
+    provisional_label: "Schemas and Generalization: successor representation, place cells, grid cells"
+    candidate_papers:
+      - akam2021_dopamine_model_based_rl
+      - baram2024_abstract_relational_map_consolidation
+      - barron2020_neuronal_computation_inferential
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+      - whittington2024_build_cognitive_map
+      - wikenheiser2016_cognitive_maps_hippocampus
+    anchor_papers:
+      - wikenheiser2016_cognitive_maps_hippocampus
+      - barron2020_neuronal_computation_inferential
+      - whittington2024_build_cognitive_map
+      - whittington2022_cognitive_map_review
+      - baram2024_abstract_relational_map_consolidation
+    core_papers:
+      - akam2021_dopamine_model_based_rl
+      - baram2024_abstract_relational_map_consolidation
+      - barron2020_neuronal_computation_inferential
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+      - whittington2024_build_cognitive_map
+      - wikenheiser2016_cognitive_maps_hippocampus
+    supporting_papers: []
+    source_signals:
+      support_count: 8
+      internal_citation_edges: 0
+      average_pair_weight: 3.71
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - attractor_networks
+        - model_based_rl
+        - model_free_rl
+      brain_regions:
+        - prefrontal_cortex
+        - hippocampus
+        - medial_prefrontal_cortex
+        - entorhinal_cortex
+        - striatum
+        - medial_entorhinal_cortex
+      tasks:
+        - t_maze
+      keywords:
+        - successor_representation
+        - place_cells
+        - grid_cells
+        - path_integration
+        - map
+        - entorhinal_cortex
+    rationale: "Sub-cluster inside Schemas and Generalization with 8 papers and 0 internal citation edges."
+  -
+    subtopic_id: hippocampal_replay__01
+    parent_topic_id: hippocampal_replay
+    parent_label: "Hippocampal Replay"
+    provisional_label: "Hippocampal Replay: sharp wave ripples, place cells, replay"
+    candidate_papers:
+      - barron2020_neuronal_computation_inferential
+      - bein2024_schemas_reinforcement_learning_pfc
+      - bendor2012_biasing_hippocampal_replay_sleep
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - duvelle2023_temporal_hippocampal_inference
+      - eldar2020_replay_planning
+      - epsztein2022_mental_replays_navigation
+      - fernandez2019_ripples_memory_consolidation
+      - foster2017_replay_memory_consolidation
+      - fujisawa2022_replays_social_information
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - igata2021_prioritized_experience_replays
+      - jensen2024_recurrent_planning_hippocampal_replay
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+      - kurth_nelson2016_sequences_non_spatial
+      - lansink2009_hippocampus_ventral_striatum
+      - liu2023_hippocampus_amygdala_memory_formation
+      - mckenzie2022_hippocampal_replay
+      - mcnaughton2022_route_cognitive_map
+      - musa2022_shallow_cognitive_map_schizophrenia
+      - olafsdottir2015_place_cells_reward
+      - patai2021_versatile_wayfinder_prefrontal
+      - pfeiffer2015_autoassociative_hippocampal_place_cells
+      - schmidt2021_mpfc_swr_dreadd
+      - shin2019_hippocampal_prefrontal_replay
+      - shin2019_hippocampal_prefrontal_replay_b
+      - singer2009_reward_reactivation_hippocampus
+      - singer2013_hippocampal_swr_decisions
+      - tang2021_multiple_timescales_decision_making
+      - yu2015_hippocampal_cortical_interaction
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - fernandez2019_ripples_memory_consolidation
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - mckenzie2022_hippocampal_replay
+      - singer2013_hippocampal_swr_decisions
+      - foster2017_replay_memory_consolidation
+    core_papers:
+      - barron2020_neuronal_computation_inferential
+      - bein2024_schemas_reinforcement_learning_pfc
+      - bendor2012_biasing_hippocampal_replay_sleep
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - denbakker2023_sharp_wave_prefrontal_rule
+      - duvelle2023_temporal_hippocampal_inference
+      - eldar2020_replay_planning
+      - epsztein2022_mental_replays_navigation
+    supporting_papers:
+      - fernandez2019_ripples_memory_consolidation
+      - foster2017_replay_memory_consolidation
+      - fujisawa2022_replays_social_information
+      - gillespie2021_replay_past_experiences
+      - gridchyn2020_replay_selective_memory
+      - igata2021_prioritized_experience_replays
+      - jensen2024_recurrent_planning_hippocampal_replay
+    source_signals:
+      support_count: 34
+      internal_citation_edges: 15
+      average_pair_weight: 2.59
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - attractor_networks
+        - model_based_rl
+        - bayesian_inference
+        - model_free_rl
+        - hierarchical_rl
+      brain_regions:
+        - hippocampus
+        - hippocampus_ca1
+        - prefrontal_cortex
+        - hippocampus_ca3
+        - entorhinal_cortex
+        - medial_prefrontal_cortex
+      tasks:
+        - navigation_task
+        - t_maze
+        - open_field
+        - linear_track
+        - foraging_task
+        - two_step_task
+      keywords:
+        - sharp_wave_ripples
+        - place_cells
+        - replay
+        - hippocampal_replay
+        - memory_consolidation
+        - bayesian_decoding
+    rationale: "Sub-cluster inside Hippocampal Replay with 34 papers and 15 internal citation edges."
+  -
+    subtopic_id: hippocampal_replay__02
+    parent_topic_id: hippocampal_replay
+    parent_label: "Hippocampal Replay"
+    provisional_label: "Hippocampal Replay: hippocampal replay, replay, place cells"
+    candidate_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - davidson2009_hippocampal_replay_extended
+      - findlay2021_replay_wake_sleep
+      - girardeau2009_ripples_spatial_memory
+      - ito2015_prefrontal_thalamic_hippocampus
+      - ito2018_prefrontal_hippocampal_navigation
+      - knudsen2020_ofc_theta_learning
+      - kurth2023_replay_compositional_computation
+      - liu2019_human_replay_reorganizes
+      - liu2021_experience_replay_nonlocal
+      - momennejad2018_offline_replay_planning
+      - momennejad2020_successor_representations_replay
+      - nour2021_impaired_replay_schizophrenia
+      - nyberg2022_spatial_goal_coding
+      - sagiv_experience_replay_prioritization
+      - schuck2019_hippocampal_replay_nonspatial
+      - wikenheiser2016_cognitive_maps_hippocampus
+    anchor_papers:
+      - liu2019_human_replay_reorganizes
+      - ambrose2016_reverse_replay_hippocampal
+      - liu2021_experience_replay_nonlocal
+      - findlay2021_replay_wake_sleep
+      - ito2015_prefrontal_thalamic_hippocampus
+    core_papers:
+      - ambrose2016_reverse_replay_hippocampal
+      - davidson2009_hippocampal_replay_extended
+      - findlay2021_replay_wake_sleep
+      - girardeau2009_ripples_spatial_memory
+      - ito2015_prefrontal_thalamic_hippocampus
+      - ito2018_prefrontal_hippocampal_navigation
+      - knudsen2020_ofc_theta_learning
+      - kurth2023_replay_compositional_computation
+    supporting_papers:
+      - liu2019_human_replay_reorganizes
+      - liu2021_experience_replay_nonlocal
+      - momennejad2018_offline_replay_planning
+      - momennejad2020_successor_representations_replay
+      - nour2021_impaired_replay_schizophrenia
+      - nyberg2022_spatial_goal_coding
+      - sagiv_experience_replay_prioritization
+    source_signals:
+      support_count: 17
+      internal_citation_edges: 10
+      average_pair_weight: 4.09
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - reinforcement_learning
+        - model_free_rl
+        - model_based_rl
+        - temporal_difference_learning
+        - successor_representation
+        - bayesian_inference
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - hippocampus_ca1
+        - hippocampus_ca3
+        - medial_entorhinal_cortex
+      tasks:
+        - linear_track
+        - open_field
+        - t_maze
+        - foraging_task
+        - morris_water_maze
+      keywords:
+        - hippocampal_replay
+        - replay
+        - place_cells
+        - memory_consolidation
+        - experience
+        - prospective_coding
+    rationale: "Sub-cluster inside Hippocampal Replay with 17 papers and 10 internal citation edges."
+  -
+    subtopic_id: hippocampal_replay__03
+    parent_topic_id: hippocampal_replay
+    parent_label: "Hippocampal Replay"
+    provisional_label: "Hippocampal Replay: place cells, hippocampal replay, sharp wave ripples"
+    candidate_papers:
+      - gupta2010_replay_not_simple_function
+      - gupta2012_theta_sequences_experience
+      - jackson2006_hippocampal_sharp_waves_reactivation
+      - jones2005_theta_hippocampal_prefrontal
+      - kurth_nelson2023_replay_compositional_b
+      - lee2002_memory_sequential_experience
+      - liu2023_hippocampal_associative_predictive
+      - mehta2000_hippocampal_receptive_fields
+      - mou_ji2022_observational_learning_replay
+      - suh2013_impaired_ripple
+    anchor_papers:
+      - gupta2010_replay_not_simple_function
+      - gupta2012_theta_sequences_experience
+      - jackson2006_hippocampal_sharp_waves_reactivation
+      - kurth_nelson2023_replay_compositional_b
+      - lee2002_memory_sequential_experience
+    core_papers:
+      - gupta2010_replay_not_simple_function
+      - gupta2012_theta_sequences_experience
+      - jackson2006_hippocampal_sharp_waves_reactivation
+      - jones2005_theta_hippocampal_prefrontal
+      - kurth_nelson2023_replay_compositional_b
+      - lee2002_memory_sequential_experience
+      - liu2023_hippocampal_associative_predictive
+      - mehta2000_hippocampal_receptive_fields
+    supporting_papers:
+      - mou_ji2022_observational_learning_replay
+      - suh2013_impaired_ripple
+    source_signals:
+      support_count: 10
+      internal_citation_edges: 3
+      average_pair_weight: 2.58
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - model_based_rl
+        - tolman_eichenbaum_machine
+        - successor_representation
+      brain_regions:
+        - hippocampus_ca1
+        - hippocampus
+        - hippocampus_ca3
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - prefrontal_cortex
+      tasks:
+        - linear_track
+        - t_maze
+        - foraging_task
+        - hidden_graph_task
+      keywords:
+        - place_cells
+        - hippocampal_replay
+        - sharp_wave_ripples
+        - memory_consolidation
+        - replay
+        - experience
+    rationale: "Sub-cluster inside Hippocampal Replay with 10 papers and 3 internal citation edges."
+  -
+    subtopic_id: hippocampal_replay__04
+    parent_topic_id: hippocampal_replay
+    parent_label: "Hippocampal Replay"
+    provisional_label: "Hippocampal Replay: place cells, sharp wave ripples, spatial memory"
+    candidate_papers:
+      - pfeiffer2017_hippocampal_replay_memory
+      - stella2019_hippocampal_reactivation_brownian
+      - vandeven2016_hippocampal_offline_reactivation
+      - vollan2024_theta_sweeps_entorhinal
+      - vollan2025_left_right_theta_sweeps
+      - yu2018_hippocampal_cortical_memory
+      - zutshi2023_sharp_wave_ripples_entorhinal
+    anchor_papers:
+      - stella2019_hippocampal_reactivation_brownian
+      - vandeven2016_hippocampal_offline_reactivation
+      - pfeiffer2017_hippocampal_replay_memory
+      - vollan2024_theta_sweeps_entorhinal
+      - vollan2025_left_right_theta_sweeps
+    core_papers:
+      - pfeiffer2017_hippocampal_replay_memory
+      - stella2019_hippocampal_reactivation_brownian
+      - vandeven2016_hippocampal_offline_reactivation
+      - vollan2024_theta_sweeps_entorhinal
+      - vollan2025_left_right_theta_sweeps
+      - yu2018_hippocampal_cortical_memory
+      - zutshi2023_sharp_wave_ripples_entorhinal
+    supporting_papers: []
+    source_signals:
+      support_count: 7
+      internal_citation_edges: 0
+      average_pair_weight: 4.81
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+      brain_regions:
+        - hippocampus
+        - hippocampus_ca1
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - hippocampus_ca3
+        - prefrontal_cortex
+      tasks:
+        - foraging_task
+        - open_field
+        - linear_track
+        - t_maze
+      keywords:
+        - place_cells
+        - sharp_wave_ripples
+        - spatial_memory
+        - memory_consolidation
+        - theta_sequences
+        - ca1
+    rationale: "Sub-cluster inside Hippocampal Replay with 7 papers and 0 internal citation edges."
+  -
+    subtopic_id: hippocampal_replay__05
+    parent_topic_id: hippocampal_replay
+    parent_label: "Hippocampal Replay"
+    provisional_label: "Hippocampal Replay: hippocampal replay, sharp wave ripples, place cells"
+    candidate_papers:
+      - berners2022_hippocampal_replay_experience
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - widloski2022_hippocampal_replay_barriers
+    anchor_papers:
+      - widloski2022_hippocampal_replay_barriers
+      - berners2022_hippocampal_replay_experience
+      - bernerslee2021_prefrontal_cortex_hippocampal
+    core_papers:
+      - berners2022_hippocampal_replay_experience
+      - bernerslee2021_prefrontal_cortex_hippocampal
+      - widloski2022_hippocampal_replay_barriers
+    supporting_papers: []
+    source_signals:
+      support_count: 3
+      internal_citation_edges: 0
+      average_pair_weight: 4.5
+      target_cluster_count: 5
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - successor_representation
+        - tolman_eichenbaum_machine
+      brain_regions:
+        - hippocampus
+        - hippocampus_ca1
+        - prefrontal_cortex
+        - medial_prefrontal_cortex
+        - hippocampus_ca3
+        - entorhinal_cortex
+      tasks:
+        - linear_track
+        - y_maze
+      keywords:
+        - hippocampal_replay
+        - sharp_wave_ripples
+        - place_cells
+        - spatial_memory
+        - bayesian_decoding
+        - one_trial_learning
+    rationale: "Sub-cluster inside Hippocampal Replay with 3 papers and 0 internal citation edges."
+  -
+    subtopic_id: grid_cells_and_path_integration__01
+    parent_topic_id: grid_cells_and_path_integration
+    parent_label: "Grid Cells and Path Integration"
+    provisional_label: "Grid Cells and Path Integration: grid cells, entorhinal cortex, path integration"
+    candidate_papers:
+      - burak2009_path_integration_grid_cells
+      - bush2015_grid_cells_navigation_vector
+      - butler2019_reward_locations_entorhinal_maps
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - campagner2023_cortico_collicular_shelter
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+      - dorrell2025_modularity_representations_range
+      - elgaby2023_behavioral_structure_mapping
+      - epstein2017_cognitive_maps_humans
+      - fernandez2019_ripples_memory_consolidation
+      - fiete2008_grid_cells_position
+      - foster2017_replay_memory_consolidation
+      - ito2018_prefrontal_hippocampal_navigation
+      - iyer2024_grid_cells_abstract_velocity
+      - jackson2006_hippocampal_sharp_waves_reactivation
+      - jazi2023_hippocampal_path_integration_homing
+      - khona2022_attractor_integrator
+      - kleinflugge2022_medial_orbital_frontal
+      - long2024_border_cells_prefrontal
+      - manns2009_cognitive_map_object_memory
+      - moser2008_place_cells_grid_cells
+      - musa2022_shallow_cognitive_map_schizophrenia
+      - neupane2022_mental_navigation_entorhinal
+      - nyberg2022_spatial_goal_coding
+      - patai2021_versatile_wayfinder_prefrontal
+      - pettersen2024_self_supervised_grid_cells
+      - pfeiffer2017_hippocampal_replay_memory
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - piray2025_compositional_cognitive_map
+      - schaeffer2023_gridcells_spatial_rep
+      - schaeffer_grid_cell_pathintegration
+      - sorscher2022_grid_cells_path_integration
+      - stachenfeld2017_hippocampus_predictive_map
+      - stella2019_hippocampal_reactivation_brownian
+      - tang2024_learning_grid_cells_predictive
+      - tsutsui2016_dynamic_object_valuation_dlpfc
+      - vollan2025_left_right_theta_sweeps
+      - wen2024_entorhinal_maps_navigation_b
+      - whitlock2012_functional_parietal_entorhinal
+      - whittington2019_bayesian_learning_brain
+      - whittington2022_disentangling_biological
+    anchor_papers:
+      - burak2009_path_integration_grid_cells
+      - stachenfeld2017_hippocampus_predictive_map
+      - pettersen2024_self_supervised_grid_cells
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - butler2019_reward_locations_entorhinal_maps
+    core_papers:
+      - burak2009_path_integration_grid_cells
+      - bush2015_grid_cells_navigation_vector
+      - butler2019_reward_locations_entorhinal_maps
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+      - campagner2023_cortico_collicular_shelter
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - constantinescu2016_gridlike_conceptual_knowledge
+      - dorrell2022_actionable_grid_cells
+    supporting_papers:
+      - dorrell2023_actionable_grid_constraints
+      - dorrell2025_modularity_representations_range
+      - elgaby2023_behavioral_structure_mapping
+      - epstein2017_cognitive_maps_humans
+      - fernandez2019_ripples_memory_consolidation
+      - fiete2008_grid_cells_position
+      - foster2017_replay_memory_consolidation
+    source_signals:
+      support_count: 45
+      internal_citation_edges: 31
+      average_pair_weight: 2.21
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - model_free_rl
+        - mixed_selectivity
+      brain_regions:
+        - entorhinal_cortex
+        - hippocampus
+        - medial_entorhinal_cortex
+        - hippocampus_ca1
+        - prefrontal_cortex
+        - hippocampus_ca3
+      tasks:
+        - foraging_task
+        - open_field
+        - detour_task
+        - navigation_task
+        - linear_track
+        - virtual_navigation
+      keywords:
+        - grid_cells
+        - entorhinal_cortex
+        - path_integration
+        - place_cells
+        - grid
+        - cells
+    rationale: "Sub-cluster inside Grid Cells and Path Integration with 45 papers and 31 internal citation edges."
+  -
+    subtopic_id: grid_cells_and_path_integration__02
+    parent_topic_id: grid_cells_and_path_integration
+    parent_label: "Grid Cells and Path Integration"
+    provisional_label: "Grid Cells and Path Integration: grid cells, place cells, entorhinal cortex"
+    candidate_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - boccara2019_grid_goal_attractor
+      - bowler2023_cortical_inputs_hippocampal_ca1
+      - peng2023_grid_cells_path_integration
+      - schaeffer2022_no_free_lunch_deep_learning_neuroscience
+      - sorscher2023_grid_cells_unified_theory
+      - vollan2024_theta_sweeps_entorhinal
+      - wen2024_entorhinal_maps_flexible_navigation
+      - whittington2024_build_cognitive_map
+      - wood2018_honeycomb_maze_spatial
+      - yu2025_theta_sweeps_goal_direction
+    anchor_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - boccara2019_grid_goal_attractor
+      - whittington2024_build_cognitive_map
+      - bowler2023_cortical_inputs_hippocampal_ca1
+      - schaeffer2022_no_free_lunch_deep_learning_neuroscience
+    core_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - boccara2019_grid_goal_attractor
+      - bowler2023_cortical_inputs_hippocampal_ca1
+      - peng2023_grid_cells_path_integration
+      - schaeffer2022_no_free_lunch_deep_learning_neuroscience
+      - sorscher2023_grid_cells_unified_theory
+      - vollan2024_theta_sweeps_entorhinal
+      - wen2024_entorhinal_maps_flexible_navigation
+    supporting_papers:
+      - whittington2024_build_cognitive_map
+      - wood2018_honeycomb_maze_spatial
+      - yu2025_theta_sweeps_goal_direction
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 2
+      average_pair_weight: 3.19
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - successor_representation
+        - model_based_rl
+        - latent_state_inference
+        - tolman_eichenbaum_machine
+      brain_regions:
+        - entorhinal_cortex
+        - hippocampus
+        - medial_entorhinal_cortex
+        - hippocampus_ca1
+        - lateral_entorhinal_cortex
+        - prefrontal_cortex
+      tasks:
+        - open_field
+        - navigation_task
+        - linear_track
+        - foraging_task
+        - virtual_navigation
+        - t_maze
+      keywords:
+        - grid_cells
+        - place_cells
+        - entorhinal_cortex
+        - path_integration
+        - continuous_attractor_networks
+        - cognitive
+    rationale: "Sub-cluster inside Grid Cells and Path Integration with 11 papers and 2 internal citation edges."
+  -
+    subtopic_id: grid_cells_and_path_integration__03
+    parent_topic_id: grid_cells_and_path_integration
+    parent_label: "Grid Cells and Path Integration"
+    provisional_label: "Grid Cells and Path Integration: grid cells, path integration, place cells"
+    candidate_papers:
+      - fyhn2007_remapping_grid_realignment
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2023_disentanglement_constraints
+      - widloski2022_hippocampal_replay_barriers
+    anchor_papers:
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_nature
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - whittington2022_cognitive_map_b
+      - fyhn2007_remapping_grid_realignment
+    core_papers:
+      - fyhn2007_remapping_grid_realignment
+      - neupane2022_mental_navigation_entorhinal_cortex
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2023_disentanglement_constraints
+      - widloski2022_hippocampal_replay_barriers
+    supporting_papers: []
+    source_signals:
+      support_count: 7
+      internal_citation_edges: 3
+      average_pair_weight: 8.94
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - tolman_eichenbaum_machine
+        - successor_representation
+        - bayesian_inference
+        - reinforcement_learning
+        - latent_state_inference
+      brain_regions:
+        - hippocampus
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - prefrontal_cortex
+        - lateral_entorhinal_cortex
+        - striatum
+      tasks:
+        - navigation_task
+        - foraging_task
+      keywords:
+        - grid_cells
+        - path_integration
+        - place_cells
+        - entorhinal_cortex
+        - remapping
+        - hebbian_learning
+    rationale: "Sub-cluster inside Grid Cells and Path Integration with 7 papers and 3 internal citation edges."
+  -
+    subtopic_id: grid_cells_and_path_integration__04
+    parent_topic_id: grid_cells_and_path_integration
+    parent_label: "Grid Cells and Path Integration"
+    provisional_label: "Grid Cells and Path Integration: place cells, generalization, grid cells"
+    candidate_papers:
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+      - yu2018_hippocampal_cortical_memory
+    anchor_papers:
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+      - yu2018_hippocampal_cortical_memory
+    core_papers:
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+      - yu2018_hippocampal_cortical_memory
+    supporting_papers: []
+    source_signals:
+      support_count: 3
+      internal_citation_edges: 0
+      average_pair_weight: 10.92
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - attractor_networks
+        - reinforcement_learning
+        - successor_representation
+        - tolman_eichenbaum_machine
+        - compositionality
+        - model_based_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - lateral_entorhinal_cortex
+        - orbitofrontal_cortex
+      tasks:
+        - foraging_task
+      keywords:
+        - place_cells
+        - generalization
+        - grid_cells
+        - successor_representation
+        - path_integration
+        - sequence_learning
+    rationale: "Sub-cluster inside Grid Cells and Path Integration with 3 papers and 0 internal citation edges."
+  -
+    subtopic_id: predictive_maps_and_successor_representation__01
+    parent_topic_id: predictive_maps_and_successor_representation
+    parent_label: "Predictive Maps and Successor Representation"
+    provisional_label: "Predictive Maps and Successor Representation: successor representation, model based reinforcement learning, reinforcement"
+    candidate_papers:
+      - akam2015_two_step_task_habits
+      - akam2021_dopamine_model_based_rl
+      - barreto2017_successor_features_transfer_c
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - brown2016_prospective_goals_hippocampus
+      - brunec2022_predictive_representations_hierarchies
+      - dayan1993_successor_representation
+      - dolan2013_goals_habits_brain_b
+      - duvelle2023_temporal_hippocampal_inference
+      - epstein2017_cognitive_maps_humans
+      - findlay2021_replay_wake_sleep
+      - haber2014_reward_circuit_incentive_learning
+      - ho2022_mental_representations_planning
+      - iyer2024_grid_cells_abstract_velocity
+      - kaplan2018_active_inference_navigation
+      - kim2026_hippocampus_smallworld
+      - liu2021_experience_replay_nonlocal
+      - liu2023_hippocampal_associative_predictive
+      - machado2018_eigenoption_successor_representation
+      - machado2021_temporal_abstraction_rl
+      - mark2020_structural_knowledge_transfer
+      - martinet2011_spatial_learning_action_planning
+      - mattar2022_planning_brain
+      - miranda2020_modelfree_modelsensitive_primates
+      - momennejad2018_offline_replay_planning
+      - moneta2024_ofc_vmpfc_representational_spaces
+      - patai2021_versatile_wayfinder_prefrontal
+    anchor_papers:
+      - dayan1993_successor_representation
+      - barreto2017_successor_features_transfer_c
+      - brunec2022_predictive_representations_hierarchies
+      - machado2018_eigenoption_successor_representation
+      - momennejad2018_offline_replay_planning
+    core_papers:
+      - akam2015_two_step_task_habits
+      - akam2021_dopamine_model_based_rl
+      - barreto2017_successor_features_transfer_c
+      - botvinick2020_deep_reinforcement_learning_neuro
+      - brown2016_prospective_goals_hippocampus
+      - brunec2022_predictive_representations_hierarchies
+      - dayan1993_successor_representation
+      - dolan2013_goals_habits_brain_b
+    supporting_papers:
+      - duvelle2023_temporal_hippocampal_inference
+      - epstein2017_cognitive_maps_humans
+      - findlay2021_replay_wake_sleep
+      - haber2014_reward_circuit_incentive_learning
+      - ho2022_mental_representations_planning
+      - iyer2024_grid_cells_abstract_velocity
+      - kaplan2018_active_inference_navigation
+    source_signals:
+      support_count: 27
+      internal_citation_edges: 8
+      average_pair_weight: 3.53
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - successor_representation
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - temporal_difference_learning
+        - hierarchical_rl
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - striatum
+        - entorhinal_cortex
+        - orbitofrontal_cortex
+        - medial_prefrontal_cortex
+      tasks:
+        - virtual_navigation
+        - two_step_task
+        - navigation_task
+        - detour_task
+        - t_maze
+        - foraging_task
+      keywords:
+        - successor_representation
+        - model_based_reinforcement_learning
+        - reinforcement
+        - planning
+        - model_free_reinforcement_learning
+        - deep_reinforcement_learning
+    rationale: "Sub-cluster inside Predictive Maps and Successor Representation with 27 papers and 8 internal citation edges."
+  -
+    subtopic_id: predictive_maps_and_successor_representation__02
+    parent_topic_id: predictive_maps_and_successor_representation
+    parent_label: "Predictive Maps and Successor Representation"
+    provisional_label: "Predictive Maps and Successor Representation: successor representation, planning, model based rl"
+    candidate_papers:
+      - adams_delusions_inference_attractors
+      - akam2015_two_step_task_simple_plans
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - piray2025_compositional_cognitive_map
+      - raju2022_space_sequence
+      - russek2017_model_based_reinforcement
+      - sagiv_experience_replay_prioritization
+      - spiers2015_detour_problem_navigation
+      - velasco2025_decision_precaching_planning
+      - whittington2022_cognitive_map_b
+      - wientjes2024_successor_representation
+    anchor_papers:
+      - russek2017_model_based_reinforcement
+      - piray2021_linear_reinforcement_planning
+      - wientjes2024_successor_representation
+      - piray2020_linear_reinforcement_learning
+      - piray2025_compositional_cognitive_map
+    core_papers:
+      - adams_delusions_inference_attractors
+      - akam2015_two_step_task_simple_plans
+      - piray2020_linear_reinforcement_learning
+      - piray2021_linear_reinforcement_planning
+      - piray2025_compositional_cognitive_map
+      - raju2022_space_sequence
+      - russek2017_model_based_reinforcement
+      - sagiv_experience_replay_prioritization
+    supporting_papers:
+      - spiers2015_detour_problem_navigation
+      - velasco2025_decision_precaching_planning
+      - whittington2022_cognitive_map_b
+      - wientjes2024_successor_representation
+    source_signals:
+      support_count: 12
+      internal_citation_edges: 5
+      average_pair_weight: 4.76
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - successor_representation
+        - reinforcement_learning
+        - model_based_rl
+        - model_free_rl
+        - tolman_eichenbaum_machine
+        - latent_state_inference
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - striatum
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - dorsolateral_striatum
+      tasks:
+        - detour_task
+        - two_step_task
+        - open_field
+        - linear_track
+        - navigation_task
+      keywords:
+        - successor_representation
+        - planning
+        - model_based_rl
+        - grid_cells
+        - replay
+        - latent_learning
+    rationale: "Sub-cluster inside Predictive Maps and Successor Representation with 12 papers and 5 internal citation edges."
+  -
+    subtopic_id: predictive_maps_and_successor_representation__03
+    parent_topic_id: predictive_maps_and_successor_representation
+    parent_label: "Predictive Maps and Successor Representation"
+    provisional_label: "Predictive Maps and Successor Representation: successor representation, place cells, map"
+    candidate_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - behrens2018_cognitive_map_organizing_knowledge
+      - decothi2022_predictive_spatial_navigation
+      - garvert2017_relational_knowledge_maps
+      - george2022_stdp_predictive_maps
+      - gershman2018_successor_representation_learning
+      - momennejad2020_successor_representations_replay
+      - nyberg2022_spatial_goal_coding
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_maps_learning
+      - yuan2024_experience_replay_successor
+    anchor_papers:
+      - behrens2018_cognitive_map_organizing_knowledge
+      - garvert2017_relational_knowledge_maps
+      - nyberg2022_spatial_goal_coding
+      - gershman2018_successor_representation_learning
+      - basu2023_goal_pointer_cognitive_map_ofc
+    core_papers:
+      - basu2023_goal_pointer_cognitive_map_ofc
+      - behrens2018_cognitive_map_organizing_knowledge
+      - decothi2022_predictive_spatial_navigation
+      - garvert2017_relational_knowledge_maps
+      - george2022_stdp_predictive_maps
+      - gershman2018_successor_representation_learning
+      - momennejad2020_successor_representations_replay
+      - nyberg2022_spatial_goal_coding
+    supporting_papers:
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_maps_learning
+      - yuan2024_experience_replay_successor
+    source_signals:
+      support_count: 11
+      internal_citation_edges: 1
+      average_pair_weight: 5.24
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - successor_representation
+        - reinforcement_learning
+        - temporal_difference_learning
+        - model_based_rl
+        - model_free_rl
+        - attractor_networks
+      brain_regions:
+        - hippocampus
+        - entorhinal_cortex
+        - prefrontal_cortex
+        - orbitofrontal_cortex
+        - medial_entorhinal_cortex
+        - striatum
+      tasks:
+        - open_field
+        - virtual_navigation
+        - foraging_task
+        - morris_water_maze
+      keywords:
+        - successor_representation
+        - place_cells
+        - map
+        - cognitive
+        - grid_cells
+        - predictive_map
+    rationale: "Sub-cluster inside Predictive Maps and Successor Representation with 11 papers and 1 internal citation edges."
+  -
+    subtopic_id: predictive_maps_and_successor_representation__04
+    parent_topic_id: predictive_maps_and_successor_representation
+    parent_label: "Predictive Maps and Successor Representation"
+    provisional_label: "Predictive Maps and Successor Representation: successor representation, place cells, grid cells"
+    candidate_papers:
+      - momennejad2017_successor_representation_humans
+      - stachenfeld2017_hippocampus_predictive_map
+      - tacikowski2024_temporal_structure_hippocampal
+      - tomov2020_hierarchical_planning_representation
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+      - widloski2022_hippocampal_replay_barriers
+    anchor_papers:
+      - stachenfeld2017_hippocampus_predictive_map
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2024_build_cognitive_map
+      - whittington2022_cognitive_map_review
+      - widloski2022_hippocampal_replay_barriers
+    core_papers:
+      - momennejad2017_successor_representation_humans
+      - stachenfeld2017_hippocampus_predictive_map
+      - tacikowski2024_temporal_structure_hippocampal
+      - tomov2020_hierarchical_planning_representation
+      - whittington2020_tolman_eichenbaum_machine
+      - whittington2022_cognitive_map_review
+      - whittington2024_build_cognitive_map
+      - widloski2022_hippocampal_replay_barriers
+    supporting_papers: []
+    source_signals:
+      support_count: 8
+      internal_citation_edges: 7
+      average_pair_weight: 6.26
+      target_cluster_count: 4
+    top_terms:
+      frameworks:
+        - successor_representation
+        - reinforcement_learning
+        - tolman_eichenbaum_machine
+        - attractor_networks
+        - compositionality
+        - temporal_difference_learning
+      brain_regions:
+        - hippocampus
+        - prefrontal_cortex
+        - entorhinal_cortex
+        - medial_entorhinal_cortex
+        - orbitofrontal_cortex
+        - lateral_entorhinal_cortex
+      tasks:
+        - two_step_task
+        - morris_water_maze
+        - virtual_navigation
+      keywords:
+        - successor_representation
+        - place_cells
+        - grid_cells
+        - entorhinal_cortex
+        - remapping
+        - path_integration
+    rationale: "Sub-cluster inside Predictive Maps and Successor Representation with 8 papers and 7 internal citation edges."
