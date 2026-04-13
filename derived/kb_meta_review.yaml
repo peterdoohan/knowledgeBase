@@ -1,0 +1,25 @@
+generated_at: "2026-04-13T10:43:58.143233+00:00"
+prompt_version: kb-meta-review-v1
+provider: anthropic_api
+model: claude-opus-4-6
+overall_status: "Below research-wiki standard: pervasive metadata corruption, rampant page duplication, and nearly half the corpus uncovered undermine trustworthiness for synthesis."
+strongest_assets:
+  - "Lead paragraphs consistently rated excellent (clarity scores 4-5 across all queued pages)"
+  - "Editorial pipeline catches problems: 73 revise + 402 light-edit actions show active QA"
+  - "Debate pages attempt genuine epistemic framing with honest hedging and caveats"
+  - "496 papers with 585 citation edges provide a non-trivial relational backbone"
+weakest_points:
+  - "Only 54% of papers (270/496) are covered; nearly half the corpus is invisible to the wiki"
+  - "Metadata pollution is systemic: wrong brain regions, spurious frameworks, truncated fields across summaries"
+  - "Massive page duplication in hippocampal/cognitive-maps cluster—at least 5-6 overlapping pages unmerged"
+  - "Only 2 debate pages and 30 topic pages for 496 papers signals extremely shallow topical coverage"
+highest_priority_actions:
+  - "Merge or sharply demarcate the 5+ overlapping hippocampal/entorhinal/cognitive-map pages immediately"
+  - "Run automated validation to fix wrong brain_regions and spurious framework tags across all 496 summaries"
+  - "Complete all truncated summary fields—partial sentences make records unusable for downstream synthesis"
+  - "Expand coverage from 54% to at least 80% before adding new topic pages"
+cautions:
+  - "Polluted metadata will silently corrupt any automated retrieval or cross-referencing built on this pipeline"
+  - "Duplicate pages risk contradictory claims on the same evidence, eroding reader trust"
+  - "High lead-clarity scores mask that many page bodies are empty or skeletal—substance lags presentation"
+  - "Two confirmed-identity failures (jonesgotman1977, lee2022 duplicates) suggest ingestion QA is unreliable"

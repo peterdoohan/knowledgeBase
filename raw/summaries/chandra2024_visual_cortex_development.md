@@ -11,16 +11,10 @@ year: 2024
 journal: "bioRxiv (preprint, doi: 10.1101/2024.01.07.574543)"
 paper_type: computational
 contribution_type: theoretical
-species:
-  - mouse
+methods:
+  - computational_modeling
 brain_regions:
-  - hippocampus
-  - prefrontal_cortex
-  - striatum
   - visual_cortex
-  - primary_auditory_cortex
-frameworks:
-  - reinforcement_learning
 keywords:
   - visual_cortex_development
   - synaptic_competition
@@ -34,16 +28,6 @@ keywords:
   - self_organization
   - cortical_hierarchy
   - developmental_connectome
-  - self
-  - organized
-  - emergence
-  - modularity
-  - hierarchy
-  - mirror
-  - reversals
-  - competitive
-wiki_pages:
-  - wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
 ---
 
 ### One-line summary
@@ -171,6 +155,3 @@ At the algorithmic level, the paper is detailed: the key computation is local gr
 **Brain regions**: V1, V2, V3, V4, LGN, auditory cortex (A1, R, RT), MGN, mouse visual cortex (V1, P, PM, LM, RL), prefrontal cortex, parietal cortex, cerebellum, striatum, hippocampus
 
 **Keywords**: visual cortex development, synaptic competition, heterosynaptic plasticity, cortical area formation, retinotopic maps, polar angle mirror reversal, wiring minimization, spontaneous retinal activity, retinal waves, self-organization, cortical hierarchy, developmental connectome
-
-### Related wiki pages
-- [[wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning|Goal-directed vs habitual control in corticostriatal reinforcement learning]]

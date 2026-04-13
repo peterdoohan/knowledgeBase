@@ -24,8 +24,6 @@ species:
   - rat
 methods:
   - calcium_imaging
-brain_regions:
-  - primary_auditory_cortex
 keywords:
   - connexin_43_hemichannels
   - intracellular_calcium_signalling

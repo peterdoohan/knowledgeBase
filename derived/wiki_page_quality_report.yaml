@@ -1,0 +1,388 @@
+generated_at: "2026-04-13T10:42:43.824391+00:00"
+prompt_version: wiki-page-quality-v1
+judged_page_count: 27
+action_counts:
+  keep: 16
+  revise: 11
+overall_score_counts:
+  4: 17
+  5: 10
+revision_queue:
+  -
+    subtopic_id: grid_cells_and_path_integration__01
+    title: "Grid cells as a mechanism for path integration"
+    path: wiki/debates/grid_cells_as_a_mechanism_for_path_integration
+    page_type: debate
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 3
+    boundary_clarity_score: 3
+    navigability_score: 3
+    redundancy_risk_score: 4
+    rationale_short: "Excellent lead with a crisp debate framing. However, high redundancy risk with three closely related hippocampal/entorhinal wiki pages, and the body sections are mostly empty."
+    revision_notes: "Fill current_view, strongest_evidence, boundaries_and_tensions. Clarify boundary vs the broader cognitive maps page to reduce overlap."
+  -
+    subtopic_id: schemas_and_generalization__02
+    title: "Hippocampal replay and schema-guided generalization"
+    path: wiki/topics/hippocampal_replay_and_schema_guided_generalization
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 4
+    rationale_short: "Excellent lead with honest epistemic calibration. High redundancy risk with three related replay/planning pages. Boundary between this and hippocampal_prefrontal_replay_in_planning is unclear."
+    revision_notes: "Sharpen boundary vs hippocampal_prefrontal_replay_in_planning; consider merging or adding explicit scope demarcation."
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__01
+    title: "Goal-directed vs habitual control in corticostriatal reinforcement learning"
+    path: wiki/debates/goal_directed_vs_habitual_control_in_corticostriatal_reinforcement_learning
+    page_type: debate
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Excellent lead with crisp claim and nuanced caveats. Boundaries overlap with mPFC and OFC related pages. Open questions truncated. Evidence density good but could be stronger."
+    revision_notes: "Clarify boundary with mPFC and OFC wiki pages. Complete truncated open questions. Add strongest_evidence and current_view fields."
+  -
+    subtopic_id: cognitive_maps__03
+    title: "Grid cells, place cells, and path integration in cognitive maps"
+    path: wiki/topics/grid_cells_place_cells_and_path_integration_in_cognitive_maps
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 4
+    evidence_density_score: 3
+    boundary_clarity_score: 4
+    navigability_score: 3
+    redundancy_risk_score: 3
+    rationale_short: "Strong lead with nuanced factorized-code claim. Evidence density limited by narrow source base (~4 anchor papers doing most work). Boundaries well-articulated but overlap likely with parent cognitive_maps page."
+    revision_notes: "Trim lead length; add related_wiki_pages links; clarify boundary with parent cognitive maps entry to reduce merge risk."
+  -
+    subtopic_id: cognitive_maps__01
+    title: "Hippocampal–entorhinal cognitive maps (place cells, grid cells, and replay)"
+    path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_replay
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Excellent lead with crisp empirical claim and explicit scope limits. Significant overlap with related predictive-map and replay wiki pages risks redundancy. Boundaries with those pages need sharpening."
+    revision_notes: "Clarify boundary with hippocampal_predictive_maps and replay_schema pages; trim SR/predictive-map discussion that duplicates those entries."
+  -
+    subtopic_id: cognitive_maps__02
+    title: "Hippocampal–entorhinal cognitive maps: place cells, grid cells, and path integration"
+    path: wiki/topics/hippocampal_entorhinal_cognitive_maps_place_cells_grid_cells_and_path_integration
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Excellent lead with crisp, hedged claims. Evidence is strong but leans heavily on Fyhn 2007. Significant overlap risk with the two related pages on grid cells and predictive maps."
+    revision_notes: "Sharpen boundary vs. hippocampal_predictive_maps and grid_cells_path_integration pages; diversify evidence beyond Fyhn 2007."
+  -
+    subtopic_id: behavioral_paradigms_and_navigation_tasks__01
+    title: "Hippocampal–prefrontal mechanisms of route planning and detour navigation"
+    path: wiki/topics/hippocampal_prefrontal_mechanisms_of_route_planning_and_detour_navigation
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Excellent lead with honest hedging. Strong evidence base. Boundary overlap with cognitive-map and mPFC navigation pages is substantial and needs sharper delineation."
+    revision_notes: "Tighten boundaries vs related mPFC and hippocampal map pages; clarify what is unique to detour/route-planning scope."
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__01
+    title: "Hippocampal–prefrontal replay in planning"
+    path: wiki/topics/hippocampal_prefrontal_replay_in_planning
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 3
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Exceptionally honest lead with crisp claim about evidence gaps. Evidence density is moderate—strongest findings are correlational/indirect. Boundaries overlap substantially with related replay and cognitive map pages."
+    revision_notes: "Sharpen boundary vs hippocampal replay/schema page. Add any rodent PFC-HPC joint replay evidence. Trim overlap on general cognitive map content."
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__03
+    title: "Successor representation in striatal and dopaminergic reinforcement learning"
+    path: wiki/topics/successor_representation_in_striatal_and_dopaminergic_reinforcement_learning
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 3
+    boundary_clarity_score: 4
+    navigability_score: 3
+    redundancy_risk_score: 3
+    rationale_short: "Excellent lead with honest calibration of evidence strength. Evidence density is moderate—strongest claims rest on computational work and a few fMRI studies. Risk of overlap with hippocampal predictive-map pages."
+    revision_notes: "Add direct striatal/dopamine neural evidence if available; link to hippocampal predictive-map page to reduce redundancy risk."
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__02
+    title: "Task-state representation and hidden-state inference in orbitofrontal–hippocampal reinforcement learning"
+    path: wiki/topics/task_state_representation_and_hidden_state_inference_in_orbitofrontal_hippocampal_reinforcement_learning
+    page_type: topic
+    overall_score: 4
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 3
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Excellent lead with a crisp claim. Evidence is strong but leans on few papers. High redundancy risk with the related OFC cognitive map page; boundary between the two needs sharpening."
+    revision_notes: "Clarify boundary with OFC cognitive map page. Sharpen OFC vs hippocampus division of labor or flag as unresolved more concisely."
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__01
+    title: "Medial prefrontal cortex in goal-directed spatial navigation and spatial working memory"
+    path: wiki/topics/medial_prefrontal_cortex_in_goal_directed_spatial_navigation_and_spatial_working_memory
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Lead makes a crisp, nuanced claim distinguishing mPFC from a simple goal buffer. Evidence is causal and quantitative. Boundaries with companion prospective-coding page are explicitly stated but overlap risk exists."
+    revision_notes: "Tighten boundary with prospective-coding companion page; reduce overlap on Ito et al. circuit data shared across both."
+  -
+    subtopic_id: hippocampal_replay__04
+    title: "Sharp-wave ripple-associated place-cell replay in spatial memory consolidation"
+    path: wiki/topics/sharp_wave_ripple_associated_place_cell_replay_in_spatial_memory_consolidation
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 3
+    redundancy_risk_score: 3
+    rationale_short: "Lead makes a crisp, nuanced claim well supported by causal evidence. Boundaries are explicitly discussed. Some overlap risk with broader replay pages; navigability weakened by missing related_wiki_pages links."
+    revision_notes: "Populate related_wiki_pages field. Trim current_view overlap with lead. Clarify boundary with any general SWR-mechanisms page."
+  -
+    subtopic_id: predictive_maps_and_successor_representation__02
+    title: "Successor representation as a predictive map for flexible planning"
+    path: wiki/topics/successor_representation_as_a_predictive_map_for_flexible_planning
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Lead makes a crisp, nuanced claim. Evidence density is strong with clear computational dissociations. Some overlap risk with hippocampal predictive maps page, but algorithmic focus justifies separation."
+    revision_notes: "Trim overlap with hippocampal_predictive_maps page; sharpen boundary on what neural evidence belongs here vs. there."
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__03
+    title: "Hierarchical planning and successor representations in prefrontal–hippocampal cognitive control"
+    path: wiki/topics/hierarchical_planning_and_successor_representations_in_prefrontal_hippocampal_cognitive_control
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 4
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 3
+    redundancy_risk_score: 2
+    rationale_short: "Well-scoped synthesis of SR, HRL, and linear RL frameworks with clear neural and behavioral evidence. Lead is honest about uncertainty. Boundaries are well-articulated."
+    revision_notes: "Add related_wiki_pages links. Tighten lead to a crisper single-sentence claim before expanding caveats."
+  -
+    subtopic_id: anterior_cingulate_future_state_and_model_based_control__02
+    title: "Model-based vs model-free reinforcement learning frameworks in anterior cingulate future-state control"
+    path: wiki/topics/model_based_vs_model_free_reinforcement_learning_frameworks_in_anterior_cingulate_future_state_control
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 3
+    redundancy_risk_score: 2
+    rationale_short: "Lead makes a precise, hedged claim. Evidence section is anchored heavily on one strong causal study. Boundaries and tensions are thoughtfully articulated. Slight over-reliance on a single paper."
+    revision_notes: "Add human neuroimaging evidence (truncated). Link to OFC cognitive map page more explicitly."
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__05
+    title: "Reward-modulated hippocampal replay in spatial reinforcement learning"
+    path: wiki/topics/reward_modulated_hippocampal_replay_in_spatial_reinforcement_learning
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally crisp lead that makes a precise, hedged claim. Evidence is well-curated. Honest about the inferential gap to striatal/dopaminergic RL. Boundaries are clearly drawn."
+    revision_notes: "Trim truncated sections. Consider adding one causal manipulation study if available to strengthen the bridge to dopamine."
+  -
+    subtopic_id: predictive_maps_and_successor_representation__01
+    title: "Successor representation as a predictive map in reinforcement learning and hippocampal–prefrontal coding"
+    path: wiki/topics/successor_representation_as_a_predictive_map_in_reinforcement_learning_and_hippocampal_prefrontal_coding
+    page_type: topic
+    overall_score: 4
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 4
+    navigability_score: 3
+    redundancy_risk_score: 2
+    rationale_short: "Lead is exceptionally crisp and balanced, clearly stating what SR explains and where it falls short. Evidence is well-graded by strength. Boundaries are well-articulated. Minor navigability gap from empty related pages."
+    revision_notes: "Populate related_wiki_pages for navigability. Trim truncated sections to complete thoughts."
+  -
+    subtopic_id: schemas_and_generalization__01
+    title: "Hippocampal predictive maps: place cells, successor representation, and replay"
+    path: wiki/topics/hippocampal_predictive_maps_place_cells_successor_representation_and_replay
+    page_type: topic
+    overall_score: 5
+    action: revise
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Exceptional lead with crisp claim and honest caveats. High evidence density. Main concern is significant overlap with related cognitive-maps and replay wiki pages."
+    revision_notes: "Clarify boundary vs hippocampal_entorhinal_cognitive_maps pages; consider scoping this strictly to SR/predictive-map framing."
+  -
+    subtopic_id: hippocampal_replay__01
+    title: "Sharp-wave ripple-associated hippocampal replay"
+    path: wiki/topics/sharp_wave_ripple_associated_hippocampal_replay
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 3
+    rationale_short: "Exceptionally well-crafted lead with calibrated claims, strong causal evidence, and honest treatment of tensions. Minor overlap risk with related replay/planning pages."
+    revision_notes: "Clarify boundary with prefrontal coordination replay page; consider cross-links to reduce redundancy on awake replay planning claims."
+  -
+    subtopic_id: striatal_and_dopaminergic_reinforcement_learning__04
+    title: "Dopamine reward prediction error and temporal-difference learning"
+    path: wiki/topics/dopamine_reward_prediction_error_and_temporal_difference_learning
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exemplary page: crisp lead states the core claim then immediately qualifies it with specific counter-evidence. Evidence is dense, well-cited, and the boundaries/tensions section is genuinely informative."
+    revision_notes: "Add related_wiki_pages links (distributional RL, striatal plasticity). Minor: current_view appears truncated."
+  -
+    subtopic_id: cognitive_maps__04
+    title: "Entorhinal grid cells and continuous attractor models of cognitive maps"
+    path: wiki/topics/entorhinal_grid_cells_and_continuous_attractor_models_of_cognitive_maps
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 5
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally well-bounded page with a crisp, calibrated lead that distinguishes spatial from abstract evidence. Tensions and open questions are precisely stated."
+    revision_notes: "Minor: expand navigability with links to attractor network or successor representation pages if they exist."
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__03
+    title: "Hippocampal sharp-wave ripple replay and prefrontal coordination during planning"
+    path: wiki/topics/hippocampal_sharp_wave_ripple_replay_and_prefrontal_coordination_during_planning
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 4
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally well-crafted lead with a crisp, nuanced claim. Evidence is quantitative and specific. Boundaries and tensions are honestly stated. Minor overlap risk with SWR replay page."
+    revision_notes: "Clarify boundary with sharp_wave_ripple_associated_hippocampal_replay page to reduce overlap."
+  -
+    subtopic_id: prefrontal_goal_representation_and_control__02
+    title: "Medial prefrontal cortex in rat goal-directed vs habitual control"
+    path: wiki/topics/medial_prefrontal_cortex_in_rat_goal_directed_vs_habitual_control
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 5
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally well-bounded page with a crisp lead, strong causal evidence clearly narrated, honest about lesion specificity limits, and careful computational caveats."
+    revision_notes: "Minor: add explicit cross-link to the related debate page within the lead for faster navigation."
+  -
+    subtopic_id: ofc_task_state_and_value_maps__03
+    title: "Orbitofrontal cortex as a cognitive map of hidden task state"
+    path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_hidden_task_state
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 5
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally well-bounded page with a crisp, calibrated lead claim, strong anchor evidence from Schuck et al. 2016, honest tension mapping, and clear separation from adjacent hippocampal literatures."
+    revision_notes: "Minor: add explicit link to related OFC value-coding page if one exists to reduce future redundancy risk."
+  -
+    subtopic_id: ofc_task_state_and_value_maps__01
+    title: "Orbitofrontal cortex as a cognitive map of task state for model-based reinforcement learning"
+    path: wiki/topics/orbitofrontal_cortex_as_a_cognitive_map_of_task_state_for_model_based_reinforcement_learning
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 5
+    navigability_score: 5
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally well-crafted lead with calibrated confidence, clear boundaries against value-only and full-model-based accounts, strong evidence chain, and honest open questions."
+    revision_notes: "Could add direct neural recording evidence for state coding in OFC to strengthen evidence density."
+  -
+    subtopic_id: hippocampal_prefrontal_coordination_and_planning__02
+    title: "Prospective spatial coding in hippocampal–medial prefrontal circuits"
+    path: wiki/topics/prospective_spatial_coding_in_hippocampal_medial_prefrontal_circuits
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 5
+    boundary_clarity_score: 5
+    navigability_score: 4
+    redundancy_risk_score: 2
+    rationale_short: "Exceptionally well-crafted lead with a precise, hedged claim. Strong causal evidence foregrounded, tensions and context-dependence explicitly addressed. Clear boundaries with related pages."
+    revision_notes: "Minor: truncated sections suggest rendering issues; ensure full text displays for boundaries and open questions."
+  -
+    subtopic_id: clinical_and_computational_psychiatry__01
+    title: "Computational models of schizophrenia: attractor dynamics and NMDA hypofunction"
+    path: wiki/topics/computational_models_of_schizophrenia_attractor_dynamics_and_nmda_hypofunction
+    page_type: topic
+    overall_score: 5
+    action: keep
+    lead_clarity_score: 5
+    evidence_density_score: 4
+    boundary_clarity_score: 5
+    navigability_score: 4
+    redundancy_risk_score: 1
+    rationale_short: "Exceptionally well-structured page with a crisp, falsifiable two-level claim. Lead clearly separates computational phenotype from mechanistic hypothesis. Boundaries and tensions are honestly articulated."
+    revision_notes: "Minor: expand related_wiki_pages links; consider adding dopamine-salience integration as explicit cross-reference."

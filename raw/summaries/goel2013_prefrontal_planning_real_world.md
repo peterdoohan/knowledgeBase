@@ -22,8 +22,7 @@ methods:
   - lesion
 brain_regions:
   - prefrontal_cortex
-frameworks:
-  - successor_representation
+  - dorsolateral_prefrontal_cortex
 keywords:
   - right_prefrontal_cortex
   - ill_structured_problem_solving
@@ -37,14 +36,6 @@ keywords:
   - planning_phases
   - concrete_to_abstract_ratio
   - problem_space
-  - lesions
-  - right
-  - prefrontal
-  - cortex
-  - impair
-  - real
-  - world
-  - planning
 ---
 
 ### One-line summary
