@@ -1,301 +1,56 @@
-generated_at: "2026-04-13T10:42:43.889915+00:00"
+generated_at: "2026-04-13T11:16:48.523932+00:00"
 prompt_version: summary-quality-v1
-judged_summary_count: 496
+judged_summary_count: 5
 action_counts:
-  keep: 21
-  light_edit: 402
-  revise: 73
+  revise: 5
 overall_score_counts:
-  2: 2
-  3: 71
-  4: 397
-  5: 26
+  3: 5
 review_queue:
   -
     paper_id: fried2020_mental_health_complexity
     title: "Systems all the way down: embracing complexity in mental health research"
-    overall_score: 2
-    action: revise
-    clarity_score: 3
-    specificity_score: 2
-    traceability_score: 2
-    metadata_quality_score: 1
-    rationale_short: "Multiple fields truncated mid-sentence, empty metadata fields, generic claims lacking specificity, and no frameworks or wiki_pages populated."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Empty frameworks, brain_regions, wiki_pages fields"
-      - "Claims too generic for synthesis use"
-    suggested_fix: "Complete all truncated fields, populate frameworks and wiki_pages, sharpen claims with specific testable propositions."
-  -
-    paper_id: jonesgotman1977_design_fluency_frontal
-    title: "Design Fluency: The Invention of Nonsense Drawings after Focal Cortical Lesions (inferred — see note)"
-    overall_score: 2
-    action: revise
-    clarity_score: 3
-    specificity_score: 2
-    traceability_score: 1
-    metadata_quality_score: 1
-    rationale_short: "Paper identity unconfirmed; most findings inferred from partial tables. Too unreliable for wiki synthesis without reopening the original source."
-    top_issues:
-      - "Paper identity explicitly marked uncertain"
-      - "Key findings not recoverable from source"
-      - "Metadata fields empty or speculative"
-    suggested_fix: "Obtain and re-summarize from the original confirmed PDF before wiki inclusion."
-  -
-    paper_id: lee2022_task_specificity_parietal
-    title: "Task specificity in mouse parietal cortex"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 1
-    rationale_short: "Good methodological detail and findings, but brain_regions and frameworks are grossly incorrect — parietal cortex is the studied region, not hippocampus/amygdala. Keywords are polluted."
-    top_issues:
-      - "Brain regions completely wrong for paper"
-      - "Frameworks misattributed, not relevant"
-      - "Several fields truncated mid-sentence"
-    suggested_fix: "Fix brain_regions to parietal_cortex. Replace frameworks with context_dependence, task_specificity. Complete all truncated fields."
-  -
-    paper_id: lee2022_task_specificity_parietal_cortex
-    title: "Task specificity in mouse parietal cortex"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 1
-    rationale_short: "Good methodological detail and findings, but brain_regions and frameworks are grossly incorrect, and several fields are truncated mid-sentence."
-    top_issues:
-      - "Brain regions list completely wrong"
-      - "Frameworks misattributed to this paper"
-      - "Multiple fields truncated mid-sentence"
-    suggested_fix: "Fix brain_regions to parietal_cortex, area_A, area_RL, V1. Fix frameworks. Complete all truncated fields."
-  -
-    paper_id: wilson2017_scientific_computing
-    title: "Good enough practices in scientific computing"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 1
-    rationale_short: "Good detail on practices but critically wrong metadata: bayesian_inference framework tag is completely unrelated to this computing practices paper."
-    top_issues:
-      - "Spurious bayesian_inference framework tag"
-      - "Truncated fields lose important content"
-      - "No wiki_pages or brain_regions justified"
-    suggested_fix: "Remove bayesian_inference tag. Complete truncated fields. Add appropriate keywords like reproducibility, data_management."
-  -
-    paper_id: adams_delusions_inference_attractors
-    title: "Everything is connected: Inference and attractors in delusions"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good mechanistic detail but polluted keywords/frameworks (successor_representation irrelevant) and mismatched brain regions and wiki page undermine reliability for synthesis."
-    top_issues:
-      - "Successor representation framework tag is spurious"
-      - "Brain regions lack paper-specific grounding"
-      - "Wiki page link is irrelevant to paper"
-    suggested_fix: "Remove successor_representation from frameworks, verify brain regions against paper text, link to active_inference or delusions wiki page."
-  -
-    paper_id: balaguer2016_hierarchical_planning_subway
-    title: "Neural Mechanisms of Hierarchical Planning in a Virtual Subway Network"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good specificity in findings but brain_regions and frameworks lists are polluted with irrelevant entries not supported by the paper's actual content."
-    top_issues:
-      - "brain_regions include amygdala, vmPFC without justification"
-      - "frameworks list includes model_free_rl incorrectly"
-      - "Several fields truncated mid-sentence"
-    suggested_fix: "Fix brain_regions to dmPFC/PMC/V4; remove model_free_rl; complete all truncated fields."
-  -
-    paper_id: barlow1959_sensory_transformations
-    title: "Possible Principles Underlying the Transformations of Sensory Messages"
     overall_score: 3
     action: revise
     clarity_score: 4
     specificity_score: 3
     traceability_score: 3
     metadata_quality_score: 2
-    rationale_short: "Multiple fields truncated mid-sentence; empty brain_regions, frameworks, wiki_pages metadata. Good structure but incomplete content undermines reliability."
+    rationale_short: "Multiple fields truncated mid-sentence, losing critical content. Frameworks are reasonable but wiki_pages and brain_regions empty. Claims remain high-level and programmatic."
     top_issues:
       - "Multiple fields truncated mid-sentence"
-      - "Empty brain_regions, frameworks, wiki_pages fields"
-      - "Key findings section incomplete"
-    suggested_fix: "Complete all truncated fields; populate brain_regions (retina, LGN, optic tectum), frameworks, and wiki_pages."
+      - "No wiki_pages or brain_regions populated"
+      - "Contributions remain vague and generic"
+    suggested_fix: "Complete all truncated fields; add wiki_pages; sharpen specific claims from each cited paper."
   -
-    paper_id: barlow2012_sensory_communication
-    title: "Possible Principles Underlying the Transformations of Sensory Messages"
+    paper_id: botvinick2008_hierarchical_behavior_prefrontal
+    title: "Hierarchical models of behavior and prefrontal function"
     overall_score: 3
     action: revise
     clarity_score: 4
     specificity_score: 3
     traceability_score: 2
-    metadata_quality_score: 2
-    rationale_short: "Year listed as 2012 is incorrect (original is 1961). Multiple fields truncated. Framework tag 'bayesian_inference' is misleading; brain_regions too narrow."
+    metadata_quality_score: 3
+    rationale_short: "Multiple fields truncated (contributions, limitations, connections, key findings), undermining traceability and completeness. Brain regions and frameworks incomplete for a broad review."
     top_issues:
-      - "Publication year is wrong (1961)"
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Framework keyword misattributed to paper"
-    suggested_fix: "Correct year to 1961, complete all truncated fields, replace bayesian_inference with efficient_coding, expand brain_regions."
+      - "Multiple sections visibly truncated mid-sentence"
+      - "Brain regions list incomplete for review scope"
+      - "Wiki page link weakly relevant to paper"
+    suggested_fix: "Complete all truncated sections; expand brain_regions and frameworks; link to hierarchical control wiki page."
   -
-    paper_id: braun2018_maps_network_mental_disorders
-    title: "From Maps to Multi-dimensional Network Mechanisms of Mental Disorders"
+    paper_id: durstewitz2020_psychiatric_network_dynamics
+    title: "Psychiatric Illnesses as Disorders of Network Dynamics"
     overall_score: 3
     action: revise
     clarity_score: 4
     specificity_score: 3
     traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Key findings and contributions are truncated mid-sentence, frameworks field is empty, brain regions are sparse for a broad review, and keywords are polluted with incomplete citation entries."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Frameworks field completely empty"
-      - "Connections_keywords truncated, incomplete citations"
-    suggested_fix: "Complete all truncated fields, populate frameworks (e.g., network control theory, generative models), and clean keyword/citation lists."
-  -
-    paper_id: caplan2001_thought_disorder_adhd
-    title: "Thought Disorder in Attention-Deficit Hyperactivity Disorder"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 2
-    metadata_quality_score: 2
-    rationale_short: "Multiple fields are truncated mid-sentence, brain regions lack textual justification, and frameworks/wiki_pages are empty. Key findings lose critical detail."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Brain regions unsupported by paper content"
-      - "Frameworks and wiki_pages left empty"
-    suggested_fix: "Complete all truncated fields, justify or remove brain regions, populate frameworks and wiki_pages."
-  -
-    paper_id: chandra2024_modularity_synaptic_hierarchy
-    title: "Self-organized emergence of modularity, hierarchy, and mirror reversals from competitive synaptic growth in a developmental model of the visual pathway"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good mechanistic detail but critically wrong framework tag (reinforcement_learning), polluted brain_regions (primary_auditory_cortex), and truncated fields undermine reliability."
-    top_issues:
-      - "Framework tag reinforcement_learning is incorrect"
-      - "Brain region primary_auditory_cortex unjustified"
-      - "Multiple fields truncated mid-sentence"
-    suggested_fix: "Fix framework to developmental_self_organization or Hebbian_competition; remove auditory_cortex; complete all truncated fields."
-  -
-    paper_id: chang2020_cuneiform_nucleus_locomotor_dbs
-    title: "Dissecting Brainstem Locomotor Circuits: Converging Evidence for Cuneiform Nucleus Stimulation"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good mechanistic detail but brain_regions omit CnF/PPN/MLR, framework and wiki_page are irrelevant, and multiple fields are truncated."
-    top_issues:
-      - "Brain regions missing CnF, PPN, MLR"
-      - "Framework 'reinforcement_learning' is misapplied"
-      - "Wiki page link entirely irrelevant"
-    suggested_fix: "Add CnF, PPN, MLR to brain_regions; replace framework/wiki_page with locomotion/MLR topics; complete truncated fields."
-  -
-    paper_id: coutrot2022_entropy_street_navigation
-    title: "Entropy of city street networks linked to future spatial navigation ability"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good specificity with effect sizes, but truncated fields, empty brain_regions, polluted keywords mixing citations with frameworks, and weak wiki linkage undermine reliability."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "connections_keywords mixes citations and frameworks"
-      - "Wiki page link poorly justified"
-    suggested_fix: "Complete all truncated fields, separate keywords from citations, populate frameworks explicitly, justify wiki link."
-  -
-    paper_id: craver2013_mechanisms_discovery_biology
-    title: "In Search of Mechanisms: Discoveries across the Life Sciences"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Multiple fields truncated mid-sentence, empty frameworks/wiki_pages, brain_regions overly narrow for a philosophy book spanning all life sciences."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Empty frameworks and wiki_pages fields"
-      - "Brain_regions misleadingly narrow for scope"
-    suggested_fix: "Complete all truncated fields, populate frameworks and wiki_pages, reconsider brain_regions or mark as not applicable."
-  -
-    paper_id: degrave2022_reinforcement_tokamak_control
-    title: "Magnetic control of tokamak plasmas through deep reinforcement learning"
-    overall_score: 3
-    action: revise
-    clarity_score: 5
-    specificity_score: 5
-    traceability_score: 4
-    metadata_quality_score: 2
-    rationale_short: "Excellent technical detail but this is a plasma physics/control paper, not neuroscience. Inclusion in a neuroscience research wiki is unjustified without clear neuroscience relevance."
-    top_issues:
-      - "Not a neuroscience paper"
-      - "Wiki_pages and brain_regions empty"
-      - "Frameworks tag too generic for context"
-    suggested_fix: "Justify neuroscience relevance explicitly or remove from wiki. Add wiki_pages linking to relevant neuro-AI topics."
-  -
-    paper_id: fang2023_striatal_pallidal_wiring
-    title: "Updating the striatal–pallidal wiring diagram"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good mechanistic detail but truncated fields, polluted brain_regions (hippocampus, OFC not central), and framework/wiki linkage is too generic for a basal ganglia wiring review."
+    metadata_quality_score: 3
+    rationale_short: "Multiple truncated fields undermine completeness. Mappings are interesting but lack empirical grounding detail. Keywords polluted with broad terms; connections incomplete."
     top_issues:
       - "Multiple fields visibly truncated mid-sentence"
-      - "Brain regions include irrelevant entries"
-      - "Framework tag too generic for content"
-    suggested_fix: "Complete all truncated fields; prune brain_regions to striatal/pallidal core; add basal_ganglia_circuit_models framework and matching wiki pages."
-  -
-    paper_id: hayes2020_complex_systems_psychotherapy
-    title: "A complex systems approach to the study of change in psychotherapy"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Multiple fields truncated mid-sentence, empty metadata fields, and limited specificity on concrete empirical findings weaken traceability and reuse value."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Empty frameworks, brain_regions, wiki_pages fields"
-      - "Empirical evidence described too generically"
-    suggested_fix: "Complete all truncated fields, populate frameworks/wiki_pages, specify sample sizes and effect details for cited empirical evidence."
-  -
-    paper_id: hinze2006_ice_rat_burrow
-    title: "The burrow system of the African ice rat Otomys sloggetti robertsi"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Well-written behavioral ecology summary but misclassified as neuroscience. Empty brain_regions/frameworks fields confirm no neuroscience content. Truncated fields reduce utility."
-    top_issues:
-      - "Not a neuroscience paper at all"
-      - "Multiple fields truncated mid-sentence"
-      - "Empty brain_regions and frameworks fields"
-    suggested_fix: "Reassess inclusion in a neuroscience wiki; if retained, complete all truncated fields."
+      - "Keywords mix frameworks and vague terms"
+      - "Empirical evidence status unclear per claim"
+    suggested_fix: "Complete all truncated fields; add explicit evidence-level annotations per DST-symptom mapping; clean keywords."
   -
     paper_id: howes2016_aberrant_salience_schizophrenia
     title: "Dopamine and the aberrant salience hypothesis of schizophrenia"
@@ -304,13 +59,13 @@ review_queue:
     clarity_score: 4
     specificity_score: 3
     traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Multiple fields truncated mid-sentence, losing critical content. Frameworks field empty. Wiki page link is tangential. Good structure but incomplete."
+    metadata_quality_score: 3
+    rationale_short: "Multiple fields truncated mid-sentence, losing critical content. Wiki page link is thematically mismatched. Keywords and findings are reasonable but incomplete."
     top_issues:
       - "Multiple fields truncated mid-sentence"
-      - "Frameworks field left completely empty"
-      - "Wiki page link only tangentially relevant"
-    suggested_fix: "Complete all truncated fields, populate frameworks (e.g., aberrant salience, predictive coding), link to a more relevant wiki page."
+      - "Wiki page poorly matched to content"
+      - "Missing effect sizes from PET findings"
+    suggested_fix: "Complete all truncated fields, add quantitative PET effect sizes, link to dopamine/salience wiki page instead."
   -
     paper_id: howes2022_treatment_resistance_psychiatry
     title: "Treatment resistance in psychiatry: state of the art and new directions"
@@ -319,295 +74,10 @@ review_queue:
     clarity_score: 4
     specificity_score: 3
     traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Multiple truncated fields destroy completeness. Keywords polluted with full citations. Frameworks and wiki_pages empty. Brain region listing minimal for a multi-disorder review."
-    top_issues:
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Frameworks and wiki_pages left empty"
-      - "Keywords section contains verbose citations"
-    suggested_fix: "Complete all truncated fields; separate keywords from citations; populate frameworks and wiki_pages."
-  -
-    paper_id: ivanov2021_psychotropic_drugs_mental_illness
-    title: "Why Psychotropic Drugs Don't Cure Mental Illness—But Should They?"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 2
-    traceability_score: 2
-    metadata_quality_score: 2
-    rationale_short: "Truncated fields, weak brain region justification, mismatched wiki link, and vague theoretical claims reduce reliability for future synthesis."
-    top_issues:
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Brain regions lack paper-specific justification"
-      - "Wiki page link topically mismatched"
-    suggested_fix: "Complete all truncated fields; justify brain regions with specific paper arguments; replace wiki link with relevant topic."
-  -
-    paper_id: kim2013_pma_ltp
-    title: "Phorbol 12-Myristate 13-Acetate Enhances Long-Term Potentiation in the Hippocampus through Activation of Protein Kinase C δ and ε"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 4
-    metadata_quality_score: 2
-    rationale_short: "Good empirical detail and specific findings, but framework tag 'reinforcement_learning' is incorrect and limitations text is truncated."
-    top_issues:
-      - "Framework 'reinforcement_learning' is entirely wrong"
-      - "Limitations and connections text truncated"
-      - "Wiki_pages field left empty"
-    suggested_fix: "Remove reinforcement_learning; assign synaptic_plasticity framework; complete truncated fields; add relevant wiki pages."
-  -
-    paper_id: kolb2022_brenda_milner_frontal_lobes
-    title: "Brenda Milner: Pioneer of the Study of the Human Frontal Lobes"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good specificity on findings but frameworks are incorrect, multiple fields truncated, and wiki_pages empty—undermining reliability for synthesis."
-    top_issues:
-      - "Frameworks incorrectly tagged as RL/hierarchical_RL"
-      - "Multiple fields visibly truncated mid-sentence"
-      - "wiki_pages field left empty"
-    suggested_fix: "Replace frameworks with lesion-deficit mapping/double_dissociation; complete all truncated fields; populate wiki_pages."
-  -
-    paper_id: kubska2021_single_neuron_cognition
-    title: "How Human Single-Neuron Recordings Can Help Us Understand Cognition: Insights from Memory Studies"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Key findings and contributions are truncated, losing critical content. Wiki page link is thematically mismatched. Frameworks field is empty. Brain regions list is overly broad for a review."
-    top_issues:
-      - "Key findings and contributions truncated"
-      - "Wiki page link thematically irrelevant"
-      - "Frameworks field left empty"
-    suggested_fix: "Complete all truncated fields, remove mismatched wiki link, populate frameworks (e.g., Hebb, concept cell theory)."
-  -
-    paper_id: manjarrez2016_gap_junction_blockers
-    title: "Gap Junction Blockers: An Overview of their Effects on Induced Seizures in Animal Models"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Key findings and limitations are truncated mid-sentence, losing critical content. Missing frameworks, wiki_pages, and several brain regions. Off-target confounds insufficiently flagged."
+    metadata_quality_score: 3
+    rationale_short: "Multiple truncated fields (key_findings, contributions, limitations, connections) severely undermine completeness and traceability for future synthesis."
     top_issues:
       - "Multiple fields truncated mid-sentence"
-      - "Frameworks and wiki_pages left empty"
-      - "QND key findings incomplete"
-    suggested_fix: "Complete all truncated fields (key_findings, contributions, limitations, connections). Populate frameworks and wiki_pages."
-  -
-    paper_id: manns2006_declarative_memory_evolution
-    title: "Evolution of Declarative Memory"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Multiple truncated fields undermine completeness. Missing frameworks, wiki_pages, and brain regions (perirhinal, postrhinal, DG, subiculum). Key findings cut off."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Brain regions list incomplete"
-      - "Frameworks and wiki_pages empty"
-    suggested_fix: "Complete all truncated fields; add perirhinal, postrhinal, DG, subiculum; populate frameworks and wiki_pages."
-  -
-    paper_id: mcneill2021_astrocytes_ion_channels
-    title: "Ion Channels and Electrophysiological Properties of Astrocytes: Implications for Emergent Stimulation Technologies"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Key findings and contributions are truncated, losing critical content on Na+ channels, Ca2+ signalling, and tool critique. Missing frameworks and wiki_pages. Brain regions incomplete."
-    top_issues:
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Frameworks and wiki_pages left empty"
-      - "Brain regions list incomplete for review scope"
-    suggested_fix: "Complete all truncated fields; populate frameworks and wiki_pages; add cortex, optic nerve, cerebellum to brain_regions."
-  -
-    paper_id: mensh2017_structuring_papers
-    title: "Ten simple rules for structuring papers"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Summary is clear but truncated in multiple fields, lacks wiki_pages/frameworks linkage, and has questionable relevance for a neuroscience research wiki."
-    top_issues:
-      - "Multiple fields visibly truncated mid-sentence"
-      - "No neuroscience content; wiki relevance unclear"
-      - "Frameworks and wiki_pages fields left empty"
-    suggested_fix: "Complete all truncated fields; justify inclusion in neuroscience wiki; populate frameworks and wiki_pages."
-  -
-    paper_id: muller1996_bergmann_glial_coupling
-    title: "Electrical Coupling Among Bergmann Glial Cells and Its Modulation by Glutamate Receptor Activation"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good specificity in findings but truncated fields, empty brain_regions/frameworks, and polluted keyword list with excessive unstructured citations undermine wiki utility."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "brain_regions and frameworks empty"
-      - "connections_keywords is unstructured citation dump"
-    suggested_fix: "Complete all truncated fields; populate brain_regions (cerebellum); add frameworks; restructure keywords separating concepts from citations."
-  -
-    paper_id: nour2015_neurodevelopmental_schizophrenia
-    title: "Interpreting the neurodevelopmental hypothesis of schizophrenia in the context of normal brain development and ageing"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Decent synthesis of a theoretical commentary but brain_regions, frameworks, and wiki_pages are empty; connections_keywords truncated; limitations cut off."
-    top_issues:
-      - "Empty brain_regions, frameworks, wiki_pages fields"
-      - "Connections and limitations text truncated"
-      - "No specific brain regions named explicitly"
-    suggested_fix: "Populate brain_regions (e.g., prefrontal, association cortex), frameworks, wiki_pages; complete truncated fields."
-  -
-    paper_id: novikovskaya2021_hunting_behaviour_voles
-    title: "Hunting behaviour in arvicoline rodents"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good behavioral detail but multiple fields are truncated mid-sentence, keywords/frameworks incomplete, and brain_regions/wiki_pages empty despite relevance to ethology wiki pages."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Keywords and frameworks fields incomplete"
-      - "Brain regions and wiki_pages left empty"
-    suggested_fix: "Complete all truncated fields; populate keywords, frameworks, and wiki_pages; add full phylogenetic analysis caveat."
-  -
-    paper_id: olson2020_secondary_motor_cortex_navigation
-    title: "Secondary Motor Cortex Transforms Spatial Information into Planned Action during Navigation"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 2
-    metadata_quality_score: 2
-    rationale_short: "Multiple fields truncated, brain_regions omits M2 (the paper's focus), frameworks empty, wiki_page link is tangential to actual contribution."
-    top_issues:
-      - "Brain regions missing M2, PPC listed wrong"
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Wiki page poorly matched to content"
-    suggested_fix: "Complete all truncated fields; set brain_regions to M2/MOs primarily; add frameworks; reassign wiki page."
-  -
-    paper_id: otchy2015_neural_circuit_motor
-    title: "Acute off-target effects of neural circuit manipulations"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good conceptual clarity and specific findings, but brain_regions omits HVC, Nif, motor cortex; frameworks and wiki_pages empty; several fields truncated."
-    top_issues:
-      - "Brain regions critically incomplete and misleading"
-      - "Multiple fields truncated mid-sentence"
-      - "Frameworks and wiki_pages left empty"
-    suggested_fix: "Add HVC, Nif, motor cortex to brain_regions; complete all truncated fields; populate frameworks and wiki_pages."
-  -
-    paper_id: pallanti2015_adhd_schizophrenia
-    title: "Raising attention to attention deficit hyperactivity disorder in schizophrenia"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Multiple truncated fields lose critical content. Framework tag 'reinforcement_learning' is incorrect for this review. Brain regions listed without justification from text."
-    top_issues:
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Framework tag 'reinforcement_learning' is spurious"
-      - "Brain regions lack contextual justification"
-    suggested_fix: "Complete all truncated fields; replace framework with RDoC; justify brain region tags with specific claims from paper."
-  -
-    paper_id: panteleeva2020_hunting_behavior_rodents
-    title: "Facultative Hunting Behavior in Rodents as a Possible Evolutionarily Stable Strategy"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good behavioral detail but truncated fields, weak brain region justification, empty frameworks/wiki_pages, and ESS claim lacks genetic evidence."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Brain region 'amygdala' poorly justified"
-      - "Empty frameworks and wiki_pages fields"
-    suggested_fix: "Complete all truncated fields; justify or remove amygdala tag; populate frameworks and wiki_pages appropriately."
-  -
-    paper_id: park2020_basal_ganglia_action
-    title: "Basal Ganglia Circuits for Action Specification"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good conceptual summary but truncated fields, mismatched keywords/brain_regions, and poorly chosen framework and wiki_page undermine reliability for synthesis."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Framework 'reinforcement_learning' is mismatched"
-      - "Brain regions missing GPe GPi SNr SC"
-    suggested_fix: "Complete all truncated fields; replace framework with gain_modulation/action_specification; add GPi, SNr, GPe, SC to brain_regions."
-  -
-    paper_id: parvizi2013_electrical_stimulation_cingulate
-    title: "The Will to Persevere Induced by Electrical Stimulation of the Human Cingulate Gyrus"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 3
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good phenomenological detail but multiple fields are truncated, brain_regions omits the primary target (aMCC), and frameworks/wiki_pages are empty."
-    top_issues:
-      - "Brain_regions missing aMCC, the key site"
-      - "Multiple fields visibly truncated mid-sentence"
-      - "Frameworks and wiki_pages completely empty"
-    suggested_fix: "Complete all truncated fields; add aMCC to brain_regions; populate frameworks and wiki_pages."
-  -
-    paper_id: paulson2000_cyclic_amp_gap_junction
-    title: "Cyclic AMP and LDL trigger a rapid enhancement in gap junction assembly through a stimulation of connexin trafficking"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good specificity with quantitative data, but multiple fields are truncated mid-sentence, empty metadata fields, and this is a cell biology paper with no neuroscience framing."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Empty brain_regions, frameworks, wiki_pages fields"
-      - "Neuroscience relevance not established"
-    suggested_fix: "Complete all truncated fields; populate or justify empty metadata; clarify neuroscience relevance for wiki inclusion."
-  -
-    paper_id: qu2002_voltage_gate_gap_junction
-    title: "Function of the voltage gate of gap junction channels: Selective exclusion of molecules"
-    overall_score: 3
-    action: revise
-    clarity_score: 4
-    specificity_score: 4
-    traceability_score: 3
-    metadata_quality_score: 2
-    rationale_short: "Good specificity in findings but multiple fields are truncated, metadata fields empty, and keywords are polluted with prose rather than clean terms."
-    top_issues:
-      - "Multiple fields truncated mid-sentence"
-      - "Empty brain_regions, frameworks, wiki_pages fields"
-      - "Keywords section contains prose not keywords"
-    suggested_fix: "Complete all truncated fields, populate empty metadata, extract clean keyword list separate from citations."
+      - "Brain regions list too sparse for review"
+      - "Neurobiological models incompletely specified"
+    suggested_fix: "Complete all truncated fields; fully specify the three neurobiological models; expand brain_regions and connections_keywords."

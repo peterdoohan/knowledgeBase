@@ -12,13 +12,18 @@ contribution_type: review
 species:
   - human
 methods:
-  - electrophysiology
-  - fmri
+  - narrative_review
+  - pet_literature_synthesis
+  - fmri_literature_synthesis
 brain_regions:
   - striatum
   - ventral_striatum
   - nucleus_accumbens
   - ventral_tegmental_area
+frameworks:
+  - aberrant_salience_hypothesis
+  - predictive_coding
+  - incentive_salience_model
 keywords:
   - aberrant_salience_hypothesis
   - mesostriatal_dopamine_dysfunction

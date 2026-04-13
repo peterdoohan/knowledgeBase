@@ -14,6 +14,14 @@ species:
   - human
 brain_regions:
   - anterior_cingulate_cortex
+  - dopaminergic_pathways
+  - blood_brain_barrier
+frameworks:
+  - three_neurobiological_models_of_treatment_resistance
+  - TRRIP_working_group_guidelines
+  - pseudo_resistance_framework
+  - primary_secondary_treatment_resistance_distinction
+  - precision_psychiatry_biomarkers
 keywords:
   - treatment_resistant_schizophrenia_trs
   - treatment_resistant_depression_trd
@@ -27,13 +35,6 @@ keywords:
   - psychiatric_guideline_heterogeneity
   - treatment_resistance_definition_operationalisation
   - precision_psychiatry_biomarkers
-  - treatment
-  - resistance
-  - psychiatry
-  - state
-  - art
-  - new
-  - directions
 ---
 
 ### One-line summary

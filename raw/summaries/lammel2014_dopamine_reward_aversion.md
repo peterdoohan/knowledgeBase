@@ -15,17 +15,23 @@ species:
 methods:
   - optogenetics
   - electrophysiology
-  - fmri
+  - retrograde_tracing
+  - patch_clamp
+  - in_vivo_microdialysis
+  - conditioned_place_preference
 brain_regions:
-  - prefrontal_cortex
-  - medial_prefrontal_cortex
-  - nucleus_accumbens
   - ventral_tegmental_area
-  - substantia_nigra
-  - amygdala
+  - nucleus_accumbens
+  - medial_prefrontal_cortex
+  - prefrontal_cortex
   - basolateral_amygdala
+  - lateral_habenula
+  - rostromedial_tegmental_nucleus
+  - laterodorsal_tegmentum
+  - substantia_nigra
 frameworks:
   - reinforcement_learning
+  - reward_prediction_error
 keywords:
   - dopamine_neuron_heterogeneity
   - vta_subpopulations
@@ -64,14 +70,11 @@ For decades, midbrain dopamine (DA) neurons were treated as a functionally homog
 ---
 
 ### Methods
-
 This is a narrative review covering literature up to early 2013, with particular emphasis on studies from the Malenka laboratory and closely related work.
 
-- **Scope**: rodent (primarily mouse) studies of VTA DA neuron anatomy, physiology, and behaviour; some primate single-unit data and human fMRI included for context.
+- **Scope**: rodent (primarily mouse) studies of VTA DA neuron anatomy, physiology, and behaviour; some primate single-unit data included for context.
 - **Key techniques reviewed**: retrograde tracing with fluorescent retrobeads; patch-clamp slice electrophysiology of identified DA subpopulations; optogenetics (ChR2-based activation of specific inputs); conditioned place preference/aversion assays; in vivo microdialysis; social defeat and chronic mild stress models of depression.
 - **Synthesis method**: narrative, organised thematically — heterogeneity of the mesocorticolimbic system, afferent control of DA subpopulations, stress and depression, and drug-induced synaptic plasticity.
-
----
 
 ### Key findings
 

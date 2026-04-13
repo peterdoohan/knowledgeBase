@@ -6,13 +6,15 @@ authors:
   - "Daniel Durstewitz"
   - "Quentin J.M. Huys"
   - "Georgia Koppe"
-year: 2020
+year: 2021
 journal: "Biological Psychiatry: Cognitive Neuroscience and Neuroimaging"
 paper_type: review
 contribution_type: theoretical
 methods:
-  - fmri
+  - recurrent_neural_network_inference
+  - delay_embedding
   - dynamic_causal_modelling
+  - ecological_momentary_assessment
 brain_regions:
   - hippocampus
   - prefrontal_cortex

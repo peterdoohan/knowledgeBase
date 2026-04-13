@@ -8,10 +8,9 @@ year: 2008
 journal: "Trends in Cognitive Sciences"
 paper_type: review
 contribution_type: review
-species:
-  - human
 methods:
-  - fmri
+  - narrative_review
+  - computational_modeling
 brain_regions:
   - prefrontal_cortex
   - orbitofrontal_cortex

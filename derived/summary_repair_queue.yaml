@@ -1,0 +1,5031 @@
+generated_at: "2026-04-13T11:17:33.005967+00:00"
+entries:
+  -
+    paper_id: jonesgotman1977_design_fluency_frontal
+    title: "Design Fluency: The Invention of Nonsense Drawings after Focal Cortical Lesions (inferred — see note)"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+      - source_poor
+      - uncertain_identity_or_conversion_failure
+    severity: 5
+    source_path: raw/mds/jonesgotman1977_design_fluency_frontal.md
+    source_quality: poor
+    omitted_image_marker_count: 223
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - after
+    duplicate_group:
+      - jonesgotman1977_design_fluency_frontal
+    opus_action: revise
+    opus_score: 2
+  -
+    paper_id: waskom2021_seaborn_statistical
+    title: "seaborn: statistical data visualization"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_missing
+    severity: 5
+    source_path: ""
+    source_quality: missing
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - waskom2021_seaborn_statistical
+      - waskom2021_seaborn_visualization_python
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: anderson2019_cannabidiol_clobazam_seizure
+    title: "Coadministered cannabidiol and clobazam: Preclinical evidence for both pharmacodynamic and pharmacokinetic interactions"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_missing
+    severity: 5
+    source_path: ""
+    source_quality: missing
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - anderson2019_cannabidiol_clobazam_seizure
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: anderson2021_cannabigerolic_seizures
+    title: "Cannabigerolic acid, a major biosynthetic precursor molecule in cannabis, exhibits divergent effects on seizures in mouse models of epilepsy"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_missing
+    severity: 5
+    source_path: ""
+    source_quality: missing
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - anderson2021_cannabigerolic_seizures
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: maisson2023_navigational_variables_prefrontal
+    title: "Widespread coding of navigational variables in prefrontal cortex"
+    issues:
+      - empty_wiki_pages
+      - source_missing
+    severity: 5
+    source_path: ""
+    source_quality: missing
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - maisson2023_navigational_variables_prefrontal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: momennejad2018_offline_replay_planning
+    title: "Offline replay supports planning in human reinforcement learning"
+    issues:
+      - polluted_keywords
+      - source_missing
+    severity: 5
+    source_path: ""
+    source_quality: missing
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - momennejad2018_offline_replay_planning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: steffenach2005_spatial_memory_entorhinal
+    title: "Spatial Memory in the Rat Requires the Dorsolateral Band of the Entorhinal Cortex"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_missing
+    severity: 5
+    source_path: ""
+    source_quality: missing
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - steffenach2005_spatial_memory_entorhinal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: yang2022_thalamus_frontal_decision
+    title: "Thalamus-driven functional populations in frontal cortex support decision-making"
+    issues:
+      - empty_wiki_pages
+      - uncertain_identity_or_conversion_failure
+    severity: 5
+    source_path: raw/mds/yang2022_thalamus_frontal_decision.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yang2022_thalamus_frontal_decision
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: adams_delusions_inference_attractors
+    title: "Everything is connected: Inference and attractors in delusions"
+    issues:
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/adams_delusions_inference_attractors.md
+    source_quality: poor
+    omitted_image_marker_count: 26
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - adams_delusions_inference_attractors
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: balaguer2016_hierarchical_planning_subway
+    title: "Neural Mechanisms of Hierarchical Planning in a Virtual Subway Network"
+    issues:
+      - opus_summary_revise
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/balaguer2016_hierarchical_planning_subway.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - balaguer2016_hierarchical_planning_subway
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: barlow1959_sensory_transformations
+    title: "Possible Principles Underlying the Transformations of Sensory Messages"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/barlow1959_sensory_transformations.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - barlow1959_sensory_transformations
+      - barlow2012_sensory_communication
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: barlow2012_sensory_communication
+    title: "Possible Principles Underlying the Transformations of Sensory Messages"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/barlow2012_sensory_communication.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - barlow1959_sensory_transformations
+      - barlow2012_sensory_communication
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: botvinick2008_hierarchical_behavior_prefrontal
+    title: "Hierarchical models of behavior and prefrontal function"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/botvinick2008_hierarchical_behavior_prefrontal.md
+    source_quality: good
+    omitted_image_marker_count: 4
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - botvinick2008_hierarchical_behavior_prefrontal
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: braun2018_maps_network_mental_disorders
+    title: "From Maps to Multi-dimensional Network Mechanisms of Mental Disorders"
+    issues:
+      - empty_frameworks
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/braun2018_maps_network_mental_disorders.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - braun2018_maps_network_mental_disorders
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: caplan2001_thought_disorder_adhd
+    title: "Thought Disorder in Attention-Deficit Hyperactivity Disorder"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/caplan2001_thought_disorder_adhd.md
+    source_quality: good
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - caplan2001_thought_disorder_adhd
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: chandra2024_modularity_synaptic_hierarchy
+    title: "Self-organized emergence of modularity, hierarchy, and mirror reversals from competitive synaptic growth in a developmental model of the visual pathway"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/chandra2024_modularity_synaptic_hierarchy.md
+    source_quality: poor
+    omitted_image_marker_count: 36
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - self
+      - organized
+      - emergence
+      - mirror
+      - reversals
+    duplicate_group:
+      - chandra2024_modularity_synaptic_hierarchy
+      - chandra2024_visual_cortex_development
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: chang2020_cuneiform_nucleus_locomotor_dbs
+    title: "Dissecting Brainstem Locomotor Circuits: Converging Evidence for Cuneiform Nucleus Stimulation"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/chang2020_cuneiform_nucleus_locomotor_dbs.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - chang2020_cuneiform_nucleus_locomotor_dbs
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: coutrot2022_entropy_street_navigation
+    title: "Entropy of city street networks linked to future spatial navigation ability"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/coutrot2022_entropy_street_navigation.md
+    source_quality: poor
+    omitted_image_marker_count: 25
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - coutrot2022_entropy_street_navigation
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: craver2013_mechanisms_discovery_biology
+    title: "In Search of Mechanisms: Discoveries across the Life Sciences"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/craver2013_mechanisms_discovery_biology.md
+    source_quality: poor
+    omitted_image_marker_count: 41
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - craver2013_mechanisms_discovery_biology
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: degrave2022_reinforcement_tokamak_control
+    title: "Magnetic control of tokamak plasmas through deep reinforcement learning"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/degrave2022_reinforcement_tokamak_control.md
+    source_quality: mixed
+    omitted_image_marker_count: 16
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - degrave2022_reinforcement_tokamak_control
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: durstewitz2020_psychiatric_network_dynamics
+    title: "Psychiatric Illnesses as Disorders of Network Dynamics"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/durstewitz2020_psychiatric_network_dynamics.md
+    source_quality: mixed
+    omitted_image_marker_count: 8
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - durstewitz2020_psychiatric_network_dynamics
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: fang2023_striatal_pallidal_wiring
+    title: "Updating the striatal–pallidal wiring diagram"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/fang2023_striatal_pallidal_wiring.md
+    source_quality: mixed
+    omitted_image_marker_count: 8
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - fang2023_striatal_pallidal_wiring
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: fried2020_mental_health_complexity
+    title: "Systems all the way down: embracing complexity in mental health research"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+      - suspicious_frameworks
+    severity: 4
+    source_path: raw/mds/fried2020_mental_health_complexity.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - fried2020_mental_health_complexity
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: hayes2020_complex_systems_psychotherapy
+    title: "A complex systems approach to the study of change in psychotherapy"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/hayes2020_complex_systems_psychotherapy.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - systems
+    duplicate_group:
+      - hayes2020_complex_systems_psychotherapy
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: hinze2006_ice_rat_burrow
+    title: "The burrow system of the African ice rat Otomys sloggetti robertsi"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/hinze2006_ice_rat_burrow.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - hinze2006_burrow_animal_habitat
+      - hinze2006_ice_rat_burrow
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: howes2016_aberrant_salience_schizophrenia
+    title: "Dopamine and the aberrant salience hypothesis of schizophrenia"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/howes2016_aberrant_salience_schizophrenia.md
+    source_quality: good
+    omitted_image_marker_count: 0
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - howes2016_aberrant_salience_schizophrenia
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: howes2022_treatment_resistance_psychiatry
+    title: "Treatment resistance in psychiatry: state of the art and new directions"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+      - suspicious_brain_regions
+      - suspicious_frameworks
+    severity: 4
+    source_path: raw/mds/howes2022_treatment_resistance_psychiatry.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - howes2022_treatment_resistance_psychiatry
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: ivanov2021_psychotropic_drugs_mental_illness
+    title: "Why Psychotropic Drugs Don't Cure Mental Illness—But Should They?"
+    issues:
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/ivanov2021_psychotropic_drugs_mental_illness.md
+    source_quality: good
+    omitted_image_marker_count: 1
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - mental
+    duplicate_group:
+      - ivanov2021_psychotropic_drugs_mental_illness
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: jauhar2022_schizophrenia
+    title: Schizophrenia
+    issues:
+      - empty_frameworks
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/jauhar2022_schizophrenia.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jauhar2022_schizophrenia
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: kim2013_pma_ltp
+    title: "Phorbol 12-Myristate 13-Acetate Enhances Long-Term Potentiation in the Hippocampus through Activation of Protein Kinase C δ and ε"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/kim2013_pma_ltp.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kim2013_pma_ltp
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: kolb2022_brenda_milner_frontal_lobes
+    title: "Brenda Milner: Pioneer of the Study of the Human Frontal Lobes"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/kolb2022_brenda_milner_frontal_lobes.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kolb2022_brenda_milner_frontal_lobes
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: kubska2021_single_neuron_cognition
+    title: "How Human Single-Neuron Recordings Can Help Us Understand Cognition: Insights from Memory Studies"
+    issues:
+      - empty_frameworks
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/kubska2021_single_neuron_cognition.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kubska2021_single_neuron_cognition
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: lammel2014_dopamine_reward_aversion
+    title: "Reward and aversion in a heterogeneous midbrain dopamine system"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/lammel2014_dopamine_reward_aversion.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - lammel2014_dopamine_reward_aversion
+      - lammel2014_dopamine_reward_aversion_b
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: lee2022_task_specificity_parietal
+    title: "Task specificity in mouse parietal cortex"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/lee2022_task_specificity_parietal.md
+    source_quality: poor
+    omitted_image_marker_count: 32
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - lee2022_task_specificity_parietal
+      - lee2022_task_specificity_parietal_cortex
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: lee2022_task_specificity_parietal_cortex
+    title: "Task specificity in mouse parietal cortex"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/lee2022_task_specificity_parietal_cortex.md
+    source_quality: poor
+    omitted_image_marker_count: 25
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - lee2022_task_specificity_parietal
+      - lee2022_task_specificity_parietal_cortex
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: linson2019_ptsd_active_inference
+    title: "Reframing PTSD for computational psychiatry with the active inference framework"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/linson2019_ptsd_active_inference.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - linson2019_ptsd_active_inference
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: manjarrez2016_gap_junction_blockers
+    title: "Gap Junction Blockers: An Overview of their Effects on Induced Seizures in Animal Models"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/manjarrez2016_gap_junction_blockers.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - effects
+    duplicate_group:
+      - manjarrez2016_gap_junction_blockers
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: manns2006_declarative_memory_evolution
+    title: "Evolution of Declarative Memory"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/manns2006_declarative_memory_evolution.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - manns2006_declarative_memory_evolution
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: mcneill2021_astrocytes_ion_channels
+    title: "Ion Channels and Electrophysiological Properties of Astrocytes: Implications for Emergent Stimulation Technologies"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/mcneill2021_astrocytes_ion_channels.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mcneill2021_astrocytes_ion_channels
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: mensh2017_structuring_papers
+    title: "Ten simple rules for structuring papers"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/mensh2017_structuring_papers.md
+    source_quality: mixed
+    omitted_image_marker_count: 12
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mensh2017_structuring_papers
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: monaco2021_dynamical_intelligence
+    title: "A brain basis of dynamical intelligence for AI and computational neuroscience"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/monaco2021_dynamical_intelligence.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - monaco2021_dynamical_intelligence
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: muller1996_bergmann_glial_coupling
+    title: "Electrical Coupling Among Bergmann Glial Cells and Its Modulation by Glutamate Receptor Activation"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/muller1996_bergmann_glial_coupling.md
+    source_quality: mixed
+    omitted_image_marker_count: 11
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - muller1996_bergmann_glial_coupling
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: nour2015_neurodevelopmental_schizophrenia
+    title: "Interpreting the neurodevelopmental hypothesis of schizophrenia in the context of normal brain development and ageing"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/nour2015_neurodevelopmental_schizophrenia.md
+    source_quality: good
+    omitted_image_marker_count: 1
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - development
+    duplicate_group:
+      - nour2015_neurodevelopmental_schizophrenia
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: novikovskaya2021_hunting_behaviour_voles
+    title: "Hunting behaviour in arvicoline rodents"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/novikovskaya2021_hunting_behaviour_voles.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - novikovskaya2021_hunting_behaviour_voles
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: olson2020_secondary_motor_cortex_navigation
+    title: "Secondary Motor Cortex Transforms Spatial Information into Planned Action during Navigation"
+    issues:
+      - empty_frameworks
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/olson2020_secondary_motor_cortex_navigation.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - olson2020_secondary_motor_cortex_navigation
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: otchy2015_neural_circuit_motor
+    title: "Acute off-target effects of neural circuit manipulations"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/otchy2015_neural_circuit_motor.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - effects
+    duplicate_group:
+      - otchy2015_neural_circuit_motor
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: pallanti2015_adhd_schizophrenia
+    title: "Raising attention to attention deficit hyperactivity disorder in schizophrenia"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/pallanti2015_adhd_schizophrenia.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - pallanti2015_adhd_schizophrenia
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: panteleeva2020_hunting_behavior_rodents
+    title: "Facultative Hunting Behavior in Rodents as a Possible Evolutionarily Stable Strategy"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/panteleeva2020_hunting_behavior_rodents.md
+    source_quality: good
+    omitted_image_marker_count: 1
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - panteleeva2020_hunting_behavior_rodents
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: park2020_basal_ganglia_action
+    title: "Basal Ganglia Circuits for Action Specification"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/park2020_basal_ganglia_action.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - park2020_basal_ganglia_action
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: parvizi2013_electrical_stimulation_cingulate
+    title: "The Will to Persevere Induced by Electrical Stimulation of the Human Cingulate Gyrus"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/parvizi2013_electrical_stimulation_cingulate.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - parvizi2013_electrical_stimulation_cingulate
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: paulson2000_cyclic_amp_gap_junction
+    title: "Cyclic AMP and LDL trigger a rapid enhancement in gap junction assembly through a stimulation of connexin trafficking"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/paulson2000_cyclic_amp_gap_junction.md
+    source_quality: mixed
+    omitted_image_marker_count: 8
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - paulson2000_cyclic_amp_gap_junction
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: qu2002_voltage_gate_gap_junction
+    title: "Function of the voltage gate of gap junction channels: Selective exclusion of molecules"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/qu2002_voltage_gate_gap_junction.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - qu2002_voltage_gate_gap_junction
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: rackauskas2007_gap_junction_permeability
+    title: "Permeability of homotypic and heterotypic gap junction channels formed of cardiac connexins mCx30.2, Cx40, Cx43, and Cx45"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/rackauskas2007_gap_junction_permeability.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - rackauskas2007_gap_junction_permeability
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: reinert2021_prefrontal_categorization_b
+    title: "Mouse prefrontal cortex represents learned rules for categorization"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/reinert2021_prefrontal_categorization_b.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - reinert2021_mouse_prefrontal_categorization
+      - reinert2021_prefrontal_categorization
+      - reinert2021_prefrontal_categorization_b
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: reznikova2017_hunting_behavior_mouse
+    title: "Studying hunting behaviour in the striped field mouse using data compression"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/reznikova2017_hunting_behavior_mouse.md
+    source_quality: good
+    omitted_image_marker_count: 4
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - reznikova2017_hunting_behavior_mouse
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: roscow2021_memory_replay_learning
+    title: "Learning offline: memory replay in biological and artificial reinforcement learning"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/roscow2021_memory_replay_learning.md
+    source_quality: mixed
+    omitted_image_marker_count: 17
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - roscow2021_memory_replay_learning
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: rule2020_child_hacker
+    title: "The Child as Hacker"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/rule2020_child_hacker.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - rule2020_child_hacker
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: sahinovic2022_cbd_exercise_physiology
+    title: "Effects of Cannabidiol on Exercise Physiology and Bioenergetics: A Randomised Controlled Pilot Trial"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/sahinovic2022_cbd_exercise_physiology.md
+    source_quality: mixed
+    omitted_image_marker_count: 13
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - effects
+    duplicate_group:
+      - sahinovic2022_cbd_exercise_physiology
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: sakai2003_motor_learning_chunking
+    title: "Chunking during human visuomotor sequence learning"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/sakai2003_motor_learning_chunking.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - sakai2003_motor_learning_chunking
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: schapiro2013_event_community_structure
+    title: "Neural representations of events arise from temporal community structure"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/schapiro2013_event_community_structure.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - schapiro2013_event_community_structure
+      - schapiro2013_event_representation_memory
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: schapiro2013_event_representation_memory
+    title: "Neural representations of events arise from temporal community structure"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/schapiro2013_event_representation_memory.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - schapiro2013_event_community_structure
+      - schapiro2013_event_representation_memory
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: seabold2010_statsmodels_econometric
+    title: "Statsmodels: Econometric and Statistical Modeling with Python"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/seabold2010_statsmodels_econometric.md
+    source_quality: good
+    omitted_image_marker_count: 2
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - seabold2010_statsmodels_econometric
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: silver2021_reward_artificial_intelligence
+    title: "Reward is enough"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/silver2021_reward_artificial_intelligence.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - silver2021_reward_artificial_intelligence
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: sorscher2022_grid_cells_path_integration
+    title: "When and why grid cells appear in trained path integrators"
+    issues:
+      - empty_frameworks
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/sorscher2022_grid_cells_path_integration.md
+    source_quality: mixed
+    omitted_image_marker_count: 10
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - sorscher2022_grid_cells_path_integration
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: sutton1999_temporal_abstraction_rl
+    title: "Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/sutton1999_temporal_abstraction_rl.md
+    source_quality: poor
+    omitted_image_marker_count: 49
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+      - between
+    duplicate_group:
+      - sutton1999_temporal_abstraction_rl
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: tanji2007_behavioral_planning_prefrontal
+    title: "Concept-based behavioral planning and the lateral prefrontal cortex"
+    issues:
+      - opus_summary_revise
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/tanji2007_behavioral_planning_prefrontal.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - tanji2007_behavioral_planning_prefrontal
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: tolman1948_cognitive_maps_rats
+    title: "Cognitive Maps in Rats and Men"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tolman1948_cognitive_maps_rats.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - tolman1948_cognitive_maps_rats
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: vallat2018_pingouin_statistics_python
+    title: "Pingouin: statistics in Python"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/vallat2018_pingouin_statistics_python.md
+    source_quality: good
+    omitted_image_marker_count: 1
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - vallat2018_pingouin_statistics_python
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: vicente2020_cortico_basal_ganglia_motor
+    title: "Cortico-basal ganglia circuits underlying dysfunctional control of motor behaviors in neuropsychiatric disorders"
+    issues:
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/vicente2020_cortico_basal_ganglia_motor.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - vicente2020_cortico_basal_ganglia_motor
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: voorn2004_striatum_dorsal_ventral
+    title: "Putting a spin on the dorsal-ventral divide of the striatum"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/voorn2004_striatum_dorsal_ventral.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - voorn2004_striatum_dorsal_ventral
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: wang2020_alternating_theta_sequences
+    title: "Alternating sequences of future and past behavior encoded within hippocampal theta oscillations"
+    issues:
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/wang2020_alternating_theta_sequences.md
+    source_quality: mixed
+    omitted_image_marker_count: 13
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wang2020_alternating_theta_sequences
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: waskom2021_seaborn_visualization_python
+    title: "seaborn: statistical data visualization"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/waskom2021_seaborn_visualization_python.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - waskom2021_seaborn_statistical
+      - waskom2021_seaborn_visualization_python
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: whittington2019_bayesian_learning_brain
+    title: "A Bayesian account of learning and generalising representations in the brain"
+    issues:
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2019_bayesian_learning_brain.md
+    source_quality: poor
+    omitted_image_marker_count: 143
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2019_bayesian_learning_brain
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: wilson2014_best_practices_scientific
+    title: "Best Practices for Scientific Computing"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/wilson2014_best_practices_scientific.md
+    source_quality: good
+    omitted_image_marker_count: 2
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wilson2014_best_practices_scientific
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: wilson2017_scientific_computing
+    title: "Good enough practices in scientific computing"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wilson2017_scientific_computing.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wilson2017_good_practices_computing
+      - wilson2017_scientific_computing
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: yau2024_spatial_biology_imaging
+    title: "INSIHGT: an accessible multi-scale, multimodal 3D spatial biology platform"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/yau2024_spatial_biology_imaging.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yau2024_spatial_biology_imaging
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: yuan2024_experience_replay_successor
+    title: "Improving Experience Replay with Successor Representation"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/yuan2024_experience_replay_successor.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yuan2024_experience_replay_successor
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: zeithamova2012_hippocampal_inference
+    title: "The hippocampus and inferential reasoning: building memories to navigate future decisions"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+    severity: 4
+    source_path: raw/mds/zeithamova2012_hippocampal_inference.md
+    source_quality: mixed
+    omitted_image_marker_count: 9
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - zeithamova2012_hippocampal_inference
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: zhou2021_schema_orbitofrontal
+    title: "Evolving schema representations in orbitofrontal ensembles during learning"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - opus_summary_revise
+      - source_poor
+    severity: 4
+    source_path: raw/mds/zhou2021_schema_orbitofrontal.md
+    source_quality: poor
+    omitted_image_marker_count: 38
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - zhou2021_schema_orbitofrontal
+    opus_action: revise
+    opus_score: 3
+  -
+    paper_id: adams2021_pyramidal_synaptic_gain
+    title: "Computational Modeling of Electroencephalography and Functional Magnetic Resonance Imaging Paradigms Indicates a Consistent Loss of Pyramidal Cell Synaptic Gain in Schizophrenia"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/adams2021_pyramidal_synaptic_gain.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - adams2021_pyramidal_synaptic_gain
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ahmadlou2021_novelty_seeking_behavior
+    title: "A cell type–specific cortico-subcortical brain circuit for investigatory and novelty-seeking behavior"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ahmadlou2021_novelty_seeking_behavior.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ahmadlou2021_novelty_seeking_behavior
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: akam2015_two_step_task_habits
+    title: "Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/akam2015_two_step_task_habits.md
+    source_quality: poor
+    omitted_image_marker_count: 41
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - akam2015_two_step_task_habits
+      - akam2015_two_step_task_simple_plans
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: akam2021_anterior_cingulate_model
+    title: "The Anterior Cingulate Cortex Predicts Future States to Mediate Model-Based Action Selection"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/akam2021_anterior_cingulate_model.md
+    source_quality: poor
+    omitted_image_marker_count: 58
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - akam2021_anterior_cingulate_model
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: alonso2021_hexmaze_cognitive_map
+    title: "The HexMaze: A Previous Knowledge Task on Map Learning for Mice"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/alonso2021_hexmaze_cognitive_map.md
+    source_quality: poor
+    omitted_image_marker_count: 44
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - alonso2021_hexmaze_cognitive_map
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ambrose2016_reverse_replay_hippocampal
+    title: "Reverse Replay of Hippocampal Place Cells Is Uniquely Modulated by Changing Reward"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ambrose2016_reverse_replay_hippocampal.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ambrose2016_reverse_replay_hippocampal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: anastasiades2021_circuit_medial_prefrontal
+    title: "Circuit organization of the rodent medial prefrontal cortex"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/anastasiades2021_circuit_medial_prefrontal.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - anastasiades2021_circuit_medial_prefrontal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: avigan2020_spatial_learning_hippocampus
+    title: "Flexible spatial learning requires both the dorsal and ventral hippocampus and their functional interactions with the prefrontal cortex"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/avigan2020_spatial_learning_hippocampus.md
+    source_quality: poor
+    omitted_image_marker_count: 27
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - avigan2020_spatial_learning_hippocampus
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: baker2022_representation_neuroscience_three_aspects
+    title: "Three aspects of representation in neuroscience"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/baker2022_representation_neuroscience_three_aspects.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - baker2022_representation_neuroscience_three_aspects
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: baram2021_entorhinal_ventromedial_rl
+    title: "Entorhinal and ventromedial prefrontal cortices abstract and generalize the structure of reinforcement learning problems"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/baram2021_entorhinal_ventromedial_rl.md
+    source_quality: poor
+    omitted_image_marker_count: 39
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - baram2021_entorhinal_ventromedial_rl
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: barreto2017_successor_features_transfer_c
+    title: "Successor Features for Transfer in Reinforcement Learning"
+    issues:
+      - empty_brain_regions
+      - source_poor
+    severity: 4
+    source_path: raw/mds/barreto2017_successor_features_transfer_c.md
+    source_quality: poor
+    omitted_image_marker_count: 47
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - barreto2017_successor_features_transfer_c
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: barron2020_neuronal_computation_inferential
+    title: "Neuronal Computation Underlying Inferential Reasoning in Humans and Mice"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/barron2020_neuronal_computation_inferential.md
+    source_quality: poor
+    omitted_image_marker_count: 193
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - barron2020_neuronal_computation_inferential
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: basu2021_ofc_navigation_goals
+    title: "The orbitofrontal cortex maps future navigational goals"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/basu2021_ofc_navigation_goals.md
+    source_quality: poor
+    omitted_image_marker_count: 31
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - basu2021_ofc_navigation_goals
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: behrens2018_cognitive_map_organizing_knowledge
+    title: "What Is a Cognitive Map? Organizing Knowledge for Flexible Behavior"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/behrens2018_cognitive_map_organizing_knowledge.md
+    source_quality: poor
+    omitted_image_marker_count: 54
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - behrens2018_cognitive_map_organizing_knowledge
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: berner2019_dota_reinforcement_learning
+    title: "Dota 2 with Large Scale Deep Reinforcement Learning"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/berner2019_dota_reinforcement_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 60
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - berner2019_dota_reinforcement_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: berners2022_hippocampal_replay_experience
+    title: "Hippocampal replays appear after a single experience and incorporate greater detail with more experience"
+    issues:
+      - empty_wiki_pages
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/berners2022_hippocampal_replay_experience.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - after
+    duplicate_group:
+      - berners2022_hippocampal_replay_experience
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: beyeler2019_sparse_coding_dimensionality
+    title: "Neural correlates of sparse coding and dimensionality reduction"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/beyeler2019_sparse_coding_dimensionality.md
+    source_quality: poor
+    omitted_image_marker_count: 46
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - beyeler2019_sparse_coding_dimensionality
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: bialek2022_behavior_dynamics_analysis
+    title: "On the dimensionality of behavior"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/bialek2022_behavior_dynamics_analysis.md
+    source_quality: poor
+    omitted_image_marker_count: 45
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - bialek2022_behavior_dynamics_analysis
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: binz2024_meta_learning_cognition
+    title: "Meta-Learned Models of Cognition"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/binz2024_meta_learning_cognition.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - binz2024_meta_learning_cognition
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: blancopolzo2024_dopamine_independent_reward
+    title: "Dopamine-independent effect of rewards on choices through hidden-state inference"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/blancopolzo2024_dopamine_independent_reward.md
+    source_quality: poor
+    omitted_image_marker_count: 34
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - blancopolzo2024_dopamine_independent_reward
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: boccara2019_grid_goal_attractor
+    title: "The entorhinal cognitive map is attracted to goals"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/boccara2019_grid_goal_attractor.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - boccara2019_grid_goal_attractor
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: bongioanni2021_novel_choice_neural
+    title: "Activation and disruption of a neural mechanism for novel choice in monkeys"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/bongioanni2021_novel_choice_neural.md
+    source_quality: poor
+    omitted_image_marker_count: 46
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - bongioanni2021_novel_choice_neural
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: botvinick2009_hierarchical_behavior_reinforcement
+    title: "Hierarchically organized behavior and its neural foundations: A reinforcement-learning perspective"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/botvinick2009_hierarchical_behavior_reinforcement.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - organized
+    duplicate_group:
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: botvinick2009_hierarchically_organized_behavior
+    title: "Hierarchically organized behavior and its neural foundations: A reinforcement-learning perspective"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/botvinick2009_hierarchically_organized_behavior.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - organized
+    duplicate_group:
+      - botvinick2009_hierarchical_behavior_reinforcement
+      - botvinick2009_hierarchically_organized_behavior
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: botvinick2020_deep_reinforcement_learning_neuro
+    title: "Deep Reinforcement Learning and Its Neuroscientific Implications"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/botvinick2020_deep_reinforcement_learning_neuro.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - botvinick2020_deep_reinforcement_learning_neuro
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: bowler2023_cortical_inputs_hippocampal_ca1
+    title: "Direct cortical inputs to hippocampal area CA1 transmit complementary signals for goal-directed navigation"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/bowler2023_cortical_inputs_hippocampal_ca1.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - bowler2023_cortical_inputs_hippocampal_ca1
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: bowling2022_reward_hypothesis_reinforcement
+    title: "Settling the Reward Hypothesis"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/bowling2022_reward_hypothesis_reinforcement.md
+    source_quality: poor
+    omitted_image_marker_count: 68
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - bowling2022_reward_hypothesis_reinforcement
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: buccino2020_spikeinterface_spike_sorting
+    title: "SpikeInterface, a unified framework for spike sorting"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/buccino2020_spikeinterface_spike_sorting.md
+    source_quality: poor
+    omitted_image_marker_count: 28
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - buccino2020_spikeinterface_spike_sorting
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: burak2009_path_integration_grid_cells
+    title: "Accurate Path Integration in Continuous Attractor Network Models of Grid Cells"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/burak2009_path_integration_grid_cells.md
+    source_quality: poor
+    omitted_image_marker_count: 32
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - burak2009_path_integration_grid_cells
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: bush2015_grid_cells_navigation_vector
+    title: "Using Grid Cells for Navigation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/bush2015_grid_cells_navigation_vector.md
+    source_quality: poor
+    omitted_image_marker_count: 67
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - bush2015_grid_cells_navigation_vector
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: butler2019_reward_locations_entorhinal_maps
+    title: "Remembered reward locations restructure entorhinal spatial maps"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/butler2019_reward_locations_entorhinal_maps.md
+    source_quality: poor
+    omitted_image_marker_count: 73
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - butler2019_reward_locations_entorhinal_maps
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: buzsaki2015_hippocampal_sharp_wave_ripple
+    title: "Hippocampal Sharp Wave-Ripple: A Cognitive Biomarker for Episodic Memory and Planning"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/buzsaki2015_hippocampal_sharp_wave_ripple.md
+    source_quality: poor
+    omitted_image_marker_count: 53
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - buzsaki2015_hippocampal_sharp_wave_ripple
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: campagner2023_cortico_collicular_shelter
+    title: "A cortico-collicular circuit for orienting to shelter during escape"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/campagner2023_cortico_collicular_shelter.md
+    source_quality: poor
+    omitted_image_marker_count: 39
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - campagner2023_cortico_collicular_shelter
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: carvalho2021_farm_object_centric
+    title: "Feature-Attending Recurrent Modules for Generalizing Object-Centric Behavior"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/carvalho2021_farm_object_centric.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - carvalho2021_farm_object_centric
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: chandra2024_visual_cortex_development
+    title: "Self-organized emergence of modularity, hierarchy, and mirror reversals from competitive synaptic growth in a developmental model of the visual pathway"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/chandra2024_visual_cortex_development.md
+    source_quality: poor
+    omitted_image_marker_count: 36
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - chandra2024_modularity_synaptic_hierarchy
+      - chandra2024_visual_cortex_development
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ciaramelli2008_vmPFC_navigation_wayfinding
+    title: "The role of ventromedial prefrontal cortex in navigation: A case of impaired wayfinding and rehabilitation"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/ciaramelli2008_vmPFC_navigation_wayfinding.md
+    source_quality: good
+    omitted_image_marker_count: 4
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - ciaramelli2008_vmPFC_wayfinding_navigation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ciaramelli2008_vmPFC_wayfinding_navigation
+    title: "The role of ventromedial prefrontal cortex in navigation: A case of impaired wayfinding and rehabilitation"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/ciaramelli2008_vmPFC_wayfinding_navigation.md
+    source_quality: good
+    omitted_image_marker_count: 4
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ciaramelli2008_vmPFC_navigation_wayfinding
+      - ciaramelli2008_vmPFC_wayfinding_navigation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: constantinescu2016_gridlike_conceptual_knowledge
+    title: "Organizing conceptual knowledge in humans with a gridlike code"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/constantinescu2016_gridlike_conceptual_knowledge.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - constantinescu2016_gridlike_conceptual_knowledge
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: correa2023_resource_rational_task_decomposition
+    title: "Humans decompose tasks by trading off utility and computational cost"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/correa2023_resource_rational_task_decomposition.md
+    source_quality: poor
+    omitted_image_marker_count: 49
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - correa2023_resource_rational_task_decomposition
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: darmohray2019_spatial_temporal_locomotor
+    title: "Spatial and Temporal Locomotor Learning in Mouse Cerebellum"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/darmohray2019_spatial_temporal_locomotor.md
+    source_quality: poor
+    omitted_image_marker_count: 27
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - darmohray2019_spatial_temporal_locomotor
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: daws2022_psilocybin_brain_integration
+    title: "Increased global integration in the brain after psilocybin therapy for depression"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/daws2022_psilocybin_brain_integration.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - after
+    duplicate_group:
+      - daws2022_psilocybin_brain_integration
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: decothi2022_predictive_spatial_navigation
+    title: "Predictive maps in rats and humans for spatial navigation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/decothi2022_predictive_spatial_navigation.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - decothi2022_predictive_spatial_navigation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: denbakker2023_sharp_wave_prefrontal_rule
+    title: "Sharp-wave-ripple-associated activity in the medial prefrontal cortex supports spatial rule switching"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/denbakker2023_sharp_wave_prefrontal_rule.md
+    source_quality: poor
+    omitted_image_marker_count: 32
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - denbakker2023_sharp_wave_prefrontal_rule
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: denbakker2024_mpfc_spatial_swr
+    title: "Neurons in the medial prefrontal cortex are involved in spatial tuning and signaling upcoming choice independently from hippocampal sharp-wave ripples"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/denbakker2024_mpfc_spatial_swr.md
+    source_quality: poor
+    omitted_image_marker_count: 34
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - denbakker2024_mpfc_spatial_swr
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: dienes2014_bayes_factor
+    title: "Using Bayes to get the most out of non-significant results"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/dienes2014_bayes_factor.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dienes2014_bayes_factor
+      - dienes2014_bayes_nonsignificant
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: dienes2014_bayes_nonsignificant
+    title: "Using Bayes to get the most out of non-significant results"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/dienes2014_bayes_nonsignificant.md
+    source_quality: good
+    omitted_image_marker_count: 3
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dienes2014_bayes_factor
+      - dienes2014_bayes_nonsignificant
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: dorrell2022_actionable_grid_cells
+    title: "Actionable Neural Representations: Grid Cells from Minimal Constraints"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/dorrell2022_actionable_grid_cells.md
+    source_quality: poor
+    omitted_image_marker_count: 124
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: dorrell2025_modularity_representations_range
+    title: "Range, Not Independence, Drives Modularity in Biologically Inspired Representations"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/dorrell2025_modularity_representations_range.md
+    source_quality: poor
+    omitted_image_marker_count: 126
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dorrell2025_modularity_representations_range
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: eldar2020_replay_planning
+    title: "The roles of online and offline replay in planning"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/eldar2020_replay_planning.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - eldar2020_replay_planning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: elgaby2023_behavioral_structure_mapping
+    title: "A Cellular Basis for Mapping Behavioural Structure"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/elgaby2023_behavioral_structure_mapping.md
+    source_quality: poor
+    omitted_image_marker_count: 55
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - elgaby2023_behavioral_structure_mapping
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: fernandez2019_ripples_memory_consolidation
+    title: "Long-duration hippocampal sharp wave ripples improve memory"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/fernandez2019_ripples_memory_consolidation.md
+    source_quality: poor
+    omitted_image_marker_count: 27
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - fernandez2019_ripples_memory_consolidation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ferreira2018_supraspinal_locomotion
+    title: "Connecting Circuits for Supraspinal Control of Locomotion"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ferreira2018_supraspinal_locomotion.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ferreira2018_supraspinal_locomotion
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: foster2021_cortico_basal_ganglia
+    title: "The mouse cortico–basal ganglia–thalamic network"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/foster2021_cortico_basal_ganglia.md
+    source_quality: poor
+    omitted_image_marker_count: 27
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - foster2021_cortico_basal_ganglia
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: gao2017_neural_dimensionality_dynamics
+    title: "A theory of multineuronal dimensionality, dynamics and measurement"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/gao2017_neural_dimensionality_dynamics.md
+    source_quality: poor
+    omitted_image_marker_count: 68
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - gao2017_neural_dimensionality_dynamics
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: george2022_stdp_predictive_maps
+    title: "Rapid learning of predictive maps with STDP and theta phase precession"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/george2022_stdp_predictive_maps.md
+    source_quality: poor
+    omitted_image_marker_count: 43
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - george2022_stdp_predictive_maps
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: gillespie2021_replay_past_experiences
+    title: "Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/gillespie2021_replay_past_experiences.md
+    source_quality: poor
+    omitted_image_marker_count: 58
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - gillespie2021_replay_past_experiences
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: grienberger2022_entorhinal_learning
+    title: "Entorhinal cortex directs learning-related changes in CA1 representations"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/grienberger2022_entorhinal_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - grienberger2022_entorhinal_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: grillner2020_motor_control_locomotion
+    title: "Current Principles of Motor Control, with Special Reference to Vertebrate Locomotion"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/grillner2020_motor_control_locomotion.md
+    source_quality: poor
+    omitted_image_marker_count: 30
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - grillner2020_motor_control_locomotion
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: haber2014_reward_circuit_incentive_learning
+    title: "The Neural Network Underlying Incentive-Based Learning: Implications for Interpreting Circuit Disruptions in Psychiatric Disorders"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/haber2014_reward_circuit_incentive_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - haber2014_reward_circuit_incentive_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: haber2016_corticostriatal_circuitry_b
+    title: "Corticostriatal circuitry"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/haber2016_corticostriatal_circuitry_b.md
+    source_quality: poor
+    omitted_image_marker_count: 28
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - haber2016_corticostriatal_circuitry_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: hadinger2022_layer5_thalamic_reticular
+    title: "Region-selective control of the thalamic reticular nucleus via cortical layer 5 pyramidal cells"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/hadinger2022_layer5_thalamic_reticular.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - hadinger2022_layer5_thalamic_reticular
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: hamid2021_dopamine_waves_credit_assignment
+    title: "Wave-like dopamine dynamics as a mechanism for spatiotemporal credit assignment"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/hamid2021_dopamine_waves_credit_assignment.md
+    source_quality: poor
+    omitted_image_marker_count: 34
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - hamid2021_dopamine_waves_credit_assignment
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: harris2019_hierarchical_cortical_connectivity
+    title: "Hierarchical organization of cortical and thalamic connectivity"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/harris2019_hierarchical_cortical_connectivity.md
+    source_quality: poor
+    omitted_image_marker_count: 33
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - harris2019_hierarchical_cortical_connectivity
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: heindorf2018_motor_cortex_perturbation
+    title: "Mouse Motor Cortex Coordinates the Behavioral Response to Unpredicted Sensory Feedback"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/heindorf2018_motor_cortex_perturbation.md
+    source_quality: poor
+    omitted_image_marker_count: 54
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - heindorf2018_motor_cortex_perturbation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: hinze2006_burrow_animal_habitat
+    title: "The burrow system of the African ice rat Otomys sloggetti robertsi"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/hinze2006_burrow_animal_habitat.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - hinze2006_burrow_animal_habitat
+      - hinze2006_ice_rat_burrow
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ho2022_mental_representations_planning
+    title: "People construct simplified mental representations to plan"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ho2022_mental_representations_planning.md
+    source_quality: poor
+    omitted_image_marker_count: 52
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+      - mental
+    duplicate_group:
+      - ho2022_mental_representations_planning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ibl2025_reproducibility_electrophysiology
+    title: "Reproducibility of in vivo electrophysiological measurements in mice"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ibl2025_reproducibility_electrophysiology.md
+    source_quality: poor
+    omitted_image_marker_count: 40
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ibl2025_reproducibility_electrophysiology
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ito2015_prefrontal_thalamic_hippocampus
+    title: "A prefrontal–thalamo–hippocampal circuit for goal-directed spatial navigation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ito2015_prefrontal_thalamic_hippocampus.md
+    source_quality: poor
+    omitted_image_marker_count: 33
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ito2015_prefrontal_thalamic_hippocampus
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: iyer2024_grid_cells_abstract_velocity
+    title: "Flexible mapping of abstract domains by grid cells via self-supervised extraction and projection of generalized velocity signals"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/iyer2024_grid_cells_abstract_velocity.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - self
+    duplicate_group:
+      - iyer2024_grid_cells_abstract_velocity
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: jackson2006_hippocampal_sharp_waves_reactivation
+    title: "Hippocampal Sharp Waves and Reactivation during Awake States Depend on Repeated Sequential Experience"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/jackson2006_hippocampal_sharp_waves_reactivation.md
+    source_quality: poor
+    omitted_image_marker_count: 35
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jackson2006_hippocampal_sharp_waves_reactivation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: jadhav2016_hippocampal_prefrontal_swr
+    title: "Coordinated Excitation and Inhibition of Prefrontal Ensembles during Awake Hippocampal Sharp-Wave Ripple Events"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/jadhav2016_hippocampal_prefrontal_swr.md
+    source_quality: poor
+    omitted_image_marker_count: 44
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jadhav2016_hippocampal_prefrontal_swr
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: jazi2023_hippocampal_path_integration_homing
+    title: "Hippocampal firing fields anchored to a moving object predict homing direction during path-integration-based behavior"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/jazi2023_hippocampal_path_integration_homing.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jazi2023_hippocampal_path_integration_homing
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: jensen2024_recurrent_planning_hippocampal_replay
+    title: "A recurrent network model of planning explains hippocampal replay and human behavior"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/jensen2024_recurrent_planning_hippocampal_replay.md
+    source_quality: poor
+    omitted_image_marker_count: 32
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - jensen2024_recurrent_planning_hippocampal_replay
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: jiang2022_learning_options_compression
+    title: "Learning Options via Compression"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/jiang2022_learning_options_compression.md
+    source_quality: poor
+    omitted_image_marker_count: 258
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jiang2022_learning_options_compression
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kaefer2020_mpfc_replay_ruleswitching
+    title: "Replay of Behavioral Sequences in the Medial Prefrontal Cortex during Rule Switching"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kaefer2020_mpfc_replay_ruleswitching.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kaefer2020_replay_prefrontal_rule_switching
+    title: "Replay of Behavioral Sequences in the Medial Prefrontal Cortex during Rule Switching"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kaefer2020_replay_prefrontal_rule_switching.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kaefer2020_mpfc_replay_ruleswitching
+      - kaefer2020_replay_prefrontal_rule_switching
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kaplan2018_active_inference_navigation
+    title: "Planning and navigation as active inference"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kaplan2018_active_inference_navigation.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - kaplan2018_active_inference_navigation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kashay2022_anterior_cingulate_effort
+    title: "Neural activity in the anterior cingulate cortex is required for effort-based decision making"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/kashay2022_anterior_cingulate_effort.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kashay2022_anterior_cingulate_effort
+      - kashay2023_ACC_effort_decision
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kashay2023_ACC_effort_decision
+    title: "Neural activity in the anterior cingulate cortex is required for effort-based decision making"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/kashay2023_ACC_effort_decision.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kashay2022_anterior_cingulate_effort
+      - kashay2023_ACC_effort_decision
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kim2026_hippocampus_smallworld
+    title: "The hippocampus as a small-world cognitive map"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kim2026_hippocampus_smallworld.md
+    source_quality: poor
+    omitted_image_marker_count: 25
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kim2026_hippocampus_smallworld
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kleinflugge2022_medial_orbital_frontal
+    title: "Medial and orbital frontal cortex in decision-making and flexible behavior"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kleinflugge2022_medial_orbital_frontal.md
+    source_quality: poor
+    omitted_image_marker_count: 53
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kleinflugge2022_medial_orbital_frontal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: knudsen2021_hippocampal_value_place
+    title: "Hippocampal neurons construct a map of an abstract value space"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/knudsen2021_hippocampal_value_place.md
+    source_quality: poor
+    omitted_image_marker_count: 130
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - knudsen2021_hippocampal_value_place
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: krishnakumar2019_cannabinoid_receptor
+    title: "Structure of a Signaling Cannabinoid Receptor 1-G Protein Complex"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/krishnakumar2019_cannabinoid_receptor.md
+    source_quality: poor
+    omitted_image_marker_count: 35
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - krishnakumar2019_cannabinoid_receptor
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kurth2023_replay_compositional_computation
+    title: "Replay and compositional computation"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kurth2023_replay_compositional_computation.md
+    source_quality: poor
+    omitted_image_marker_count: 35
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kurth2023_replay_compositional_computation
+      - kurth_nelson2023_replay_compositional_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kurth_nelson2016_sequences_non_spatial
+    title: "Fast Sequences of Non-spatial State Representations in Humans"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/kurth_nelson2016_sequences_non_spatial.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - kurth_nelson2016_sequences_non_spatial
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: kurth_nelson2023_replay_compositional_b
+    title: "Replay and compositional computation"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/kurth_nelson2023_replay_compositional_b.md
+    source_quality: mixed
+    omitted_image_marker_count: 15
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - kurth2023_replay_compositional_computation
+      - kurth_nelson2023_replay_compositional_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: lammel2014_dopamine_reward_aversion_b
+    title: "Reward and aversion in a heterogeneous midbrain dopamine system"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/lammel2014_dopamine_reward_aversion_b.md
+    source_quality: mixed
+    omitted_image_marker_count: 6
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - lammel2014_dopamine_reward_aversion
+      - lammel2014_dopamine_reward_aversion_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: liu2019_human_replay_reorganizes
+    title: "Human Replay Spontaneously Reorganizes Experience"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/liu2019_human_replay_reorganizes.md
+    source_quality: poor
+    omitted_image_marker_count: 59
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - liu2019_human_replay_reorganizes
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: liu2021_experience_replay_nonlocal
+    title: "Experience replay is associated with efficient nonlocal learning"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/liu2021_experience_replay_nonlocal.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - liu2021_experience_replay_nonlocal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: lowet2020_distributional_reinforcement_brain
+    title: "Distributional Reinforcement Learning in the Brain"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/lowet2020_distributional_reinforcement_brain.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - lowet2020_distributional_reinforcement_brain
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: machado2018_eigenoption_successor_representation
+    title: "Eigenoption Discovery Through the Deep Successor Representation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/machado2018_eigenoption_successor_representation.md
+    source_quality: poor
+    omitted_image_marker_count: 78
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - machado2018_eigenoption_successor_representation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: machado2021_temporal_abstraction_rl
+    title: "Temporal Abstraction in Reinforcement Learning with the Successor Representation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/machado2021_temporal_abstraction_rl.md
+    source_quality: poor
+    omitted_image_marker_count: 80
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - machado2021_temporal_abstraction_rl
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mahn2018_optogenetic_silencing_b
+    title: "High-efficiency optogenetic silencing with soma-targeted anion-conducting channelrhodopsins"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+    severity: 4
+    source_path: raw/mds/mahn2018_optogenetic_silencing_b.md
+    source_quality: mixed
+    omitted_image_marker_count: 10
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mahn2018_optogenetic_silencing_b
+      - mahn2018_soma_targeted_gtacr
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mahn2018_soma_targeted_gtacr
+    title: "High-efficiency optogenetic silencing with soma-targeted anion-conducting channelrhodopsins"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/mahn2018_soma_targeted_gtacr.md
+    source_quality: mixed
+    omitted_image_marker_count: 10
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mahn2018_optogenetic_silencing_b
+      - mahn2018_soma_targeted_gtacr
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: makino2022_arithmetic_value_hierarchical
+    title: "Arithmetic value representation for hierarchical behavior composition"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/makino2022_arithmetic_value_hierarchical.md
+    source_quality: poor
+    omitted_image_marker_count: 38
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - makino2022_arithmetic_value_hierarchical
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mark2020_structural_knowledge_transfer
+    title: "Transferring structural knowledge across cognitive maps in humans and models"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/mark2020_structural_knowledge_transfer.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mark2020_structural_knowledge_transfer
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: martinet2011_spatial_learning_action_planning
+    title: "Spatial Learning and Action Planning in a Prefrontal Cortical Network Model"
+    issues:
+      - empty_frameworks
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/martinet2011_spatial_learning_action_planning.md
+    source_quality: poor
+    omitted_image_marker_count: 57
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - martinet2011_spatial_learning_action_planning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mattar2022_planning_brain
+    title: "Planning in the brain"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/mattar2022_planning_brain.md
+    source_quality: poor
+    omitted_image_marker_count: 39
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - mattar2022_planning_brain
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: meunier2024_nonlinear_metalearning
+    title: "Nonlinear Meta-learning Can Guarantee Faster Rates"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/meunier2024_nonlinear_metalearning.md
+    source_quality: poor
+    omitted_image_marker_count: 238
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - meunier2024_nonlinear_metalearning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: miller2019_retrosplenial_spatial_learning
+    title: "Retrosplenial Cortical Representations of Space and Future Goal Locations Develop with Learning"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/miller2019_retrosplenial_spatial_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - miller2019_retrosplenial_spatial_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: miranda2020_modelfree_modelsensitive_primates
+    title: "Combined model-free and model-sensitive reinforcement learning in non-human primates"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/miranda2020_modelfree_modelsensitive_primates.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - miranda2020_modelfree_modelsensitive_primates
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mizes2023_sensorimotor_striatum
+    title: "Dissociating the contributions of sensorimotor striatum to automatic and visually guided motor sequences"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/mizes2023_sensorimotor_striatum.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mizes2023_sensorimotor_striatum
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: montague1996_predictive_hebbian_dopamine
+    title: "A Framework for Mesencephalic Dopamine Systems Based on Predictive Hebbian Learning"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/montague1996_predictive_hebbian_dopamine.md
+    source_quality: poor
+    omitted_image_marker_count: 66
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - systems
+    duplicate_group:
+      - montague1996_predictive_hebbian_dopamine
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mou_ji2022_observational_learning_replay
+    title: "Observational learning promotes hippocampal remote awake replay toward future reward locations"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/mou_ji2022_observational_learning_replay.md
+    source_quality: poor
+    omitted_image_marker_count: 30
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mou_ji2022_observational_learning_replay
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: mugan_redish2024_environmental_complexity_decision
+    title: "Environmental complexity modulates information processing and the balance between decision-making systems"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/mugan_redish2024_environmental_complexity_decision.md
+    source_quality: poor
+    omitted_image_marker_count: 176
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - between
+    duplicate_group:
+      - mugan_redish2024_environmental_complexity_decision
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: muhlekarbe2023_goal_seeking_spatial_compression
+    title: "Goal-seeking compresses neural codes for space in the human hippocampus and orbitofrontal cortex"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/muhlekarbe2023_goal_seeking_spatial_compression.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - muhlekarbe2023_goal_seeking_spatial_compression
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: nagelhus2023_population_coding
+    title: "Object-centered population coding in CA1 of the hippocampus"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/nagelhus2023_population_coding.md
+    source_quality: poor
+    omitted_image_marker_count: 202
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - nagelhus2023_population_coding
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: nagy1999_connexin30_astrocytes
+    title: "Connexin30 in Rodent, Cat and Human Brain: Selective Expression in Gray Matter Astrocytes, Co-localization with Connexin43 at Gap Junctions and Late Developmental Appearance"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/nagy1999_connexin30_astrocytes.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - nagy1999_connexin30_astrocytes
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: namboodiri2023_mesolimbic_dopamine_causal
+    title: "Mesolimbic dopamine release conveys causal associations"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/namboodiri2023_mesolimbic_dopamine_causal.md
+    source_quality: poor
+    omitted_image_marker_count: 56
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jeong2022_mesolimbic_dopamine_causal
+      - namboodiri2023_mesolimbic_dopamine_causal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: nardin2023_theta_oscillations_prefrontal_hippocampal
+    title: "Theta oscillations as a substrate for medial prefrontal-hippocampal assembly interactions"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/nardin2023_theta_oscillations_prefrontal_hippocampal.md
+    source_quality: poor
+    omitted_image_marker_count: 72
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - nardin2023_theta_oscillations_prefrontal_hippocampal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: neupane2022_mental_navigation_entorhinal
+    title: "Vector production via mental navigation in the entorhinal cortex"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/neupane2022_mental_navigation_entorhinal.md
+    source_quality: mixed
+    omitted_image_marker_count: 12
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - mental
+    duplicate_group:
+      - neupane2022_mental_navigation_entorhinal
+      - neupane2022_mental_navigation_entorhinal_cortex
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: nishimori2024_feature_learning_benign_overfitting
+    title: "Feature learning and generalization error analysis of two-layer linear neural networks for high-dimensional inputs"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/nishimori2024_feature_learning_benign_overfitting.md
+    source_quality: poor
+    omitted_image_marker_count: 115
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - nishimori2024_feature_learning_benign_overfitting
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: nour2021_impaired_replay_schizophrenia
+    title: "Impaired neural replay of inferred relationships in schizophrenia"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/nour2021_impaired_replay_schizophrenia.md
+    source_quality: poor
+    omitted_image_marker_count: 189
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - nour2021_impaired_replay_schizophrenia
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: olafsdottir2015_place_cells_reward
+    title: "Hippocampal place cells construct reward related sequences through unexplored space"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/olafsdottir2015_place_cells_reward.md
+    source_quality: poor
+    omitted_image_marker_count: 27
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - olafsdottir2015_place_cells_reward
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: ormond2022_goal_oriented_vector_fields
+    title: "Hippocampal place cells have goal-oriented vector fields during navigation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/ormond2022_goal_oriented_vector_fields.md
+    source_quality: poor
+    omitted_image_marker_count: 25
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - ormond2022_goal_oriented_vector_fields
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: pachitariu2023_kilosort_spike_sorting
+    title: "Solving the spike sorting problem with Kilosort"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/pachitariu2023_kilosort_spike_sorting.md
+    source_quality: poor
+    omitted_image_marker_count: 31
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - pachitariu2023_kilosort_spike_sorting
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: pachitariu2024_kilosort4_spike_sorting
+    title: "Spike sorting with Kilosort4"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/pachitariu2024_kilosort4_spike_sorting.md
+    source_quality: poor
+    omitted_image_marker_count: 47
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - pachitariu2024_kilosort4_spike_sorting
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: panichello2021_shared_mechanisms_working_memory
+    title: "Shared mechanisms underlie the control of working memory and attention"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/panichello2021_shared_mechanisms_working_memory.md
+    source_quality: poor
+    omitted_image_marker_count: 31
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - panichello2021_shared_mechanisms_working_memory
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: patai2021_prefrontal_spatial_navigation
+    title: "The Versatile Wayfinder: Prefrontal Contributions to Spatial Navigation"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/patai2021_prefrontal_spatial_navigation.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: patai2021_versatile_wayfinder_prefrontal
+    title: "The Versatile Wayfinder: Prefrontal Contributions to Spatial Navigation"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/patai2021_versatile_wayfinder_prefrontal.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - patai2021_prefrontal_spatial_navigation
+      - patai2021_versatile_wayfinder_prefrontal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: paulk2022_neuropixels_human_cortex
+    title: "Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/paulk2022_neuropixels_human_cortex.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - paulk2022_neuropixels_human_cortex
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: pfeiffer2015_autoassociative_hippocampal_place_cells
+    title: "Autoassociative dynamics in the generation of sequences of hippocampal place cells"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/pfeiffer2015_autoassociative_hippocampal_place_cells.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - pfeiffer2015_autoassociative_hippocampal_place_cells
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: pfeiffer2017_hippocampal_replay_memory
+    title: "The content of hippocampal \"replay\""
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/pfeiffer2017_hippocampal_replay_memory.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - pfeiffer2017_hippocampal_replay_memory
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: piray2021_linear_reinforcement_planning
+    title: "Linear reinforcement learning in planning, grid fields, and cognitive control"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/piray2021_linear_reinforcement_planning.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - piray2021_linear_reinforcement_planning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: piray2025_compositional_cognitive_map
+    title: "Reconciling flexibility and efficiency: medial entorhinal cortex represents a compositional cognitive map"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/piray2025_compositional_cognitive_map.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - piray2025_compositional_cognitive_map
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: porter2025_maze_rodent_behavior
+    title: "Adapt-A-Maze: An Open-Source Adaptable and Automated Rodent Behavior Maze System"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/porter2025_maze_rodent_behavior.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - porter2025_maze_rodent_behavior
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: pospisil2024_fly_connectome_effectome
+    title: "The fly connectome reveals a path to the effectome"
+    issues:
+      - empty_brain_regions
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/pospisil2024_fly_connectome_effectome.md
+    source_quality: poor
+    omitted_image_marker_count: 33
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - pospisil2024_fly_connectome_effectome
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: raju2022_space_sequence
+    title: "Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/raju2022_space_sequence.md
+    source_quality: poor
+    omitted_image_marker_count: 145
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - raju2022_space_sequence
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: redish2016_vicarious_trial_error
+    title: "Vicarious trial and error"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+    severity: 4
+    source_path: raw/mds/redish2016_vicarious_trial_error.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - redish2016_vicarious_trial_error
+      - redish2016_vicarious_trial_error_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: redish2016_vicarious_trial_error_b
+    title: "Vicarious trial and error"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/redish2016_vicarious_trial_error_b.md
+    source_quality: mixed
+    omitted_image_marker_count: 5
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - redish2016_vicarious_trial_error
+      - redish2016_vicarious_trial_error_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: reinert2021_mouse_prefrontal_categorization
+    title: "Mouse prefrontal cortex represents learned rules for categorization"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/reinert2021_mouse_prefrontal_categorization.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - reinert2021_mouse_prefrontal_categorization
+      - reinert2021_prefrontal_categorization
+      - reinert2021_prefrontal_categorization_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: reinert2021_prefrontal_categorization
+    title: "Mouse prefrontal cortex represents learned rules for categorization"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+    severity: 4
+    source_path: raw/mds/reinert2021_prefrontal_categorization.md
+    source_quality: mixed
+    omitted_image_marker_count: 19
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - reinert2021_mouse_prefrontal_categorization
+      - reinert2021_prefrontal_categorization
+      - reinert2021_prefrontal_categorization_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: roseberry2016_basal_ganglia_motor
+    title: "Cell-Type-Specific Control of Brainstem Locomotor Circuits by Basal Ganglia"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/roseberry2016_basal_ganglia_motor.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - roseberry2016_basal_ganglia_motor
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: rosenberg2021_learning_maze_navigation
+    title: "Mice in a labyrinth show rapid learning, sudden insight, and efficient exploration"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/rosenberg2021_learning_maze_navigation.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - rosenberg2021_learning_maze_navigation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: rushworth2011_prefrontal_reward_decision
+    title: "Frontal Cortex and Reward-Guided Learning and Decision-Making"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/rushworth2011_prefrontal_reward_decision.md
+    source_quality: poor
+    omitted_image_marker_count: 25
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - rushworth2011_prefrontal_reward_decision
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: russek2017_model_based_reinforcement
+    title: "Predictive representations can link model-based reinforcement learning to model-free mechanisms"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/russek2017_model_based_reinforcement.md
+    source_quality: poor
+    omitted_image_marker_count: 68
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - russek2017_model_based_reinforcement
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: samborska2021_hippocampus_prefrontal_gen
+    title: "Complementary task representations in hippocampus and prefrontal cortex for generalising the structure of problems"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/samborska2021_hippocampus_prefrontal_gen.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - samborska2021_hippocampus_prefrontal_gen
+      - samborska2021_hippocampus_prefrontal_gen_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: samborska2021_hippocampus_prefrontal_gen_b
+    title: "Complementary task representations in hippocampus and prefrontal cortex for generalising the structure of problems"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/samborska2021_hippocampus_prefrontal_gen_b.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - samborska2021_hippocampus_prefrontal_gen
+      - samborska2021_hippocampus_prefrontal_gen_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: schaeffer2023_gridcells_spatial_rep
+    title: "Self-Supervised Learning of Representations for Space Generates Multi-Modular Grid Cells"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/schaeffer2023_gridcells_spatial_rep.md
+    source_quality: poor
+    omitted_image_marker_count: 68
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - self
+    duplicate_group:
+      - schaeffer2023_gridcells_spatial_rep
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: schaeffer_grid_cell_pathintegration
+    title: "Disentangling Fact from Grid Cell Fiction in Trained Deep Path Integrators"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/schaeffer_grid_cell_pathintegration.md
+    source_quality: poor
+    omitted_image_marker_count: 47
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - emergence
+    duplicate_group:
+      - schaeffer_grid_cell_pathintegration
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: schneider2022_cebra_joint_embeddings
+    title: "Learnable latent embeddings for joint behavioral and neural analysis"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/schneider2022_cebra_joint_embeddings.md
+    source_quality: poor
+    omitted_image_marker_count: 76
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - schneider2022_cebra_joint_embeddings
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: schuck2016_orbitofrontal_cortex_state
+    title: "Human Orbitofrontal Cortex Represents a Cognitive Map of State Space"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/schuck2016_orbitofrontal_cortex_state.md
+    source_quality: poor
+    omitted_image_marker_count: 30
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - schuck2016_orbitofrontal_cortex_state
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: schuck2019_hippocampal_replay_nonspatial
+    title: "Sequential replay of nonspatial task states in the human hippocampus"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/schuck2019_hippocampal_replay_nonspatial.md
+    source_quality: poor
+    omitted_image_marker_count: 36
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - schuck2019_hippocampal_replay_nonspatial
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: shamash2021_mice_multi_step_routes
+    title: "Mice learn multi-step routes by memorizing subgoal locations"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/shamash2021_mice_multi_step_routes.md
+    source_quality: poor
+    omitted_image_marker_count: 32
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - shamash2021_mice_multi_step_routes
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: shin2019_hippocampal_prefrontal_replay
+    title: "Dynamics of Awake Hippocampal-Prefrontal Replay for Spatial Learning and Memory-Guided Decision Making"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/shin2019_hippocampal_prefrontal_replay.md
+    source_quality: poor
+    omitted_image_marker_count: 92
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - shin2019_hippocampal_prefrontal_replay
+      - shin2019_hippocampal_prefrontal_replay_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: shin2019_hippocampal_prefrontal_replay_b
+    title: "Dynamics of Awake Hippocampal-Prefrontal Replay for Spatial Learning and Memory-Guided Decision Making"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/shin2019_hippocampal_prefrontal_replay_b.md
+    source_quality: poor
+    omitted_image_marker_count: 84
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - shin2019_hippocampal_prefrontal_replay
+      - shin2019_hippocampal_prefrontal_replay_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: singer2009_reward_reactivation_hippocampus
+    title: "Rewarded Outcomes Enhance Reactivation of Experience in the Hippocampus"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/singer2009_reward_reactivation_hippocampus.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - singer2009_reward_reactivation_hippocampus
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: singer2013_hippocampal_swr_decisions
+    title: "Hippocampal SWR Activity Predicts Correct Decisions during the Initial Learning of an Alternation Task"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/singer2013_hippocampal_swr_decisions.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - singer2013_hippocampal_swr_decisions
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: solway2014_optimal_behavioral_hierarchy
+    title: "Optimal Behavioral Hierarchy"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/solway2014_optimal_behavioral_hierarchy.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - solway2014_optimal_behavioral_hierarchy
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: sorscher2023_grid_cells_unified_theory
+    title: "A unified theory for the computational and mechanistic origins of grid cells"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/sorscher2023_grid_cells_unified_theory.md
+    source_quality: poor
+    omitted_image_marker_count: 76
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - sorscher2023_grid_cells_unified_theory
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: stoianov2020_hierarchical_generative_model
+    title: "The hippocampal formation as a hierarchical generative model supporting generative replay and continual learning"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/stoianov2020_hierarchical_generative_model.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - stoianov2020_hierarchical_generative_model
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: tacikowski2024_temporal_structure_hippocampal
+    title: "Human hippocampal and entorhinal neurons encode the temporal structure of experience"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tacikowski2024_temporal_structure_hippocampal.md
+    source_quality: poor
+    omitted_image_marker_count: 31
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - tacikowski2024_temporal_structure_hippocampal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: tampuu2019_neural_decoding_location_recurrent
+    title: "Efficient neural decoding of self-location with a deep recurrent network"
+    issues:
+      - empty_wiki_pages
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tampuu2019_neural_decoding_location_recurrent.md
+    source_quality: poor
+    omitted_image_marker_count: 36
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - self
+    duplicate_group:
+      - tampuu2019_neural_decoding_location_recurrent
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: tang2021_multiple_timescales_decision_making
+    title: "Multiple time-scales of decision-making in the hippocampus and prefrontal cortex"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tang2021_multiple_timescales_decision_making.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - tang2021_multiple_timescales_decision_making
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: tang2024_learning_grid_cells_predictive
+    title: "Learning Grid Cells by Predictive Coding"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tang2024_learning_grid_cells_predictive.md
+    source_quality: poor
+    omitted_image_marker_count: 32
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - tang2024_learning_grid_cells_predictive
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: tanner2022_asymmetric_connectome
+    title: "Redefining the connectome: A multi-modal, asymmetric, weighted, and signed description of anatomical connectivity"
+    issues:
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tanner2022_asymmetric_connectome.md
+    source_quality: poor
+    omitted_image_marker_count: 31
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - tanner2022_asymmetric_connectome
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: thevenin2013_gap_junction_assembly
+    title: "Proteins and Mechanisms Regulating Gap-Junction Assembly, Internalization, and Degradation"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/thevenin2013_gap_junction_assembly.md
+    source_quality: poor
+    omitted_image_marker_count: 61
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - thevenin2013_gap_junction_assembly
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: toader2023_anteromedial_thalamus_memory_consolidation
+    title: "Anteromedial thalamus gates the selection and stabilization of long-term memories"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/toader2023_anteromedial_thalamus_memory_consolidation.md
+    source_quality: poor
+    omitted_image_marker_count: 89
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - toader2023_anteromedial_thalamus_memory_consolidation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: tomov2020_hierarchical_planning_representation
+    title: "Discovery of hierarchical representations for efficient planning"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/tomov2020_hierarchical_planning_representation.md
+    source_quality: poor
+    omitted_image_marker_count: 25
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - tomov2020_hierarchical_planning_representation
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: vanbeest2023_tracking_neurons_neuropixels
+    title: "Tracking neurons across days with high-density probes"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/vanbeest2023_tracking_neurons_neuropixels.md
+    source_quality: poor
+    omitted_image_marker_count: 38
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - vanbeest2023_tracking_neurons_neuropixels
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: velasco2025_decision_precaching_planning
+    title: "Expert navigators deploy rational complexity–based decision precaching for large-scale real-world planning"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/velasco2025_decision_precaching_planning.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - velasco2025_decision_precaching_planning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: veselic2025_cognitive_map_value_vmPFC
+    title: "A cognitive map for value-guided choice in the ventromedial prefrontal cortex"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/veselic2025_cognitive_map_value_vmPFC.md
+    source_quality: poor
+    omitted_image_marker_count: 82
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - veselic2025_cognitive_map_value_vmPFC
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: vollan2025_left_right_theta_sweeps
+    title: "Left–right-alternating theta sweeps in entorhinal–hippocampal maps of space"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/vollan2025_left_right_theta_sweeps.md
+    source_quality: poor
+    omitted_image_marker_count: 49
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - vollan2024_theta_sweeps_entorhinal
+      - vollan2025_left_right_theta_sweeps
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: vopheusden2023_expertise_planning_depth
+    title: "Expertise increases planning depth in human gameplay"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/vopheusden2023_expertise_planning_depth.md
+    source_quality: poor
+    omitted_image_marker_count: 35
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - vopheusden2023_expertise_planning_depth
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: wang2020_allen_mouse_brain_atlas
+    title: "The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wang2020_allen_mouse_brain_atlas.md
+    source_quality: poor
+    omitted_image_marker_count: 65
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wang2020_allen_mouse_brain_atlas
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: wang2021_oligodendrocyte_astrocytic_stress
+    title: "Reduced Oligodendrocyte Precursor Cell Impairs Astrocytic Development in Early Life Stress"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wang2021_oligodendrocyte_astrocytic_stress.md
+    source_quality: poor
+    omitted_image_marker_count: 23
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wang2021_oligodendrocyte_astrocytic_stress
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: wen2024_entorhinal_maps_flexible_navigation
+    title: "One-shot entorhinal maps enable flexible navigation in novel environments"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wen2024_entorhinal_maps_flexible_navigation.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wen2024_entorhinal_maps_flexible_navigation
+      - wen2024_entorhinal_maps_navigation_b
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whitlock2012_functional_parietal_entorhinal
+    title: "Functional Split between Parietal and Entorhinal Cortices in the Rat"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whitlock2012_functional_parietal_entorhinal.md
+    source_quality: poor
+    omitted_image_marker_count: 75
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whitlock2012_functional_parietal_entorhinal
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2020_tolman_eichenbaum_machine
+    title: "The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2020_tolman_eichenbaum_machine.md
+    source_quality: poor
+    omitted_image_marker_count: 63
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2020_tolman_eichenbaum_machine
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2022_cognitive_map_b
+    title: "How to build a cognitive map"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2022_cognitive_map_b.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2022_cognitive_map_nature
+    title: "How to build a cognitive map"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2022_cognitive_map_nature.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2022_cognitive_map_review
+    title: "How to build a cognitive map"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2022_cognitive_map_review.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2022_cognitive_maps_learning
+    title: "How to build a cognitive map"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2022_cognitive_maps_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 20
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2022_cognitive_map_b
+      - whittington2022_cognitive_map_nature
+      - whittington2022_cognitive_map_review
+      - whittington2022_cognitive_maps_learning
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2022_disentangling_biological
+    title: "Disentangling with biological constraints: A theory of functional cell types"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2022_disentangling_biological.md
+    source_quality: poor
+    omitted_image_marker_count: 66
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2022_disentangling_biological
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: whittington2023_disentanglement_constraints
+    title: "Disentanglement with Biological Constraints: A Theory of Functional Cell Types"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/whittington2023_disentanglement_constraints.md
+    source_quality: poor
+    omitted_image_marker_count: 64
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - whittington2023_disentanglement_constraints
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: widloski2022_hippocampal_replay_barriers
+    title: "Flexible rerouting of hippocampal replay sequences around changing barriers in the absence of global place field remapping"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/widloski2022_hippocampal_replay_barriers.md
+    source_quality: poor
+    omitted_image_marker_count: 132
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - widloski2022_hippocampal_replay_barriers
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: wilson2013_ofc_cognitive_map
+    title: "Orbitofrontal Cortex as a Cognitive Map of Task Space"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wilson2013_ofc_cognitive_map.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wilson2013_ofc_cognitive_map
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: wilson2017_good_practices_computing
+    title: "Good enough practices in scientific computing"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_brain_regions
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wilson2017_good_practices_computing.md
+    source_quality: poor
+    omitted_image_marker_count: 22
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wilson2017_good_practices_computing
+      - wilson2017_scientific_computing
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: wittmann2025_basis_functions_social
+    title: "Basis functions for complex social decisions in dorsomedial frontal cortex"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wittmann2025_basis_functions_social.md
+    source_quality: poor
+    omitted_image_marker_count: 27
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wittmann2025_basis_functions_social
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: yadav2022_prefrontal_features_memory
+    title: "Prefrontal feature representations drive memory recall"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/yadav2022_prefrontal_features_memory.md
+    source_quality: poor
+    omitted_image_marker_count: 36
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yadav2022_prefrontal_features_memory
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: yang2022_monkey_pacman_strategy
+    title: "Monkey plays Pac-Man with compositional strategies and hierarchical decision-making"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/yang2022_monkey_pacman_strategy.md
+    source_quality: poor
+    omitted_image_marker_count: 21
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yang2022_monkey_pacman_strategy
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: yao2021_transcriptomic_isocortex
+    title: "A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/yao2021_transcriptomic_isocortex.md
+    source_quality: poor
+    omitted_image_marker_count: 123
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yao2021_transcriptomic_isocortex
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: yu2025_theta_sweeps_goal_direction
+    title: "Hippocampal theta sweeps indicate goal direction"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/yu2025_theta_sweeps_goal_direction.md
+    source_quality: poor
+    omitted_image_marker_count: 188
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - yu2025_theta_sweeps_goal_direction
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: zhang2026_neural_decoding_correlations
+    title: "Exploiting correlations across trials and behavioral sessions to improve neural decoding"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/zhang2026_neural_decoding_correlations.md
+    source_quality: poor
+    omitted_image_marker_count: 91
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - zhang2026_neural_decoding_correlations
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: zutshi2022_extrinsic_intrinsic_ca1
+    title: "Extrinsic control and intrinsic computation in the hippocampal CA1 circuit"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/zutshi2022_extrinsic_intrinsic_ca1.md
+    source_quality: poor
+    omitted_image_marker_count: 28
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - zutshi2022_extrinsic_intrinsic_ca1
+    opus_action: light_edit
+    opus_score: 4
+  -
+    paper_id: akam2015_two_step_task_simple_plans
+    title: "Simple Plans or Sophisticated Habits? State, Transition and Learning Interactions in the Two-Step Task"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/akam2015_two_step_task_simple_plans.md
+    source_quality: poor
+    omitted_image_marker_count: 41
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - akam2015_two_step_task_habits
+      - akam2015_two_step_task_simple_plans
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: campbell2025_hardwired_circuit_td_learning
+    title: "A hardwired neural circuit for temporal difference learning"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/campbell2025_hardwired_circuit_td_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - campbell2025_hardwired_circuit_td_learning
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: cogno2023_oscillations_medial_entorhinal
+    title: "Minute-scale oscillatory sequences in medial entorhinal cortex"
+    issues:
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/cogno2023_oscillations_medial_entorhinal.md
+    source_quality: poor
+    omitted_image_marker_count: 38
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - cogno2023_oscillations_medial_entorhinal
+    opus_action: light_edit
+    opus_score: 5
+  -
+    paper_id: dordek2016_grid_cells_nonnegative_pca
+    title: "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/dordek2016_grid_cells_nonnegative_pca.md
+    source_quality: poor
+    omitted_image_marker_count: 79
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dordek2016_grid_cells_nonnegative_pca
+      - dordek2016_grid_cells_pca
+    opus_action: light_edit
+    opus_score: 5
+  -
+    paper_id: dordek2016_grid_cells_pca
+    title: "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/dordek2016_grid_cells_pca.md
+    source_quality: poor
+    omitted_image_marker_count: 88
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dordek2016_grid_cells_nonnegative_pca
+      - dordek2016_grid_cells_pca
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: dorrell2023_actionable_grid_constraints
+    title: "Actionable Neural Representations: Grid Cells from Minimal Constraints"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/dorrell2023_actionable_grid_constraints.md
+    source_quality: poor
+    omitted_image_marker_count: 127
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - dorrell2022_actionable_grid_cells
+      - dorrell2023_actionable_grid_constraints
+    opus_action: light_edit
+    opus_score: 5
+  -
+    paper_id: gridchyn2020_replay_selective_memory
+    title: "Assembly-Specific Disruption of Hippocampal Replay Leads to Selective Memory Deficit"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/gridchyn2020_replay_selective_memory.md
+    source_quality: poor
+    omitted_image_marker_count: 56
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - gridchyn2020_replay_selective_memory
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: holton2023_planning_vmPFC_lesions
+    title: "Disentangling the component processes in complex planning impairments following ventromedial prefrontal lesions"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/holton2023_planning_vmPFC_lesions.md
+    source_quality: poor
+    omitted_image_marker_count: 24
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - holton2023_planning_vmPFC_lesions
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: jeong2022_mesolimbic_dopamine_causal
+    title: "Mesolimbic dopamine release conveys causal associations"
+    issues:
+      - duplicate_or_near_duplicate_title
+    severity: 4
+    source_path: raw/mds/jeong2022_mesolimbic_dopamine_causal.md
+    source_quality: mixed
+    omitted_image_marker_count: 7
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jeong2022_mesolimbic_dopamine_causal
+      - namboodiri2023_mesolimbic_dopamine_causal
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: jones2005_theta_hippocampal_prefrontal
+    title: "Theta Rhythms Coordinate Hippocampal–Prefrontal Interactions in a Spatial Memory Task"
+    issues:
+      - empty_frameworks
+      - source_poor
+    severity: 4
+    source_path: raw/mds/jones2005_theta_hippocampal_prefrontal.md
+    source_quality: poor
+    omitted_image_marker_count: 42
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - jones2005_theta_hippocampal_prefrontal
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: knudsen2020_ofc_theta_learning
+    title: "Closed-Loop Theta Stimulation in the Orbitofrontal Cortex Prevents Reward-Based Learning"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/knudsen2020_ofc_theta_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 45
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - knudsen2020_ofc_theta_learning
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: liu2023_hippocampal_associative_predictive
+    title: "Associative and predictive hippocampal codes support memory-guided behaviors"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/liu2023_hippocampal_associative_predictive.md
+    source_quality: poor
+    omitted_image_marker_count: 63
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - liu2023_hippocampal_associative_predictive
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: mishchanchuk2024_hidden_state_inference
+    title: "Hidden state inference requires abstract contextual representations in ventral hippocampus"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/mishchanchuk2024_hidden_state_inference.md
+    source_quality: poor
+    omitted_image_marker_count: 34
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - mishchanchuk2024_hidden_state_inference
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: neupane2022_mental_navigation_entorhinal_cortex
+    title: "Vector production via mental navigation in the entorhinal cortex"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - polluted_keywords
+    severity: 4
+    source_path: raw/mds/neupane2022_mental_navigation_entorhinal_cortex.md
+    source_quality: mixed
+    omitted_image_marker_count: 12
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - mental
+    duplicate_group:
+      - neupane2022_mental_navigation_entorhinal
+      - neupane2022_mental_navigation_entorhinal_cortex
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: nyberg2022_spatial_goal_coding
+    title: "Spatial goal coding in the hippocampal formation"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/nyberg2022_spatial_goal_coding.md
+    source_quality: poor
+    omitted_image_marker_count: 42
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - nyberg2022_spatial_goal_coding
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: piray2020_linear_reinforcement_learning
+    title: "Linear reinforcement learning: Flexible reuse of computation in planning, grid fields, and cognitive control"
+    issues:
+      - polluted_keywords
+      - source_poor
+    severity: 4
+    source_path: raw/mds/piray2020_linear_reinforcement_learning.md
+    source_quality: poor
+    omitted_image_marker_count: 28
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords:
+      - planning
+    duplicate_group:
+      - piray2020_linear_reinforcement_learning
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: schaeffer2022_no_free_lunch_deep_learning_neuroscience
+    title: "No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit"
+    issues:
+      - source_poor
+    severity: 4
+    source_path: raw/mds/schaeffer2022_no_free_lunch_deep_learning_neuroscience.md
+    source_quality: poor
+    omitted_image_marker_count: 43
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - schaeffer2022_no_free_lunch_deep_learning_neuroscience
+    opus_action: light_edit
+    opus_score: 5
+  -
+    paper_id: vollan2024_theta_sweeps_entorhinal
+    title: "Left–right-alternating theta sweeps in entorhinal–hippocampal maps of space"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/vollan2024_theta_sweeps_entorhinal.md
+    source_quality: poor
+    omitted_image_marker_count: 49
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - vollan2024_theta_sweeps_entorhinal
+      - vollan2025_left_right_theta_sweeps
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: wen2024_entorhinal_maps_navigation_b
+    title: "One-shot entorhinal maps enable flexible navigation in novel environments"
+    issues:
+      - duplicate_or_near_duplicate_title
+      - source_poor
+    severity: 4
+    source_path: raw/mds/wen2024_entorhinal_maps_navigation_b.md
+    source_quality: poor
+    omitted_image_marker_count: 37
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - wen2024_entorhinal_maps_flexible_navigation
+      - wen2024_entorhinal_maps_navigation_b
+    opus_action: keep
+    opus_score: 5
+  -
+    paper_id: zhang2022_hyperbolic_geometry_hippocampus
+    title: "Hippocampal spatial representations exhibit a hyperbolic geometry that expands with experience"
+    issues:
+      - empty_frameworks
+      - empty_wiki_pages
+      - source_poor
+    severity: 4
+    source_path: raw/mds/zhang2022_hyperbolic_geometry_hippocampus.md
+    source_quality: poor
+    omitted_image_marker_count: 29
+    missing_sections: []
+    truncated_sections: []
+    polluted_keywords: []
+    duplicate_group:
+      - zhang2022_hyperbolic_geometry_hippocampus
+    opus_action: light_edit
+    opus_score: 5

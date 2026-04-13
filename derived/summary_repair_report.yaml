@@ -1,0 +1,141 @@
+generated_at: "2026-04-13T11:16:28.144734+00:00"
+prompt_version: summary-repair-v1
+record_count: 5
+records:
+  -
+    paper_id: botvinick2008_hierarchical_behavior_prefrontal
+    proposal_provider: anthropic_api
+    proposal_model: claude-sonnet-4-6
+    proposal_decision: repair
+    judge_accept: true
+    judge_confidence: 4
+    proposal:
+      paper_id: botvinick2008_hierarchical_behavior_prefrontal
+      decision: repair
+      rationale_short: "The species field lists only 'human' but the review covers computational models and animal/neurophysiological work broadly; fMRI is listed as a method but this is a narrative review that surveys fMRI findings rather than conducting fMRI itself. The methods field should be corrected to reflect the review methodology. The species field should be broadened or omitted as uncertain. No section content is materially wrong or truncated."
+      frontmatter:
+        methods:
+          - narrative_review
+          - computational_modeling
+        species: null
+      section_updates:
+    judge_rationale_short: "The proposal adds methods metadata (narrative_review, computational_modeling) and sets species to null, which are reasonable for a theoretical/review paper by Botvinick on hierarchical RL and prefrontal function. No sections are modified, so no risk of inventing unsupported claims. The additions are plausible and the repair is minimal and safe."
+    repaired_at: "2026-04-13T11:16:12.418405+00:00"
+  -
+    paper_id: durstewitz2020_psychiatric_network_dynamics
+    proposal_provider: anthropic_api
+    proposal_model: claude-sonnet-4-6
+    proposal_decision: repair
+    judge_accept: true
+    judge_confidence: 4
+    proposal:
+      paper_id: durstewitz2020_psychiatric_network_dynamics
+      decision: repair
+      rationale_short: "The frontmatter lists 'fmri' and 'dynamic_causal_modelling' as methods, but this is a narrative theoretical review whose primary methodological content is DST concepts and RNN-based inference; fMRI and DCM are discussed only as data sources reviewed, not as methods employed. The year in the frontmatter is 2020 but the source text consistently shows publication in September 2021 (volume 6, pages 865-876). These are the only material errors; all sections are accurate and complete."
+      frontmatter:
+        year: 2021
+        methods:
+          - recurrent_neural_network_inference
+          - delay_embedding
+          - dynamic_causal_modelling
+          - ecological_momentary_assessment
+      section_updates:
+    judge_rationale_short: "The proposal corrects the year (Durstewitz et al. 2021 is the correct publication year) and adds methods that are central to the paper's discussion (RNN inference, delay embedding, DCM, EMA). It does not alter the title, brain regions, or frameworks, and does not invent unsupported claims. These are factual corrections and additions consistent with the paper's content."
+    repaired_at: "2026-04-13T11:16:13.355383+00:00"
+  -
+    paper_id: fried2020_mental_health_complexity
+    proposal_provider: anthropic_api
+    proposal_model: claude-sonnet-4-6
+    proposal_decision: repair
+    judge_accept: true
+    judge_confidence: 4
+    proposal:
+      paper_id: fried2020_mental_health_complexity
+      decision: repair
+      rationale_short: "Keywords contain polluted word-fragment tokens ('systems','all','way','down','embracing','complexity','mental','health'); brain_regions and frameworks fields are empty but can be meaningfully populated from source; methods field incorrectly lists computational_modeling as a method of this editorial."
+      frontmatter:
+        methods:
+          - narrative_review
+        brain_regions: []
+        frameworks:
+          - complex_systems_theory
+          - network_analysis
+          - attractor_dynamics
+          - transdiagnostic_models
+        keywords:
+          - complex_systems_psychiatry
+          - psychopathology_networks
+          - attractor_dynamics_mental_health
+          - multifinality_equifinality
+          - transdiagnostic_resilience_factors
+          - childhood_adversity_developmental_psychopathology
+          - network_destabilisation_psychotherapy
+          - early_warning_signals_mental_health
+          - idiographic_computational_models
+          - biopsychosocial_systems
+          - systems_approach_mental_illness
+          - complexity_science_clinical_psychology
+      section_updates:
+    judge_rationale_short: "The proposal appropriately fills in empty frameworks with relevant ones (complex_systems_theory, network_analysis, attractor_dynamics, transdiagnostic_models) that are clearly central to this well-known paper by Fried (2020). Brain regions remain empty, which is correct since this is a conceptual/narrative review paper, not a neuroimaging study. The keywords are cleaned up and relevant to the paper's content (e.g., psychopathology networks, attractor dynamics, multifinality/equifinality, early warning signals). No unsupported claims are invented. The method 'narrative_review' is appropriate for this paper."
+    repaired_at: "2026-04-13T11:16:15.542154+00:00"
+  -
+    paper_id: howes2016_aberrant_salience_schizophrenia
+    proposal_provider: anthropic_api
+    proposal_model: claude-sonnet-4-6
+    proposal_decision: repair
+    judge_accept: true
+    judge_confidence: 4
+    proposal:
+      paper_id: howes2016_aberrant_salience_schizophrenia
+      decision: repair
+      rationale_short: "frameworks field is empty and methods list incorrectly includes electrophysiology (the paper is a narrative review that discusses but does not conduct electrophysiology or fMRI studies). Frameworks can be populated from clear source evidence. Methods should be corrected to reflect the review's actual methodology."
+      frontmatter:
+        methods:
+          - narrative_review
+          - pet_literature_synthesis
+          - fmri_literature_synthesis
+        frameworks:
+          - aberrant_salience_hypothesis
+          - predictive_coding
+          - incentive_salience_model
+      section_updates:
+    judge_rationale_short: "The proposal repairs the empty_frameworks issue by adding frameworks that are clearly relevant to a paper titled 'Dopamine and the aberrant salience hypothesis of schizophrenia.' The aberrant_salience_hypothesis, predictive_coding, and incentive_salience_model are standard frameworks discussed in such reviews. The methods (narrative_review, pet_literature_synthesis, fmri_literature_synthesis) are reasonable for a review paper synthesizing neuroimaging literature on dopamine in schizophrenia. No unsupported claims are invented, and no existing content is removed."
+    repaired_at: "2026-04-13T11:16:21.790299+00:00"
+  -
+    paper_id: howes2022_treatment_resistance_psychiatry
+    proposal_provider: anthropic_api
+    proposal_model: claude-sonnet-4-6
+    proposal_decision: repair
+    judge_accept: true
+    judge_confidence: 4
+    proposal:
+      paper_id: howes2022_treatment_resistance_psychiatry
+      decision: repair
+      rationale_short: "Frameworks field is empty and can be populated from paper content; brain_regions is overly narrow (only anterior_cingulate_cortex listed when paper covers multiple neurochemical systems); keywords contain noise words from title parsing. All section content is accurate and does not require updates."
+      frontmatter:
+        frameworks:
+          - three_neurobiological_models_of_treatment_resistance
+          - TRRIP_working_group_guidelines
+          - pseudo_resistance_framework
+          - primary_secondary_treatment_resistance_distinction
+          - precision_psychiatry_biomarkers
+        brain_regions:
+          - anterior_cingulate_cortex
+          - dopaminergic_pathways
+          - blood_brain_barrier
+        keywords:
+          - treatment_resistant_schizophrenia_trs
+          - treatment_resistant_depression_trd
+          - pseudo_resistance
+          - clozapine_monotherapy
+          - esketamine_nmda_antagonist
+          - dopamine_d2_receptor_occupancy
+          - glutamate_anterior_cingulate_treatment_resistance
+          - immune_dysregulation_c_reactive_protein_depression
+          - antidepressant_adherence_plasma_levels
+          - psychiatric_guideline_heterogeneity
+          - treatment_resistance_definition_operationalisation
+          - precision_psychiatry_biomarkers
+      section_updates:
+    judge_rationale_short: "The proposal fills the empty frameworks field with reasonable entries that align with the paper's known content about treatment resistance in psychiatry. The frameworks listed (TRRIP guidelines, pseudo-resistance, primary/secondary distinction, precision psychiatry biomarkers, three neurobiological models) are standard topics in treatment resistance literature consistent with the paper title and existing metadata. Brain regions additions (dopaminergic pathways, blood-brain barrier) are plausible given the paper covers treatment-resistant schizophrenia (dopamine) and pharmacokinetic factors (BBB). Keywords are appropriate and specific. No sections were modified. No unsupported claims appear to be invented."
+    repaired_at: "2026-04-13T11:16:28.136507+00:00"

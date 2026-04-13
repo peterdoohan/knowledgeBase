@@ -10,7 +10,12 @@ journal: "BMC Medicine"
 paper_type: review
 contribution_type: theoretical
 methods:
-  - computational_modeling
+  - narrative_review
+frameworks:
+  - complex_systems_theory
+  - network_analysis
+  - attractor_dynamics
+  - transdiagnostic_models
 keywords:
   - complex_systems_psychiatry
   - psychopathology_networks
@@ -24,14 +29,6 @@ keywords:
   - biopsychosocial_systems
   - systems_approach_mental_illness
   - complexity_science_clinical_psychology
-  - systems
-  - all
-  - way
-  - down
-  - embracing
-  - complexity
-  - mental
-  - health
 key_citations:
   - hayes2020_complex_systems_psychotherapy
 ---
